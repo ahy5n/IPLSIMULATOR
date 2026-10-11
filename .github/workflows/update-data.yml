@@ -1,0 +1,79 @@
+# Scheduled data update.
+# Every Monday (and on demand) this:
+#   1. checks Wikipedia for the next season's retentions page;
+#   2. if it exists, writes data/scenarios/ipl-<year>/retentions.json, so the app's IPL 2027 mode switches
+#      from projected to real retentions;
+#   3. rebuilds the existing scenarios from fresh sources (Wikipedia corrections, archived BCCI lists);
+#   4. runs the browser test suite headlessly, and only then commits and redeploys the site to GitHub Pages.
+name: Update auction data
+
+on:
+  schedule:
+    - cron: '30 5 * * 1'      # Mondays 05:30 UTC (11:00 IST)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install PDF text extraction (only needed when adding a new auction list)
+        run: sudo apt-get update && sudo apt-get install -y poppler-utils
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: New season retentions?
+        id: newseason
+        run: |
+          if YEAR=$(python3 tools/build_data.py --check-new); then
+            echo "year=$YEAR" >> "$GITHUB_OUTPUT"
+            python3 tools/build_data.py --retentions "$YEAR"
+          else
+            echo "No new retentions page yet."
+          fi
+
+      - name: Rebuild scenarios from fresh Wikipedia sources
+        # Auction-list PDFs never change after an auction, so only Wikipedia is refreshed. If the rebuild
+        # fails, build_data.py restores the previous sources, so nothing broken is committed.
+        run: python3 tools/build_data.py --fetch-wiki
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run the engine tests in a headless browser
+        run: |
+          npx --yes playwright@1.48.2 install --with-deps chromium
+          python3 tools/serve.py 8765 &
+          sleep 2
+          node tools/run_tests.mjs http://127.0.0.1:8765/tests/index.html
+
+      - name: Commit data changes
+        run: |
+          git config user.name "auction-data-bot"
+          git config user.email "auction-data-bot@users.noreply.github.com"
+          git add data tools/raw
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "Update auction data ${{ steps.newseason.outputs.year && format('(IPL {0} retentions)', steps.newseason.outputs.year) || '' }}"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - uses: actions/deploy-pages@v4

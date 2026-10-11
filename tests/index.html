@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Engine tests</title>
+<style>
+  body { font: 14px/1.5 ui-monospace, Menlo, monospace; margin: 16px; background: #fff; color: #111; }
+  .ok { color: #156b2f; } .bad { color: #b00020; font-weight: bold; }
+  pre { margin: 0 0 8px 24px; white-space: pre-wrap; }
+  small { color: #777; }
+</style>
+</head>
+<body>
+<div id="out">Running…</div>
+<script type="module">
+  import { run } from './harness.js';
+  const files = ['./auction.test.js', './match.test.js', './season.test.js', './dynasty.test.js', './systems.test.js'];
+  // ?only=systems runs just tests/systems.test.js
+  const only = new URLSearchParams(location.search).get('only');
+  for (const f of files.filter((x) => !only || x.includes(only))) {
+    try { await import(f); }
+    catch (e) { document.getElementById('out').insertAdjacentHTML('beforebegin', `<pre class="bad">Failed to load ${f}: ${e.message}</pre>`); }
+  }
+  run(document.getElementById('out'));
+</script>
+</body>
+</html>

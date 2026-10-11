@@ -1,0 +1,86 @@
+# Batting archetypes. Format: Name|style. Players not listed are balanced.
+#   anchor     builds the innings: fewer boundaries, much harder to dismiss, rotates strike
+#   aggressor  attacks from ball one: big in the powerplay, riskier
+#   slogger    all-out hitter: most boundaries, most dismissals (Vaibhav Sooryavanshi)
+#   finisher   at his best in overs 16-20
+#   spin       destroys spin bowling
+## Anchors
+Virat Kohli|anchor
+Shubman Gill|anchor
+KL Rahul|anchor
+Sai Sudharsan|anchor
+Ruturaj Gaikwad|anchor
+Kane Williamson|anchor
+Ajinkya Rahane|anchor
+Devon Conway|anchor
+Steve Smith|anchor
+Pathum Nissanka|anchor
+Mayank Agarwal|anchor
+Karun Nair|anchor
+Manish Pandey|anchor
+Daryl Mitchell|anchor
+## Aggressors
+Travis Head|aggressor
+Abhishek Sharma|aggressor
+Phil Salt|aggressor
+Yashasvi Jaiswal|aggressor
+Rohit Sharma|aggressor
+Jake Fraser-McGurk|aggressor
+Priyansh Arya|aggressor
+Prabhsimran Singh|aggressor
+Sunil Narine|aggressor
+Finn Allen|aggressor
+Quinton De Kock|aggressor
+Jos Buttler|aggressor
+Ishan Kishan|aggressor
+Ryan Rickelton|aggressor
+Mitchell Marsh|aggressor
+Faf Du Plessis|aggressor
+Will Jacks|aggressor
+Sanju Samson|aggressor
+Ayush Mhatre|aggressor
+Venkatesh Iyer|aggressor
+Jonny Bairstow|aggressor
+Rahmanullah Gurbaz|aggressor
+## Sloggers
+Vaibhav Sooryavanshi|slogger
+Andre Russell|slogger
+Romario Shepherd|slogger
+Tim David|slogger
+Rovman Powell|slogger
+Abdul Samad|slogger
+Aniket Verma|slogger
+Ashutosh Sharma|slogger
+Sherfane Rutherford|slogger
+Dewald Brevis|slogger
+Liam Livingstone|slogger
+Glenn Maxwell|slogger
+Nicholas Pooran|slogger
+Ramandeep Singh|slogger
+Marcus Stoinis|slogger
+Shimron Hetmyer|slogger
+## Finishers
+MS Dhoni|finisher
+Rinku Singh|finisher
+Hardik Pandya|finisher
+David Miller|finisher
+Rahul Tewatia|finisher
+Shahrukh Khan|finisher
+Shashank Singh|finisher
+Tristan Stubbs|finisher
+Jitesh Sharma|finisher
+Ravindra Jadeja|finisher
+Axar Patel|finisher
+Dhruv Jurel|finisher
+Sameer Rizvi|finisher
+Ayush Badoni|finisher
+## Spin hitters
+Suryakumar Yadav|spin
+Heinrich Klaasen|spin
+Shivam Dube|spin
+Rishabh Pant|spin
+Tilak Varma|spin
+Shreyas Iyer|spin
+Rajat Patidar|spin
+Nitish Rana|spin
+Glenn Phillips|spin

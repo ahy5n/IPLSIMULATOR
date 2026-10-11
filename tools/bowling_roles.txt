@@ -1,0 +1,49 @@
+# Bowling specialisms. Format: Name|role[,role]   roles: newball, death
+# New-ball specialists are better in the powerplay; death specialists in overs 16-20.
+# Captains plan around them: new-ball bowlers open, death bowlers keep overs back for the end.
+Jasprit Bumrah|newball,death
+Mitchell Starc|newball,death
+Arshdeep Singh|newball,death
+Jofra Archer|newball,death
+Kagiso Rabada|newball,death
+Trent Boult|newball
+Bhuvneshwar Kumar|newball
+Deepak Chahar|newball
+Mohammed Siraj|newball
+Josh Hazlewood|newball
+Mohammed Shami|newball
+Khaleel Ahmed|newball
+Marco Jansen|newball
+Mukesh Choudhary|newball
+Matt Henry|newball
+Akash Deep|newball
+Lungisani Ngidi|newball
+Fazalhaq Farooqi|newball
+Spencer Johnson|newball
+Jason Behrendorff|newball
+Reece Topley|newball
+Vaibhav Arora|newball
+Tushar Deshpande|newball
+Matheesha Pathirana|death
+T. Natarajan|death
+Harshal Patel|death
+Mustafizur Rahman|death
+Avesh Khan|death
+Sandeep Sharma|death
+Nathan Ellis|death
+Mukesh Kumar|death
+Prasidh Krishna|death
+Pat Cummins|death
+Andre Russell|death
+Yash Dayal|death
+Anrich Nortje|death
+Harshit Rana|death
+Yash Thakur|death
+Mohsin Khan|death
+Romario Shepherd|death
+Alzarri Joseph|death
+Naveen Ul Haq|death
+Akash Madhwal|death
+Chris Jordan|death
+Eshan Malinga|death
+Mohit Sharma|death

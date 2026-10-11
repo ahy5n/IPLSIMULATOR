@@ -1,0 +1,433 @@
+0|569|TATA IPL 2026 - AUCTION LIST - 9.12.25
+0|537|Reserve
+0|533|List Sr. 2025
+0|529|No. Set No. Set 2026 First Name Surname Country State Association DOB Age Specialism Test caps ODI caps T20 caps IPL 2025 Price Rs Surname
+0|527|IPL C/U/A
+0|525|Team
+0|521|Lakh
+0|511|1 1 BA1 Devon Conway New Zealand 08/07/1991 34 BATTER LHB 29 40 62 29 CSK 6 Capped 200 Conway
+0|503|2 1 BA1 Jake Fraser-McGurk Australia 11/04/2002 23 BATTER RHB 7 8 15 DC 6 Capped 200 Fraser-McGurk
+0|493|3 1 BA1 Cameron Green Australia 03/06/1999 26 BATTER RHB RIGHT ARM Fast 33 31 21 29 Capped 200 Green
+0|485|4 1 BA1 Sarfaraz Khan India MCA 22/10/1997 28 BATTER RHB RIGHT ARM Leg Spin 6 50 Capped 75 Khan
+0|477|5 1 BA1 David Miller South Africa 10/06/1989 36 BATTER LHB 178 130 141 LSG 11 Capped 200 Miller
+0|467|6 1 BA1 Prithvi Shaw India MACA 09/11/1999 26 BATTER RHB 5 6 1 79 Capped 75 Shaw
+0|459|7 2 AL1 Gus Atkinson England 19/01/1998 28 ALL-ROUNDER RHB RIGHT ARM Fast 14 11 4 0 Capped 200 Atkinson
+0|449|8 2 AL1 Wanindu Hasaranga Sri Lanka 29/07/1997 28 ALL-ROUNDER RHB RIGHT ARM Leg Spin 4 68 90 37 RR 11 Capped 200 Hasaranga
+0|441|9 2 AL1 Deepak Hooda India RCA 19/04/1995 30 ALL-ROUNDER RHB RIGHT ARM Off Spin 10 21 125 CSK 7 Capped 75 Hooda
+0|431|10 2 AL1 Venkatesh Iyer India MPCA 25/12/1994 31 ALL-ROUNDER LHB RIGHT ARM Medium 2 9 62 KKR 11 Capped 200 Iyer
+0|423|11 2 AL1 Liam Livingstone England 04/08/1993 32 ALL-ROUNDER RHB RIGHT ARM Leg Spin 1 39 60 49 RCB 10 Capped 200 Livingstone
+0|415|12 2 AL1 Wiaan Mulder South Africa 19/02/1998 28 ALL-ROUNDER RHB RIGHT ARM Fast Medium 24 30 11 1 SRH 1 Capped 100 Mulder
+0|405|13 2 AL1 Rachin Ravindra New Zealand 18/11/1999 26 ALL-ROUNDER LHB LEFT ARM Slow Orthodox 17 39 38 18 CSK 8 Capped 200 Ravindra
+0|397|14 3 WK1 Finn Allen New Zealand 22/04/1999 26 WICKETKEEPER RHB 22 52 0 Capped 200 Allen
+0|387|15 3 WK1 Jonny Bairstow England 26/09/1989 36 WICKETKEEPER RHB 100 107 80 52 MI 2 Capped 100 Bairstow
+0|379|16 3 WK1 K.S. Bharat India ACA 03/10/1993 32 WICKETKEEPER RHB 7 10 Capped 75 Bharat
+0|371|17 3 WK1 Quinton De Kock South Africa 17/12/1992 33 WICKETKEEPER LHB 54 161 96 115 KKR 8 Capped 100 De Kock
+0|361|18 3 WK1 Ben Duckett England 17/10/1994 31 WICKETKEEPER LHB 39 31 20 Capped 200 Duckett
+0|353|19 3 WK1 Rahmanullah Gurbaz Afghanistan 28/11/2001 24 WICKETKEEPER RHB 2 52 80 19 KKR 5 Capped 150 Gurbaz
+0|345|20 3 WK1 Jamie Smith England 12/07/2000 25 WICKETKEEPER RHB 16 19 5 Capped 200 Smith
+0|335|21 4 FA1 Gerald Coetzee South Africa 02/10/2000 25 BOWLER RHB RIGHT ARM Fast 4 14 13 14 GT 4 Capped 200 Coetzee
+0|327|22 4 FA1 Akash Deep India CAB 15/12/1996 29 BOWLER RHB RIGHT ARM Fast 10 14 LSG 6 Capped 100 Deep
+0|317|23 4 FA1 Jacob Duffy New Zealand 02/08/1994 31 BOWLER RHB RIGHT ARM Fast Medium 1 19 38 Capped 200 Duffy
+0|309|24 4 FA1 Fazalhaq Farooqi Afghanistan 22/09/2000 25 BOWLER RHB LEFT ARM Fast Medium 42 51 12 RR 5 Capped 100 Farooqi
+0|301|25 4 FA1 Matt Henry New Zealand 14/12/1991 34 BOWLER RHB RIGHT ARM Fast Medium 32 95 31 6 Capped 200 Henry
+0|291|26 4 FA1 Spencer Johnson Australia 16/12/1995 30 BOWLER LHB LEFT ARM Fast 5 8 9 KKR 4 Capped 150 Johnson
+0|283|27 4 FA1 Shivam Mavi India UPCA 26/11/1998 27 BOWLER RHB RIGHT ARM Fast Medium 6 32 Capped 75 Mavi
+0|275|28 4 FA1 Anrich Nortje South Africa 16/11/1993 32 BOWLER RHB RIGHT ARM Fast 19 22 42 48 KKR 2 Capped 200 Nortje
+0|265|29 4 FA1 Matheesha Pathirana Sri Lanka 18/12/2002 23 BOWLER RHB RIGHT ARM Fast 12 21 32 CSK 12 Capped 200 Pathirana
+0|257|30 5 SP1 Ravi Bishnoi India GUCA 05/09/2000 25 BOWLER RHB RIGHT ARM Leg Spin 1 42 77 LSG 11 Capped 200 Bishnoi
+0|247|31 5 SP1 Rahul Chahar India RCA 04/08/1999 26 BOWLER RHB RIGHT ARM Leg Spin 1 6 80 SRH 1 Capped 100 Chahar
+0|239|32 5 SP1 Akeal Hosein West Indies 25/04/1993 32 BOWLER LHB LEFT ARM Slow Orthodox 40 87 1 Capped 200 Hosein
+0|231|33 5 SP1 Mujeeb Rahman Afghanistan 28/03/2001 25 BOWLER RHB RIGHT ARM Off Spin 1 75 58 20 MI 1 Capped 200 Rahman
+0|221|34 5 SP1 Maheesh Theekshana Sri Lanka 01/08/2000 25 BOWLER RHB RIGHT ARM Off Spin 2 59 71 38 RR 11 Capped 200 Theekshana
+0|213|35 6 UBA1 Aarya Desai India GUCA 03/04/2003 23 BATTER LHB RIGHT ARM Off Spin 0 Uncapped 30 Desai
+0|203|36 6 UBA1 Yash Dhull India DDCA 11/11/2002 23 BATTER RHB RIGHT ARM Leg Spin 4 Uncapped 30 Dhull
+0|195|37 6 UBA1 Abhinav Manohar India KSCA 16/09/1994 31 BATTER RHB RIGHT ARM Leg Spin 26 SRH 8 Uncapped 30 Manohar
+0|185|38 6 UBA1 Anmolpreet Singh India PCA 28/03/1998 28 BATTER RHB RIGHT ARM Off Spin 9 Uncapped 30 Singh
+0|177|39 6 UBA1 Atharva Taide India VCA 26/04/2000 25 BATTER LHB LEFT ARM Slow Orthodox 10 SRH 1 Uncapped 30 Taide
+0|169|40 6 UBA1 Abhinav Tejrana India GCA 17/12/2000 25 BATTER LHB RIGHT ARM Off Spin Uncapped 30 Tejrana
+0|159|41 7 UAL1 Auqib Dar India JKCA 04/11/1996 29 ALL-ROUNDER RHB RIGHT ARM Fast Medium Uncapped 30 Dar
+0|151|42 7 UAL1 Rajvardhan Hangargekar India MACA 10/11/2002 23 ALL-ROUNDER RHB RIGHT ARM Fast 2 LSG 2 Uncapped 40 Hangargekar
+0|141|43 7 UAL1 Tanush Kotian India MCA 16/10/1998 27 ALL-ROUNDER RHB RIGHT ARM Off Spin 1 Uncapped 30 Kotian
+0|133|44 7 UAL1 Shivang Kumar India MPCA 26/05/2002 23 ALL-ROUNDER RHB LEFT ARM Slow Unorthodox Uncapped 30 Kumar
+0|125|45 7 UAL1 Mahipal Lomror India RCA 16/11/1999 26 ALL-ROUNDER LHB LEFT ARM Slow Orthodox 40 GT 0 Uncapped 50 Lomror
+0|115|46 7 UAL1 Kamlesh Nagarkoti India RCA 28/12/1999 26 ALL-ROUNDER RHB RIGHT ARM Fast 12 CSK 0 Uncapped 30 Nagarkoti
+0|107|47 7 UAL1 Vijay Shankar India TCA 26/01/1991 35 ALL-ROUNDER RHB RIGHT ARM Fast Medium 78 CSK 6 Uncapped 30 Shankar
+0|99|48 7 UAL1 Sanvir Singh India PCA 12/10/1996 29 ALL-ROUNDER RHB RIGHT ARM Fast 6 Uncapped 30 Singh
+0|89|49 7 UAL1 Edhen Tom India KCA 02/07/2005 20 ALL-ROUNDER RHB RIGHT ARM Fast Uncapped 30 Tom
+0|81|50 7 UAL1 Prashant Veer India UPCA 24/11/2005 20 ALL-ROUNDER LHB LEFT ARM Slow Orthodox Uncapped 30 Veer
+0|71|51 8 UWK1 Ruchit Ahir India SCA 28/10/2000 25 WICKETKEEPER RHB Uncapped 30 Ahir
+0|63|52 8 UWK1 Vansh Bedi India DDCA 23/12/2002 23 WICKETKEEPER RHB 0 CSK 0 Uncapped 30 Bedi
+0|27|1
+1|569|TATA IPL 2026 - AUCTION LIST - 9.12.25
+1|537|Reserve
+1|533|List Sr. 2025
+1|529|No. Set No. Set 2026 First Name Surname Country State Association DOB Age Specialism Test caps ODI caps T20 caps IPL 2025 Price Rs Surname
+1|527|IPL C/U/A
+1|525|Team
+1|521|Lakh
+1|511|53 8 UWK1 Mukul Choudhary India RCA 06/08/2004 21 WICKETKEEPER RHB Uncapped 30 Choudhary
+1|501|54 8 UWK1 Tushar Raheja India TNCA 07/02/2001 25 WICKETKEEPER LHB Uncapped 30 Raheja
+1|493|55 8 UWK1 Kartik Sharma India RCA 26/04/2006 19 WICKETKEEPER RHB Uncapped 30 Sharma
+1|485|56 8 UWK1 Tejasvi Singh India DDCA 18/04/2002 23 WICKETKEEPER RHB RIGHT ARM Off Spin Uncapped 30 Singh
+1|475|57 9 UFA1 Raj Limbani India BCA 02/02/2005 21 BOWLER LHB RIGHT ARM Fast Medium Uncapped 30 Limbani
+1|467|58 9 UFA1 Akash Madhwal India CAU 25/11/1993 32 BOWLER RHB RIGHT ARM Fast Medium 15 RR 3 Uncapped 30 Madhwal
+1|457|59 9 UFA1 Sushant Mishra India JSCA 23/12/2000 25 BOWLER LHB LEFT ARM Fast 0 Uncapped 30 Mishra
+1|449|60 9 UFA1 Ashok Sharma India RCA 17/06/2002 23 BOWLER RHB RIGHT ARM Fast 0 RR 0 Uncapped 30 Sharma
+1|441|61 9 UFA1 Simarjeet Singh India DDCA 17/01/1998 28 BOWLER RHB RIGHT ARM Fast 14 SRH 4 Uncapped 30 Singh
+1|431|62 9 UFA1 Naman Tiwari India UPCA 08/11/2005 20 BOWLER LHB LEFT ARM Fast Uncapped 30 Tiwari
+1|423|63 9 UFA1 Kartik Tyagi India UPCA 08/11/2000 25 BOWLER RHB RIGHT ARM Fast 20 Uncapped 30 Tyagi
+1|413|64 10 USP1 Yash Raj Punja India KSCA 26/01/2006 20 BOWLER RHB RIGHT ARM Leg Spin Uncapped 30 Punja
+1|405|65 10 USP1 Vignesh Puthur India KCA 02/03/2001 25 BOWLER RHB LEFT ARM Slow Unorthodox 5 MI 5 Uncapped 30 Puthur
+1|395|66 10 USP1 Karn Sharma India RSPB 23/10/1987 38 BOWLER LHB RIGHT ARM Leg Spin 90 MI 5 Uncapped 50 Sharma
+1|387|67 10 USP1 Shivam Shukla India MPCA 11/12/1995 30 BOWLER RHB RIGHT ARM Leg Spin Uncapped 30 Shukla
+1|379|68 10 USP1 Kumar Kartikeya Singh India MPCA 26/12/1997 28 BOWLER RHB LEFT ARM Slow Orthodox 16 RR 4 Uncapped 30 Singh
+1|369|69 10 USP1 Prashant Solanki India MACA 22/02/2000 26 BOWLER RHB RIGHT ARM Leg Spin 2 Uncapped 30 Solanki
+1|361|70 10 USP1 Wahidullah Zadran Afghanistan 15/11/2007 18 BOWLER RHB RIGHT ARM Off Spin Uncapped 30 Zadran
+1|351|71 11 BA2 Mayank Agarawal India KSCA 16/02/1991 35 BATTER RHB RIGHT ARM Off Spin 21 5 131 RCB 4 Capped 75 Agarawal
+1|343|72 11 BA2 Sediqullah Atal Afghanistan 12/08/2001 24 BATTER LHB 1 12 22 1 DC 1 Capped 75 Atal
+1|335|73 11 BA2 Ackeem Auguste West Indies 12/09/2003 22 BATTER LHB RIGHT ARM Leg Spin 4 9 Capped 75 Auguste
+1|325|74 11 BA2 Reeza Hendricks South Africa 14/08/1989 36 BATTER RHB RIGHT ARM Off Spin 38 87 Capped 100 Hendricks
+1|317|75 11 BA2 Pathum Nissanka Sri Lanka 18/05/1998 27 BATTER RHB 18 74 78 Capped 75 Nissanka
+1|309|76 11 BA2 Tim Robinson New Zealand 28/04/2002 23 BATTER RHB RIGHT ARM Medium 3 24 Capped 75 Robinson
+1|299|77 11 BA2 Steve Smith Australia 02/06/1989 36 BATTER RHB 120 170 67 103 Capped 200 Smith
+1|291|78 11 BA2 Rahul Tripathi India MACA 02/03/1991 35 BATTER RHB RIGHT ARM Medium 5 100 CSK 5 Capped 75 Tripathi
+1|283|79 12 AL2 Sean Abbott Australia 29/02/1992 34 ALL-ROUNDER RHB RIGHT ARM Fast Medium 29 28 3 Capped 200 Abbott
+1|273|80 12 AL2 Michael Bracewell New Zealand 14/02/1991 35 ALL-ROUNDER LHB RIGHT ARM Off Spin 9 40 47 5 Capped 200 Bracewell
+1|265|81 12 AL2 Ben Dwarshuis Australia 23/06/1994 31 ALL-ROUNDER LHB LEFT ARM Fast Medium 6 13 Capped 100 Dwarshuis
+1|257|82 12 AL2 Zak Foulkes New Zealand 05/06/2002 23 ALL-ROUNDER RHB RIGHT ARM Fast Medium 1 6 17 Capped 75 Foulkes
+1|247|83 12 AL2 Jason Holder West Indies 05/11/1991 34 ALL-ROUNDER RHB RIGHT ARM Fast 69 138 86 46 Capped 200 Holder
+1|239|84 12 AL2 Daryl Mitchell New Zealand 20/05/1991 34 ALL-ROUNDER RHB RIGHT ARM Medium 33 56 90 15 Capped 200 Mitchell
+1|231|85 12 AL2 Daniel Sams Australia 27/10/1992 33 ALL-ROUNDER RHB LEFT ARM Fast Medium 10 16 Capped 100 Sams
+1|221|86 12 AL2 Dasun Shanaka Sri Lanka 09/09/1991 34 ALL-ROUNDER RHB RIGHT ARM Fast 6 71 118 3 GT 0 Capped 75 Shanaka
+1|213|87 12 AL2 Matthew Short Australia 08/11/1995 30 ALL-ROUNDER RHB RIGHT ARM Off Spin 18 21 6 Capped 150 Short
+1|203|88 13 WK2 Tom Banton England 11/11/1998 27 WICKETKEEPER RHB 7 24 2 Capped 200 Banton
+1|195|89 13 WK2 Jordan Cox England 21/10/2000 25 WICKETKEEPER RHB 3 6 Capped 75 Cox
+1|187|90 13 WK2 Shai Hope West Indies 10/11/1993 32 WICKETKEEPER RHB 43 148 58 9 Capped 200 Hope
+1|177|91 13 WK2 Josh Inglis Australia 04/03/1995 31 WICKETKEEPER RHB 3 33 41 11 PBKS 11 Capped 200 Inglis
+1|169|92 13 WK2 Benjamin McDermott Australia 12/12/1994 31 WICKETKEEPER RHB 5 25 Capped 75 McDermott
+1|161|93 13 WK2 Kusal Mendis Sri Lanka 02/02/1995 31 WICKETKEEPER RHB 73 151 94 1 GT 1 Capped 75 Mendis
+1|151|94 13 WK2 Kusal Perera Sri Lanka 17/08/1990 35 WICKETKEEPER LHB 22 116 93 2 Capped 100 Perera
+1|143|95 13 WK2 Tim Seifert New Zealand 14/12/1994 31 WICKETKEEPER RHB 4 77 3 RCB 0 Capped 150 Seifert
+1|135|96 14 FA2 Kyle Jamieson New Zealand 30/12/1994 31 BOWLER RHB RIGHT ARM Fast 19 20 23 13 PBKS 4 Capped 200 Jamieson
+1|125|97 14 FA2 Saqib Mahmood England 25/02/1997 29 BOWLER RHB RIGHT ARM Fast 2 17 19 Capped 150 Mahmood
+1|117|98 14 FA2 Adam Milne New Zealand 13/04/1992 33 BOWLER RHB RIGHT ARM Fast 50 56 10 Capped 200 Milne
+1|109|99 14 FA2 Lungisani Ngidi South Africa 29/03/1996 30 BOWLER RHB RIGHT ARM Fast Medium 20 73 52 16 RCB 2 Capped 200 Ngidi
+1|99|100 14 FA2 William Orourke New Zealand 06/08/2001 24 BOWLER RHB RIGHT ARM Fast 11 17 7 3 LSG 3 Capped 200 Orourke
+1|91|101 14 FA2 Mustafizur Rahman Bangladesh 06/09/1995 30 BOWLER LHB LEFT ARM Fast Medium 15 116 124 60 DC 3 Capped 200 Rahman
+1|83|102 14 FA2 Chetan Sakariya India SCA 28/02/1998 28 BOWLER LHB LEFT ARM Medium 1 1 20 KKR 1 Capped 75 Sakariya
+1|73|103 14 FA2 Kuldeep Sen India MPCA 22/10/1996 29 BOWLER RHB RIGHT ARM Fast 1 12 PBKS 0 Capped 75 Sen
+1|65|104 14 FA2 Umesh Yadav India VCA 25/10/1987 38 BOWLER RHB RIGHT ARM Fast Medium 57 75 9 148 Capped 150 Yadav
+1|27|2
+2|569|TATA IPL 2026 - AUCTION LIST - 9.12.25
+2|537|Reserve
+2|533|List Sr. 2025
+2|529|No. Set No. Set 2026 First Name Surname Country State Association DOB Age Specialism Test caps ODI caps T20 caps IPL 2025 Price Rs Surname
+2|527|IPL C/U/A
+2|525|Team
+2|521|Lakh
+2|511|105 15 SP2 Qais Ahmad Afghanistan 15/08/2000 25 BOWLER RHB RIGHT ARM Leg Spin 2 3 12 Capped 75 Ahmad
+2|501|106 15 SP2 Rishad Hossain Bangladesh 15/07/2002 23 BOWLER RHB RIGHT ARM Leg Spin 14 54 Capped 75 Hossain
+2|493|107 15 SP2 Mohammad Waqar Salamkheil Afghanistan 02/10/2001 24 BOWLER RHB LEFT ARM Slow Unorthodox 1 Capped 100 Salamkheil
+2|485|108 15 SP2 Viyaskanth Vijayakanth Sri Lanka 05/12/2001 24 BOWLER RHB RIGHT ARM Leg Spin 2 3 Capped 75 Vijayakanth
+2|475|109 16 UBA2 Ankit Kumar India DDCA 02/01/2004 22 BATTER LHB Uncapped 30 Kumar
+2|467|110 16 UBA2 Rohan Kunnummal India KCA 10/05/1998 27 BATTER RHB RIGHT ARM Off Spin Uncapped 30 Kunnummal
+2|459|111 16 UBA2 Danish Malewar India VCA 08/10/2003 22 BATTER RHB RIGHT ARM Leg Spin Uncapped 30 Malewar
+2|449|112 16 UBA2 Pukhraj Mann India HPCA 07/06/2001 24 BATTER LHB RIGHT ARM Off Spin Uncapped 30 Mann
+2|441|113 16 UBA2 Salman Nizar India KCA 30/06/1997 28 BATTER LHB Uncapped 30 Nizar
+2|431|114 16 UBA2 Aman Rao Perala India HYCA 02/06/2004 21 BATTER RHB RIGHT ARM Off Spin Uncapped 30 Perala
+2|423|115 16 UBA2 Akshat Raghuwanshi India MPCA 15/09/2003 22 BATTER RHB Uncapped 30 Raghuwanshi
+2|415|116 16 UBA2 Manan Vohra India UTCA 18/07/1993 32 BATTER RHB 56 Uncapped 30 Vohra
+2|405|117 17 UAL2 Yuvraj Chaudhary India CAU 06/10/2001 24 ALL-ROUNDER LHB LEFT ARM Slow Orthodox 0 LSG 0 Uncapped 30 Chaudhary
+2|397|118 17 UAL2 Satvik Deswal India CAP 23/03/2007 19 ALL-ROUNDER RHB LEFT ARM Slow Unorthodox Uncapped 30 Deswal
+2|389|119 17 UAL2 Aman Khan India CAP 23/11/1996 29 ALL-ROUNDER RHB RIGHT ARM Fast Medium 12 Uncapped 30 Khan
+2|379|120 17 UAL2 Darshan Nalkande India VCA 04/10/1998 27 ALL-ROUNDER RHB RIGHT ARM Fast Medium 5 DC 0 Uncapped 30 Nalkande
+2|371|121 17 UAL2 Vicky Ostwal India MACA 01/09/2002 23 ALL-ROUNDER RHB LEFT ARM Slow Orthodox 0 Uncapped 30 Ostwal
+2|363|122 17 UAL2 Sairaj Patil India MCA 31/10/1996 29 ALL-ROUNDER RHB RIGHT ARM Fast Uncapped 30 Patil
+2|353|123 17 UAL2 Suyash Prabhudessai India GCA 06/12/1997 28 ALL-ROUNDER RHB RIGHT ARM Fast Medium 11 Uncapped 30 Prabhudessai
+2|345|124 17 UAL2 Mayank Rawat India DDCA 04/12/1999 26 ALL-ROUNDER RHB RIGHT ARM Off Spin Uncapped 30 Rawat
+2|337|125 17 UAL2 Harsh Tyagi India DDCA 23/12/1999 26 ALL-ROUNDER LHB LEFT ARM Slow Orthodox Uncapped 30 Tyagi
+2|327|126 17 UAL2 Mangesh Yadav India MPCA 10/10/2002 23 ALL-ROUNDER LHB LEFT ARM Fast Uncapped 30 Yadav
+2|319|127 18 UWK2 Salil Arora India PCA 07/11/2002 23 WICKETKEEPER RHB Uncapped 30 Arora
+2|311|128 18 UWK2 Ricky Bhui India ACA 29/09/1996 29 WICKETKEEPER RHB 4 Uncapped 30 Bhui
+2|301|129 18 UWK2 Rahul Buddhi India HYCA 20/09/1997 28 WICKETKEEPER LHB RIGHT ARM Leg Spin 0 Uncapped 30 Buddhi
+2|293|130 18 UWK2 Saurav Chuahan India GUCA 27/05/2000 25 WICKETKEEPER LHB RIGHT ARM Off Spin 3 Uncapped 30 Chuahan
+2|285|131 18 UWK2 Yashvardhan Dalal India HCA 20/07/2005 20 WICKETKEEPER RHB Uncapped 30 Dalal
+2|275|132 18 UWK2 Abhishek Pathak India MPCA 17/02/1997 29 WICKETKEEPER RHB Uncapped 30 Pathak
+2|267|133 18 UWK2 Kunal Rathore India RCA 09/10/2002 23 WICKETKEEPER LHB 1 RR 1 Uncapped 30 Rathore
+2|257|134 18 UWK2 Ravi Singh India RSPB 25/05/2001 24 WICKETKEEPER LHB Uncapped 30 Singh
+2|249|135 19 UFA2 K.M Asif India KCA 24/07/1993 32 BOWLER RHB RIGHT ARM Fast Medium 7 Uncapped 40 Asif
+2|241|136 19 UFA2 Sakib Hussain India BICA 14/12/2004 21 BOWLER RHB RIGHT ARM Fast 0 Uncapped 30 Hussain
+2|231|137 19 UFA2 Mohammad Izhar India BICA 01/01/2004 22 BOWLER RHB LEFT ARM Fast Medium Uncapped 30 Izhar
+2|223|138 19 UFA2 Vidwath Kaverappa India KSCA 25/02/1999 27 BOWLER RHB RIGHT ARM Fast 1 Uncapped 30 Kaverappa
+2|215|139 19 UFA2 Vijay Kumar India UPCA 24/12/2005 20 BOWLER RHB RIGHT ARM Fast Medium Uncapped 30 Kumar
+2|205|140 19 UFA2 Vidyadhar Patil India KSCA 05/09/2000 25 BOWLER RHB RIGHT ARM Fast Medium Uncapped 30 Patil
+2|197|141 19 UFA2 PV.Satyanarayana Raju India ACA 10/07/1999 26 BOWLER RHB RIGHT ARM Fast Medium 2 MI 2 Uncapped 30 Raju
+2|189|142 19 UFA2 Onkar Tarmale India MCA 22/08/2002 23 BOWLER RHB RIGHT ARM Fast Uncapped 30 Tarmale
+2|179|143 19 UFA2 Prithviraj Yarra India ACA 20/02/1998 28 BOWLER LHB LEFT ARM Fast 2 Uncapped 30 Yarra
+2|171|144 20 USP2 Shubham Agrawal India CSCSCA 21/11/1993 32 BOWLER RHB RIGHT ARM Leg Spin Uncapped 40 Agrawal
+2|163|145 20 USP2 Murugan Ashwin India JKCA 08/09/1990 35 BOWLER RHB RIGHT ARM Leg Spin 44 Uncapped 30 Ashwin
+2|153|146 20 USP2 Tejas Baroka India DDCA 01/02/1996 30 BOWLER RHB RIGHT ARM Leg Spin 1 Uncapped 30 Baroka
+2|145|147 20 USP2 K.C. Cariappa India CAM 13/04/1994 31 BOWLER RHB RIGHT ARM Leg Spin 11 Uncapped 30 Cariappa
+2|137|148 20 USP2 Kartik Chadha India PCA 08/01/2004 22 BOWLER LHB RIGHT ARM Leg Spin Uncapped 30 Chadha
+2|127|149 20 USP2 Pravin Dubey India KSCA 01/07/1993 32 BOWLER RHB RIGHT ARM Leg Spin 5 PBKS 1 Uncapped 30 Dubey
+2|119|150 20 USP2 Mohit Rathee India SSCB 13/01/1999 27 BOWLER RHB RIGHT ARM Leg Spin 1 RCB 0 Uncapped 30 Rathee
+2|111|151 20 USP2 Himanshu Sharma India CAP 06/06/1998 27 BOWLER RHB RIGHT ARM Leg Spin 2 Uncapped 30 Sharma
+2|101|152 20 USP2 Bailapudi Yeswanth India ACA 19/03/2005 21 BOWLER RHB RIGHT ARM Leg Spin Uncapped 30 Yeswanth
+2|93|153 21 AL3 Rehan Ahmed England 13/08/2004 21 ALL-ROUNDER RHB RIGHT ARM Leg Spin 5 6 12 Capped 75 Ahmed
+2|83|154 21 AL3 Cooper Connolly Australia 22/08/2003 22 ALL-ROUNDER LHB LEFT ARM Slow Orthodox 1 8 6 Capped 200 Connolly
+2|75|155 21 AL3 Tom Curran England 12/03/1995 31 ALL-ROUNDER RHB RIGHT ARM Fast 2 28 30 13 Capped 200 Curran
+2|67|156 21 AL3 Bevon-John Jacobs New Zealand 06/05/2002 23 ALL-ROUNDER RHB RIGHT ARM Medium 4 0 MI 0 Capped 75 Jacobs
+2|27|3
+3|569|TATA IPL 2026 - AUCTION LIST - 9.12.25
+3|537|Reserve
+3|533|List Sr. 2025
+3|529|No. Set No. Set 2026 First Name Surname Country State Association DOB Age Specialism Test caps ODI caps T20 caps IPL 2025 Price Rs Surname
+3|527|IPL C/U/A
+3|525|Team
+3|521|Lakh
+3|511|157 21 AL3 Daniel Lawrence England 12/07/1997 28 ALL-ROUNDER RHB RIGHT ARM Off Spin 14 Capped 200 Lawrence
+3|501|158 21 AL3 George Linde South Africa 04/12/1991 34 ALL-ROUNDER LHB LEFT ARM Slow Orthodox 3 4 25 Capped 100 Linde
+3|493|159 21 AL3 Gulbadin Naib Afghanistan 04/06/1991 34 ALL-ROUNDER RHB RIGHT ARM Medium 89 78 Capped 100 Naib
+3|485|160 21 AL3 William Sutherland Australia 27/10/1999 26 ALL-ROUNDER RHB RIGHT ARM Fast 2 Capped 100 Sutherland
+3|475|161 21 AL3 Beau Webster Australia 01/12/1993 32 ALL-ROUNDER RHB RIGHT ARM Fast Medium 7 Capped 125 Webster
+3|467|162 22 FA3 Taskin Ahmed Bangladesh 03/04/1995 31 BOWLER LHB RIGHT ARM Fast 17 83 86 Capped 75 Ahmed
+3|459|163 22 FA3 Richard Gleeson England 02/12/1987 38 BOWLER RHB RIGHT ARM Fast 6 3 MI 1 Capped 75 Gleeson
+3|449|164 22 FA3 Alzarri Joseph West Indies 20/11/1996 29 BOWLER RHB RIGHT ARM Fast 40 81 45 22 Capped 200 Joseph
+3|441|165 22 FA3 Shamar Joseph West Indies 31/08/1999 26 BOWLER LHB RIGHT ARM Fast 11 6 12 1 LSG 1 Capped 75 Joseph
+3|431|166 22 FA3 Riley Meredith Australia 21/06/1996 29 BOWLER RHB RIGHT ARM Fast 1 6 18 Capped 150 Meredith
+3|423|167 22 FA3 Jhye Richardson Australia 20/09/1996 29 BOWLER RHB RIGHT ARM Fast 3 15 18 4 Capped 150 Richardson
+3|415|168 22 FA3 Navdeep Saini India DDCA 23/11/1992 33 BOWLER RHB RIGHT ARM Fast 2 8 11 32 Capped 75 Saini
+3|405|169 22 FA3 Naveen Ul Haq Afghanistan 23/09/1999 26 BOWLER RHB RIGHT ARM Medium 15 48 18 Capped 200 Ul Haq
+3|397|170 22 FA3 Luke Wood England 02/08/1995 30 BOWLER LHB LEFT ARM Fast 3 14 2 Capped 75 Wood
+3|389|171 23 UBA3 Kunal Chandela India CAU 07/07/1994 31 BATTER RHB Uncapped 30 Chandela
+3|379|172 23 UBA3 Ayush Doseja India DDCA 30/08/2002 23 BATTER LHB RIGHT ARM Off Spin Uncapped 30 Doseja
+3|371|173 23 UBA3 Qamran Iqbal India JKCA 17/10/2001 24 BATTER RHB RIGHT ARM Leg Spin Uncapped 30 Iqbal
+3|363|174 23 UBA3 M.Dheeraj Kumar India ACA 04/09/1999 26 BATTER RHB RIGHT ARM Off Spin Uncapped 30 Kumar
+3|353|175 23 UBA3 Bhanu Pania India BCA 04/09/1996 29 BATTER RHB Uncapped 30 Pania
+3|345|176 23 UBA3 Sahil Parakh India MACA 07/06/2007 18 BATTER LHB RIGHT ARM Off Spin Uncapped 30 Parakh
+3|337|177 23 UBA3 Arsh Kabir Ranga India HCA 13/11/2004 21 BATTER LHB RIGHT ARM Off Spin Uncapped 30 Ranga
+3|327|178 23 UBA3 Adarsh Singh India UPCA 03/12/2005 20 BATTER LHB RIGHT ARM Off Spin Uncapped 30 Singh
+3|319|179 24 UAL3 Manoj Bhandage India KSCA 05/10/1998 27 ALL-ROUNDER LHB RIGHT ARM Fast Medium 1 RCB 1 Uncapped 30 Bhandage
+3|311|180 24 UAL3 Mayank Dagar India HPCA 11/11/1996 29 ALL-ROUNDER RHB LEFT ARM Slow Orthodox 8 Uncapped 30 Dagar
+3|301|181 24 UAL3 Raghav Goyal India CAP 20/06/2001 24 ALL-ROUNDER LHB LEFT ARM Slow Unorthodox 1 Uncapped 30 Goyal
+3|293|182 24 UAL3 Manvanth Kumar India KSCA 11/01/2004 22 ALL-ROUNDER LHB RIGHT ARM Fast Medium 0 DC 0 Uncapped 30 Kumar
+3|285|183 24 UAL3 Abid Mushtaq India JKCA 17/01/1997 29 ALL-ROUNDER LHB LEFT ARM Slow Orthodox 0 Uncapped 30 Mushtaq
+3|275|184 24 UAL3 Jalaj Saxena India MACA 15/12/1986 39 ALL-ROUNDER RHB RIGHT ARM Off Spin 1 Uncapped 40 Saxena
+3|267|185 24 UAL3 Atit Sheth India BCA 03/02/1996 30 ALL-ROUNDER RHB RIGHT ARM Fast Uncapped 30 Sheth
+3|257|186 24 UAL3 Hritik Shokeen India DDCA 14/08/2000 25 ALL-ROUNDER RHB RIGHT ARM Off Spin 13 Uncapped 30 Shokeen
+3|249|187 24 UAL3 Jagadeesha Suchith India CAU 16/01/1994 32 ALL-ROUNDER LHB LEFT ARM Slow Orthodox 22 Uncapped 30 Suchith
+3|241|188 24 UAL3 Tanay Thyagarajann India HYCA 15/11/1995 30 ALL-ROUNDER LHB LEFT ARM Slow Orthodox 0 Uncapped 30 Thyagarajann
+3|231|189 25 UWK3 Joe Clarke England 26/05/1996 29 WICKETKEEPER RHB Uncapped 50 Clarke
+3|223|190 25 UWK3 Connor Esterhuizen South Africa 31/05/2001 24 WICKETKEEPER RHB RIGHT ARM Off Spin Uncapped 30 Esterhuizen
+3|215|191 25 UWK3 Ajitesh Guruswamy India TNCA 26/09/2002 23 WICKETKEEPER RHB Uncapped 30 Guruswamy
+3|205|192 25 UWK3 Siddharth Joon India DDCA 11/08/2006 19 WICKETKEEPER LHB Uncapped 30 Joon
+3|197|193 25 UWK3 Tom Moores England 04/09/1996 29 WICKETKEEPER LHB Uncapped 40 Moores
+3|189|194 25 UWK3 Bipin Saurabh India BICA 20/11/1999 26 WICKETKEEPER RHB Uncapped 30 Saurabh
+3|179|195 25 UWK3 Vishnu Solanki India BCA 15/10/1992 33 WICKETKEEPER RHB Uncapped 30 Solanki
+3|171|196 25 UWK3 Hardik Tamore India MCA 20/10/1997 28 WICKETKEEPER RHB RIGHT ARM Off Spin Uncapped 30 Tamore
+3|163|197 26 UFA3 Sayan Ghosh India CAB 16/09/1992 33 BOWLER RHB RIGHT ARM Fast Medium 0 Uncapped 30 Ghosh
+3|153|198 26 UFA3 Money Grewal India DDCA 04/10/2000 25 BOWLER RHB RIGHT ARM Fast Uncapped 30 Grewal
+3|145|199 26 UFA3 Arpit Guleria India HPCA 26/04/1997 28 BOWLER RHB RIGHT ARM Fast Medium 0 Uncapped 30 Guleria
+3|137|200 26 UFA3 Sunil Kumar India UPCA 15/09/1997 28 BOWLER LHB LEFT ARM Fast Medium Uncapped 30 Kumar
+3|127|201 26 UFA3 Tristan Luus South Africa 26/06/2005 20 BOWLER RHB RIGHT ARM Fast Uncapped 30 Luus
+3|119|202 26 UFA3 Divesh Sharma India HPCA 20/04/2001 24 BOWLER RHB RIGHT ARM Fast Uncapped 30 Sharma
+3|111|203 26 UFA3 Abhilash Shetty India KSCA 06/06/1998 27 BOWLER LHB LEFT ARM Fast Uncapped 30 Shetty
+3|101|204 26 UFA3 Irfan Umair India MCA 27/07/1996 29 BOWLER LHB LEFT ARM Fast Medium Uncapped 30 Umair
+3|93|205 26 UFA3 Kuldip Yadav India DDCA 15/10/1996 29 BOWLER LHB LEFT ARM Fast Medium 3 Uncapped 30 Yadav
+3|83|206 27 USP3 Manan Bhardwaj India DDCA 15/12/2003 22 BOWLER RHB LEFT ARM Slow Orthodox Uncapped 30 Bhardwaj
+3|75|207 27 USP3 Shreyas Chavan India MACA 01/09/2003 22 BOWLER RHB RIGHT ARM Leg Spin Uncapped 30 Chavan
+3|67|208 27 USP3 Parikshit Dhanak India MCA 30/11/2002 23 BOWLER RHB RIGHT ARM Leg Spin Uncapped 30 Dhanak
+3|27|4
+4|569|TATA IPL 2026 - AUCTION LIST - 9.12.25
+4|537|Reserve
+4|533|List Sr. 2025
+4|529|No. Set No. Set 2026 First Name Surname Country State Association DOB Age Specialism Test caps ODI caps T20 caps IPL 2025 Price Rs Surname
+4|527|IPL C/U/A
+4|525|Team
+4|521|Lakh
+4|511|209 27 USP3 Chintal Gandhi India BCA 25/08/1994 31 BOWLER LHB RIGHT ARM Leg Spin Uncapped 30 Gandhi
+4|501|210 27 USP3 Dharmendrasinh Jadeja India SCA 04/08/1990 35 BOWLER LHB LEFT ARM Slow Orthodox Uncapped 30 Jadeja
+4|493|211 27 USP3 Amit Kumar India JSCA 02/11/2002 23 BOWLER RHB RIGHT ARM Leg Spin Uncapped 30 Kumar
+4|485|212 27 USP3 Vishal Nishad India UPCA 01/04/2005 21 BOWLER RHB RIGHT ARM Leg Spin Uncapped 30 Nishad
+4|475|213 27 USP3 Saumy Pandey India MPCA 04/11/2004 21 BOWLER LHB LEFT ARM Slow Orthodox Uncapped 30 Pandey
+4|467|214 27 USP3 Jhathavedh Subramanyan India TNCA 16/09/1999 26 BOWLER RHB RIGHT ARM Leg Spin 0 Uncapped 30 Subramanyan
+4|459|215 28 AL4 Muhammad Abbas New Zealand 29/11/2003 22 ALL-ROUNDER RHB LEFT ARM Fast Medium 3 Capped 75 Abbas
+4|449|216 28 AL4 Charith Asalanka Sri Lanka 29/06/1997 28 ALL-ROUNDER LHB RIGHT ARM Off Spin 3 80 70 0 MI 0 Capped 100 Asalanka
+4|441|217 28 AL4 Roston Chase West Indies 22/03/1992 34 ALL-ROUNDER RHB RIGHT ARM Off Spin 54 69 49 Capped 125 Chase
+4|431|218 28 AL4 Liam Dawson England 01/03/1990 36 ALL-ROUNDER RHB LEFT ARM Slow Orthodox 4 6 21 Capped 200 Dawson
+4|423|219 28 AL4 George Garton England 15/04/1997 28 ALL-ROUNDER LHB LEFT ARM Fast 1 5 Capped 75 Garton
+4|415|220 28 AL4 Kyle Mayers West Indies 08/09/1992 33 ALL-ROUNDER LHB RIGHT ARM Fast Medium 18 28 41 13 Capped 125 Mayers
+4|405|221 28 AL4 Dwaine Pretorius South Africa 29/03/1989 37 ALL-ROUNDER RHB RIGHT ARM Fast Medium 3 27 30 7 Capped 100 Pretorius
+4|397|222 28 AL4 Nathan Smith New Zealand 15/07/1998 27 ALL-ROUNDER RHB RIGHT ARM Fast Medium 3 14 Capped 75 Smith
+4|389|223 28 AL4 Dunith Wellalage Sri Lanka 09/01/2003 23 ALL-ROUNDER LHB LEFT ARM Slow Orthodox 1 31 6 Capped 75 Wellalage
+4|379|224 29 FA4 Jason Behrendorff Australia 20/04/1990 35 BOWLER RHB LEFT ARM Fast Medium 12 17 17 Capped 150 Behrendorff
+4|371|225 29 FA4 Tanzim Hasan Sakib Bangladesh 20/10/2002 23 BOWLER RHB RIGHT ARM Fast Medium 1 15 39 Capped 75 Hasan Sakib
+4|363|226 29 FA4 Matthew Potts England 29/10/1998 27 BOWLER RHB RIGHT ARM Fast Medium 10 11 1 Capped 75 Potts
+4|353|227 29 FA4 Nahid Rana Bangladesh 25/10/2002 23 BOWLER RHB RIGHT ARM Fast 10 5 1 Capped 75 Rana
+4|345|228 29 FA4 Olly Stone England 09/10/1993 32 BOWLER RHB RIGHT ARM Fast 5 10 1 Capped 125 Stone
+4|337|229 29 FA4 Joshua Tongue England 15/11/1997 28 BOWLER RHB RIGHT ARM Fast 6 Capped 100 Tongue
+4|327|230 29 FA4 Sandeep Warrier India TNCA 04/04/1991 35 BOWLER RHB RIGHT ARM Fast 10 Capped 75 Warrier
+4|319|231 30 UBA4 Sachin Dhas India MACA 03/02/2005 21 BATTER RHB RIGHT ARM Off Spin Uncapped 30 Dhas
+4|311|232 30 UBA4 Miles Hammond England 11/01/1996 30 BATTER LHB RIGHT ARM Off Spin Uncapped 30 Hammond
+4|301|233 30 UBA4 Ahammed Imran India KCA 22/05/2006 19 BATTER LHB RIGHT ARM Off Spin Uncapped 30 Imran
+4|293|234 30 UBA4 Vishvarajsinh Jadeja India SCA 19/07/1998 27 BATTER RHB RIGHT ARM Off Spin Uncapped 30 Jadeja
+4|285|235 30 UBA4 Ayaz Khan India MCA 10/09/2002 23 BATTER LHB LEFT ARM Slow Orthodox Uncapped 30 Khan
+4|275|236 30 UBA4 Daniel Lategan England 25/05/2006 19 BATTER LHB RIGHT ARM Off Spin Uncapped 30 Lategan
+4|267|237 30 UBA4 Siddhant Rana India SCA 18/02/2001 25 BATTER RHB RIGHT ARM Off Spin Uncapped 30 Rana
+4|257|238 30 UBA4 Aaron Varghese India HYCA 01/10/2006 19 BATTER RHB RIGHT ARM Off Spin Uncapped 30 Varghese
+4|249|239 31 UAL4 Atharva Ankolekar India MCA 26/09/2000 25 ALL-ROUNDER LHB LEFT ARM Slow Orthodox Uncapped 30 Ankolekar
+4|241|240 31 UAL4 Abdul Bazith India KCA 09/10/1998 27 ALL-ROUNDER RHB RIGHT ARM Off Spin 1 Uncapped 30 Bazith
+4|231|241 31 UAL4 Karan Lal India CAB 19/10/2000 25 ALL-ROUNDER RHB RIGHT ARM Off Spin Uncapped 30 Lal
+4|223|242 31 UAL4 Shams Mulani India MCA 13/03/1997 29 ALL-ROUNDER LHB LEFT ARM Slow Orthodox 2 Uncapped 30 Mulani
+4|215|243 31 UAL4 Ripal Patel India GUCA 28/09/1995 30 ALL-ROUNDER RHB RIGHT ARM Fast Medium 9 Uncapped 30 Patel
+4|205|244 31 UAL4 Prince Rai India PCA 05/05/1999 26 ALL-ROUNDER RHB RIGHT ARM Leg Spin 0 Uncapped 30 Rai
+4|197|245 31 UAL4 Vivrant Sharma India JKCA 30/10/1999 26 ALL-ROUNDER LHB RIGHT ARM Leg Spin 2 Uncapped 30 Sharma
+4|189|246 31 UAL4 Utkarsh Singh India JSCA 07/05/1998 27 ALL-ROUNDER LHB RIGHT ARM Off Spin 0 Uncapped 30 Singh
+4|179|247 31 UAL4 Ayush Vartak India MCA 29/10/2004 21 ALL-ROUNDER RHB RIGHT ARM Fast Medium Uncapped 30 Vartak
+4|171|248 31 UAL4 Sanjay Yadav India TNCA 10/05/1995 30 ALL-ROUNDER LHB LEFT ARM Slow Orthodox 1 Uncapped 30 Yadav
+4|163|249 32 UFA4 Sayed Irfan Aftab India CAB 20/11/2003 22 BOWLER RHB RIGHT ARM Fast Uncapped 30 Aftab
+4|153|250 32 UFA4 Esakkimuthu Ayyakutti India TNCA 11/02/2002 24 BOWLER RHB RIGHT ARM Fast Medium Uncapped 30 Ayyakutti
+4|145|251 32 UFA4 Praful Hinge India VCA 18/01/2002 24 BOWLER RHB RIGHT ARM Fast Uncapped 30 Hinge
+4|137|252 32 UFA4 Pankaj Jaswal India DDCA 20/09/1995 30 BOWLER RHB RIGHT ARM Fast Medium 0 Uncapped 30 Jaswal
+4|127|253 32 UFA4 Kulwant Khejroliya India MPCA 13/03/1992 34 BOWLER LHB LEFT ARM Fast Medium 8 GT 1 Uncapped 30 Khejroliya
+4|119|254 32 UFA4 Ravi Kumar India CAB 29/10/2003 22 BOWLER LHB LEFT ARM Medium Uncapped 30 Kumar
+4|111|255 32 UFA4 Rajan Kumar India CAU 08/07/1996 29 BOWLER LHB LEFT ARM Fast Uncapped 30 Kumar
+4|101|256 32 UFA4 Safvan Patel India BCA 03/10/1998 27 BOWLER RHB LEFT ARM Fast Medium Uncapped 30 Patel
+4|93|257 32 UFA4 Ishan Porel India CAB 05/09/1998 27 BOWLER RHB RIGHT ARM Fast Medium 1 Uncapped 30 Porel
+4|83|258 33 USP4 Purav Agarwal India MECA 30/08/2003 22 BOWLER RHB RIGHT ARM Off Spin Uncapped 30 Agarwal
+4|75|259 33 USP4 Jikku Bright India KCA 16/01/1997 29 BOWLER RHB RIGHT ARM Off Spin Uncapped 30 Bright
+4|67|260 33 USP4 Yash Dicholkar India MCA 15/07/1996 29 BOWLER RHB LEFT ARM Slow Orthodox Uncapped 30 Dicholkar
+4|27|5
+5|569|TATA IPL 2026 - AUCTION LIST - 9.12.25
+5|537|Reserve
+5|533|List Sr. 2025
+5|529|No. Set No. Set 2026 First Name Surname Country State Association DOB Age Specialism Test caps ODI caps T20 caps IPL 2025 Price Rs Surname
+5|527|IPL C/U/A
+5|525|Team
+5|521|Lakh
+5|511|261 33 USP4 Arab Gul Afghanistan 01/09/2005 20 BOWLER RHB RIGHT ARM Leg Spin Uncapped 40 Gul
+5|501|262 33 USP4 Rakibul Hasan Bangladesh 09/09/2002 23 BOWLER LHB LEFT ARM Slow Orthodox Uncapped 30 Hasan
+5|493|263 33 USP4 Traveen Mathew Sri Lanka 14/06/2004 21 BOWLER RHB RIGHT ARM Off Spin Uncapped 30 Mathew
+5|485|264 33 USP4 Naman Pushpak India MCA 18/12/2006 19 BOWLER RHB RIGHT ARM Leg Spin Uncapped 30 Pushpak
+5|475|265 33 USP4 Izaz Sawariya India RCA 04/07/2005 20 BOWLER RHB RIGHT ARM Leg Spin Uncapped 30 Sawariya
+5|467|266 33 USP4 Roshan Wagshare India MACA 07/09/2003 22 BOWLER RHB LEFT ARM Slow Orthodox Uncapped 30 Wagshare
+5|459|267 34 FA5 Wesley Agar Australia 05/02/1997 29 BOWLER RHB RIGHT ARM Fast 2 Capped 75 Agar
+5|449|268 34 FA5 Binura Fernando Sri Lanka 12/07/1995 30 BOWLER RHB LEFT ARM Fast Medium 4 25 Capped 75 Fernando
+5|441|269 34 FA5 Md Shoriful Islam Bangladesh 03/06/2001 24 BOWLER LHB LEFT ARM Fast Medium 12 40 58 Capped 75 Islam
+5|431|270 34 FA5 Joshua Little Ireland 01/11/1999 26 BOWLER RHB LEFT ARM Fast Medium 42 74 11 Capped 75 Little
+5|423|271 34 FA5 Obed McCoy West Indies 04/01/1997 29 BOWLER LHB LEFT ARM Fast 2 43 8 Capped 75 McCoy
+5|415|272 34 FA5 Billy Stanlake Australia 04/11/1994 31 BOWLER RHB RIGHT ARM Fast 7 19 6 Capped 75 Stanlake
+5|405|273 35 UAL5 R.S Ambrish India TNCA 28/05/2007 18 ALL-ROUNDER LHB RIGHT ARM Fast Medium Uncapped 30 Ambrish
+5|397|274 35 UAL5 Nikhil Chaudhary Australia 04/05/1996 29 ALL-ROUNDER RHB RIGHT ARM Leg Spin Uncapped 40 Chaudhary
+5|389|275 35 UAL5 Krains Fuletra India SCA 19/06/2004 21 ALL-ROUNDER RHB LEFT ARM Slow Unorthodox Uncapped 30 Fuletra
+5|379|276 35 UAL5 Macneil Noronha India KSCA 23/09/2001 24 ALL-ROUNDER RHB RIGHT ARM Off Spin Uncapped 30 Noronha
+5|371|277 35 UAL5 R Rajkumar India TNCA 21/09/1993 32 ALL-ROUNDER RHB RIGHT ARM Fast Medium Uncapped 30 Rajkumar
+5|363|278 35 UAL5 Ninad Rathva India BCA 10/03/1999 27 ALL-ROUNDER LHB LEFT ARM Slow Orthodox Uncapped 30 Rathva
+5|353|279 35 UAL5 Sunny Sandhu India TNCA 15/10/2003 22 ALL-ROUNDER RHB RIGHT ARM Fast Medium Uncapped 30 Sandhu
+5|345|280 35 UAL5 Shivalik Sharma India BCA 28/11/1998 27 ALL-ROUNDER LHB RIGHT ARM Leg Spin Uncapped 30 Sharma
+5|337|281 35 UAL5 Siddharth Yadav India UPCA 13/08/2003 22 ALL-ROUNDER LHB RIGHT ARM Fast Medium Uncapped 30 Yadav
+5|327|282 35 UAL5 R.Sonu Yadav India TNCA 11/11/1999 26 ALL-ROUNDER RHB RIGHT ARM Fast Medium Uncapped 30 Yadav
+5|319|283 36 UFA5 Waseem Khanday India JKCA 20/01/2000 26 BOWLER RHB RIGHT ARM Fast Uncapped 30 Khanday
+5|311|284 36 UFA5 Atif Mushtaq India JKCA 20/03/2003 23 BOWLER LHB RIGHT ARM Fast Medium Uncapped 30 Mushtaq
+5|301|285 36 UFA5 Atal Rai India RSPB 05/08/1999 26 BOWLER RHB RIGHT ARM Fast Uncapped 30 Rai
+5|293|286 36 UFA5 C.Rakshann Readdi India HYCA 29/09/2000 25 BOWLER RHB RIGHT ARM Fast Uncapped 30 Readdi
+5|285|287 36 UFA5 Manish Reddy India HYCA 07/01/1999 27 BOWLER RHB RIGHT ARM Fast Uncapped 30 Reddy
+5|275|288 36 UFA5 Nishanth Saranu India HYCA 03/03/2005 21 BOWLER RHB RIGHT ARM Fast Medium Uncapped 30 Saranu
+5|267|289 36 UFA5 Deependra Singh India RCA 15/08/2005 20 BOWLER RHB RIGHT ARM Fast Medium Uncapped 30 Singh
+5|257|290 36 UFA5 Rajat Verma India HPCA 25/12/1997 28 BOWLER RHB RIGHT ARM Fast Medium Uncapped 30 Verma
+5|249|291 36 UFA5 Rohit Yadav India DDCA 04/12/1999 26 BOWLER RHB RIGHT ARM Fast Uncapped 30 Yadav
+5|241|292 37 UAL6 Emanjot Chahal India PCA 17/08/2004 21 ALL-ROUNDER RHB LEFT ARM Slow Orthodox Uncapped 30 Chahal
+5|231|293 37 UAL6 Shubhang Hegde India KSCA 30/03/2001 25 ALL-ROUNDER LHB LEFT ARM Slow Orthodox Uncapped 30 Hegde
+5|223|294 37 UAL6 Bal Krishna India JSCA 11/12/1998 27 ALL-ROUNDER RHB RIGHT ARM Fast Medium Uncapped 30 Krishna
+5|215|295 37 UAL6 Vihaan Malhotra India PCA 01/01/2007 19 ALL-ROUNDER LHB RIGHT ARM Off Spin Uncapped 30 Malhotra
+5|205|296 37 UAL6 Khilan Patel India GUCA 26/11/2006 19 ALL-ROUNDER LHB LEFT ARM Slow Orthodox Uncapped 30 Patel
+5|197|297 37 UAL6 Delano Potgieter South Africa 05/08/1996 29 ALL-ROUNDER LHB RIGHT ARM Medium Uncapped 30 Potgieter
+5|189|298 37 UAL6 Hardik Raj India KSCA 10/03/2006 20 ALL-ROUNDER LHB LEFT ARM Slow Orthodox Uncapped 30 Raj
+5|179|299 37 UAL6 Sarthak Ranjan India DDCA 25/09/1996 29 ALL-ROUNDER RHB RIGHT ARM Off Spin Uncapped 30 Ranjan
+5|171|300 37 UAL6 Parth Rekhade India VCA 18/07/1999 26 ALL-ROUNDER LHB LEFT ARM Slow Orthodox Uncapped 30 Rekhade
+5|163|301 37 UAL6 Tiaan Van Vuuren South Africa 31/07/2001 24 ALL-ROUNDER RHB LEFT ARM Fast Medium Uncapped 30 Van Vuuren
+5|153|302 38 UFA6 Shreevatsha Acharya India KSCA 17/03/2002 24 BOWLER RHB RIGHT ARM Fast Medium Uncapped 30 Acharya
+5|145|303 38 UFA6 Sadek Hussain India ACA 25/10/2001 24 BOWLER RHB RIGHT ARM Fast Medium Uncapped 30 Hussain
+5|137|304 38 UFA6 Shubham Kapse India VCA 22/07/1994 31 BOWLER RHB RIGHT ARM Fast Medium Uncapped 30 Kapse
+5|127|305 38 UFA6 Aaqib Khan India UPCA 25/12/2003 22 BOWLER RHB RIGHT ARM Fast Medium Uncapped 30 Khan
+5|119|306 38 UFA6 Sabir Khan India BICA 24/11/2000 25 BOWLER RHB RIGHT ARM Fast Uncapped 30 Khan
+5|111|307 38 UFA6 Bayanda Majola South Africa 08/01/2007 19 BOWLER LHB RIGHT ARM Fast Uncapped 30 Majola
+5|101|308 38 UFA6 Srihari Nair India KCA 19/10/2002 23 BOWLER RHB RIGHT ARM Fast Uncapped 30 Nair
+5|93|309 38 UFA6 Brijesh Sharma India CAB 16/12/1998 27 BOWLER RHB RIGHT ARM Fast Uncapped 30 Sharma
+5|83|310 38 UFA6 Aman Shekhawat India RCA 05/10/2000 25 BOWLER RHB LEFT ARM Fast Medium Uncapped 30 Shekhawat
+5|75|311 39 UAL7 Himanshu Bisht India CAU 17/11/1996 29 ALL-ROUNDER RHB RIGHT ARM Leg Spin Uncapped 30 Bisht
+5|67|312 39 UAL7 Shreyan Chakraborty India CAB 21/07/1996 29 ALL-ROUNDER RHB LEFT ARM Slow Orthodox Uncapped 30 Chakraborty
+5|27|6
+6|569|TATA IPL 2026 - AUCTION LIST - 9.12.25
+6|537|Reserve
+6|533|List Sr. 2025
+6|529|No. Set No. Set 2026 First Name Surname Country State Association DOB Age Specialism Test caps ODI caps T20 caps IPL 2025 Price Rs Surname
+6|527|IPL C/U/A
+6|525|Team
+6|521|Lakh
+6|511|313 39 UAL7 Kanishk Chouhan India HCA 26/09/2006 19 ALL-ROUNDER RHB RIGHT ARM Off Spin Uncapped 30 Chouhan
+6|501|314 39 UAL7 Mayank Gusain India DDCA 25/09/2001 24 ALL-ROUNDER RHB RIGHT ARM Fast Uncapped 30 Gusain
+6|493|315 39 UAL7 Akash Pugazhanthi India CAP 28/11/2003 22 ALL-ROUNDER LHB RIGHT ARM Off Spin Uncapped 30 Pugazhanthi
+6|485|316 39 UAL7 Abhimanyusingh Rajput India BCA 09/05/1998 27 ALL-ROUNDER RHB RIGHT ARM Fast Medium Uncapped 30 Rajput
+6|475|317 39 UAL7 Shubham Rana India PCA 26/05/2006 19 ALL-ROUNDER LHB LEFT ARM Slow Unorthodox Uncapped 30 Rana
+6|467|318 39 UAL7 Arpit Rana India DDCA 15/11/2003 22 ALL-ROUNDER LHB RIGHT ARM Off Spin Uncapped 30 Rana
+6|459|319 39 UAL7 Maramreddy Reddy India ACA 28/10/2002 23 ALL-ROUNDER RHB RIGHT ARM Leg Spin Uncapped 30 Reddy
+6|449|320 39 UAL7 Sagar Solanki India MPCA 01/09/2000 25 ALL-ROUNDER LHB LEFT ARM Slow Orthodox Uncapped 30 Solanki
+6|441|321 40 UAL8 Aryaman Singh Dhaliwal India HPCA 30/04/2002 23 ALL-ROUNDER RHB LEFT ARM Slow Orthodox Uncapped 30 Dhaliwal
+6|431|322 40 UAL8 Daksh Kamra India HCA 09/01/2003 23 ALL-ROUNDER RHB RIGHT ARM Leg Spin Uncapped 30 Kamra
+6|423|323 40 UAL8 Vishal Mandwal India HCA 26/01/1997 29 ALL-ROUNDER RHB RIGHT ARM Fast Uncapped 30 Mandwal
+6|415|324 40 UAL8 Arfaz Mohammad India HYCA 11/09/2001 24 ALL-ROUNDER RHB RIGHT ARM Fast Medium Uncapped 30 Mohammad
+6|405|325 40 UAL8 Hemang Patel India GUCA 20/11/1998 27 ALL-ROUNDER RHB RIGHT ARM Fast Medium Uncapped 30 Patel
+6|397|326 40 UAL8 Mridul Surroch India HPCA 01/07/2003 22 ALL-ROUNDER RHB RIGHT ARM Off Spin Uncapped 30 Surroch
+6|389|327 40 UAL8 Anuj Thakral India HCA 15/10/2002 23 ALL-ROUNDER RHB RIGHT ARM Fast Medium Uncapped 30 Thakral
+6|379|328 40 UAL8 Parth Vats India HCA 22/01/2004 22 ALL-ROUNDER RHB LEFT ARM Slow Orthodox Uncapped 30 Vats
+6|371|329 40 UAL8 Lalit Yadav India GCA 03/01/1997 29 ALL-ROUNDER RHB RIGHT ARM Off Spin Uncapped 30 Yadav
+6|363|330 40 UAL8 Nitin Sai Yadav India HYCA 16/04/2004 21 ALL-ROUNDER RHB LEFT ARM Slow Orthodox Uncapped 30 Yadav
+6|353|331 41 UAL9 Krish Bhagat India PCA 06/11/2004 21 ALL-ROUNDER RHB RIGHT ARM Fast Uncapped 30 Bhagat
+6|345|332 41 UAL9 Prerit Dutta India PCA 22/09/1998 27 ALL-ROUNDER LHB LEFT ARM Slow Orthodox Uncapped 30 Dutta
+6|337|333 41 UAL9 Sammar Gajjar India SCA 14/08/2003 22 ALL-ROUNDER LHB LEFT ARM Slow Orthodox Uncapped 30 Gajjar
+6|327|334 41 UAL9 Nasir Lone India JKCA 05/09/1997 28 ALL-ROUNDER RHB RIGHT ARM Fast Medium Uncapped 30 Lone
+6|319|335 41 UAL9 Ishan Mulchandani India MCA 28/03/2000 26 ALL-ROUNDER RHB RIGHT ARM Off Spin Uncapped 30 Mulchandani
+6|311|336 41 UAL9 Akhil Scaria India KCA 05/10/1998 27 ALL-ROUNDER LHB RIGHT ARM Medium Uncapped 30 Scaria
+6|301|337 41 UAL9 Muhammed Sharafuddeen India KCA 14/02/1995 31 ALL-ROUNDER RHB RIGHT ARM Fast Medium Uncapped 30 Sharafuddeen
+6|293|338 41 UAL9 K.Ajay Singh India RCA 27/06/1993 32 ALL-ROUNDER LHB LEFT ARM Slow Orthodox Uncapped 30 Singh
+6|285|339 41 UAL9 Ritik Tada India MPCA 10/10/2002 23 ALL-ROUNDER RHB RIGHT ARM Fast Medium Uncapped 30 Tada
+6|275|340 41 UAL9 Luckyrajsinh Vaghela India SCA 14/04/2002 23 ALL-ROUNDER RHB RIGHT ARM Fast Medium Uncapped 30 Vaghela
+6|267|341 42 UAL10 Mohamed Ali India TNCA 03/10/2004 21 ALL-ROUNDER RHB RIGHT ARM Off Spin Uncapped 30 Ali
+6|257|342 42 UAL10 Madhav Bajaj India KSCA 06/05/2000 25 ALL-ROUNDER LHB LEFT ARM Slow Orthodox Uncapped 30 Bajaj
+6|249|343 42 UAL10 Akshu Bajwa India UPCA 18/12/2005 20 ALL-ROUNDER RHB LEFT ARM Slow Orthodox Uncapped 30 Bajwa
+6|241|344 42 UAL10 Varun Raj Singh Bisht India VCA 05/01/2004 22 ALL-ROUNDER RHB RIGHT ARM Off Spin Uncapped 30 Bisht
+6|231|345 42 UAL10 Rishabh Chauhan India MPCA 05/09/1999 26 ALL-ROUNDER RHB LEFT ARM Slow Orthodox Uncapped 30 Chauhan
+6|223|346 42 UAL10 Jack Edwards Australia 19/04/2000 25 ALL-ROUNDER RHB RIGHT ARM Fast Medium Uncapped 50 Edwards
+6|215|347 42 UAL10 Dian Forrester South Africa 07/06/2000 25 ALL-ROUNDER LHB RIGHT ARM Medium Uncapped 30 Forrester
+6|205|348 42 UAL10 Dhurmil Matkar India MCA 03/06/1996 29 ALL-ROUNDER LHB LEFT ARM Slow Orthodox Uncapped 30 Matkar
+6|197|349 42 UAL10 Shiva Singh India UPCA 16/10/1999 26 ALL-ROUNDER RHB LEFT ARM Slow Unorthodox Uncapped 30 Singh
+6|189|350 42 UAL10 Parikshit Valsangkar India MCA 24/02/1995 31 ALL-ROUNDER RHB RIGHT ARM Leg Spin Uncapped 30 Valsangkar
+6|179|351 42 UAL10 Mani Sankar Mura Singh India TCA 01/01/1993 33 ALL-ROUNDER LHB RIGHT ARM Fast Medium Uncapped 30 Mura Singh
+6|171|352 42 UAL10 Virandeep Singh Malaysia 23/03/1999 27 ALL-ROUNDER RHB LEFT ARM Slow Orthodox Associate 30 Singh
+6|163|353 42 UAL10 Chama Milind India HYCA 04/09/1994 31 ALL-ROUNDER LHB LEFT ARM Fast Medium Uncapped 30 Milind
+6|153|354 25 UWK3 K.L. Shrijith India KSCA 12/08/1996 29 WICKETKEEPER LHB Uncapped 30 Shrijith
+6|145|355 28 AL4 Eathan Bosch South Africa 27/04/1998 27 ALL-ROUNDER RHB RIGHT ARM Fast Medium 1 Capped 75 Bosch
+6|137|356 28 AL4 Chris Green Australia 01/10/1993 32 ALL-ROUNDER RHB RIGHT ARM Off Spin 1 Capped 75 Green
+6|127|357 30 UBA4 Swastik Chikara India UPCA 03/04/2005 20 BATTER RHB RIGHT ARM Off Spin Uncapped 30 Chikara
+6|119|358 30 UBA4 Rahul Raj Namala India CAU 10/05/2000 25 BATTER RHB RIGHT ARM Off Spin Uncapped 30 Namala
+6|111|359 30 UBA4 Virat Singh India JSCA 08/12/1997 28 BATTER LHB RIGHT ARM Off Spin Uncapped 30 Singh
+6|101|360 31 UBA4 Abhimanyu Easwaran India CAB 06/09/1995 30 BATTER RHB Uncapped 30 Easwaran
+6|93|361 42 UAL10 Tripuresh Singh India MPCA 13/04/2002 23 ALL-ROUNDER RHB RIGHT ARM Fast Medium Uncapped 30 Singh
+6|83|362 13 WK2 Kyle Verreynne South Africa 12/05/1997 28 WICKETKEEPER RHB RIGHT ARM Off Spin 31 19 Uncapped 125 Verreynne
+6|75|363 34 FA5 Blessing Muzarabani Zimbabwe 10/02/1996 30 BOWLER RHB RIGHT ARM Fast 18 57 83 Capped 75 Muzarabani
+6|67|364 34 FA5 Ben Sears New Zealand 11/02/1998 28 BOWLER RHB RIGHT ARM Fast 1 4 22 Capped 150 Sears
+6|27|7
+7|569|TATA IPL 2026 - AUCTION LIST - 9.12.25
+7|537|Reserve
+7|533|List Sr. 2025
+7|529|No. Set No. Set 2026 First Name Surname Country State Association DOB Age Specialism Test caps ODI caps T20 caps IPL 2025 Price Rs Surname
+7|527|IPL C/U/A
+7|525|Team
+7|521|Lakh
+7|511|365 38 UFA6 Rajesh Mohanty India OCA 20/05/2000 25 BOWLER LHB RIGHT ARM Fast Medium Uncapped 30 Mohanty
+7|501|366 30 UBA4 Swastik Samal India OCA 27/07/2000 25 BATTER RHB RIGHT ARM Medium Uncapped 30 Samal
+7|493|367 42 UAL10 Saransh Jain India MPCA 31/03/1993 33 ALL-ROUNDER LHB RIGHT ARM Off Spin Uncapped 30 Jain
+7|485|368 30 UBA4 Sooraj Sangaraju India ACA 24/11/2002 23 BATTER RHB Uncapped 30 Sangaraju
+7|475|369 30 UBA4 Tanmay Agarwal India HYCA 03/05/1995 30 BATTER LHB RIGHT ARM Leg Spin 0 Uncapped 30 Agarwal
+7|27|8

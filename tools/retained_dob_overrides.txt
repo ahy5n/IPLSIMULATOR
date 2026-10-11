@@ -1,0 +1,32 @@
+# Birth dates for retained players that Wikidata missed, matched to the wrong person, or matched to several people.
+# Format: Name|YYYY-MM-DD. Entries marked ~ are approximate (birth year only is known).
+Rohit Sharma|1987-04-30
+Rashid Khan|1998-09-20
+Abhishek Sharma|2000-09-04
+Sai Sudharsan|2001-10-15
+Arshad Khan|1997-12-20
+Mohsin Khan|1998-07-15
+Abdul Samad|2001-10-28
+Akash Singh|2002-04-26
+Deepak Chahar|1992-08-07
+Mukesh Choudhary|1996-07-06
+MS Dhoni|1981-07-07
+T. Natarajan|1991-04-04
+Abhishek Porel|2002-10-17
+Vipraj Nigam|2004-07-28
+Sai Kishore|1996-11-06
+Anukul Roy|1998-11-30
+Shahbaz Ahmed|1994-12-11
+Prince Yadav|2001-01-01~
+Naman Dhir|2000-10-31
+Allah Ghazanfar|2006-07-20
+Harnoor Pannu|2003-01-30
+Musheer Khan|2005-02-27
+Vaibhav Sooryavanshi|2011-03-27
+Phil Salt|1996-08-28
+Abhinandan Singh|1998-01-01~
+Smaran Ravichandran|2003-01-01~
+# Retained for IPL 2025 but not for 2026
+Matheesha Pathirana|2002-12-18
+Andre Russell|1988-04-29
+Ravi Bishnoi|2000-09-05
