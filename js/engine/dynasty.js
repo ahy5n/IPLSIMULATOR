@@ -215,7 +215,8 @@ export function suggestRetentions(world, teamId) {
   const keepers = ids.filter((id) => {
     const p = P[id], v = value(p), sal = p.price || 30;
     return v >= sal * 0.75 || (xi.has(id) && v >= sal * 0.35) || (sal <= 50 && p.age <= 24 && p.ovr >= 60);
-  }).sort((a, b) => (value(P[b]) - (P[b].price || 30)) - (value(P[a]) - (P[a].price || 30)));
+  // First-choice XI before anyone else (when the squad limit forces a cut), then best value for money.
+  }).sort((a, b) => (xi.has(b) - xi.has(a)) || ((value(P[b]) - (P[b].price || 30)) - (value(P[a]) - (P[a].price || 30))));
   const out = teamIcons(world, teamId);
   let cost = retentionCost(world, out), os = out.filter((id) => P[id].overseas).length;
   for (const id of keepers) {

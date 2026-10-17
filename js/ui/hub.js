@@ -118,7 +118,7 @@ export function render(root, ctx) {
       return { t, sq, coach, str: sq.length >= 11 ? teamStrength(sq, P).overall : 0, pos: last?.table ? last.table.indexOf(t.id) + 1 : last?.champion === t.id ? 1 : last?.runnerUp === t.id ? 2 : null };
     }).sort((a, b) => b.str - a.str);
     const sel = ui.team && rows.find((r) => r.t.id === ui.team);
-    return `<section class="stack">
+    const html = `<section class="stack">
       <div class="section-head"><h3>Leagues</h3></div>
       <div class="tabs" role="tablist">${LEAGUE_IDS.map((id) => `<button role="tab" data-tab="${id}" aria-selected="${ui.tab === id}">${LEAGUES[id].short}</button>`).join('')}</div>
       <p class="muted" style="font-size:.88rem">${esc(LEAGUES[lg].name)} · ${hist.slice(-5).reverse().map((h) => `${h.year} ${esc(teamOf(lg, h.champion)?.id || '—')}`).join(' · ')}</p>
@@ -128,6 +128,8 @@ export function render(root, ctx) {
         <td class="r">${r.sq.length}</td><td class="r">${r.str ? r.str.toFixed(1) : '—'}</td><td class="r hide-sm">${r.pos ? ordinal(r.pos) : '—'}</td></tr>`).join('')}</tbody></table></div>
       ${sel ? squadView(lg, sel, P) : '<p class="muted" style="font-size:.85rem">Tap a team to see its squad.</p>'}
     </section>`;
+    activateLeague('ipl');   // leave the rules as the rest of the app expects them
+    return html;
   }
 
   function squadView(lg, r, P) {

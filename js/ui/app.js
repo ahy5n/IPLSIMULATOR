@@ -218,6 +218,9 @@ const ctx = {
 
   go(screen) {
     if (current?.unmount) current.unmount();
+    // Every screen runs under one league's rules. Career screens use the league in play; the single
+    // auction game is always the IPL.
+    activateLeague(ctx.game?.career && screen !== 'setup' && screen !== 'hub' ? (ctx.game.league || 'ipl') : 'ipl');
     // Career retentions: rebuild the league view from the career (trades may have changed squads).
     const c = ctx.game?.career;
     if (c && screen === 'retain' && c.pending?.kind === 'retain') {
