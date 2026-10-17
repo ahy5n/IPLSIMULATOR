@@ -1,6 +1,6 @@
 // Season: IPL fixtures (70 league games in two virtual groups), table with net run rate, playoffs, awards.
 import { createRng } from './rng.js';
-import { simulateMatch, applyMods, impactIds } from './match.js';
+import { simulateMatch, applyMods, impactIds, FORMAT } from './match.js';
 import { initStatus, matchMods, afterMatch, unavailable, isAvailable, aiReplacements } from './status.js';
 import { bestXI, bestImpacts, xiScore, XI_OVERSEAS_MAX } from './squad.js';
 import { adjustPlayers, aiChooseConditions, VENUE_DEFAULT } from './conditions.js';
@@ -10,14 +10,40 @@ import { adjustPlayers, aiChooseConditions, VENUE_DEFAULT } from './conditions.j
 // two at home and two away. 14 games each, 7 at home, 70 in all.
 // Order: the defending champions host the opening game (against last year's runners-up when possible);
 // then every team gets regular rest and no more than two home or two away games in a row where possible.
-export function generateFixtures(teams, seed, { champion = null, runnerUp = null } = {}) {
-  const A = teams.filter((t) => t.group === 'A').map((t) => t.id);
-  const B = teams.filter((t) => t.group === 'B').map((t) => t.id);
+//
+// Other leagues (format = the league's fixture style):
+//   psl:     two groups of four; twice against your group, once against the other (10 games each)
+//   double:  double round robin, home and away (SA20: 10 games each)
+//   hundred: everyone once plus a second game against the regional rival (8 games each)
+export function leagueGames(teams, format = 'ipl') {
   const ids = teams.map((t) => t.id);
   const games = [];
   const twice = (x, y) => { games.push([x, y], [y, x]); };
+  // One game between i and j: alternate hosts so home games even out.
+  const once = (i, j) => games.push((i + j) % 2 ? [ids[i], ids[j]] : [ids[j], ids[i]]);
+  if (format === 'double') {
+    for (let i = 0; i < ids.length; i++) for (let j = i + 1; j < ids.length; j++) twice(ids[i], ids[j]);
+    return games;
+  }
+  if (format === 'hundred') {
+    for (let i = 0; i < ids.length; i++) for (let j = i + 1; j < ids.length; j++) once(i, j);
+    const done = new Set();
+    for (const t of teams) {
+      if (!t.rival || done.has(t.id)) continue;
+      done.add(t.id); done.add(t.rival);
+      const first = games.find(([h, a]) => (h === t.id && a === t.rival) || (h === t.rival && a === t.id));
+      games.push([first[1], first[0]]);   // the return game, at the other ground
+    }
+    return games;
+  }
+  const A = teams.filter((t) => t.group === 'A').map((t) => t.id);
+  const B = teams.filter((t) => t.group === 'B').map((t) => t.id);
   for (const g of [A, B]) for (let i = 0; i < g.length; i++) for (let j = i + 1; j < g.length; j++) twice(g[i], g[j]);
   const n = A.length;
+  if (format === 'psl') {
+    for (let i = 0; i < n; i++) for (let j = 0; j < n; j++) games.push((i + j) % 2 ? [A[i], B[j]] : [B[j], A[i]]);
+    return games;
+  }
   for (let i = 0; i < n; i++) {
     twice(A[i], B[i]);
     // Single games: A[i] hosts B[j] when (j - i) mod n is 1 or 2, so every team hosts exactly two.
@@ -27,6 +53,12 @@ export function generateFixtures(teams, seed, { champion = null, runnerUp = null
       games.push(d <= 2 ? [A[i], B[j]] : [B[j], A[i]]);
     }
   }
+  return games;
+}
+
+export function generateFixtures(teams, seed, { champion = null, runnerUp = null, format = 'ipl' } = {}) {
+  const ids = teams.map((t) => t.id);
+  const games = leagueGames(teams, format);
 
   const build = (rng) => {
     let pool = rng.shuffle(games);
@@ -87,11 +119,13 @@ export function generateFixtures(teams, seed, { champion = null, runnerUp = null
 // prices: { id: lakh } contract fees (for injury-replacement limits).
 // continuity: { teamId: 0..1 } share of the squad kept from last season (starting chemistry).
 export function createSeason(scn, squads, { userTeam, seed = 1, prices = {}, continuity = null }) {
+  const lg = scn.league || { fixtures: 'ipl', playoffs: 'page' };
   const table = {};
   for (const t of scn.teams) table[t.id] = { id: t.id, p: 0, w: 0, l: 0, nr: 0, pts: 0, rf: 0, bf: 0, ra: 0, bb: 0 };
   const season = {
     version: 2, seed, rngState: (seed * 7919) >>> 0, userTeam, squads: Object.fromEntries(Object.entries(squads).map(([k, v]) => [k, v.slice()])),
-    fixtures: generateFixtures(scn.teams, seed, { champion: scn.champion, runnerUp: scn.runnerUp }), table, stats: {}, playoffs: [], champion: null, stage: 'league', prices, userXI: null,
+    fixtures: generateFixtures(scn.teams, seed, { champion: scn.champion, runnerUp: scn.runnerUp, format: lg.fixtures }), table, stats: {}, playoffs: [], champion: null, stage: 'league', prices, userXI: null,
+    playoffFormat: lg.playoffs || 'page',
   };
   const cont = continuity || Object.fromEntries(scn.teams.map((t) => [t.id, Math.min(1, t.retained.length / Math.max(1, squads[t.id].length))]));
   initStatus(season, scn, cont);
@@ -179,7 +213,7 @@ export function lineupProblem(lineup, squad, players, season = null) {
     if (xi.includes(imp)) return 'Impact players must come from the bench';
     if (!squad.includes(imp)) return 'An impact player is not in your squad';
     if (season && !isAvailable(season, imp)) return `${players[imp].name} is injured`;
-    if (os === XI_OVERSEAS_MAX && players[imp].overseas) return 'With 4 overseas players in the XI, impact players must be Indian';
+    if (os === XI_OVERSEAS_MAX && players[imp].overseas) return `With ${XI_OVERSEAS_MAX} overseas players in the XI, impact players must be local players`;
   }
   return null;
 }
@@ -211,7 +245,7 @@ function recordLeague(season, fx, res) {
   win.w++; win.pts += 2; lose.l++;
   for (const inn of res.innings) {
     const bat = T[inn.team], bowl = inn.team === fx.home ? b : a;
-    const balls = inn.allOut ? 120 : inn.balls;     // all out counts as the full 20 overs for NRR
+    const balls = inn.allOut ? FORMAT.balls : inn.balls;     // all out counts as the full innings for NRR
     bat.rf += inn.runs; bat.bf += balls; bowl.ra += inn.runs; bowl.bb += balls;
   }
 }
@@ -275,23 +309,39 @@ export function simToUserGame(season, scn) {
   return null;
 }
 
+// The final of a finished season (the last playoff game).
+export function finalOf(season) { return season.playoffs?.[season.playoffs.length - 1]; }
+
 function advance(season) {
+  const n = season.fixtures.length;
   if (season.stage === 'league' && season.fixtures.every((f) => f.result)) {
     const s = standings(season).map((r) => r.id);
     season.stage = 'playoffs';
-    season.playoffs = [
-      { no: 71, stage: 'Qualifier 1', home: s[0], away: s[1], result: null, neutral: true },
-      { no: 72, stage: 'Eliminator', home: s[2], away: s[3], result: null, neutral: true },
-    ];
+    // The Hundred: second plays third in the eliminator; the winner meets the league leaders in the final.
+    season.playoffs = season.playoffFormat === 'top3'
+      ? [{ no: n + 1, stage: 'Eliminator', home: s[1], away: s[2], result: null, neutral: true }]
+      : [
+        { no: n + 1, stage: 'Qualifier 1', home: s[0], away: s[1], result: null, neutral: true },
+        { no: n + 2, stage: 'Eliminator', home: s[2], away: s[3], result: null, neutral: true },
+      ];
     return;
   }
   if (season.stage !== 'playoffs') return;
+  if (season.playoffFormat === 'top3') {
+    const [el, fin] = season.playoffs;
+    if (el.result && !fin) {
+      season.playoffs.push({ no: n + 2, stage: 'Final', home: standings(season)[0].id, away: el.result.winner, result: null, neutral: true });
+      return;
+    }
+    if (fin?.result) { season.champion = fin.result.winner; season.stage = 'done'; season.awards = awards(season); }
+    return;
+  }
   const [q1, el, q2, fin] = season.playoffs;
   if (q1.result && el.result && !q2) {
     const q1Loser = q1.result.winner === q1.home ? q1.away : q1.home;
-    season.playoffs.push({ no: 73, stage: 'Qualifier 2', home: q1Loser, away: el.result.winner, result: null, neutral: true });
+    season.playoffs.push({ no: n + 3, stage: 'Qualifier 2', home: q1Loser, away: el.result.winner, result: null, neutral: true });
   } else if (q2?.result && !fin) {
-    season.playoffs.push({ no: 74, stage: 'Final', home: q1.result.winner, away: q2.result.winner, result: null, neutral: true });
+    season.playoffs.push({ no: n + 4, stage: 'Final', home: q1.result.winner, away: q2.result.winner, result: null, neutral: true });
   } else if (fin?.result) {
     season.champion = fin.result.winner;
     season.stage = 'done';

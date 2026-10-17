@@ -3,7 +3,8 @@
 import { esc, money, oversText, ordinal, ROLE_LABEL } from '../format.js';
 import { standings, nrr, playFixture, nextFixture, nextUserFixture, simToUserGame, autoLineup, lineupProblem, teamOfPlayer, fixtureConditions, carriedLineup } from '../engine/season.js';
 import { statusOf, isAvailable, matchMods, chemistryChange, pendingReplacements, replacementPool, signReplacement, unavailable } from '../engine/status.js';
-import { XI_OVERSEAS_MAX } from '../engine/squad.js';
+import { XI_OVERSEAS_MAX, IMPACT } from '../engine/squad.js';
+import { FORMAT } from '../engine/match.js';
 import { CONDITIONS, VENUE_DEFAULT, adjustPlayers } from '../engine/conditions.js';
 import { bandsLabel, bandsRange, positionFit, arrangeOrder, orderPenalty, styleLabel } from '../engine/batting.js';
 import { typeLabel, rolesLabel } from '../engine/bowling.js';
@@ -24,9 +25,13 @@ export function render(root, ctx) {
   const allFx = () => [...s.fixtures, ...s.playoffs];
   const myRow = () => standings(s).findIndex((r) => r.id === me) + 1;
   const chem = (t) => s.chem?.[t]?.value ?? 50;
+  const LG = scn.league?.short || 'IPL';
+  const NG = s.fixtures.length;
+  // Innings length: overs in T20, balls in The Hundred.
+  const ovs = (balls) => (FORMAT.unit === 'ball' ? `${balls} balls` : `${oversText(balls)} ov`);
 
   function draw() {
-    root.innerHTML = `${masthead(`<span class="tag">${s.stage === 'league' ? `League · ${s.fixtures.filter((f) => f.result).length}/70` : s.stage === 'playoffs' ? 'Playoffs' : 'Season over'}</span>`)}
+    root.innerHTML = `${masthead(`<span class="tag">${s.stage === 'league' ? `League · ${s.fixtures.filter((f) => f.result).length}/${NG}` : s.stage === 'playoffs' ? 'Playoffs' : 'Season over'}</span>`)}
       <main class="stack-lg" style="padding-top:8px">${body()}</main>${footer()}`;
     window.scrollTo(0, ui.keepScroll ?? 0);
     ui.keepScroll = null;
@@ -49,7 +54,7 @@ export function render(root, ctx) {
     const hurt = s.squads[me].filter((id) => !isAvailable(s, id));
     const news = (s.injuryLog || []).filter((n) => n.team === me).slice(-3).reverse();
     return `<section class="stack">
-      <div class="row">${badge(T[me])}<span class="eyebrow">${esc(T[me].name)} · IPL ${scn.year}</span></div>
+      <div class="row">${badge(T[me])}<span class="eyebrow">${esc(T[me].name)} · ${LG} ${scn.year}</span></div>
       <div class="stats">
         <div class="stat"><span class="k">Played</span><span class="v">${row.p}</span></div>
         <div class="stat"><span class="k">Won</span><span class="v good">${row.w}</span></div>
@@ -72,7 +77,7 @@ export function render(root, ctx) {
 
   function nextCard(fx, mine) {
     const isMine = involves(fx);
-    const stageLabel = fx.stage === 'league' ? `Match ${fx.no} of 70` : fx.stage;
+    const stageLabel = fx.stage === 'league' ? `Match ${fx.no} of ${NG}` : fx.stage;
     const gamesBefore = mine ? allFx().filter((f) => !f.result && f.no < mine.no && f.stage === mine.stage).length : 0;
     return `<section class="lot">
       <div class="lot-top">
@@ -114,7 +119,7 @@ export function render(root, ctx) {
     return `<section class="stack">
       <span class="eyebrow">Injury replacement · ${esc(T[me].name)}</span>
       <h2>${esc(out.name)} is ruled out</h2>
-      <p class="muted">${esc(r.injury)} in match ${r.match}. Under IPL rules you can sign a replacement from the unsold registered players, paid no more than his ${money(fee)} fee. The replacement takes his place in the squad for the rest of the season.</p>
+      <p class="muted">${esc(r.injury)} in match ${r.match}. Under ${LG} rules you can sign a replacement from the unsold registered players, paid no more than his ${money(fee)} fee. The replacement takes his place in the squad for the rest of the season.</p>
       <div class="seg" role="group" aria-label="Filter">${roles.map(([k, l]) => `<button data-replrole="${k}" aria-pressed="${ui.repl.role === k}">${l}</button>`).join('')}</div>
       <div class="panel">${pool.map((p) => `<div class="pick-row" style="grid-template-columns:1fr auto auto">
         <span style="min-width:0"><strong>${esc(p.name)}</strong> ${osTag(p)} ${roleTag(p)}<span class="sub-line">${esc(p.country)} · bat ${p.bat} · bowl ${p.bowl} · ${bandsLabel(p)}</span></span>
@@ -252,13 +257,13 @@ export function render(root, ctx) {
         <button class="btn btn-sm btn-ghost" data-drop="${id}">Bench</button></div>`; }).join('')}</div>
     </section>
     <section class="stack">
-      <div class="section-head"><h3>Bench and impact players</h3></div>
-      <p class="muted" style="font-size:.86rem">Name two impact players. <strong>Bat</strong> comes in for the chase if you bowl first; <strong>Bowl</strong> comes on for the second innings if you bat first.</p>
+      <div class="section-head"><h3>${IMPACT ? 'Bench and impact players' : 'Bench'}</h3></div>
+      ${IMPACT ? '<p class="muted" style="font-size:.86rem">Name two impact players. <strong>Bat</strong> comes in for the chase if you bowl first; <strong>Bowl</strong> comes on for the second innings if you bat first.</p>' : `<p class="muted" style="font-size:.86rem">No impact players in the ${LG}.</p>`}
       <div class="panel">
-        <div class="pick-row" style="grid-template-columns:auto auto 1fr auto;padding-top:0"><span class="eyebrow">Bat</span><span class="eyebrow">Bowl</span><span></span><span></span></div>
-        ${bench.map((p) => { const ok = isAvailable(s, p.id); const st = statusOf(s, p.id); return `<div class="pick-row ${ok ? '' : 'out'}" style="grid-template-columns:auto auto 1fr auto">
-        <input type="radio" name="impbat" data-impbat="${p.id}" ${L.impact.bat === p.id ? 'checked' : ''} ${ok ? '' : 'disabled'} aria-label="Batting impact player: ${esc(p.name)}">
-        <input type="radio" name="impbowl" data-impbowl="${p.id}" ${L.impact.bowl === p.id ? 'checked' : ''} ${ok ? '' : 'disabled'} aria-label="Bowling impact player: ${esc(p.name)}">
+        ${IMPACT ? '<div class="pick-row" style="grid-template-columns:auto auto 1fr auto;padding-top:0"><span class="eyebrow">Bat</span><span class="eyebrow">Bowl</span><span></span><span></span></div>' : ''}
+        ${bench.map((p) => { const ok = isAvailable(s, p.id); const st = statusOf(s, p.id); return `<div class="pick-row ${ok ? '' : 'out'}" style="grid-template-columns:${IMPACT ? 'auto auto ' : ''}1fr auto">
+        ${IMPACT ? `<input type="radio" name="impbat" data-impbat="${p.id}" ${L.impact.bat === p.id ? 'checked' : ''} ${ok ? '' : 'disabled'} aria-label="Batting impact player: ${esc(p.name)}">
+        <input type="radio" name="impbowl" data-impbowl="${p.id}" ${L.impact.bowl === p.id ? 'checked' : ''} ${ok ? '' : 'disabled'} aria-label="Bowling impact player: ${esc(p.name)}">` : ''}
         <span style="min-width:0"><strong>${esc(p.name)}</strong> ${osTag(p)} <span class="tag">${bandsLabel(p)}</span> <span class="tag">${p.ovr}</span>${ok ? '' : ` <span class="tag tag-bad">${esc(st.injury || 'Injured')} · ${st.inj}</span>`}
           <span class="sub-line">${[ROLE_LABEL[p.role], styleLabel(p), typeLabel(p), rolesLabel(p)].filter(Boolean).join(' · ')} · ${skill(p)}</span><span class="sub-line">${statusBits(p)}</span></span>
         <button class="btn btn-sm" data-add="${p.id}" ${L.xi.length >= 11 || !ok ? 'disabled' : ''}>Add</button></div>`; }).join('')}</div>
@@ -280,7 +285,7 @@ export function render(root, ctx) {
     return `<section class="stack">
       <span class="eyebrow">${esc(label)} · ${fx.neutral ? 'Neutral venue' : esc(T[fx.home].home)} · ${esc((CONDITIONS[r.conditions] || CONDITIONS.balanced).label)}</span>
       <div class="match-card">
-        ${r.innings.map((inn) => `<div class="side">${badge(T[inn.team])}<span class="score">${inn.runs}/${inn.wkts}</span><span class="muted num">${oversText(inn.balls)} ov</span></div>`).join('<span class="vs">VS</span>')}
+        ${r.innings.map((inn) => `<div class="side">${badge(T[inn.team])}<span class="score">${inn.runs}/${inn.wkts}</span><span class="muted num">${ovs(inn.balls)}</span></div>`).join('<span class="vs">VS</span>')}
       </div>
       <h2 style="text-align:center">${esc(T[r.winner].name)} ${esc(r.summary)}</h2>
       <p class="muted" style="text-align:center">${esc(T[r.toss.winner].name)} won the toss and chose to ${r.toss.decision}. Player of the match: <strong>${esc(potm.name)}</strong>.${r.superOver?.scores ? ` Super Over: ${r.superOver.scores.join(' v ')}.` : ''}</p>
@@ -305,14 +310,14 @@ export function render(root, ctx) {
     };
     const dnb = inn.batting.filter((b) => !b.batted).map((b) => P[b.id].name);
     return `<section class="panel stack" style="gap:10px">
-      <div class="spread"><h3>${esc(T[inn.team].name)}</h3><span class="score" style="font-size:1.45rem">${inn.runs}/${inn.wkts} <span class="muted" style="font-size:.9rem">(${oversText(inn.balls)})</span></span></div>
+      <div class="spread"><h3>${esc(T[inn.team].name)}</h3><span class="score" style="font-size:1.45rem">${inn.runs}/${inn.wkts} <span class="muted" style="font-size:.9rem">(${ovs(inn.balls)})</span></span></div>
       <div class="scroll-x"><table class="card-table"><thead><tr><th>Batter</th><th class="r">R</th><th class="r">B</th><th class="r">4s</th><th class="r">6s</th><th class="r">SR</th></tr></thead><tbody>
         ${inn.batting.filter((b) => b.batted).map((b) => `<tr><td><strong>${esc(P[b.id].name)}</strong><span class="how">${esc(how(b))}</span></td><td class="r"><strong>${b.r}</strong></td><td class="r">${b.b}</td><td class="r">${b.f4}</td><td class="r">${b.f6}</td><td class="r muted">${b.b ? ((b.r / b.b) * 100).toFixed(0) : '–'}</td></tr>`).join('')}
         <tr><td class="muted">Extras</td><td class="r">${inn.extras}</td><td colspan="4"></td></tr>
       </tbody></table></div>
       ${dnb.length ? `<p class="muted" style="font-size:.85rem">Did not bat: ${dnb.map(esc).join(', ')}</p>` : ''}
-      <div class="scroll-x"><table><thead><tr><th>Bowler</th><th class="r">O</th><th class="r">R</th><th class="r">W</th><th class="r">Econ</th></tr></thead><tbody>
-        ${inn.bowling.map((b) => `<tr><td>${esc(P[b.id].name)}</td><td class="r">${oversText(b.balls)}</td><td class="r">${b.r}</td><td class="r"><strong>${b.w}</strong></td><td class="r muted">${b.balls ? ((b.r / b.balls) * 6).toFixed(2) : '–'}</td></tr>`).join('')}
+      <div class="scroll-x"><table><thead><tr><th>Bowler</th><th class="r">${FORMAT.unit === 'ball' ? 'B' : 'O'}</th><th class="r">R</th><th class="r">W</th><th class="r">Econ</th></tr></thead><tbody>
+        ${inn.bowling.map((b) => `<tr><td>${esc(P[b.id].name)}</td><td class="r">${FORMAT.unit === 'ball' ? b.balls : oversText(b.balls)}</td><td class="r">${b.r}</td><td class="r"><strong>${b.w}</strong></td><td class="r muted">${b.balls ? ((b.r / b.balls) * 6).toFixed(2) : '–'}</td></tr>`).join('')}
       </tbody></table></div>
     </section>`;
   }
@@ -330,18 +335,18 @@ export function render(root, ctx) {
     const dynasty = game.setup.length === 'dynasty';
     const aw = s.awards;
     const champ = T[s.champion];
-    const fin = s.playoffs[3];
+    const fin = s.playoffs[s.playoffs.length - 1];
     const myFinish = s.champion === me ? 'Champions' : fin && (fin.home === me || fin.away === me) ? 'Runners-up' : s.playoffs.some((f) => f.home === me || f.away === me) ? 'Playoffs' : `${ordinal(myRow())} in the league`;
     const award = (label, x, val, color = 'var(--accent)') => x ? `<div class="panel stack" style="gap:4px"><span class="eyebrow" style="color:${color}">${label}</span><strong>${esc(P[x.id].name)}</strong><span class="muted" style="font-size:.86rem">${teamOfPlayer(s, x.id)} · ${val(x)}</span></div>` : '';
     return `<section class="trophy stack" style="align-items:center">
-      ${badge(champ)}<span class="eyebrow">IPL ${scn.year} champions</span><h1>${esc(champ.name)}</h1>
+      ${badge(champ)}<span class="eyebrow">${LG} ${scn.year} champions</span><h1>${esc(champ.name)}</h1>
       <p class="muted">${fin ? `${esc(fin.result.winner)} ${esc(fin.result.summary)} in the final against ${esc(fin.result.winner === fin.home ? fin.away : fin.home)}.` : ''}</p>
       <span class="tag ${s.champion === me ? 'tag-good' : 'tag-accent'}">${esc(T[me].name)}: ${myFinish}</span>
       ${fin ? `<button class="btn btn-sm" data-open="${fin.no}">Final scorecard</button>` : ''}
     </section>
     <section class="grid-2">
-      ${award('Orange Cap', aw.orange, (x) => `${x.r} runs, SR ${((x.r / Math.max(1, x.b)) * 100).toFixed(0)}`, 'var(--accent)')}
-      ${award('Purple Cap', aw.purple, (x) => `${x.w} wickets, econ ${((x.rc / Math.max(1, x.bb)) * 6).toFixed(2)}`, 'var(--purple)')}
+      ${award(LG === 'IPL' ? 'Orange Cap' : 'Most runs', aw.orange, (x) => `${x.r} runs, SR ${((x.r / Math.max(1, x.b)) * 100).toFixed(0)}`, 'var(--accent)')}
+      ${award(LG === 'IPL' ? 'Purple Cap' : 'Most wickets', aw.purple, (x) => `${x.w} wickets, econ ${((x.rc / Math.max(1, x.bb)) * 6).toFixed(2)}`, 'var(--purple)')}
       ${award('Most valuable player', aw.mvp, (x) => `${x.r} runs, ${x.w} wickets`)}
       ${award('Most sixes', aw.sixes, (x) => `${x.f6} sixes`)}
       ${award('Best strike rate', aw.strikeRate, (x) => `${((x.r / x.b) * 100).toFixed(1)} (min 100 balls)`)}
@@ -351,10 +356,10 @@ export function render(root, ctx) {
       <div class="section-head"><h3>Playoffs</h3></div>
       <div class="panel feed">${s.playoffs.map((f) => `<div class="feed-item" data-open="${f.no}" style="cursor:pointer"><span class="tag">${esc(f.stage)}</span><span>${resultLine(f)}</span><span class="tag">Card</span></div>`).join('')}</div>
     </section>
-    ${dynasty ? historyView(myFinish) : ''}
+    ${dynasty && !game.career ? historyView(myFinish) : ''}
     <div class="grid-2">
-      <button class="btn bid-btn" data-act="auctionreview">Auction review</button>
-      ${dynasty
+      ${game.auction ? '<button class="btn bid-btn" data-act="auctionreview">Auction review</button>' : '<span></span>'}
+      ${game.career ? '<button class="btn btn-primary bid-btn" data-act="careerdone">Back to your career</button>' : dynasty
         ? `<button class="btn btn-primary bid-btn" data-act="nextseason" data-finish="${esc(myFinish)}">IPL ${scn.year + 1} off-season · ${nextIsMega() ? 'mega' : 'mini'} auction</button>`
         : '<button class="btn btn-primary bid-btn" data-act="newgame">New game</button>'}
     </div>`;
@@ -429,6 +434,7 @@ export function render(root, ctx) {
     else if (act === 'auctionreview') ctx.go('results');
     else if (act === 'newgame') ctx.go('setup');
     else if (act === 'nextseason') ctx.startOffseason(b.dataset.finish);
+    else if (act === 'careerdone') ctx.careerSeasonDone();
   };
   // Drag a player up or down the batting order (mouse or touch); the arrow buttons still work too.
   let drag = null;

@@ -23,6 +23,7 @@ export function salaryOf(state, scn, id) {
 }
 
 export function isTradeIcon(state, id) {
+  if (state.icon) return state.icon(id);
   const owner = Object.values(state.teams).find((t) => t.squad.includes(id));
   return !!owner && ICONS[id] === owner.id;
 }
@@ -52,6 +53,13 @@ export function tradeProblem(state, scn, offer) {
   if (offer.get.some((id) => !them.squad.includes(id))) return `That player is not with ${offer.partner}`;
   const icon = offer.give.concat(offer.get).find((id) => isTradeIcon(state, id));
   if (icon) return `${scn.players[icon].name} is a franchise icon and cannot be traded`;
+  // Players have a say (career mode): someone settled with his coach may refuse to move.
+  if (state.willing) {
+    const no = offer.get.find((id) => state.willing(id, state.userTeam) < -0.3);
+    if (no) return `${scn.players[no].name} doesn't want to leave ${offer.partner}`;
+    const no2 = offer.give.find((id) => state.willing(id, offer.partner) < -0.3);
+    if (no2) return `${scn.players[no2].name} doesn't want to go to ${offer.partner}`;
+  }
   const a = after(state, scn, offer);
   const os = (sq) => sq.filter((id) => scn.players[id].overseas).length;
   const min = state.preRetention ? 0 : SQUAD_MIN;   // before retentions squads refill at the auction
@@ -75,7 +83,9 @@ export function evaluateTrade(state, scn, offer) {
   const valueGain = (offer.give.reduce((n, id) => n + valueOf(state, scn, id), 0) - offer.get.reduce((n, id) => n + valueOf(state, scn, id), 0)) / 100;
   const salaryGain = (a.theirPurse - them.purse) / 100;   // purse freed up (incl. cash received)
   // A team values making its XI better most, then fair value, then money in the bank.
-  const score = strengthGain * 3 + valueGain * 0.6 + salaryGain * 0.4 - (MARGIN[state.difficulty] ?? 0.6);
+  // A reluctant player is harder to prise away: the other side wants more for the trouble.
+  const reluctance = state.willing ? offer.get.reduce((n, id) => n + Math.min(0, state.willing(id, state.userTeam)), 0) : 0;
+  const score = strengthGain * 3 + valueGain * 0.6 + salaryGain * 0.4 - (MARGIN[state.difficulty] ?? 0.6) + reluctance * 1.5;
   // Cash (in lakh) the user would need to add to make it acceptable, if money could do it.
   const cashNeeded = score >= 0 ? 0 : Math.ceil((-score / 0.4) * 100 / 25) * 25;
   return { accept: score >= 0, score, strengthGain, valueGain, cashNeeded, myStrengthGain: teamStrength(a.mySquad, scn.players).overall - teamStrength(state.teams[state.userTeam].squad, scn.players).overall };
@@ -86,7 +96,7 @@ export function executeTrade(state, scn, offer) {
   const why = tradeProblem(state, scn, offer);
   if (why) throw new Error(why);
   const ev = evaluateTrade(state, scn, offer);
-  if (!ev.accept) throw new Error(`${offer.partner} turned it down`);
+  if (!ev.accept && !offer.force) throw new Error(`${offer.partner} turned it down`);
   const me = state.teams[state.userTeam], them = state.teams[offer.partner];
   const a = after(state, scn, offer);
   const move = (ids, from, to) => {
@@ -101,7 +111,7 @@ export function executeTrade(state, scn, offer) {
   move(offer.give, me, them);
   move(offer.get, them, me);
   me.purse = a.myPurse; them.purse = a.theirPurse;
-  state.trades = (state.trades || []).concat({ partner: offer.partner, give: offer.give.slice(), get: offer.get.slice(), cash: offer.cash || 0 });
+  state.trades = (state.trades || []).concat({ from: state.userTeam, partner: offer.partner, give: offer.give.slice(), get: offer.get.slice(), cash: offer.cash || 0 });
   state.strength = {};   // cached team strengths are stale now
   return ev;
 }

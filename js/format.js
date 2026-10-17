@@ -1,6 +1,24 @@
-// Money is stored in lakh. ₹1 crore = 100 lakh.
-export function money(lakh, { short = false } = {}) {
+// Money is stored in lakh of the IPL scale. ₹1 crore = 100 lakh. Other leagues show it in their own
+// currency: setCurrency() is called when the active league changes (js/engine/league.js).
+let CUR = null;
+export function setCurrency(c) { CUR = c; }
+
+// Amount in a currency: { sym, rate (local units per lakh), unit: 'crore' | 'thousand' }.
+export function moneyIn(c, lakh, { short = false } = {}) {
   if (lakh == null) return '—';
+  if (!c) return money(lakh, { short, raw: true });
+  const local = lakh * c.rate;
+  const trim = (x, d) => x.toFixed(d).replace(/\.?0+$/, '');
+  if (c.unit === 'crore') {   // PKR crore and lakh, like the IPL
+    return local >= 100 ? `${c.sym}${short ? '' : ' '}${trim(local / 100, 2)}${short ? 'Cr' : ' Cr'}` : `${c.sym}${short ? '' : ' '}${Math.round(local)}${short ? 'L' : ' L'}`;
+  }
+  // thousands of rand or pounds
+  return local >= 1000 ? `${c.sym}${trim(local / 1000, 2)}m` : `${c.sym}${Math.round(local / 5) * 5}k`;
+}
+
+export function money(lakh, { short = false, raw = false } = {}) {
+  if (lakh == null) return '—';
+  if (CUR && !raw) return moneyIn(CUR, lakh, { short });
   if (lakh >= 100) {
     const cr = lakh / 100;
     const s = cr.toFixed(2).replace(/\.?0+$/, '');

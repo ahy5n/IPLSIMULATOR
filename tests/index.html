@@ -15,7 +15,7 @@
 <div id="out">Running…</div>
 <script type="module">
   import { run } from './harness.js';
-  const files = ['./auction.test.js', './match.test.js', './season.test.js', './dynasty.test.js', './systems.test.js'];
+  const files = ['./auction.test.js', './match.test.js', './season.test.js', './dynasty.test.js', './systems.test.js', './career.test.js'];
   // ?only=systems runs just tests/systems.test.js
   const only = new URLSearchParams(location.search).get('only');
   for (const f of files.filter((x) => !only || x.includes(only))) {

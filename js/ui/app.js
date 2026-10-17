@@ -11,9 +11,12 @@ import * as resultsScreen from './results.js';
 import * as seasonScreen from './season.js';
 import * as retainScreen from './retain.js';
 import * as tradeScreen from './trade.js';
+import * as hubScreen from './hub.js';
+import { createCareer, beginRetain, finishRetain, beginAuction, auctionScenario, finishAuction, beginSeason, seasonScenario, finishSeason, leagueBase, USER } from '../engine/career.js';
+import { activateLeague } from '../engine/league.js';
 
 const SAVE_KEY = 'ipl-auction-sim:save:v1';
-const SCREENS = { setup: setupScreen, pre: preScreen, auction: auctionScreen, results: resultsScreen, season: seasonScreen, retain: retainScreen, trade: tradeScreen };
+const SCREENS = { setup: setupScreen, pre: preScreen, auction: auctionScreen, results: resultsScreen, season: seasonScreen, retain: retainScreen, trade: tradeScreen, hub: hubScreen };
 
 const root = document.getElementById('app');
 const cache = {};
@@ -26,9 +29,78 @@ const ctx = {
   scn: null,
   game: null,
   async scenario(id) { return cache[id] || (cache[id] = await loadScenario(id)); },
-  base() { return cache[dataFor(ctx.game.setup.scenario)]; },
+  base() { return ctx.game.career ? leagueBase(ctx.game.career, ctx.game.league) : cache[dataFor(ctx.game.setup.scenario)]; },
   save() {
-    try { if (ctx.game) localStorage.setItem(SAVE_KEY, JSON.stringify(ctx.game)); } catch { /* storage unavailable */ }
+    // A career's league views (game.world) are rebuilt from the career on load, so they aren't saved.
+    try { if (ctx.game) localStorage.setItem(SAVE_KEY, JSON.stringify(ctx.game.career ? { ...ctx.game, world: null } : ctx.game)); } catch { /* storage unavailable */ }
+  },
+  async worldData() {
+    if (!cache.world) {
+      const r = await fetch('data/career/world.json');
+      if (!r.ok) throw new Error(`Could not load the career data (${r.status})`);
+      cache.world = await r.json();
+    }
+    return cache.world;
+  },
+
+  // ---------- career mode ----------
+  async newCareer(opts) {
+    const data = await ctx.worldData();
+    const seed = (Math.random() * 2 ** 31) >>> 0;
+    const career = createCareer(data, { ...opts, seed });
+    ctx.game = { v: 3, career, league: opts.league, setup: { team: opts.team, difficulty: opts.difficulty, mode: opts.auctionMode, length: 'career', scenario: 'career', seed }, auction: null, season: null, world: null, screen: 'hub' };
+    activateLeague(opts.league);
+    ctx.save();
+    ctx.go('hub');
+  },
+
+  // Open one of your events (retentions, auction or season) from the hub.
+  openEvent(ev) {
+    const g = ctx.game, c = g.career, lg = ev.lg, me = c.coaches[USER].jobs[lg];
+    g.league = lg; g.setup.team = me;
+    activateLeague(lg);
+    if (ev.kind === 'retain') {
+      c.pending = { ev: ev.id, kind: 'retain', lg };
+      const r = beginRetain(c, ev);
+      g.world = r.world;
+      g.retainPicks = suggestFor(r.world, me);
+      g.offseason = null;
+      ctx.save(); ctx.go('retain');
+    } else if (ev.kind === 'auction') {
+      const { scn, state } = beginAuction(c, ev, { userTeam: me });
+      ctx.scn = scn; g.auction = state; g.prediction = null;
+      ctx.save(); ctx.go('pre');
+    } else if (ev.kind === 'season') {
+      const { scn, season } = beginSeason(c, ev, { userTeam: me });
+      ctx.scn = scn; g.season = season;
+      ctx.save(); ctx.go('season');
+    }
+  },
+
+  resumeEvent() {
+    const g = ctx.game, pd = g.career.pending;
+    if (!pd) return ctx.go('hub');
+    g.league = pd.lg; g.setup.team = g.career.coaches[USER].jobs[pd.lg];
+    activateLeague(pd.lg);
+    if (pd.kind === 'retain') ctx.go('retain');
+    else if (pd.kind === 'auction') { ctx.scn = auctionScenario(g.career); ctx.go(g.auction?.phase === 'done' ? 'results' : 'pre'); }
+    else { ctx.scn = seasonScenario(g.career); ctx.go('season'); }
+  },
+
+  pendingEvent() { const c = ctx.game.career; return c.events.find((e) => e.id === c.pending?.ev); },
+
+  careerAuctionDone() {
+    const g = ctx.game;
+    finishAuction(g.career, ctx.pendingEvent(), g.auction);
+    g.auction = null; g.prediction = null;
+    ctx.save(); ctx.go('hub');
+  },
+
+  careerSeasonDone() {
+    const g = ctx.game;
+    finishSeason(g.career, ctx.pendingEvent(), g.season, ctx.scn);
+    g.season = null;
+    ctx.save(); ctx.go('hub');
   },
   loadSave() {
     try { const s = localStorage.getItem(SAVE_KEY); return s ? JSON.parse(s) : null; } catch { return null; }
@@ -70,6 +142,15 @@ const ctx = {
   },
 
   async resume(saved) {
+    if (saved.career) {
+      ctx.game = saved;
+      activateLeague(saved.league || 'ipl');
+      const pd = saved.career.pending;
+      if (pd?.kind === 'auction') ctx.scn = auctionScenario(saved.career);
+      else if (pd?.kind === 'season') ctx.scn = seasonScenario(saved.career);
+      ctx.go(pd ? (saved.screen === 'hub' ? 'hub' : saved.screen || 'hub') : 'hub');
+      return;
+    }
     const base = await ctx.scenario(dataFor(saved.setup.scenario));
     // Dynasty and derived games run on their own evolving copy of the world.
     ctx.scn = saved.world?.current ? scenarioFromWorld(saved.world, base) : base;
@@ -113,6 +194,13 @@ const ctx = {
   },
 
   confirmRetentions(ids) {
+    if (ctx.game.career) {
+      const g = ctx.game;
+      finishRetain(g.career, ctx.pendingEvent(), g.world, ids);
+      g.career.pending = null; g.world = null; g.retainPicks = null; g.careerTrades = null;
+      ctx.save(); ctx.go('hub');
+      return;
+    }
     const g = ctx.game, w = g.world, me = g.setup.team, base = ctx.base();
     const retained = {};
     for (const t of base.teams) retained[t.id] = t.id === me ? ids : suggestFor(w, t.id);
@@ -130,6 +218,12 @@ const ctx = {
 
   go(screen) {
     if (current?.unmount) current.unmount();
+    // Career retentions: rebuild the league view from the career (trades may have changed squads).
+    const c = ctx.game?.career;
+    if (c && screen === 'retain' && c.pending?.kind === 'retain') {
+      activateLeague(c.pending.lg);
+      ctx.game.world = beginRetain(c, ctx.pendingEvent()).world;
+    }
     if (ctx.game && screen !== 'setup') { ctx.game.screen = screen; ctx.save(); }
     current = SCREENS[screen];
     root.innerHTML = '';

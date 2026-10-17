@@ -1,0 +1,2082 @@
+{{Short description|Twenty20 cricket tournament}}
+{{good article}}
+{{Use Indian English|date=June 2026}}
+{{Use dmy dates|date=June 2026}}
+{{Infobox cricket tournament
+| name = 2026 Indian Premier League
+| image = 2026 IPL logo.jpg
+| fromdate = 28 March
+| todate = 31 May 2026
+| administrator = [[Board of Control for Cricket in India]]
+| cricket format = [[Twenty20]]
+| tournament format = [[Group stage]] and [[playoffs]]
+| participants = 10
+| matches = 74
+| champions = [[Royal Challengers Bengaluru]]
+| count = 2
+| runner up = [[Gujarat Titans]]
+| most valuable player = [[Vaibhav Sooryavanshi]] ([[Rajasthan Royals]])
+| most runs = Vaibhav Sooryavanshi (Rajasthan Royals) (776)
+| most wickets = [[Kagiso Rabada]] (Gujarat Titans) (29)
+| website = {{URL|iplt20.com}}
+| previous_year = 2025
+| previous_tournament = 2025 Indian Premier League
+| next_year = 2027
+| next_tournament = 2027 Indian Premier League
+}}
+{{2026 Indian Premier League Teams|main=y}}
+
+The '''2026 Indian Premier League''', also known as '''IPL 19''' and branded as '''TATA IPL 2026''', was the 19th edition of the [[Indian Premier League]], a professional [[Twenty20]] [[cricket]] league. The tournament featured 10 teams competing in 74 matches from 28 March to 31 May across 13 venues.
+
+Defending champions [[Royal Challengers Bengaluru]] defeated [[Gujarat Titans]] by 5 wickets in [[2026 Indian Premier League final|the final]] to secure their second consecutive IPL title. They became the first franchise to win the IPL and the [[2026 Women's Premier League (cricket)|Women's Premier League]] in the same year. [[Vaibhav Sooryavanshi]] of [[Rajasthan Royals]] scored the most runs (776) while [[Kagiso Rabada]] of Gujarat took the most wickets (29). Sooryavanshi was also named the most valuable player of the tournament.
+
+== Background ==
+The [[Indian Premier League]] (IPL) is a professional [[Twenty20]] (T20) [[cricket]] league, organised by the [[Board of Control for Cricket in India]] (BCCI). It has been held annually since the [[2008 Indian Premier League|first edition in 2008]].<ref>{{Cite web |title=Indian Premier League |url=https://www.britannica.com/topic/Indian-Premier-League |access-date=16 December 2025 |website=[[Britannica.com]] |language=en-uk|archive-url=https://web.archive.org/web/20250317155833/https://www.britannica.com/topic/Indian-Premier-League|archive-date=17 March 2025|url-status=live}}</ref> [[Royal Challengers Bengaluru]] were the defending champions, having won their maiden title in the [[2025 Indian Premier League|previous season]] after defeating [[Punjab Kings]] in the [[2025 Indian Premier League final|final]].<ref>{{Cite news |date=2025-06-03 |title=RCB and Virat Kohli end 18-year wait for IPL glory with six-run defeat of Punjab Kings |url=https://www.theguardian.com/sport/2025/jun/03/rcb-and-virat-kohli-end-18-year-wait-for-ipl-glory-with-six-run-defeat-of-punjab-kings |access-date=2025-12-23 |work=[[The Guardian]] |language=en-GB |issn=0261-3077}}</ref>
+
+=== Format ===
+Each team played once against the teams in their group and twice against the teams in the other group. After the [[#League stage|group stage]], the top four teams, based on aggregate points, advanced to the [[#Playoffs|playoffs]]. In this stage, the top two teams competed with each other (in a match titled "[[#Qualifier 1|Qualifier 1]]"), as did the remaining two teams (in a match titled "[[#Eliminator|Eliminator]]"). While the winner of the Qualifier 1 directly qualified for the final match, the losing team had another chance to qualify for the final match by competing against the winning team of the Eliminator (in a match titled "[[#Qualifier 2|Qualifier 2]]"). The winner of this subsequent Qualifier 2 advanced to the final match. Teams were seeded into groups based on the number of titles they had won.<ref name="sch2">{{Cite web |first=Nagraj |last=Gollapudi |title=Mumbai to face CSK and RCB twice as IPL releases full league stage schedule |url=https://www.espncricinfo.com/story/ipl-announces-full-league-stage-schedule-1529214 |access-date=27 March 2026 |date=26 March 2026 |publisher=[[Cricinfo|ESPNcricinfo]] |language=en |archive-date=27 March 2026 |archive-url=https://web.archive.org/web/20260327093618/https://www.espncricinfo.com/story/ipl-announces-full-league-stage-schedule-1529214 |url-status=live}}</ref><ref name="faq">{{Cite web |first=Hemant |last=Brar |title=IPL 2026 FAQs: New venue, big trades, and the million dollar Thala question |url=https://www.espncricinfo.com/story/ipl-2026-faqs-new-venues-big-trades-and-the-age-old-dhoni-question-1529084 |access-date=27 March 2026 |date=25 March 2026 |publisher=[[Cricinfo|ESPNcricinfo]] |language=en}}</ref><ref>{{Cite web |title=IPL 2023 to be played from March 31 to May 28 |url=https://www.espncricinfo.com/story/ipl-2023-to-begin-on-march-31-1359430 |archive-url=https://web.archive.org/web/20250805213000/https://www.espncricinfo.com/story/ipl-2023-to-begin-on-march-31-1359430 |archive-date=5 August 2025 |access-date=2026-03-27 |publisher=[[Cricinfo|ESPNcricinfo]] |language=en |url-status=live}}</ref>
+
+The [[Indian Premier League#Organization|IPL Governing Council]] had initially announced that the IPL would expand to 84 matches for 2026 and 2027,<ref>{{Cite web |title=IPL 2025: No increase in the number of matches as BCCI wary of India's workload |url=https://www.espncricinfo.com/story/ipl-2025-with-player-workload-in-mind-no-increase-in-number-of-matches-played-1452783 |access-date=2024-10-01 |publisher=[[Cricinfo|ESPNcricinfo]] |language=en |archive-date=25 May 2025 |archive-url=https://web.archive.org/web/20250525221102/https://www.espncricinfo.com/story/ipl-2025-with-player-workload-in-mind-no-increase-in-number-of-matches-played-1452783 |url-status=live}}</ref> with it expected to expand to 94 matches from 2028 onwards with the return of the complete [[double round-robin]] format that was used until 2021.<ref>{{Cite web |title=Arun Dhumal hints at expanded 94-match IPL in 2028 but without new teams |url=https://www.espncricinfo.com/story/ipl-could-expand-to-94-matches-in-2028-with-csk-dc-mi-rcb-kkr-gt-pbks-srh-rr-and-lsg-as-the-ten-teams-1483410 |archive-url=https://web.archive.org/web/20250429015210/https://www.espncricinfo.com/story/ipl-could-expand-to-94-matches-in-2028-with-csk-dc-mi-rcb-kkr-gt-pbks-srh-rr-and-lsg-as-the-ten-teams-1483410 |archive-date=29 April 2025 |access-date=2025-12-23 |publisher=[[Cricinfo|ESPNcricinfo]] |language=en |url-status=live}}</ref> However, the number of matches was kept as 74 for one more edition as it was in the previous four seasons.<ref>{{cite web |title=IPL 2026 Full Schedule Release: BCCI Confirms 74-Game Format |url=https://news.abplive.com/sports/cricket/bcci-ipl-2026-full-schedule-release-no-expansion-to-84-matches-full-fixtures-expected-shortly-1832535 |work=[[ABP Live]] |date=23 March 2026 |access-date=31 March 2026}}</ref>
+
+{| class="wikitable"
+! style="width:50%;" | Group A || style="width:50%;" | Group B
+|-
+| [[Chennai Super Kings]] || [[Mumbai Indians]]
+|-
+| [[Kolkata Knight Riders]] || [[Sunrisers Hyderabad]]
+|-
+| [[Rajasthan Royals]] || [[Gujarat Titans]]
+|-
+| [[Royal Challengers Bengaluru]] || [[Delhi Capitals]]
+|-
+| [[Punjab Kings]] || [[Lucknow Super Giants]]
+|}
+
+=== Schedule ===
+According to [[Cricinfo|ESPNcricinfo]], the dates of the tournament window for the three seasons between 2025 and 2027 were sent to franchises ahead of the [[List of 2025 Indian Premier League personnel changes|2025 auction]].<ref>{{Cite web |title=IPL 2025 to begin on March 14; dates for next three seasons revealed |url=https://www.espncricinfo.com/story/ipl-2025-to-begin-on-march-14-dates-for-next-three-seasons-revealed-1460927 |access-date=22 November 2024 |publisher=[[Cricinfo|ESPNcricinfo]] |language=en |archive-date=22 November 2024 |archive-url=https://web.archive.org/web/20241122030301/https://www.espncricinfo.com/story/ipl-2025-to-begin-on-march-14-dates-for-next-three-seasons-revealed-1460927 |url-status=live}}</ref> In November 2024, the tentative dates for the three seasons were announced, with the 2026 edition set to take place from 15 March to 31 May.<ref>{{Cite web |title=BCCI announces dates for IPL 2025, 2026 and 2027 all at once in never-before-heard move |url=https://www.hindustantimes.com/cricket/ipl-2025-to-start-on-march-14-as-dates-for-next-three-seasons-revealed-101732247112302.html |access-date=22 November 2024 |work=[[Hindustan Times]] |date=22 November 2024 |language=en |archive-date=22 November 2024 |archive-url=https://web.archive.org/web/20241122040833/https://www.hindustantimes.com/cricket/ipl-2025-to-start-on-march-14-as-dates-for-next-three-seasons-revealed-101732247112302.html |url-status=live}}</ref> In December 2025, it was announced that the 2026 season would commence on 26 March to allow for a three-week gap after the [[2026 Men's T20 World Cup final]] scheduled to take place on 8 March.<ref>{{Cite web |title=IPL 2026 to be held between March 26 and May 31 |url=https://www.espncricinfo.com/story/ipl-2026-to-be-held-between-march-26-and-may-31-1515758 |access-date=23 December 2025 |publisher=[[Cricinfo|ESPNcricinfo]] |language=en |archive-date=23 December 2025 |archive-url=https://web.archive.org/web/20251223004319/https://www.espncricinfo.com/story/ipl-2026-to-be-held-between-march-26-and-may-31-1515758 |url-status=live}}</ref> In February 2026, it was announced that the 2026 season would commence 2 days later on 28 March.<ref name="sch0">{{Cite web |first=Nagraj |last=Gollapudi |title=IPL 2026 to begin on March 28, final scheduled for May 31 |url=https://www.espncricinfo.com/story/ipl-2026-to-begin-on-march-28-and-the-final-is-scheduled-for-may-31-1526195 |access-date=27 March 2026 |date=27 February 2026 |publisher=[[Cricinfo|ESPNcricinfo]] |language=en}}</ref> This led to a clash with the [[2026 Pakistan Super League]] for the second consecutive year taking place from 26 March to 3 May 2026, which was again moved from its typical February–March window for the same reason.<ref>{{Cite web |date=2025-12-16 |title=PSL 2026 Set To Clash With IPL Again As PCB Courts Global Investors Ahead Of Franchise Expansion |url=https://www.wisden.com/series/hbl-pakistan-super-league/cricket-news/psl-2026-set-to-clash-with-ipl-again-as-pcb-courts-global-investors-ahead-of-franchise-expansion |access-date=2025-12-23 |website=Wisden |language=en}}</ref>
+
+In March 2026, it was announced that the fixtures for that season would be announced in two parts due to the [[2026 elections in India#State Assembly elections|state assembly elections]] in [[2026 Assam Legislative Assembly election|Assam]], [[2026 Tamil Nadu Legislative Assembly election|Tamil Nadu]], and [[2026 West Bengal Legislative Assembly election|West Bengal]];<ref name="sch0"/><ref>{{Cite web |first=Shayan |last=Acharya |title=Assembly elections force BCCI to delay IPL 2026 schedule announcement |url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/ipl-2026-schedule-announcement-date-postponed-elections-west-bengal-tamil-nadu-bcci/article70699371.ece |access-date=27 March 2026 |date=3 March 2026 |work=[[Sportstar]] |language=en}}</ref> for which the dates were not announced till 15 March.<ref>{{Cite news |date=2026-03-15 |title=Assam Election Date 2026: Assam to vote on April 9; results on May 4 |url=https://economictimes.indiatimes.com/news/elections/assembly-elections/assam/assam-election-2026-result-date-when-will-votes-be-counted-in-assembly-polls-set-on-april-9-counting-on-may-4/articleshow/129588073.cms |access-date=2026-03-27 |work=[[The Economic Times]] |issn=0013-0389}}</ref><ref>{{Cite news |date=2026-03-15 |title=Tamil Nadu Assembly elections 2026: full schedule |url=https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-elections-2026-full-schedule-poll-date-counting-date-nominations-date/article70746432.ece |access-date=2026-03-27 |work=[[The Hindu]] |language=en-IN |issn=0971-751X}}</ref><ref>{{Cite web |date=15 March 2026 |title=West Bengal assembly elections on April 23 and April 29, results on May 4 |url=https://www.hindustantimes.com/india-news/west-bengal-assembly-election-voting-date-nominations-results-date-time-phases-full-schedule-101773569374988.html |access-date=15 March 2026 |work=[[Hindustan Times]] |language=en}}</ref> The first part of the schedule comprising the first twenty matches was announced on 11 March, with the inaugural match being hosted at [[M. Chinnaswamy Stadium]] between the defending champions Royal Challengers Bengaluru and [[Sunrisers Hyderabad]] on 28 March.<ref name="sch1">{{Cite web |first=Nagraj |last=Gollapudi |title=RCB vs SRH to kick off IPL 2026 in Bengaluru on March 28 |url=https://www.espncricinfo.com/story/ipl-2026-to-kick-off-with-rcb-vs-srh-game-on-march-28-at-m-chinnaswamy-stadium-in-bengaluru-1527318 |access-date=27 March 2026 |date=11 March 2026 |publisher=[[Cricinfo|ESPNcricinfo]] |language=en}}</ref> The complete fixtures for the league stage were announced on 26 March.<ref name="sch2"/> On 6 May the playoff fixtures were confirmed<ref name="pos1">{{cite web |access-date=6 May 2026 |title=Schedule for TATA IPL 2026 Playoffs announced; Ahmedabad to Host Grand Finale |url=https://www.iplt20.com/news/4332/schedule-for-tata-ipl-2026-playoffs-announced-ahmedabad-to-host-grand-finale |website=[[IPLT20.com]]}}</ref> with the Qualifier 1 at [[Himachal Pradesh Cricket Association Stadium|HPCA Cricket Stadium]] on 26 May, the Eliminator and Qualifier 2 at [[Maharaja Yadavindra Singh International Cricket Stadium|Maharaja Yadavindra Singh Stadium]] on 27 and 29 May,<ref name="pos3">{{Cite web |last=Sharma |first=Shivam |date=2026-04-03 |title=IPL 2026 Playoffs & Final: Complete Schedule With Dates And Venues |url=https://news.abplive.com/sports/cricket/ipl-2026-playoffs-and-final-complete-schedule-with-dates-and-venues-1834490 |access-date=2026-05-07 |work=[[ABP Live]] |language=en}}</ref> and the final at [[Narendra Modi Stadium]] on 31 May, with the venue hosting its fourth final after [[2022 Indian Premier League final|2022]], [[2023 Indian Premier League final|2023]] and 2025.<ref name="pos2">{{Cite web |last=Fatima |first=Uzma |date=2026-05-06 |title=Why BCCI Shifted IPL 2026 Final From Bengaluru's M Chinnaswamy to Narendra Modi Stadium in Ahmedabad? Check Playoffs Venues And Schedule |url=https://sundayguardianlive.com/sports/why-bcci-shifted-ipl-2026-final-from-bengalurus-m-chinnaswamy-to-narendra-modi-stadium-in-ahmedabad-check-playoffs-venues-and-schedule-189619/ |access-date=2026-05-07 |work=[[The Sunday Guardian]] |language=en}}</ref><ref>{{cite web |access-date=6 May 2026 |title=BCCI announces schedule for IPL 2026 Playoffs: Bengaluru loses out; Ahmedabad gets fourth final |url=https://www.hindustantimes.com/cricket/bcci-announces-schedule-for-ipl-2026-playoffs-bengaluru-lose-out-ahmedabad-gets-fourth-final-101778050230401.html |work=[[Hindustan Times]]}}</ref>
+
+=== Exclusion of Mustafizur Rahman ===
+{{see also|2026 Men's T20 World Cup#Withdrawal of Bangladesh}}
+Bangladeshi fast bowler [[Mustafizur Rahman]] was bought by [[Kolkata Knight Riders]] for {{INRConvert|9.2|c|lk=on}} in the auction.<ref>{{Cite web|title=IPL 2026 Auction: Mustafizur Rahman sold to KKR for Rs. 9.20 crore|url=https://sportstar.thehindu.com/cricket/ipl/ipl-news/mustafizur-rahman-ipl-2026-auction-kkr-kolkata-knight-riders-920-crore/article70403422.ece|work=[[Sportstar]]|language=en|date=16 December 2025|access-date=3 January 2026}}</ref> Following [[2025 Bangladesh anti-Hindu violence|anti-Hindu violence in Bangladesh during 2025]] and the [[lynching of Dipu Chandra Das]] in [[December 2025 Bangladesh violence|December 2025]], there were calls for the exclusion of Bangladeshi players from the IPL.<ref>{{Cite web|title=KKR And Mustafizur Rahman Controversy Explained: What Is It About?|url=https://www.news18.com/cricket/kkr-and-mustafizur-rahman-controversy-explained-what-is-it-about-ws-kln-9804495.html|work=[[News18]]|language=en|date=2 January 2026|access-date=3 January 2026|archive-date=1 January 2026|archive-url=https://web.archive.org/web/20260101185309/https://www.news18.com/cricket/kkr-and-mustafizur-rahman-controversy-explained-what-is-it-about-ws-kln-9804495.html|url-status=live}}</ref> In January 2026, the BCCI requested that the franchise release Rahman from the squad and permitted them to select a replacement player.<ref>{{Cite web|title=KKR release Mustafizur from IPL 2026 squad following BCCI instructions|url=https://www.espncricinfo.com/story/ipl-2026-bcci-asks-kkr-to-release-mustafiqur-rahman-from-their-squad-because-of-recent-developments-1517878|publisher=[[Cricinfo|ESPNcricinfo]]|language=en|access-date=3 January 2026|archive-date=3 January 2026|archive-url=https://web.archive.org/web/20260103060823/https://www.espncricinfo.com/story/ipl-2026-bcci-asks-kkr-to-release-mustafiqur-rahman-from-their-squad-because-of-recent-developments-1517878|url-status=live}}</ref> This move was criticized by former Indian cricketer [[Madan Lal]],<ref>{{Cite web |last=Narayanan |first=V. M. Suriya |date=2026-01-03 |title=Former Indian cricketer blames political influence for BCCI's decision on Mustafizur Rahman |url=https://crictoday.com/cricket/news/former-indian-cricketer-blames-political-influence-for-bccis-decision-on-mustafizur-rahman/ |access-date=2026-01-04 |website=Crictoday |language=en-US |archive-date=12 January 2026 |archive-url=https://web.archive.org/web/20260112161727/https://crictoday.com/cricket/news/former-indian-cricketer-blames-political-influence-for-bccis-decision-on-mustafizur-rahman/ |url-status=live}}</ref> [[Indian National Congress|Congress]] politician [[Shashi Tharoor]],<ref>{{Cite web |date=2026-01-03 |title=Who are we punishing? Shashi Tharoor after KKR releases Bangladesh's Mustafizur Rahman |url=https://www.indiatoday.in/india/story/shashi-tharoor-kkr-mustafizur-rahman-bangladesh-unrest-hindu-atrocities-dipu-das-khokon-das-2846070-2026-01-03 |access-date=2026-01-04 |work=[[India Today]] |language=en |archive-date=3 January 2026 |archive-url=https://web.archive.org/web/20260103174125/https://www.indiatoday.in/india/story/shashi-tharoor-kkr-mustafizur-rahman-bangladesh-unrest-hindu-atrocities-dipu-das-khokon-das-2846070-2026-01-03 |url-status=live}}</ref> and former Bangladeshi captains [[Khaled Mahmud]] and [[Mohammad Ashraful]]<ref>{{Cite web |date=2026-01-03 |title='Totally shocked': Ex-Bangladesh captains voice concern over Mustafizur's IPL exclusion |url=https://www.thedailystar.net/sports/cricket/news/totally-shocked-ex-bangladesh-captains-voice-concern-over-mustafizurs-ipl-exclusion-4072191 |access-date=2026-01-04 |work=[[The Daily Star (Bangladesh)|The Daily Star]] |language=en |archive-date=4 January 2026 |archive-url=https://web.archive.org/web/20260104221707/https://www.thedailystar.net/sports/cricket/news/totally-shocked-ex-bangladesh-captains-voice-concern-over-mustafizurs-ipl-exclusion-4072191 |url-status=live}}</ref> while former Indian cricketer [[Aakash Chopra]] and<ref>{{Cite web |date=2026-01-04 |title=What Is Mustafizur Rahman's Fault? Ex-KKR Star Responds With Epic 'Pakistan' Example |url=https://sports.ndtv.com/ipl-2026/what-is-mustafizur-rahmans-fault-ex-kkr-star-responds-with-epic-pakistan-example-10247560 |work=[[NDTV Sports]] |language=en |access-date=4 January 2026 |archive-date=4 January 2026 |archive-url=https://web.archive.org/web/20260104045114/https://sports.ndtv.com/ipl-2026/what-is-mustafizur-rahmans-fault-ex-kkr-star-responds-with-epic-pakistan-example-10247560 |url-status=live}}</ref> [[Bharatiya Janata Party|BJP]] politician [[Sangeet Singh Som]] defended the BCCI's move.<ref>{{Cite web |date=2026-01-03 |title='Win for Hindus': BJP leaders, spiritual gurus hail Bangladeshi player Mustafizur Rahman's KKR exit |url=https://www.tbsnews.net/world/south-asia/win-hindus-bjp-leaders-spiritual-gurus-hail-bangladeshi-player-mustafizur-rahmans |access-date=2026-01-04 |work=[[The Business Standard]] |language=en |archive-date=5 January 2026 |archive-url=https://web.archive.org/web/20260105063307/https://www.tbsnews.net/world/south-asia/win-hindus-bjp-leaders-spiritual-gurus-hail-bangladeshi-player-mustafizur-rahmans |url-status=live}}</ref>
+
+This led the BCCI to put the [[Indian cricket team in Bangladesh in 2026|Indian tour of Bangladesh]] on hold due to tensions.<ref>{{Cite web |title=Like with Pakistan, India-Bangladesh cricket ties could snap after BCCI asks IPL franchise Shahrukh Khan's KKR, to eject Mustafizur Rahman from team |url=https://indianexpress.com/article/sports/cricket/bcci-puts-indias-bangladesh-tour-on-hold-amid-political-uncertainty-10453303/ |access-date=2026-01-03 |work=[[The Indian Express]] |language=en |archive-date=3 January 2026 |archive-url=https://web.archive.org/web/20260103102254/https://indianexpress.com/article/sports/cricket/bcci-puts-indias-bangladesh-tour-on-hold-amid-political-uncertainty-10453303/ |url-status=live}}</ref> Furthermore, the [[Bangladesh Cricket Board]] requested the [[International Cricket Council]] (ICC) to shift their matches at the [[2026 Men's T20 World Cup]] which was to be co-hosted by India and Sri Lanka, out of India, similar to that of Pakistan's.<ref>{{cite news |date=4 January 2026 |title=Bangladesh refuse to travel to India for T20 World Cup |url=https://www.espncricinfo.com/story/2026-t20-world-cup-bangladesh-refuse-to-travel-to-india-for-t20-world-cup-1518033 |publisher=[[Cricinfo|ESPNcricinfo]] |access-date=4 January 2026 |archive-date=5 January 2026 |archive-url=https://web.archive.org/web/20260105080256/https://www.espncricinfo.com/story/2026-t20-world-cup-bangladesh-refuse-to-travel-to-india-for-t20-world-cup-1518033 |url-status=live}}</ref><ref>{{cite news |date=13 January 2026 |title=BCB firm on stance that Bangladesh won't travel to India for T20 World Cup |url=https://www.espncricinfo.com/story/bcb-firm-on-stance-that-bangladesh-won-t-travel-to-india-for-t20-world-cup-1519348 |publisher=[[Cricinfo|ESPNcricinfo]] |access-date=16 January 2026 |archive-date=14 January 2026 |archive-url=https://web.archive.org/web/20260114052724/https://www.espncricinfo.com/story/bcb-firm-on-stance-that-bangladesh-won-t-travel-to-india-for-t20-world-cup-1519348 |url-status=live}}</ref> But the request was rejected by the ICC, and Bangladesh ultimately withdrew from the T20 World Cup.<ref>{{cite news |date=12 January 2026 |title=No specific threat to Bangladesh team in India, says ICC security assessment |url=https://www.espncricinfo.com/story/no-specific-threat-to-bangladesh-team-in-india-for-2026-t20-world-cup-says-icc-security-assessment-1519243 |publisher=[[Cricinfo|ESPNcricinfo]] |access-date=13 January 2026 |archive-date=13 January 2026 |archive-url=https://web.archive.org/web/20260113044212/https://www.espncricinfo.com/story/no-specific-threat-to-bangladesh-team-in-india-for-2026-t20-world-cup-says-icc-security-assessment-1519243 |url-status=live}}</ref><ref name="Scot">{{cite news |date=24 January 2026 |title=Scotland to replace Bangladesh at T20 World Cup |url=https://www.icc-cricket.com/news/scotland-to-replace-bangladesh-at-t20-world-cup |access-date=31 January 2026 |publisher=[[International Cricket Council]] |archive-date=25 January 2026 |archive-url=https://web.archive.org/web/20260125091831/https://www.icc-cricket.com/news/scotland-to-replace-bangladesh-at-t20-world-cup |url-status=live}}</ref> The Bangladeshi government also banned the broadcast of IPL in their country.<ref>{{Cite news |last=Bhattacherjee |first=Kallol |date=2026-01-05 |title=Bangladesh bans IPL telecast, cites 'hurt sentiments' |url=https://www.thehindu.com/sport/cricket/bangladesh-bans-ipl-broadcast-in-another-retaliatory-move/article70473655.ece |access-date=2026-01-06 |work=[[The Hindu]] |language=en-IN |issn=0971-751X |archive-date=5 January 2026 |archive-url=https://web.archive.org/web/20260105165042/https://www.thehindu.com/sport/cricket/bangladesh-bans-ipl-broadcast-in-another-retaliatory-move/article70473655.ece |url-status=live}}</ref> Following the [[2026 Bangladeshi general election]], the newly elected government clarified that the broadcast of the IPL is not banned in their country anymore.<ref>{{Cite web|title=Bangladesh opens door to IPL broadcast |url=https://www.cricbuzz.com/cricket-news/138165/bangladesh-opens-door-to-ipl-broadcast-cricbuzzcom |publisher=[[Cricbuzz]] |date=28 March 2026 |access-date=27 May 2026}}</ref><ref>{{Cite web|title=Bangladesh clears IPL broadcast; government lifts restrictions |url=https://newsonair.gov.in/bangladesh-clears-ipl-broadcast-government-lifts-restrictions/ |work=News on Air |date=28 March 2026 |access-date=30 May 2026}}</ref>
+
+=== Marketing ===
+The [[Tata Group]] renewed their contract as the title sponsors of the IPL for a tenure of 5 years (2024–2028) for {{INRConvert|2500|c}}.<ref>{{cite news|title=TATA Group secures title sponsorship rights for IPL 2024-28|website=[[IPLT20.com]]|url=https://www.iplt20.com/news/3986/tata-group-secures-title-sponsorship-rights-for-ipl-2024-28|access-date=1 March 2024|date=20 January 2024|archive-date=21 February 2024|archive-url=https://web.archive.org/web/20240221053306/https://www.iplt20.com/news/3986/tata-group-secures-title-sponsorship-rights-for-ipl-2024-28|url-status=live}}</ref> The advertising campaign for the 2026 IPL consisted of 27 sponsors including – [[Google AI Mode]], Campa Energy, [[Havells|Havells & Lloyd]], [[Aditya Birla Group|Birla Opus]], [[Hero MotoCorp]] and [[Amazon (company)|Amazon]].<ref>{{Cite news |date=2026-03-26 |title=IPL 2026 advertisement gold rush: JioStar locks in 27 sponsors, big tech to FMCG pile in |url=https://economictimes.indiatimes.com/industry/media/entertainment/media/ipl-2026-advertisement-gold-rush-jiostar-locks-in-27-sponsors-big-tech-to-fmcg-pile-in/articleshow/129818441.cms |access-date=2026-05-07 |work=[[The Economic Times]] |issn=0013-0389}}</ref>
+
+=== Broadcasting ===
+[[JioStar]]'s [[Star Sports (India)|Star Sports]] and [[JioHotstar]], held the television and digital  rights respectively, for the remainder of the 2023–2027 cycle.<ref>{{Cite web |last=McCaskill |first=Steve |date=2025-12-08 |title=JioStar seeks exit from US$3bn ICC cricket deal |url=https://www.sportspro.com/news/broadcast-ott/jiostar-icc-cricket-india-rights-deal-december-2025/ |access-date=2025-12-23 |website=[[SportsPro]] |language=en-GB |quote=JioStar also owns the domestic broadcast and streaming rights to the IPL [...] |archive-date=8 December 2025 |archive-url=https://web.archive.org/web/20251208131607/https://www.sportspro.com/news/broadcast-ott/jiostar-icc-cricket-india-rights-deal-december-2025/ |url-status=live}}</ref> In the opening weekend of the season which included two matches, linear television reported 7.84 million viewership, with an 18.8% drop in the average television viewership rating compared to last season, while JioHotstar reported 515 million viewership, with a 26% increase in total watch time to 32.6 billion minutes.<ref>{{Cite web |date=2026-05-04 |title=IPL 2026 Viewership slump: Linear TV ratings drop 18.8%, advertiser participation declines by 31% |url=https://www.financialexpress.com/sports/ipl-2026-viewership-slump-linear-tv-ratings-drop-18-percent-advertiser-participation-falls-31-percent/4231472/ |access-date=2026-05-07 |work=[[The Financial Express (India)|The Financial Express]] |language=en}}</ref><ref>{{Cite web |last=Menon |first=Balaram |date=2026-04-02 |title=IPL 2026 opening weekend shatters viewership records |url=https://gulfnews.com/sport/cricket/ipl/ipl-2026-opens-to-massive-audiences-setting-new-engagement-benchmarks-1.500493910 |access-date=2026-05-07 |work=[[Gulf News]] |language=en}}</ref>
+
+== Teams ==
+[[File:2026 Indian Premier League captains.jpg|thumb|upright=1.75|Team captains during a promotional event for the 2026 IPL.|alt=Ten team captains posing with the IPL trophy]]
+The same 10 teams from the previous season returned.
+{| class="wikitable"
+! scope="col" | Group || Team || [[2025 Indian Premier League|2025]] performance<ref>{{ESPNcricinfo 2|series-sub|id=ipl-2025-1449924|sub=points table|event=2025 Indian Premier League|access-date=22 December 2025|dynamic=n|archive-url=https://web.archive.org/web/20250816101807/https://www.espncricinfo.com/series/ipl-2025-1449924/points-table-standings|archive-date=16 August 2025}}</ref> || Head coach<ref>{{Cite news |date=2026-03-18 |title=IPL 2026: List of coaches for all 10 teams |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-list-of-coaches-for-all-10-teams/articleshow/129660608.cms |access-date=2026-03-23 |work=[[The Times of India]] |issn=0971-8257}}</ref> || Captain<ref>{{Cite news |date=2026-03-18 |title=IPL 2026 captains: All skippers leading Indian Premier League teams - full list |url=https://www.olympics.com/en/news/ipl-2026-captains-list-cricket-indian-premier-league |access-date=2026-03-27 |website=[[Olympics.com]]}}</ref>
+|-
+! scope="rowgroup" rowspan="5" | A
+| [[2026 Chennai Super Kings season|Chennai Super Kings]] || {{center|10th}} || [[Stephen Fleming]] || [[Ruturaj Gaikwad]]
+|-
+| [[2026 Kolkata Knight Riders season|Kolkata Knight Riders]] || {{center|8th}} || [[Abhishek Nayar]]<ref>{{cite web |title=Abhishek Nayar appointed Kolkata Knight Riders head coach |date=26 October 2025 |url=https://indianexpress.com/article/sports/cricket/abhishek-nayar-appointed-kolkata-knight-riders-head-coach-10327578/lite/ |work=[[The Indian Express]]}}</ref> || [[Ajinkya Rahane]]
+|-
+| [[2026 Punjab Kings season|Punjab Kings]] || {{center|Runners-up}} || [[Ricky Ponting]] || [[Shreyas Iyer]]
+|-
+| [[2026 Rajasthan Royals season|Rajasthan Royals]] || {{center|9th}} || [[Kumar Sangakkara]]<ref>{{cite web |access-date=15 November 2025 |title=Kumar Sangakkara back to helm Rajasthan Royals' coaching staff|url=https://www.espncricinfo.com/story/kumar-sangakkara-back-to-helm-rajasthan-royals-coaching-staff-1504458 |publisher=[[Cricinfo|ESPNcricinfo]] |date=25 September 2025}}</ref> || [[Riyan Parag]]<ref>{{cite web |access-date=14 February 2026 |title=Riyan Parag named Rajasthan Royals' new captain |url=https://www.espncricinfo.com/story/ipl-2026-riyan-parag-named-rajasthan-royals-new-captain-1523698 |publisher=[[Cricinfo|ESPNcricinfo]] |date=13 February 2026}}</ref>{{efn|name=Jaiswal|[[Yashasvi Jaiswal]] captained [[Rajasthan Royals]] against [[Gujarat Titans]] when [[Riyan Parag]] was unavailable.<ref>{{Cite web |date=2026-05-09 |title=IPL 2026: Why has Yashasvi Jaiswal replaced Riyan Parag as captain in RR vs GT? |url=https://sportstar.thehindu.com/cricket/ipl/rr-vs-gt-ipl-2026-yashasvi-jaiswal-riyan-parag-rajasthan-royals-captain-replaced-reason-latest-news/article70959275.ece |access-date=2026-05-29 |work=[[Sportstar]] |language=en}}</ref>}}
+|-
+| [[2026 Royal Challengers Bengaluru season|Royal Challengers Bengaluru]] || {{center|Champions}} || [[Andy Flower]] || [[Rajat Patidar]]{{efn|name=Jitesh|[[Jitesh Sharma]] captained [[Royal Challengers Bengaluru]] against [[Punjab Kings]] when [[Rajat Patidar]] was unavailable.<ref>{{Cite web |date=2026-05-17 |title=Jitesh Sharma stands in as RCB captain against Punjab Kings |url=https://sportstar.thehindu.com/cricket/ipl/jitesh-sharma-rcb-captain-rajat-patidar-injury-news-pbks-royal-challengers-bengaluru-ipl-2026/article70989981.ece |access-date=2026-05-27 |work=[[Sportstar]] |language=en}}</ref>}}
+|-
+! scope="rowgroup" rowspan="5" | B
+| [[2026 Delhi Capitals season|Delhi Capitals]] || {{center|5th}} || [[Hemang Badani]] || [[Axar Patel]]
+|-
+| [[2026 Gujarat Titans season|Gujarat Titans]] || {{center|4th}} || [[Ashish Nehra]] || [[Shubman Gill]]
+|-
+| [[2026 Lucknow Super Giants season|Lucknow Super Giants]] || {{center|7th}} || [[Justin Langer]] || [[Rishabh Pant]]
+|-
+| [[2026 Mumbai Indians season|Mumbai Indians]] || {{center|3rd}} || [[Mahela Jayawardene]] || [[Hardik Pandya]]{{efn|name=SKY|[[Suryakumar Yadav]] captained [[Mumbai Indians]] against [[Lucknow Super Giants]] and [[Royal Challengers Bengaluru]] when [[Hardik Pandya]] was unavailable.<ref>{{cite web |access-date=7 May 2026 |title=IPL 2026: Suryakumar Yadav leading MI vs LSG in Mumbai; here's why |url=https://www.business-standard.com/cricket/ipl/ipl-2026-suryakumar-yadav-leading-mi-vs-lsg-in-mumbai-here-s-why-126050401428_1.html |work=[[Business Standard]] |date=4 May 2026}}</ref>}}{{efn|name=Bumrah|[[Jasprit Bumrah]] captained [[Mumbai Indians]] against [[Punjab Kings]] when both [[Hardik Pandya]] and [[Suryakumar Yadav]] were unavailable.<ref>{{Cite news |title=Why Jasprit Bumrah Is Not Leading Mumbai Indians In IPL 2026 Match Against KKR? |url=https://www.news18.com/cricket/why-jasprit-bumrah-is-not-leading-mumbai-indians-in-ipl-2026-match-against-kkr-10102285.html |archive-url=https://web.archive.org/web/20260526191445/https://www.news18.com/cricket/why-jasprit-bumrah-is-not-leading-mumbai-indians-in-ipl-2026-match-against-kkr-10102285.html |archive-date=2026-05-26 |access-date=2026-05-27 |work=[[News18]] |language=en-US}}</ref>}}
+|-
+| [[2026 Sunrisers Hyderabad season|Sunrisers Hyderabad]] || {{center|6th}} || [[Daniel Vettori]] || [[Pat Cummins]]{{efn|name=Kishan|[[Ishan Kishan]] captained [[Sunrisers Hyderabad]] for the first half of the season (first 7 matches) when [[Pat Cummins]] was unavailable.<ref>{{cite web |access-date=27 March 2026 |title=Kishan to lead Sunrisers Hyderabad in Cummins' absence |url=https://www.espncricinfo.com/story/ipl-2026-srh-ishan-kishan-to-lead-sunrisers-hyderabad-in-pat-cummins-absence-1528345 |publisher=[[Cricinfo|ESPNcricinfo]] |date=18 March 2026 |archive-date=19 March 2026 |archive-url=https://web.archive.org/web/20260319083222/https://www.espncricinfo.com/story/ipl-2026-srh-ishan-kishan-to-lead-sunrisers-hyderabad-in-pat-cummins-absence-1528345 |url-status=live}}</ref><ref>{{cite web |access-date=7 May 2026 |title=Cummins cleared for IPL return, targeting late April comeback |url=https://www.espncricinfo.com/story/pat-cummins-cleared-for-ipl-return-targeting-late-april-comeback-1532080 |publisher=[[Cricinfo|ESPNcricinfo]] |date=16 April 2026}}</ref>}}
+|}{{notelist}}
+
+=== Personnel changes ===
+{{Main|List of 2026 Indian Premier League personnel changes}}
+The franchises were required to submit their retention lists before 15 November 2025,<ref name="TOI">{{Cite news |date=2025-11-12 |title=IPL 2026 retention rules explained: How many players can a franchise retain or release before auction? |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-retention-rules-explained-how-many-players-can-a-franchise-retain-or-release-before-auction/articleshow/125275371.cms |access-date=2025-12-23 |work=[[The Times of India]] |issn=0971-8257 |archive-date=13 November 2025 |archive-url=https://web.archive.org/web/20251113035257/https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-retention-rules-explained-how-many-players-can-a-franchise-retain-or-release-before-auction/articleshow/125275371.cms |url-status=live}}</ref> and a total of 173 players were retained ahead of the auction.<ref>{{Cite web |title=TATA IPL 2026 Player Retentions Announced |url=https://www.iplt20.com/news/4247/tata-ipl-2026-player-retentions-announced |access-date=23 December 2025 |website=[[IPLT20.com]]}}</ref> The auction was held on 16 December 2025 in [[Abu Dhabi]], United Arab Emirates<ref>{{cite web |access-date=15 December 2025 |title=IPL auction set to take place on December 16 in Abu Dhabi |url=https://www.espncricinfo.com/story/ipl-2026-auction-to-take-place-on-december-16-in-abu-dhabi-1510968 |publisher=[[Cricinfo|ESPNcricinfo]] |archive-date=5 January 2026 |archive-url=https://web.archive.org/web/20260105022626/https://www.espncricinfo.com/story/ipl-2026-auction-to-take-place-on-december-16-in-abu-dhabi-1510968 |url-status=live}}</ref> with the auction purse for each franchise set at {{INRConvert|125|c}}.<ref name="retain1">{{Cite web |title=IPL 2026: How the squads stack up ahead of the auction |url=https://www.espncricinfo.com/story/ipl-2026-how-the-squads-stack-up-1511304 |access-date=23 December 2025 |publisher=[[Cricinfo|ESPNcricinfo]] |archive-date=16 November 2025 |archive-url=https://web.archive.org/web/20251116181308/https://www.espncricinfo.com/story/ipl-2026-how-the-squads-stack-up-1511304 |url-status=live}}</ref> A total of 1,355 players registered for the auction, of which 369 players were shortlisted and 156 were featured in the auction and 77 were sold in the auction.<ref name="sold1">{{ESPNcricinfo 2|auction-sub|id=ipl-2026-auction-1515016|sub=sold players|event=2026 IPL auction|access-date=20 May 2026|dynamic=n|archive-url=https://web.archive.org/web/20260107180511/https://www.espncricinfo.com/auction/ipl-2026-auction-1515016/sold-players|archive-date=7 January 2026}}</ref><ref name="sold2">{{Cite web |title=IPL 2026 player list - full squads of each team |url=https://www.olympics.com/en/news/ipl-2026-teams-squads-list-player-prices |access-date=23 December 2025 |website=[[Olympics.com]]}}</ref><ref name=unsold/> [[Cameron Green]] became the most expensive overseas player and the third most expensive player in the history of the IPL when he was bought by Kolkata for {{INRConvert|25.20|c}}.<ref>{{Cite web |title=IPL auction 2026: Australia's Cameron Green becomes most expensive overseas player in tournament's history |url=https://www.skysports.com/cricket/news/12040/13484111/ipl-auction-2026-australias-cameron-green-becomes-most-expensive-overseas-player-in-tournaments-history |access-date=23 December 2025|work=[[Sky Sports]]}}</ref> [[Prashant Veer]] and [[Kartik Sharma]] became the joint-most expensive uncapped players in the history of the IPL when they were both bought by [[Chennai Super Kings]] for {{INRConvert|14.20|c}} each.<ref>{{Cite web |title=Who are Kartik Sharma and Prashant Veer - the costliest uncapped buys? |url=https://www.cricbuzz.com/cricket-news/136917/who-are-kartik-sharma-and-prashant-veer-the-costliest-uncapped-buys-cricbuzzcom |access-date=23 December 2025|publisher=[[Cricbuzz]]}}</ref> The 79 unsold players included players such as [[Jake Fraser-McGurk]], [[Jonny Bairstow]], [[Daryl Mitchell (New Zealand cricketer)|Daryl Mitchell]], [[Devon Conway]], [[Alzarri Joseph]], [[Gus Atkinson]], [[Deepak Hooda]] and [[Karn Sharma]].<ref name=unsold>{{Cite web |title=Unsold players at IPL 2026 auction: Jake Fraser-McGurk, Deepak Hooda among big names - get full list |url=https://www.olympics.com/en/news/ipl-2026-auction-unsold-player-list-indian-premier-league |access-date=23 December 2025|website=[[Olympics.com]]}}</ref>
+
+== Venues ==
+The league stage was played at 13 stadiums across India. 12 venues from the previous season returned as respective home grounds with HPCA Cricket Stadium and [[Assam Cricket Association Stadium|ACA Cricket Stadium]] as secondary home venues for three Punjab Kings matches and three [[Rajasthan Royals]] matches respectively.<ref name="sch1"/><ref name="sch2"/> [[ACA–VDCA Cricket Stadium]] was dropped as [[Delhi Capitals]] secondary home venue<ref>{{Cite news |date=2026-03-11 |title=IPL first phase schedule out: No matches in Vizag |url=https://www.thehindu.com/news/cities/Visakhapatnam/ipl-first-phase-schedule-out-no-matches-in-vizag/article70731748.ece |access-date=2026-05-07 |work=[[The Hindu]] |language=en-IN |issn=0971-751X}}</ref> while [[Shaheed Veer Narayan Singh International Cricket Stadium|Shaheed Veer Narayan Singh Stadium]] which had previously served as secondary home venue for [[Delhi Daredevils]] until 2016, was added as secondary home venue for two Royal Challengers Bengaluru matches.<ref name="faq"/><ref name="sch2"/><ref>{{Cite news |date=2026-01-13 |title=Treat for Kohil fans: Raipur to host 2 RCB matches this IPL |url=https://timesofindia.indiatimes.com/city/raipur/treat-for-kohil-fans-raipur-to-host-2-rcb-matches-this-ipl/articleshow/126508201.cms |access-date=2026-05-07 |work=[[The Times of India]] |issn=0971-8257}}</ref> The opening match was played at M. Chinnaswamy Stadium.<ref name="sch1"/> The playoffs were played at HPCA Cricket Stadium and Maharaja Yadavindra Singh Stadium with the final at Narendra Modi Stadium.<ref name="pos3"/>
+
+{| class="wikitable" style="text-align:center;font-size:85%;"
+! [[Ahmedabad]] || [[Bengaluru]] || [[Chennai]] || [[Delhi]] || [[Dharamshala]]
+|-
+| [[Gujarat Titans]] || [[Royal Challengers Bengaluru]] || [[Chennai Super Kings]] || [[Delhi Capitals]] || [[Punjab Kings]]
+|-
+| [[Narendra Modi Stadium]] || [[M. Chinnaswamy Stadium]] || [[M. A. Chidambaram Stadium]] || [[Arun Jaitley Cricket Stadium|Arun Jaitley Stadium]] || [[Himachal Pradesh Cricket Association Stadium|HPCA Cricket Stadium]]
+|-
+| Capacity: 132,000 || Capacity: 40,000 || Capacity: 39,000 || Capacity: 35,200 || Capacity: 21,200
+|-
+| [[File:Narendra modi stadium 2023 Final between India and Australia.jpg|alt=Narendra Modi Stadium in 2023|150px]] || [[File:Chinnaswamy Stadium.jpg|alt=M. Chinnaswamy Stadium in 2017|150px]] || [[File:M.A.Chidambaram Stadium before IND vs AUS 3rd ODI 2023.jpg|alt=M. A. Chidambaram Stadium in 2023|150px]] || [[File:India vs Afghanistan on 11th October 2023.jpg|alt=Arun Jaitley Stadium in 2023|150px]] || [[File:Dharamshala stadium,himachal pradesh.jpg|alt=HPCA Cricket Stadium in 2015|150px]]
+|-
+! [[Guwahati]] || colspan="3" rowspan="10" | {{location map+ |India |float=center|caption=|width=500|alt=A map of India with pin-points on 2026 Indian Premier League venues|places=
+{{location map~ |India |lat=23.05 |long=72.35 |label=[[Ahmedabad]] |position=left}}
+{{Location map~ |India |lat=12.96 |long=77.56 |label=[[Bengaluru]] |position=left}}
+{{location map~ |India |lat=13.08 |long=80.27 |label=[[Chennai]] |position=right}}
+{{Location map~ |India |lat=28.61 |long=77.23 |label=[[Delhi]] |position=left}}
+{{Location map~ |India |lat=32.20 |long=76.33 |label=[[Dharamshala]] |position=left}}
+{{Location map~ |India |lat=26.13 |long=91.73 |label=[[Guwahati]] |position=right}}
+{{Location map~ |India |lat=17.40 |long=78.45 |label=[[Hyderabad]] |position=left}}
+{{location map~ |India |lat=26.92 |long=75.82 |label=[[Jaipur]] |position=left}}
+{{Location map~ |India |lat=22.56 |long=88.34 |label=[[Kolkata]] |position=right}}
+{{location map~ |India |lat=26.84 |long=80.94 |label=[[Lucknow]] |position=right}}
+{{Location map~ |India |lat=30.78 |long=76.72 |label=[[Mullanpur Garibdass|Mullanpur]] |position=right}}
+{{Location map~ |India |lat=18.97 |long=72.82 |label=[[Mumbai]] |position=left}}
+{{location map~ |India |lat=21.16 |long=81.78 |label=[[Raipur]] |position=right}}
+}} || [[Hyderabad]]
+|-
+| [[Rajasthan Royals]] || [[Sunrisers Hyderabad]]
+|-
+| [[Assam Cricket Association Stadium|ACA Cricket Stadium]] || [[Rajiv Gandhi International Cricket Stadium|Rajiv Gandhi Stadium]]
+|-
+| Capacity: 46,000 || Capacity: 55,000
+|-
+| [[File:Barsapara Cricket Stadium match under floodlights.jpg|alt=ACA Cricket Stadium in 2018|150px]] || [[File:Uppal stadium Rajiv Gandhi International Cricket Stadium.jpg|alt=Rajiv Gandhi Stadium in 2024|150px]]
+|-
+! [[Jaipur]] || [[Kolkata]]
+|-
+| [[Rajasthan Royals]] || [[Kolkata Knight Riders]]
+|-
+| [[Sawai Mansingh Stadium]] || [[Eden Gardens]]
+|-
+| Capacity: 30,000 || Capacity: 68,000
+|-
+| [[File:Sawai-Mansingh-Stadium-Jaipur.jpg|alt=Sawai Mansingh Stadium in 2013|150px]] || [[File:ইডেন গার্ডেনে বাংলাদেশ ও পাকিস্তানের খেলা ৫.jpg|alt=Eden Gardens in 2023|150px]]
+|-
+! [[Lucknow]] || [[Mullanpur Garibdass|Mullanpur]] || [[Mumbai]] || [[Raipur]]
+|-
+| [[Lucknow Super Giants]] || [[Punjab Kings]] || [[Mumbai Indians]] || [[Royal Challengers Bengaluru]]
+|-
+| [[Ekana Cricket Stadium]] || [[Maharaja Yadavindra Singh International Cricket Stadium|Maharaja Yadavindra Singh Stadium]] || [[Wankhede Stadium]] || [[Shaheed Veer Narayan Singh International Cricket Stadium|Shaheed Veer Narayan Singh Stadium]]
+|-
+| Capacity: 50,000 || Capacity: 38,000 || Capacity: 33,108 || Capacity: 65,000
+|-
+| [[File:Ekana cricket stadium .jpg|alt=Ekana Cricket Stadium in 2018|150px]] || [[File:Maharaja Yadavindra Singh International Cricket Stadium.png|alt=Maharaja Yadavindra Singh Stadium in 2026|100px]] || [[File:Wankhede ICC WCF.jpg|alt=Wankhede Stadium in 2011|150px]] || [[File:Shaheed Veer Narayan Singh International Cricket Stadium, Raipur.jpg|alt=Shaheed Veer Narayan Singh Stadium in 2021|150px]]
+|}
+
+== League stage ==
+=== Points table ===
+<section begin="pt"/>{{#invoke:Sports table |main |style=CricketRR |show_tie=no |show_groups=yes |title=League stage standings |update=complete
+|source=[[Cricinfo|ESPNcricinfo]]<ref name=pts>{{ESPNcricinfo 2|series-sub|id=ipl-2026-1510719|sub=points table|event=2026 Indian Premier League|access-date=1 June 2026|dynamic=n|archive-url=https://web.archive.org/web/20260601175149/https://www.espncricinfo.com/series/ipl-2026-1510719/points-table-standings|archive-date=1 June 2026}}</ref> |class_rules=1) Points; 2) Wins; 3) [[Net run rate]]; 4) [[Wicket]]s taken per [[Delivery (cricket)|fair deliveries]]; 5) [[Drawing lots (decision making)|drawing lots]]<ref>{{Cite journal |title=TATA IPL 2026 |url=https://documents.iplt20.com/bcci/documents/1774265031558_TATA_IPL_2026_Match_Playing_Conditions.pdf |date=10 March 2026 |journal=[[Indian Premier League#Rules and format|Indian Premier League, playing conditions]] |publisher=[[Board of Control for Cricket in India]] |volume=19 |access-date=3 June 2026}}</ref>
+
+|team_order=RCB, GT, SRH, RR, PBKS, DC, KKR, CSK, MI, LSG
+
+|group_CSK=A |win_CSK=6 |loss_CSK=8 |nr_CSK= |nrr_CSK=-0.345
+|group_DC=B |win_DC=7 |loss_DC=7 |nr_DC= |nrr_DC=-0.651
+|group_GT=B |win_GT=9 |loss_GT=5 |nr_GT= |nrr_GT=0.695 |status_GT=R
+|group_KKR=A |win_KKR=6 |loss_KKR=7 |nr_KKR=1 |nrr_KKR=-0.147
+|group_LSG=B |win_LSG=4 |loss_LSG=10 |nr_LSG= |nrr_LSG=-0.740
+|group_MI=B |win_MI=4 |loss_MI=10 |nr_MI= |nrr_MI=-0.584
+|group_PBKS=A |win_PBKS=7 |loss_PBKS=6 |nr_PBKS=1 |nrr_PBKS=0.309
+|group_RR=A |win_RR=8 |loss_RR=6 |nr_RR= |nrr_RR=0.189
+|group_RCB=A |win_RCB=9 |loss_RCB=5 |nr_RCB= |nrr_RCB=0.783 |status_RCB=C
+|group_SRH=B |win_SRH=9 |loss_SRH=5 |nr_SRH= |nrr_SRH=0.524
+
+|name_CSK=[[Chennai Super Kings]] |name_DC=[[Delhi Capitals]] |name_GT=[[Gujarat Titans]] |name_KKR=[[Kolkata Knight Riders]] |name_LSG=[[Lucknow Super Giants]] |name_MI=[[Mumbai Indians]] |name_PBKS=[[Punjab Kings]] |name_RR=[[Rajasthan Royals]] '''(3rd)''' |name_RCB=[[Royal Challengers Bengaluru]] |name_SRH=[[Sunrisers Hyderabad]] '''(4th)'''
+
+|result1=Q |result2=Q |result3=A |result4=A |result5=E |result6=E |result7=E |result8=E |result9=E |result10=E
+
+|col_Q=green1 |col_A=yellow1 |res_col_header=Q
+|text_Q={{nobr|Advanced to}} [[#Qualifier 1|Qualifier 1]] |text_A={{nobr|Advanced to}} [[#Eliminator|Eliminator]] |text_E=Eliminated
+|status_text_C=Champions |status_text_R=Runners-up
+}}<section end="pt"/>
+
+=== Match summary ===
+{{Indian Premier League results summary|mode=progression/summary|dls=Y
+| Home team | Away team | result | margin | DLS
+
+| RCB | SRH | H | 6W |
+| MI | KKR | H | 6W |
+| RR | CSK | H | 8W |
+| PBKS | GT | H | 3W |
+| LSG | DC | A | 6W |
+| KKR | SRH | A | 65R |
+| CSK | PBKS | A | 5W |
+| DC | MI | H | 6W |
+| GT | RR | A | 6R |
+| SRH | LSG | A | 5W |
+
+| RCB | CSK | H | 43R |
+| KKR | PBKS | N | |
+| RR | MI | H | 27R |
+| DC | GT | A | 1R |
+| KKR | LSG | A | 3W |
+| RR | RCB | H | 6W |
+| PBKS | SRH | H | 6W |
+| CSK | DC | H | 23R |
+| LSG | GT | A | 7W |
+| MI | RCB | A | 18R |
+
+| SRH | RR | H | 57R |
+| CSK | KKR | H | 32R |
+| RCB | LSG | H | 5W |
+| MI | PBKS | A | 7W |
+| GT | KKR | H | 5W |
+| RCB | DC | A | 6W |
+| SRH | CSK | H | 10R |
+| KKR | RR | H | 4W |
+| PBKS | LSG | H | 54R |
+| GT | MI | A | 99R |
+
+| SRH | DC | H | 47R |
+| LSG | RR | A | 40R |
+| MI | CSK | A | 103R |
+| RCB | GT | H | 5W |
+| DC | PBKS | A | 6W |
+| RR | SRH | A | 5W |
+| CSK | GT | A | 8W |
+| LSG | KKR | A | SO |
+| DC | RCB | A | 9W |
+| PBKS | RR | A | 6W |
+
+| MI | SRH | A | 6W |
+| GT | RCB | H | 4W |
+| RR | DC | A | 7W |
+| CSK | MI | H | 8W |
+| SRH | KKR | A | 7W |
+| GT | PBKS | H | 4W |
+| MI | LSG | H | 6W |
+| DC | CSK | A | 8W |
+| SRH | PBKS | H | 33R |
+| LSG | RCB | H | 9R | Y
+
+| DC | KKR | A | 8W |
+| RR | GT | A | 77R |
+| CSK | LSG | H | 5W |
+| RCB | MI | H | 2W |
+| PBKS | DC | A | 3W |
+| GT | SRH | H | 82R |
+| RCB | KKR | H | 6W |
+| PBKS | MI | A | 6W |
+| LSG | CSK | H | 7W |
+| KKR | GT | H | 29R |
+
+| PBKS | RCB | A | 23R |
+| DC | RR | H | 5W |
+| CSK | SRH | A | 5W |
+| RR | LSG | H | 7W |
+| KKR | MI | H | 4W |
+| GT | CSK | H | 89R |
+| SRH | RCB | H | 55R |
+| LSG | PBKS | A | 7W |
+| MI | RR | A | 30R |
+| KKR | DC | A | 40R |
+
+| P1W = RCB | P1L = GT
+| P2W = RR | P2L = SRH
+| P3W = GT | P3L = RR
+| P4W = RCB | P4L = GT
+}}
+
+=== Fixtures ===
+{{hatnote|All times are in [[Indian Standard Time]] ([[UTC+05:30]])}}
+<section begin=match1/>{{Single-innings cricket match
+| round = {{anchor|match1}}'''Match 1'''
+| date = {{Start date|2026|03|28|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Sunrisers Hyderabad]]
+| team2 = [[Royal Challengers Bengaluru]] (H)
+| score1 = 201/9 (20 overs)
+| runs1 = [[Ishan Kishan]] 80 (38)
+| wickets1 = [[Jacob Duffy]] 3/22 (4 overs)
+| score2 = 203/4 (15.4 overs)
+| runs2 = [[Virat Kohli]] 69[[not out|*]] (38)
+| wickets2 = [[David Payne (cricketer)|David Payne]] 2/35 (3 overs)
+| result = Royal Challengers Bengaluru won by 6 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1527674.html Scorecard]
+| venue = [[M. Chinnaswamy Stadium]], [[Bengaluru]]
+| umpires = [[Ulhas Gandhe]] (Ind) and [[Jayaraman Madanagopal]] (Ind)
+| motm = [[Jacob Duffy]] (Royal Challengers Bengaluru)
+| toss = Royal Challengers Bengaluru won the toss and elected to field.
+| notes = [[Abhinandan Singh]] (Royal Challengers Bengaluru) made his T20 debut.<ref>{{cite news |date=28 March 2026 |url=https://www.business-standard.com/cricket/ipl/who-is-abhinandan-singh-rcb-pacer-who-makes-ipl-debut-vs-srh-in-bengaluru-126032800715_1.html |title=Who is Abhinandan Singh? RCB pacer who makes IPL debut vs SRH in Bengaluru |work=[[Business Standard]] |access-date=30 March 2026}}</ref>
+* [[Jacob Duffy]] (Royal Challengers Bengaluru) and [[David Payne (cricketer)|David Payne]] (Sunrisers Hyderabad) both made their IPL debuts.<ref>{{cite news |date=28 March 2026 |url=https://english.mathrubhumi.com/sports/cricket/duffy-magic-rcb-debutant-wrecks-srh-top-order-in-ipl-opening-clash-tpgl7cdq |title=Duffy magic! RCB debutant wrecks SRH top order in IPL opening clash |work=[[Mathrubhumi]] |access-date=29 March 2026}}</ref><ref>{{cite news |date=29 March 2026 |url=https://www.gloucestershirelive.co.uk/sport/other-sport/gloucestershire-star-david-payne-makes-10891961 |title=Gloucestershire star David Payne makes Indian Premier League debut for Sunrisers Hyderabad hours after flying in as an injury replacement |work=[[Gloucestershire Live]] |access-date=30 March 2026}}</ref>
+}}<section end= match1/>
+----
+<section begin=match2/>{{Single-innings cricket match
+| round = {{anchor|match2}}'''Match 2'''
+| date = {{Start date|2026|03|29|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Kolkata Knight Riders]]
+| team2 = [[Mumbai Indians]] (H)
+| score1 = 220/4 (20 overs)
+| runs1 = [[Ajinkya Rahane]] 67 (40)
+| wickets1 = [[Shardul Thakur]] 3/39 (4 overs)
+| score2 = 224/4 (19.1 overs)
+| runs2 = [[Ryan Rickelton]] 81 (43)
+| wickets2 = [[Sunil Narine]] 1/30 (3 overs)
+| result = Mumbai Indians won by 6 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1527675.html Scorecard]
+| venue = [[Wankhede Stadium]], [[Mumbai]]
+| umpires = Saidarshan Kumar (Ind) and Anish Sahasrabudhe (Ind)
+| motm = [[Shardul Thakur]] (Mumbai Indians)
+| toss = Mumbai Indians won the toss and elected to field.
+| notes = Mumbai Indians became the first franchise to play in 300 T20 matches.<ref>{{cite news |date=29 March 2026 |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/mumbai-indians-hit-300-match-mark-first-franchise-to-reach-t20-milestone/articleshow/129877681.cms |title=Mumbai Indians hit 300-match mark, first franchise to reach T20 milestone |work=[[The Times of India]] |access-date=6 April 2026}}</ref>
+* [[Allah Ghazanfar]] (Mumbai Indians), [[Finn Allen]] and [[Blessing Muzarabani]] (Kolkata Knight Riders) all made their IPL debuts.<ref>{{cite news |date=28 March 2026 |url=https://www.cricketcountry.com/news/who-is-allah-ghazanfar-afghanistans-young-mystery-spinner-makes-ipl-debut-for-mumbai-indians-1333908/ |title=Who is Allah Ghazanfar? Afghanistan's young mystery spinner makes IPL debut for Mumbai Indians |work=[[Cricket Country]] |access-date=30 March 2026}}</ref><ref>{{cite news |date=2 April 2026 |url=https://sports.ndtv.com/ipl-2026/who-is-blessing-muzarabani-kkr-pacer-who-shone-with-four-wicket-haul-in-ipl-2026-11303727 |title=Who Is Blessing Muzarabani? KKR Pacer Who Shone With Four-Wicket Haul In IPL 2026 |work=[[NDTV Sports]] |access-date=6 April 2026}}</ref><ref>{{Cite web |date=14 April 2026 |title=Get set, then go: Finn Allen seeks fresh start for KKR after mixed IPL run |url=https://www.telegraphindia.com/sports/cricket/get-set-then-go-finn-allen-seeks-fresh-start-for-kkr-after-mixed-ipl-run-prnt/cid/2155999 |access-date=25 June 2026 |work=[[The Telegraph (India)|The Telegraph]] |quote=Finn Allen began his IPL campaign with a bang, smashing 37 off 17 balls against Mumbai Indians at the Wankkhede.}}</ref>
+* [[Ajinkya Rahane]] (Kolkata Knight Riders) played in his 200th IPL match.<ref>{{cite news |date=2 April 2026 |url=https://www.newsx.com/sports/kkr-vs-srh-ipl-2026-ajinkya-rahane-hits-special-double-century-at-eden-gardens-192926/ |title=Ajinkya Rahane Hits Special 'Double Century' At Eden Gardens |work=[[NewsX]] |access-date=6 April 2026}}</ref>
+* This was Mumbai Indians' highest successful run chase in the IPL.<ref>{{cite news |date=30 March 2026 |url=https://www.news18.com/cricket/mumbai-indians-break-record-of-their-highest-successful-run-chase-in-ipl-10004169.html |title=Mumbai Indians Break Record Of Their Highest Successful Run Chase In IPL |work=[[News18]] |access-date=6 April 2026}}</ref>
+* For the first time since the [[2012 Indian Premier League|2012 season]], Mumbai Indians won their opening match.<ref>{{cite news |date=29 March 2026 |url=https://www.espncricinfo.com/series/ipl-2026-1510719/mumbai-indians-vs-kolkata-knight-riders-2nd-match-1527675/match-report |title=Rickelton, Rohit, Shardul break Mumbai's first-game jinx |publisher=[[Cricinfo|ESPNcricinfo]] |access-date=30 March 2026}}</ref>
+}}<section end= match2/>
+----
+<section begin=match3/>{{Single-innings cricket match
+| round = {{anchor|match3}}'''Match 3'''
+| date = {{Start date|2026|03|30|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Chennai Super Kings]]
+| team2 = [[Rajasthan Royals]] (H)
+| score1 = 127 (19.4 overs)
+| runs1 = [[Jamie Overton]] 43 (36)
+| wickets1 = [[Ravindra Jadeja]] 2/18 (3 overs)
+| score2 = 128/2 (12.1 overs)
+| runs2 = [[Vaibhav Sooryavanshi]] 52 (17)
+| wickets2 = [[Anshul Kamboj]] 2/27 (3 overs)
+| result = Rajasthan Royals won by 8 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1527676.html Scorecard]
+| venue = [[Assam Cricket Association Stadium|ACA Cricket Stadium]], [[Guwahati]]
+| umpires = [[Kumar Dharmasena]] (SL) and Mohit Krishnadas (Ind)
+| motm = [[Nandre Burger]] (Rajasthan Royals)
+| toss = Rajasthan Royals won the toss and elected to field.
+| notes = [[Brijesh Sharma]] (Rajasthan Royals) made his T20 debut.<ref>{{cite news |date=30 March 2026 |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/who-is-brijesh-sharma-jk-pacer-making-his-ipl-debut-for-rr-against-csk/articleshow/129902816.cms |title=Who is Brijesh Sharma? J&K pacer making his IPL debut for RR against CSK |work=[[The Times of India]] |access-date=8 April 2026}}</ref>
+* [[Kartik Sharma]] (Chennai Super Kings) made his IPL debut.<ref>{{Cite web |last=Muthu |first=Deivarayan |date=30 March 2026 |title=RR choose to bowl; CSK hand debut to Kartik Sharma |url=https://www.cricinfo.com/story/ipl-2026-rr-vs-csk-rr-choose-to-bowl-csk-hand-debut-to-kartik-sharma-1529755 |access-date=25 June 2026 |publisher=[[Cricinfo]]}}</ref>
+}}<section end= match3/>
+----
+<section begin=match4/>{{Single-innings cricket match
+| round = {{anchor|match4}}'''Match 4'''
+| date = {{Start date|2026|03|31|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Gujarat Titans]]
+| team2 = [[Punjab Kings]] (H)
+| score1 = 162/6 (20 overs)
+| runs1 = [[Shubman Gill]] 39 (27)
+| wickets1 = [[Vijaykumar Vyshak]] 3/34 (4 overs)
+| score2 = 165/7 (19.1 overs)
+| runs2 = [[Cooper Connolly]] 72[[not out|*]] (44)
+| wickets2 = [[Prasidh Krishna]] 3/29 (4 overs)
+| result = Punjab Kings won by 3 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1527677.html Scorecard]
+| venue = [[Maharaja Yadavindra Singh International Cricket Stadium|Maharaja Yadavindra Singh Stadium]], [[Mullanpur Garibdass|Mullanpur]]
+| umpires = Abhijit Bhattacharya (Ind) and Akshay Totre (Ind)
+| motm = [[Cooper Connolly]] (Punjab Kings)
+| toss = Punjab Kings won the toss and elected to field.
+| notes = [[Cooper Connolly]] (Punjab Kings) and [[Ashok Sharma (cricketer)|Ashok Sharma]] (Gujarat Titans) both made their IPL debuts.<ref>{{cite news |date= 1 April 2026 |url=https://www.abc.net.au/news/2026-04-01/ipl-cooper-connolly-stars-in-debut-for-punjab-kings/106519488 |title=Australia's Cooper Connolly makes stunning IPL debut with Punjab Kings |work=[[ABC News (Australia)|ABC News]] |access-date=8 April 2026}}</ref><ref>{{cite news |date= 31 March 2026 |url=https://www.espncricinfo.com/story/ipl-2026-pbks-vs-gt-ashok-sharma-and-cooper-connolly-debut-as-pbks-choose-to-bowl-1529967 |title=PBKS bowl against GT, Ashok and Connolly make IPL debut |publisher=[[Cricinfo|ESPNcricinfo]] |access-date=8 April 2026}}</ref>
+}}<section end= match4/>
+----
+<section begin=match5/>{{Single-innings cricket match
+| round = {{anchor|match5}}'''Match 5'''
+| date = {{Start date|2026|04|01|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Lucknow Super Giants]] (H)
+| team2 = [[Delhi Capitals]]
+| score1 = 141 (18.4 overs)
+| runs1 = [[Abdul Samad (Indian cricketer)|Abdul Samad]] 36 (25)
+| wickets1 = [[Lungi Ngidi]] 3/27 (3.4 overs)
+| score2 = 145/4 (17.1 overs)
+| runs2 = [[Sameer Rizvi]] 70[[not out|*]] (47)
+| wickets2 = [[Prince Yadav]] 2/20 (3 overs)
+| result = Delhi Capitals won by 6 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1527678.html Scorecard]
+| venue = [[Ekana Cricket Stadium]], [[Lucknow]]
+| umpires = [[Ulhas Gandhe]] (Ind) and [[Rohan Pandit]] (Ind)
+| motm = [[Sameer Rizvi]] (Delhi Capitals)
+| toss = Delhi Capitals won the toss and elected to field.
+| notes = [[Pathum Nissanka]] (Delhi Capitals) made his IPL debut.<ref>{{Cite web |title=Pathum Nissanka fails at IPL debut |url=https://www.dailymirror.lk/sports/Pathum-Nissanka-fails-at-IPL-debut/244-337050 |access-date=2026-06-25 |work=[[Daily Mirror (Sri Lanka)|Daily Mirror]] |language=en}}</ref>
+}}<section end= match5/>
+----
+<section begin=match6/>{{Single-innings cricket match
+| round = {{anchor|match6}}'''Match 6'''
+| date = {{Start date|2026|04|02|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Sunrisers Hyderabad]]
+| team2 = [[Kolkata Knight Riders]] (H)
+| score1 = 226/8 (20 overs)
+| runs1 = [[Heinrich Klaasen]] 52 (35)
+| wickets1 = [[Blessing Muzarabani]] 4/41 (4 overs)
+| score2 = 161 (16 overs)
+| runs2 = [[Angkrish Raghuvanshi]] 52 (29)
+| wickets2 = [[Jaydev Unadkat]] 3/21 (3 overs)
+| result = Sunrisers Hyderabad won by 65 runs
+| report = [http://espncricinfo.com/ci/engine/match/1527679.html Scorecard]
+| venue = [[Eden Gardens]], [[Kolkata]]
+| umpires = Vinod Seshan (Ind) and Saidarshan Kumar (Ind)
+| motm = [[Nitish Kumar Reddy]] (Sunrisers Hyderabad)
+| toss = Kolkata Knight Riders won the toss and elected to field.
+| notes = [[Abhishek Sharma]] became the first Indian player and overall second player to hit 100 sixes for Sunrisers Hyderabad.<ref>{{cite news |title=Abhishek Sharma Becomes First Indian Cricketer To Hit 100 Sixes In IPL For Sunrisers Hyderabad |url=https://www.news18.com/cricket/abhishek-sharma-becomes-first-indian-cricketer-to-hit-100-sixes-in-ipl-for-sunrisers-hyderabad-ws-no-10011908.html |date=3 April 2026 |work=[[News18]] |access-date=3 April 2026}}</ref>
+}}<section end= match6/>
+----
+<section begin=match7/>{{Single-innings cricket match
+| round = {{anchor|match7}}'''Match 7'''
+| date = {{Start date|2026|04|03|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Chennai Super Kings]] (H)
+| team2 = [[Punjab Kings]]
+| score1 = 209/5 (20 overs)
+| runs1 = [[Ayush Mhatre]] 73 (43)
+| wickets1 = [[Vijaykumar Vyshak]] 2/38 (4 overs)
+| score2 = 210/5 (18.4 overs)
+| runs2 = [[Shreyas Iyer]] 50 (29)
+| wickets2 = [[Anshul Kamboj]] 2/43 (3.4 overs)
+| result = Punjab Kings won by 5 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1527680.html Scorecard]
+| venue = [[M. A. Chidambaram Stadium]], [[Chennai]]
+| umpires = Abhijit Bhattacharya (Ind) and Akshay Totre (Ind)
+| motm = [[Priyansh Arya]] (Punjab Kings)
+| toss = Punjab Kings won the toss and elected to field.
+}}<section end= match7/>
+----
+<section begin=match8/>
+{{Single-innings cricket match
+| round = {{anchor|match8}}'''Match 8'''
+| date = {{Start date|2026|04|04|df=y}}
+| time = 15:30
+| daynight = y
+| team1 = [[Mumbai Indians]]
+| team2 = [[Delhi Capitals]] (H)
+| score1 = 162/6 (20 overs)
+| runs1 = [[Suryakumar Yadav]] 51 (36)
+| wickets1 = [[Mukesh Kumar (cricketer)|Mukesh Kumar]] 2/26 (3 overs)
+| score2 = 164/4 (18.1 overs)
+| runs2 = [[Sameer Rizvi]] 90 (51)
+| wickets2 = [[Deepak Chahar]] 1/20 (3 overs)
+| result = Delhi Capitals won by 6 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1527681.html Scorecard]
+| venue = [[Arun Jaitley Cricket Stadium|Arun Jaitley Stadium]], [[Delhi]]
+| umpires = [[Kumar Dharmasena]] (SL) and Mohit Krishnadas (Ind)
+| motm = [[Sameer Rizvi]] (Delhi Capitals)
+| toss = Delhi Capitals won the toss and elected to field.
+}}<section end= match8/>
+----
+<section begin=match9/>{{Single-innings cricket match
+| round = {{anchor|match9}}'''Match 9'''
+| date = {{Start date|2026|04|04|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Rajasthan Royals]]
+| team2 = [[Gujarat Titans]] (H)
+| score1 = 210/6 (20 overs)
+| runs1 = [[Dhruv Jurel]] 75 (42)
+| wickets1 = [[Kagiso Rabada]] 2/42 (4 overs)
+| score2 = 204/8 (20 overs)
+| runs2 = [[Sai Sudharsan]] 73 (44)
+| wickets2 = [[Ravi Bishnoi]] 4/41 (4 overs)
+| result = Rajasthan Royals won by 6 runs
+| report = [http://espncricinfo.com/ci/engine/match/1527682.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[Ulhas Gandhe]] (Ind) and [[Rohan Pandit]] (Ind)
+| motm = [[Ravi Bishnoi]] (Rajasthan Royals)
+| toss = Rajasthan Royals won the toss and elected to bat.
+}}<section end= match9/>
+----
+<section begin=match10/>
+{{Single-innings cricket match
+| round = {{anchor|match10}}'''Match 10'''
+| date = {{Start date|2026|04|05|df=y}}
+| time = 15:30
+| daynight = y
+| team1 = [[Sunrisers Hyderabad]] (H)
+| team2 = [[Lucknow Super Giants]]
+| score1 = 156/9 (20 overs)
+| runs1 = [[Heinrich Klaasen]] 62 (41)
+| wickets1 = [[Mohammed Shami]] 2/9 (4 overs)
+| score2 = 160/5 (19.5 overs)
+| runs2 = [[Rishabh Pant]] 68[[not out|*]] (50)
+| wickets2 = [[Harsh Dubey]] 2/18 (4 overs)
+| result = Lucknow Super Giants won by 5 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1527683.html Scorecard]
+| venue = [[Rajiv Gandhi International Cricket Stadium|Rajiv Gandhi Stadium]], [[Hyderabad]]
+| umpires = Saidarshan Kumar (Ind) and Anish Sahasrabudhe (Ind)
+| motm = [[Mohammed Shami]] (Lucknow Super Giants)
+| toss = Lucknow Super Giants won the toss and elected to field.
+| notes = [[Heinrich Klaasen]] and [[Nitish Kumar Reddy]] scored the [[List of Sunrisers Hyderabad records#Highest partnerships by wicket|highest fifth-wicket partnership for Sunrisers Hyderabad]] (116).<ref>{{Cite web |title=A heartbreaking end to a thrilling contest in Uppal |url=https://www.sunrisershyderabad.in/news/a-heartbreaking-end-to-a-thrilling-contest-in-uppal |access-date=2026-06-25 |publisher=[[Sunrisers Hyderabad]]}}</ref>
+}}<section end= "match10"/>
+----
+<section begin="match11"/>
+{{Single-innings cricket match
+| round = {{anchor|match11}}'''Match 11'''
+| date = {{Start date|2026|04|05|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Royal Challengers Bengaluru]] (H)
+| team2 = [[Chennai Super Kings]]
+| score1 = 250/3 (20 overs)
+| runs1 = [[Tim David]] 70[[not out|*]] (25)
+| wickets1 = [[Shivam Dube]] 1/30 (2 overs)
+| score2 = 207 (19.4 overs)
+| runs2 = [[Sarfaraz Khan (cricketer)|Sarfaraz Khan]] 50 (25)
+| wickets2 = [[Bhuvneshwar Kumar]] 3/41 (4 overs)
+| result = Royal Challengers Bengaluru won by 43 runs
+| report = [http://espncricinfo.com/ci/engine/match/1527684.html Scorecard]
+| venue = [[M. Chinnaswamy Stadium]], [[Bengaluru]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and Akshay Totre (Ind)
+| motm = [[Tim David]] (Royal Challengers Bengaluru)
+| toss = Chennai Super Kings won the toss and elected to field.
+| notes = [[Tim David]] (Royal Challengers Bengaluru) scored his 400th six in T20s.<ref>{{Cite web |last=Pant |first=Ashish |date=6 April 2026 |title=Absolute mayhem – Tim David brings the roof down at Chinnaswamy |url=https://www.cricinfo.com/story/ipl-2026-rcb-vs-csk-tim-david-brings-the-roof-down-at-chinnaswamy-1530713 |access-date=25 June 2026 |publisher=[[Cricinfo]]}}</ref>
+* [[Bhuvneshwar Kumar]] (Royal Challengers Bengaluru) became the first fast bowler to take 200 wickets in IPL.<ref>{{cite web |title=Bhuvneshwar Kumar becomes first fast bowler to take 200 wickets in IPL |url=https://www.espn.in/cricket/story/_/id/48404430/bhuvneshwar-kumar-becomes-first-fast-bowler-take-200-wickets-ipl |work=[[ESPN]] |access-date=5 April 2026}}</ref>
+}}<section end= "match11"/>
+----
+<section begin="match12"/>
+{{Single-innings cricket match
+| round = {{anchor|match12}}'''Match 12'''
+| date = {{Start date|2026|04|06|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Kolkata Knight Riders]] (H)
+| team2 = [[Punjab Kings]]
+| score1 = 25/2 (3.4 overs)
+| runs1 = [[Ajinkya Rahane]] 8[[not out|*]] (6)
+| wickets1 = [[Xavier Bartlett]] 2/9 (1.4 overs)
+| score2 = 
+| result = No result
+| report = [http://espncricinfo.com/ci/engine/match/1527685.html Scorecard]
+| venue = [[Eden Gardens]], [[Kolkata]]
+| umpires = Abhijeet Bengeri (Ind) and [[Jayaraman Madanagopal]] (Ind)
+| toss = Kolkata Knight Riders won the toss and elected to bat.
+| rain = No further play was possible due to rain.
+}}<section end= "match12"/>
+----
+<section begin="match13"/>
+{{Single-innings cricket match
+| round = {{anchor|match13}}'''Match 13'''
+| date = {{Start date|2026|04|07|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Rajasthan Royals]] (H)
+| team2 = [[Mumbai Indians]]
+| score1 = 150/3 (11 overs)
+| runs1 = [[Yashasvi Jaiswal]] 77[[not out|*]] (32)
+| wickets1 = [[Allah Ghazanfar]] 2/20 (2 overs)
+| score2 = 123/9 (11 overs)
+| runs2 = [[Sherfane Rutherford]] 25 (8)
+| wickets2 = [[Nandre Burger]] 2/21 (2 overs)
+| result = Rajasthan Royals won by 27 runs
+| report = [http://espncricinfo.com/ci/engine/match/1527686.html Scorecard]
+| venue = [[Assam Cricket Association Stadium|ACA Cricket Stadium]], [[Guwahati]]
+| umpires = [[Kumar Dharmasena]] (SL) and Mohit Krishnadas (Ind)
+| motm = [[Yashasvi Jaiswal]] (Rajasthan Royals)
+| toss = Mumbai Indians won the toss and elected to field.
+| rain = The match was reduced to 11 overs per side due to rain.
+| notes = [[Yashasvi Jaiswal]] (Rajasthan Royals) scored his 100th six in IPL.<ref>{{cite web |title=RR Star Jaiswal Enters 'Century Of Maximums' Club With Six Against MI |url=https://www.news18.com/cricket/rr-star-jaiswal-enters-century-of-maximums-club-with-six-against-mi-10020219.html |work=[[News18]] |access-date=7 April 2026}}</ref>
+}}<section end= "match13"/>
+----
+<section begin="match14"/>{{Single-innings cricket match
+| round = {{anchor|match14}}'''Match 14'''
+| date = {{Start date|2026|04|08|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Gujarat Titans]]
+| team2 = [[Delhi Capitals]] (H)
+| score1 = 210/4 (20 overs)
+| runs1 = [[Shubman Gill]] 70 (45)
+| wickets1 = [[Mukesh Kumar (cricketer)|Mukesh Kumar]] 2/55 (4 overs)
+| score2 = 209/8 (20 overs)
+| runs2 = [[KL Rahul]] 92 (52)
+| wickets2 = [[Rashid Khan]] 3/17 (4 overs)
+| result = Gujarat Titans won by 1 run
+| report = [http://espncricinfo.com/ci/engine/match/1527687.html Scorecard]
+| venue = [[Arun Jaitley Cricket Stadium|Arun Jaitley Stadium]], [[Delhi]]
+| umpires = [[Nitin Menon]] (Ind) and Anish Sahasrabudhe (Ind)
+| motm = [[Rashid Khan]] (Gujarat Titans)
+| toss = Delhi Capitals won the toss and elected to field.
+| notes = [[Jos Buttler]] (Gujarat Titans) became the first non-West Indies' batter to score 600 sixes in T20s.<ref>{{Cite web |date=8 April 2026 |title=Jos Buttler Creates History, Becomes 1st Non-West Indies Batter To Hit 600 Sixes In T20s |url=https://www.news18.com/cricket/jos-buttler-creates-history-becomes-1st-non-west-indies-batter-to-hit-600-sixes-in-t20s-10022450.html |access-date=25 June 2026 |work=[[News18]]}}</ref>
+}}<section end= "match14"/>
+----
+<section begin="match15"/>{{Single-innings cricket match
+| round = {{anchor|match15}}'''Match 15'''
+| date = {{Start date|2026|04|09|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Kolkata Knight Riders]] (H)
+| team2 = [[Lucknow Super Giants]]
+| score1 = 181/4 (20 overs)
+| runs1 = [[Angkrish Raghuvanshi]] 45 (33)
+| wickets1 = [[Digvesh Rathi]] 1/25 (4 overs)
+| score2 = 182/7 (20 overs)
+| runs2 = [[Mukul Choudhary]] 54[[not out|*]] (27)
+| wickets2 = [[Anukul Roy]] 2/32 (4 overs)
+| result = Lucknow Super Giants won by 3 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1527688.html Scorecard]
+| venue = [[Eden Gardens]], [[Kolkata]]
+| umpires = [[Adrian Holdstock]] (SA) and Akshay Totre (Ind)
+| motm = [[Mukul Choudhary]] (Lucknow Super Giants)
+| toss = Lucknow Super Giants won the toss and elected to field.
+}}<section end= "match15"/>
+----
+<section begin="match16"/>{{Single-innings cricket match
+| round = {{anchor|match16}}'''Match 16'''
+| date = {{Start date|2026|04|10|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Royal Challengers Bengaluru]]
+| team2 = [[Rajasthan Royals]] (H)
+| score1 = 201/8 (20 overs)
+| runs1 = [[Rajat Patidar]] 63 (40)
+| wickets1 = [[Ravi Bishnoi]] 2/32 (4 overs)
+| score2 = 202/4 (18 overs)
+| runs2 = [[Dhruv Jurel]] 81[[not out|*]] (43)
+| wickets2 = [[Krunal Pandya]] 2/30 (4 overs)
+| result = Rajasthan Royals won by 6 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1527689.html Scorecard]
+| venue = [[Assam Cricket Association Stadium|ACA Cricket Stadium]], [[Guwahati]]
+| umpires = [[Kumar Dharmasena]] (SL) and Swaroopanand Kannur (Ind)
+| motm = [[Vaibhav Sooryavanshi]] (Rajasthan Royals)
+| toss = Rajasthan Royals won the toss and elected to field.
+}}<section end= "match16"/>
+----
+<section begin="match17"/>{{Single-innings cricket match
+| round = {{anchor|match17}}'''Match 17'''
+| date = {{Start date|2026|04|11|df=y}}
+| time = 15:30
+| daynight = y
+| team1 = [[Sunrisers Hyderabad]]
+| team2 = [[Punjab Kings]] (H)
+| score1 = 219/6 (20 overs)
+| runs1 = [[Abhishek Sharma]] 74 (28)
+| wickets1 = [[Shashank Singh]] 2/20 (3 overs)
+| score2 = 223/4 (18.5 overs)
+| runs2 = [[Shreyas Iyer]] 69[[not out|*]] (33)
+| wickets2 = Shivang Kumar 3/33 (4 overs)
+| result = Punjab Kings won by 6 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1527690.html Scorecard]
+| venue = [[Maharaja Yadavindra Singh International Cricket Stadium|Maharaja Yadavindra Singh Stadium]], [[Mullanpur Garibdass|Mullanpur]]
+| umpires = Abhijeet Bengeri (Ind) and [[Rohan Pandit]] (Ind)
+| motm = [[Shreyas Iyer]] (Punjab Kings)
+| toss = Punjab Kings won the toss and elected to field.
+}}<section end= "match17"/>
+----
+<section begin="match18"/>{{Single-innings cricket match
+| round = {{anchor|match18}}'''Match 18'''
+| date = {{Start date|2026|04|11|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Chennai Super Kings]] (H)
+| team2 = [[Delhi Capitals]]
+| score1 = 212/2 (20 overs)
+| runs1 = [[Sanju Samson]] 115[[not out|*]] (56)
+| wickets1 = [[Axar Patel]] 1/39 (4 overs)
+| score2 = 189 (20 overs)
+| runs2 = [[Tristan Stubbs]] 60 (38)
+| wickets2 = [[Jamie Overton]] 4/18 (4 overs)
+| result = Chennai Super Kings won by 23 runs
+| report = [http://espncricinfo.com/ci/engine/match/1527691.html Scorecard]
+| venue = [[M. A. Chidambaram Stadium]], [[Chennai]]
+| umpires = Saidarshan Kumar (Ind) and Vinod Seshan (Ind)
+| motm = [[Sanju Samson]] (Chennai Super Kings)
+| toss = Delhi Capitals won the toss and elected to field.
+| notes = [[Sanju Samson]] (Chennai Super Kings) scored his 400th six in T20s.<ref>{{cite web |title=Sanju Samson Enters Rare 400 Club, Outpowers Rohit Sharma, Virat Kohli In Elite T20 List |url=https://sports.ndtv.com/ipl-2026/sanju-samson-enters-rare-400-club-outpowers-rohit-sharma-virat-kohli-in-elite-t20-list-11344370 |work=[[NDTV Sports]] |date=11 April 2026 |access-date=15 April 2026}}</ref>
+}}<section end= "match18"/>
+----
+<section begin="match19"/>{{Single-innings cricket match
+| round = {{anchor|match19}}'''Match 19'''
+| date = {{Start date|2026|04|12|df=y}}
+| time = 15:30
+| daynight = y
+| team1 = [[Lucknow Super Giants]] (H)
+| team2 = [[Gujarat Titans]]
+| score1 = 164/8 (20 overs)
+| runs1 = [[Aiden Markram]] 30 (21)
+| wickets1 = [[Prasidh Krishna]] 4/28 (4 overs)
+| score2 = 165/3 (18.4 overs)
+| runs2 = [[Jos Buttler]] 60 (37)
+| wickets2 = [[Prince Yadav]] 1/31 (4 overs)<br>[[Digvesh Rathi]] 1/31 (4 overs)
+| result = Gujarat Titans won by 7 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1527692.html Scorecard]
+| venue = [[Ekana Cricket Stadium]], [[Lucknow]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and Abhijit Bhattacharya (Ind)
+| motm = [[Prasidh Krishna]] (Gujarat Titans)
+| toss = Gujarat Titans won the toss and elected to field.
+}}<section end= "match19"/>
+----
+<section begin="match20"/>{{Single-innings cricket match
+| round = {{anchor|match20}}'''Match 20'''
+| date = {{Start date|2026|04|12|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Royal Challengers Bengaluru]]
+| team2 = [[Mumbai Indians]] (H)
+| score1 = 240/4 (20 overs)
+| runs1 = [[Phil Salt]] 78 (36)
+| wickets1 = [[Shardul Thakur]] 1/32 (2 overs)
+| score2 = 222/5 (20 overs)
+| runs2 = [[Sherfane Rutherford]] 71[[not out|*]] (31)
+| wickets2 = [[Suyash Sharma]] 2/47 (4 overs)
+| result = Royal Challengers Bengaluru won by 18 runs
+| report = [http://espncricinfo.com/ci/engine/match/1527693.html Scorecard]
+| venue = [[Wankhede Stadium]], [[Mumbai]]
+| umpires = Swaroopanand Kannur (Ind) and [[Virender Sharma]] (Ind)
+| motm = [[Phil Salt]] (Royal Challengers Bengaluru)
+| toss = Mumbai Indians won the toss and elected to field.
+}}<section end= "match20"/>
+----
+<section begin="match21"/>{{Single-innings cricket match
+| round = {{anchor|match21}}'''Match 21'''
+| date = {{Start date|2026|04|13|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Sunrisers Hyderabad]] (H)
+| team2 = [[Rajasthan Royals]]
+| score1 = 216/6 (20 overs)
+| runs1 = [[Ishan Kishan]] 91 (44)
+| wickets1 = [[Jofra Archer]] 2/37 (4 overs)
+| score2 = 159 (19 overs)
+| runs2 = [[Donovan Ferreira]] 69 (44)
+| wickets2 = Sakib Hussain 4/24 (4 overs)
+| result = Sunrisers Hyderabad won by 57 runs
+| report = [http://espncricinfo.com/ci/engine/match/1529264.html Scorecard]
+| venue = [[Rajiv Gandhi International Cricket Stadium|Rajiv Gandhi Stadium]], [[Hyderabad]]
+| umpires = [[Jayaraman Madanagopal]] (Ind) and [[Rohan Pandit]] (Ind)
+| motm = Praful Hinge (Sunrisers Hyderabad)
+| toss = Rajasthan Royals won the toss and elected to field.
+| notes = [[Praful Hinge]] and [[Sakib Hussain]] (Sunrisers Hyderabad) both made their IPL debuts.<ref>{{Cite web |last=Tiwari |first=Vishal |date=14 April 2026 |title=Two IPL debutants' one unforgettable night: How Praful Hinge, Sakib Hussain showcased India's hidden talent |url=https://www.firstpost.com/firstcricket/praful-hinge-sakib-hussain-ipl-2026-debut-srh-vs-rr-india-talent-pool-14000038.html |access-date=25 June 2026 |work=[[Firstpost]]}}</ref>
+* Praful Hinge also became the first bowler to take 3 wickets in his debut over and to take 3 wickets in the opening over of an IPL innings.<ref>{{cite news |date= 13 April 2026 |publisher=[[Cricinfo|ESPNcricinfo]] |url=https://www.espncricinfo.com/story/srh-vs-rr-ipl-2026-who-is-praful-hinge-who-started-his-ipl-career-with-a-triple-wicket-over-1531840 |title=Meet Praful Hinge, who started his IPL career with a triple-wicket over |access-date=14 April 2026}}</ref>
+}}<section end= "match21"/>
+----
+<section begin="match22"/>{{Single-innings cricket match
+| round = {{anchor|match22}}'''Match 22'''
+| date = {{Start date|2026|04|14|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Chennai Super Kings]] (H)
+| team2 = [[Kolkata Knight Riders]]
+| score1 = 192/5 (20 overs)
+| runs1 = [[Sanju Samson]] 48 (32)
+| wickets1 = [[Kartik Tyagi]] 2/35 (4 overs)
+| score2 = 160/7 (20 overs)
+| runs2 = [[Ramandeep Singh (cricketer)|Ramandeep Singh]] 35 (23)
+| wickets2 = [[Noor Ahmad]] 3/21 (4 overs)
+| result = Chennai Super Kings won by 32 runs
+| report = [http://espncricinfo.com/ci/engine/match/1529265.html Scorecard]
+| venue = [[M. A. Chidambaram Stadium]], [[Chennai]]
+| umpires = [[Nitin Menon]] (Ind) and Saidharshan Kumar (Ind)
+| motm = [[Noor Ahmad]] (Chennai Super Kings)
+| toss = Kolkata Knight Riders won the toss and elected to field.
+}}<section end= "match22"/>
+----
+<section begin="match23"/>{{Single-innings cricket match
+| round = {{anchor|match23}}'''Match 23'''
+| date = {{Start date|2026|04|15|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Lucknow Super Giants]]
+| team2 = [[Royal Challengers Bengaluru]] (H)
+| score1 = 146 (20 overs)
+| runs1 = [[Mitchell Marsh]] 40 (32)
+| wickets1 = [[Rasikh Salam]] 4/24 (4 overs)
+| score2 = 149/5 (15.1 overs)
+| runs2 = [[Virat Kohli]] 49 (34)
+| wickets2 = [[Prince Yadav]] 3/32 (3 overs)
+| result = Royal Challengers Bengaluru won by 5 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529266.html Scorecard]
+| venue = [[M. Chinnaswamy Stadium]], [[Bengaluru]]
+| umpires = [[Adrian Holdstock]] (SA) and Bhavesh Patel (Ind)
+| motm = [[Josh Hazlewood]] (Royal Challengers Bengaluru)
+| toss = Royal Challengers Bengaluru won the toss and elected to field.
+| notes = [[Krunal Pandya]] (Royal Challengers Bengaluru) took his 100th wicket in IPL.<ref>{{cite news |title=Krunal Pandya achieves huge career milestone, completes 100 IPL wickets |url=https://www.crictracker.com/cricket-news/stats-krunal-pandya-achieves-huge-career-milestone-completes-100-ipl-wickets/ |publisher=CricTracker |access-date=15 April 2026}}</ref>
+}}<section end= "match23"/>
+----
+<section begin="match24"/>{{Single-innings cricket match
+| round = {{anchor|match24}}'''Match 24'''
+| date = {{Start date|2026|04|16|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Mumbai Indians]] (H)
+| team2 = [[Punjab Kings]]
+| score1 = 195/6 (20 overs)
+| runs1 = [[Quinton de Kock]] 112[[not out|*]] (60)
+| wickets1 = [[Arshdeep Singh]] 3/22 (4 overs)
+| score2 = 198/3 (16.3 overs)
+| runs2 = [[Prabhsimran Singh]] 80[[not out|*]] (39)
+| wickets2 = [[Allah Ghazanfar]] 2/31 (4 overs)
+| result = Punjab Kings won by 7 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529267.html Scorecard]
+| venue = [[Wankhede Stadium]], [[Mumbai]]
+| umpires = Mohit Krishnadas (Ind) and [[Virender Sharma]] (Ind)
+| motm = [[Arshdeep Singh]] (Punjab Kings)
+| toss = Punjab Kings won the toss and elected to field.
+}}<section end= "match24"/>
+----
+<section begin="match25"/>{{Single-innings cricket match
+| round = {{anchor|match25}}'''Match 25'''
+| date = {{Start date|2026|04|17|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Kolkata Knight Riders]]
+| team2 = [[Gujarat Titans]] (H)
+| score1 = 180 (20 overs)
+| runs1 = [[Cameron Green]] 79 (55)
+| wickets1 = [[Kagiso Rabada]] 3/29 (4 overs)
+| score2 = 181/5 (19.4 overs)
+| runs2 = [[Shubman Gill]] 86 (50)
+| wickets2 = [[Varun Chakravarthy]] 2/34 (4 overs)
+| result = Gujarat Titans won by 5 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529268.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[Rohan Pandit]] (Ind) and [[Ulhas Gandhe]] (Ind)
+| motm = [[Shubman Gill]] (Gujarat Titans)
+| toss = Kolkata Knight Riders won the toss and elected to bat.
+| notes = [[Jos Buttler]] (Gujarat Titans) became the fourth player to take 300 catches in T20s.<ref>{{cite news |title=Jos Buttler Becomes 4th Cricketer In The World To Take 300 Catches In T20s |url=https://www.news18.com/cricket/jos-buttler-becomes-4th-cricketer-the-world-after-pollard-miller-and-de-kock-to-take-300-catches-in-t20s-10041873.html |work=[[News18]] |date=18 April 2026 |access-date=21 April 2026}}</ref>
+}}<section end= "match25"/>
+----
+<section begin="match26"/>{{Single-innings cricket match
+| round = {{anchor|match26}}'''Match 26'''
+| date = {{Start date|2026|04|18|df=y}}
+| time = 15:30
+| daynight = y
+| team1 = [[Royal Challengers Bengaluru]] (H)
+| team2 = [[Delhi Capitals]]
+| score1 = 175/8 (20 overs)
+| runs1 = [[Phil Salt]] 63 (38)
+| wickets1 = [[Axar Patel]] 2/18 (3 overs)
+| score2 = 179/4 (19.5 overs)
+| runs2 = [[Tristan Stubbs]] 60[[not out|*]] (47)
+| wickets2 = [[Bhuvneshwar Kumar]] 4/26 (4 overs)
+| result = Delhi Capitals won by 6 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529269.html Scorecard]
+| venue = [[M. Chinnaswamy Stadium]], [[Bengaluru]]
+| umpires = Abhijit Bhattacharya (Ind) and Bhavesh Patel (Ind)
+| motm = [[Tristan Stubbs]] (Delhi Capitals)
+| toss = Delhi Capitals won the toss and elected to field.
+| notes = Royal Challengers Bengaluru became the first IPL team to play in 100 matches at a home venue.<ref>{{cite news |title=IPL 2026: RCB to play 100th match at Chinnaswamy, first team to achieve home ground landmark|url=https://indianexpress.com/article/sports/cricket/ipl-2026-rcb-100th-match-chinnaswamy-first-team-home-ground-landmark-10642933/ |work=[[The Indian Express]] |access-date=18 April 2026}}</ref>
+}}<section end= "match26"/>
+----
+<section begin="match27"/>{{Single-innings cricket match
+| round = {{anchor|match27}}'''Match 27'''
+| date = {{Start date|2026|04|18|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Sunrisers Hyderabad]] (H)
+| team2 = [[Chennai Super Kings]]
+| score1 = 194/9 (20 overs)
+| runs1 = [[Abhishek Sharma]] 59 (22)
+| wickets1 = [[Anshul Kamboj]] 3/22 (3 overs)
+| score2 = 184/8 (20 overs)
+| runs2 = [[Matthew Short]] 34 (30)
+| wickets2 = [[Eshan Malinga]] 3/29 (4 overs)
+| result = Sunrisers Hyderabad won by 10 runs
+| report = [http://espncricinfo.com/ci/engine/match/1529270.html Scorecard]
+| venue = [[Rajiv Gandhi International Cricket Stadium|Rajiv Gandhi Stadium]], [[Hyderabad]]
+| umpires = Anish Sahasrabudhe (Ind) and Vinod Seshan (Ind)
+| motm = [[Eshan Malinga]] (Sunrisers Hyderabad)
+| toss = Chennai Super Kings won the toss and elected to field.
+}}<section end= "match27"/>
+----
+<section begin="match28"/>{{Single-innings cricket match
+| round = {{anchor|match28}}'''Match 28'''
+| date = {{Start date|2026|04|19|df=y}}
+| time = 15:30
+| daynight = y
+| team1 = [[Rajasthan Royals]]
+| team2 = [[Kolkata Knight Riders]] (H)
+| score1 = 155/9 (20 overs)
+| runs1 = [[Vaibhav Sooryavanshi]] 46 (28)
+| wickets1 = [[Varun Chakravarthy]] 3/14 (4 overs)
+| score2 = 161/6 (19.4 overs)
+| runs2 = [[Rinku Singh (cricketer)|Rinku Singh]] 53[[not out|*]] (34)
+| wickets2 = [[Ravindra Jadeja]] 2/8 (3 overs)
+| result = Kolkata Knight Riders won by 4 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529271.html Scorecard]
+| venue = [[Eden Gardens]], [[Kolkata]]
+| umpires = [[Kumar Dharmasena]] (SL) and Mohit Krishnadas (Ind)
+| motm = [[Varun Chakravarthy]] (Kolkata Knight Riders)
+| toss = Rajasthan Royals won the toss and elected to bat.
+}}<section end= "match28"/>
+----
+<section begin="match29"/>{{Single-innings cricket match
+| round = {{anchor|match29}}'''Match 29'''
+| date = {{Start date|2026|04|19|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Punjab Kings]] (H)
+| team2 = [[Lucknow Super Giants]]
+| score1 = 254/7 (20 overs)
+| runs1 = [[Priyansh Arya]] 93 (37)
+| wickets1 = [[Prince Yadav]] 2/25 (4 overs)
+| score2 = 200/5 (20 overs)
+| runs2 = [[Rishabh Pant]] 43 (23)
+| wickets2 = [[Marco Jansen]] 2/36 (4 overs)
+| result = Punjab Kings won by 54 runs
+| report = [http://espncricinfo.com/ci/engine/match/1529272.html Scorecard]
+| venue = [[Maharaja Yadavindra Singh International Cricket Stadium|Maharaja Yadavindra Singh Stadium]], [[Mullanpur Garibdass|Mullanpur]]
+| umpires = Keyur Kelkar (Ind) and [[Jayaraman Madanagopal]] (Ind)
+| motm = [[Priyansh Arya]] (Punjab Kings)
+| toss = Lucknow Super Giants won the toss and elected to field.
+}}<section end= "match29"/>
+----
+<section begin="match30"/>{{Single-innings cricket match
+| round = {{anchor|match30}}'''Match 30'''
+| date = {{Start date|2026|04|20|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Mumbai Indians]]
+| team2 = [[Gujarat Titans]] (H)
+| score1 = 199/5 (20 overs)
+| runs1 = [[Tilak Varma]] 101[[not out|*]] (45)
+| wickets1 = [[Kagiso Rabada]] 3/33 (4 overs)
+| score2 = 100 (15.5 overs)
+| runs2 = [[Washington Sundar]] 26 (17)
+| wickets2 = [[Ashwani Kumar (cricketer)|Ashwani Kumar]] 4/24 (4 overs)
+| result = Mumbai Indians won by 99 runs
+| report = [http://espncricinfo.com/ci/engine/match/1529273.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = Abhijit Bhattacharya (Ind) and [[K. N. Ananthapadmanabhan]] (Ind)
+| motm = [[Tilak Varma]] (Mumbai Indians)
+| toss = Gujarat Titans won the toss and elected to field.
+| notes = [[Krish Bhagat]] and [[Danish Malewar]] (Mumbai Indians) both made their T20 debuts.<ref>{{cite news |title=IPL 2026: Who are Danish Malewar and Krish Bhagat? Mumbai Indians unveil new debutants |url=https://www.indiatoday.in/sports/story/ipl-2026-gt-vs-mi-danish-malewar-krish-bhagat-debut-2899084-2026-04-20 |work=[[India Today]] |date=20 April 2026 |access-date=21 April 2026}}</ref>
+* [[Hardik Pandya]] became the seventh player to score 2,000 runs for Mumbai Indians in IPL.<ref>{{cite news |title=Hardik Pandya, the seventh cricketer to score 2000 runs in IPL for Mumbai Indians |url=https://www.news18.com/cricket/hardik-pandya-joins-rohit-sharma-in-elite-list-becomes-7th-cricketer-to-10046107.html |work=[[News18]] |date=20 April 2026 |access-date=21 April 2026}}</ref>
+* [[Tilak Varma]] (Mumbai Indians) scored his maiden [[Century (cricket)|century]] in IPL.<ref>{{cite news |title=Tilak Varma slams maiden IPL hundred; rescues MI from collapse vs GT |url=https://www.business-standard.com/cricket/ipl/tilak-varma-slams-maiden-ipl-hundred-rescues-mi-from-collapse-vs-gt-126042001166_1.html |work=[[Business Standard]] |date=20 April 2026 |access-date=21 April 2026}}</ref>
+}}<section end= "match30"/>
+----
+<section begin="match31"/>{{Single-innings cricket match
+| round = {{anchor|match31}}'''Match 31'''
+| date = {{Start date|2026|04|21|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Sunrisers Hyderabad]] (H)
+| team2 = [[Delhi Capitals]]
+| score1 = 242/2 (20 overs)
+| runs1 = [[Abhishek Sharma]] 135[[not out|*]] (68)
+| wickets1 = [[Axar Patel]] 1/23 (2 overs)
+| score2 = 195/9 (20 overs)
+| runs2 = [[Nitish Rana]] 57 (30)
+| wickets2 = [[Eshan Malinga]] 4/32 (4 overs)
+| result = Sunrisers Hyderabad won by 47 runs
+| report = [http://espncricinfo.com/ci/engine/match/1529274.html Scorecard]
+| venue = [[Rajiv Gandhi International Cricket Stadium|Rajiv Gandhi Stadium]], [[Hyderabad]]
+| umpires = Anish Sahasrabudhe (Ind) and Vinod Seshan (Ind)
+| motm = [[Abhishek Sharma]] (Sunrisers Hyderabad)
+| toss = Delhi Capitals won the toss and elected to field.
+| notes = [[Dilshan Madushanka]] (Sunrisers Hyderabad) made his IPL debut.<ref>{{Cite web |title=Malinga, Madushanka rip through DC as SRH surge to third after Abhishek blitz |url=https://www.dailymirror.lk/breaking-news/Malinga-Madushanka-rip-through-DC-as-SRH-surge-to-third-after-Abhishek-blitz/108-338363 |access-date=2026-06-25 |work=[[Daily Mirror (Sri Lanka)|Daily Mirror]] |language=en}}</ref>
+}}<section end= "match31"/>
+----
+<section begin="match32"/>{{Single-innings cricket match
+| round = {{anchor|match32}}'''Match 32'''
+| date = {{Start date|2026|04|22|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Rajasthan Royals]]
+| team2 = [[Lucknow Super Giants]] (H)
+| score1 = 159/6 (20 overs)
+| runs1 = [[Ravindra Jadeja]] 43[[not out|*]] (29)
+| wickets1 = [[Mohsin Khan (Indian cricketer)|Mohsin Khan]] 2/17 (4 overs)
+| score2 = 119 (18 overs)
+| runs2 = [[Mitchell Marsh]] 55 (41)
+| wickets2 = [[Jofra Archer]] 3/20 (4 overs)
+| result = Rajasthan Royals won by 40 runs
+| report = [http://espncricinfo.com/ci/engine/match/1529275.html Scorecard]
+| venue = [[Ekana Cricket Stadium]], [[Lucknow]]
+| umpires = [[Ajitesh Argal]] (Ind) and [[Virender Sharma]] (Ind)
+| motm = [[Ravindra Jadeja]] (Rajasthan Royals)
+| toss = Lucknow Super Giants won the toss and elected to field.
+}}<section end= "match32"/>
+----
+<section begin="match33"/>{{Single-innings cricket match
+| round = {{anchor|match33}}'''Match 33'''
+| date = {{Start date|2026|04|23|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Chennai Super Kings]]
+| team2 = [[Mumbai Indians]] (H)
+| score1 = 207/6 (20 overs)
+| runs1 = [[Sanju Samson]] 101[[not out|*]] (54)
+| wickets1 = [[Allah Ghazanfar]] 2/25 (4 overs)
+| score2 = 104 (19 overs)
+| runs2 = [[Tilak Varma]] 37 (29)
+| wickets2 = [[Akeal Hosein]] 4/17 (4 overs)
+| result = Chennai Super Kings won by 103 runs
+| report = [http://espncricinfo.com/ci/engine/match/1529276.html Scorecard]
+| venue = [[Wankhede Stadium]], [[Mumbai]]
+| umpires = [[Adrian Holdstock]] (SA) and Parashar Joshi (Ind)
+| motm = [[Sanju Samson]] (Chennai Super Kings)
+| toss = Mumbai Indians won the toss and elected to field.
+| notes = [[Shardul Thakur]] replaced [[Mitchell Santner]] as a [[Concussion substitute (cricket)|concussion substitute]] after the latter got injured during the first innings.<ref>{{Cite news |date=2026-04-24 |title=IPL 2026: Why concussion sub for a shoulder injury? Mahela Jayawardene explains |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-explained-why-concussion-sub-for-a-shoulder-injury-mi-coach-mahela-jayawardene-clarifies/articleshow/130481571.cms |access-date=2026-06-09 |work=[[The Times of India]] |issn=0971-8257}}</ref>
+* This was [[List of Mumbai Indians records#Greatest loss margin (by runs)|Mumbai Indians' biggest defeat by a margin of runs]].<ref>{{cite web |access-date=26 April 2026 |title=103-run hammering: CSK hand MI their biggest IPL defeat as Sanju Samson, spinners lead rout |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/103-run-hammering-csk-hand-mi-their-biggest-ipl-defeat-as-sanju-samson-spinners-lead-rout/articleshow/130477148.cms |work=[[The Times of India]]}}</ref>
+}}<section end= "match33"/>
+----
+<section begin="match34"/>{{Single-innings cricket match
+| round = {{anchor|match34}}'''Match 34'''
+| date = {{Start date|2026|04|24|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Gujarat Titans]]
+| team2 = [[Royal Challengers Bengaluru]] (H)
+| score1 = 205/3 (20 overs)
+| runs1 = [[Sai Sudharsan]] 100 (58)
+| wickets1 = [[Bhuvneshwar Kumar]] 1/31 (4 overs)
+| score2 = 206/5 (18.5 overs)
+| runs2 = [[Virat Kohli]] 81 (44)
+| wickets2 = [[Rashid Khan]] 2/49 (4 overs)
+| result = Royal Challengers Bengaluru won by 5 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529277.html Scorecard]
+| venue = [[M. Chinnaswamy Stadium]], [[Bengaluru]]
+| umpires = [[Jayaraman Madanagopal]] (Ind) and Amit Rana (Ind)
+| motm = [[Virat Kohli]] (Royal Challengers Bengaluru)
+| toss = Royal Challengers Bengaluru won the toss and elected to field.
+}}<section end= "match34"/>
+----
+<section begin="match35"/>{{Single-innings cricket match
+| round = {{anchor|match35}}'''Match 35'''
+| date = {{Start date|2026|04|25|df=y}}
+| time = 15:30
+| daynight = y
+| team1 = [[Delhi Capitals]] (H)
+| team2 = [[Punjab Kings]]
+| score1 = 264/2 (20 overs)
+| runs1 = [[KL Rahul]] 152[[not out|*]] (67)
+| wickets1 = [[Arshdeep Singh]] 1/49 (4 overs)
+| score2 = 265/4 (18.5 overs)
+| runs2 = [[Prabhsimran Singh]] 76 (26)
+| wickets2 = [[Kuldeep Yadav]] 2/46 (4 overs)
+| result = Punjab Kings won by 6 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529278.html Scorecard]
+| venue = [[Arun Jaitley Cricket Stadium|Arun Jaitley Stadium]], [[Delhi]]
+| umpires = [[Ajitesh Argal]] (Ind) and [[Virender Sharma]] (Ind)
+| motm = [[KL Rahul]] (Delhi Capitals)
+| toss = Delhi Capitals won the toss and elected to bat.
+| notes = [[KL Rahul]] (Delhi Capitals) scored the highest individual score by an Indian player in the history of IPL.<ref>{{cite web |access-date=25 April 2026 |title=The V-King: KL Rahul breaks Virender Sehwag's record, hits 47-ball century for Delhi |url=https://www.indiatoday.in/sports/cricket/story/dc-vs-pbks-ipl-2026-punjab-kings-kl-rahul-fastest-century-delhi-capitals-2901505-2026-04-25 |work=[[India Today]]}}</ref>
+}}<section end= "match35"/>
+----
+<section begin="match36"/>{{Single-innings cricket match
+| round = {{anchor|match36}}'''Match 36'''
+| date = {{Start date|2026|04|25|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Rajasthan Royals]] (H)
+| team2 = [[Sunrisers Hyderabad]]
+| score1 = 228/6 (20 overs)
+| runs1 = [[Vaibhav Sooryavanshi]] 103 (37)
+| wickets1 = [[Eshan Malinga]] 2/38 (4 overs)
+| score2 = 229/5 (18.3 overs)
+| runs2 = [[Ishan Kishan]] 74 (31)
+| wickets2 = [[Jofra Archer]] 2/34 (4 overs)
+| result = Sunrisers Hyderabad won by 5 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529279.html Scorecard]
+| venue = [[Sawai Mansingh Stadium]], [[Jaipur]]
+| umpires = [[Kaushik Gandhi]] (Ind) and [[Nitin Menon]] (Ind)
+| motm = [[Ishan Kishan]] (Sunrisers Hyderabad)
+| toss = Sunrisers Hyderabad won the toss and elected to field.
+| notes = [[Vaibhav Sooryavanshi]] (Rajasthan Royals) became the fastest player to score 1,000 runs in T20s, in terms of deliveries faced (473).<ref>{{cite web |url=https://www.skysports.com/cricket/news/12123/13536583/ipl-vaibhav-sooryavanshi-becomes-fastest-to-reach-1-000-t20-runs-as-15-year-old-hits-36-ball-ton-for-rajasthan-royals |title=Vaibhav Sooryavanshi becomes fastest to reach 1,000 T20 runs |website=[[Sky Sports]] |date=25 May 2026 |access-date=29 May 2026}}</ref>
+}}<section end= "match36"/>
+----
+<section begin="match37"/>{{Single-innings cricket match
+| round = {{anchor|match37}}'''Match 37'''
+| date = {{Start date|2026|04|26|df=y}}
+| time = 15:30
+| daynight = y
+| team1 = [[Chennai Super Kings]] (H)
+| team2 = [[Gujarat Titans]]
+| score1 = 158/7 (20 overs)
+| runs1 = [[Ruturaj Gaikwad]] 74[[not out|*]] (60)
+| wickets1 = [[Kagiso Rabada]] 3/25 (4 overs)
+| score2 = 162/2 (16.4 overs)
+| runs2 = [[Sai Sudharsan]] 87 (46)
+| wickets2 = [[Noor Ahmad]] 1/29 (4 overs)
+| result = Gujarat Titans won by 8 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529280.html Scorecard]
+| venue = [[M. A. Chidambaram Stadium]], [[Chennai]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and [[Adrian Holdstock]] (SA)
+| motm = [[Kagiso Rabada]] (Gujarat Titans)
+| toss = Gujarat Titans won the toss and elected to field.
+| notes = This match was initially scheduled at [[Narendra Modi Stadium]] in [[Ahmedabad]], but was swapped venues with [[#match66|match 66]] due to the [[2026 Gujarat local elections]].<ref name="M37-M66-1">{{cite web |date=13 April 2026 |title=Venues for both matches between CSK and GT in IPL 2026 swapped |url=https://www.espncricinfo.com/story/ipl-2026-venues-for-both-matches-between-csk-and-gt-swapped-1531807 |publisher=[[Cricinfo|ESPNcricinfo]] |access-date=3 May 2026}}</ref><ref name="M37-M66-2">{{cite web |date=14 April 2026 |title=IPL 2026: BCCI announces venue change for both the CSK vs GT matches |url=https://www.business-standard.com/cricket/ipl/ipl-2026-bcci-announces-venue-change-for-both-the-csk-vs-gt-matches-126041301112_1.html |work=[[Business Standard]] |access-date=3 May 2026}}</ref>
+}}<section end= "match37"/>
+----
+<section begin="match38"/>{{Single-innings cricket match
+| round = {{anchor|match38}}'''Match 38'''
+| date = {{Start date|2026|04|26|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Kolkata Knight Riders]]
+| team2 = [[Lucknow Super Giants]] (H)
+| score1 = 155/7 (20 overs)
+| runs1 = [[Rinku Singh (cricketer)|Rinku Singh]] 83[[not out|*]] (51)
+| wickets1 = [[Mohsin Khan (Indian cricketer)|Mohsin Khan]] 5/23 (4 overs)
+| score2 = 155/8 (20 overs)
+| runs2 = [[Rishabh Pant]] 42 (38)
+| wickets2 = [[Vaibhav Arora]] 2/24 (4 overs)
+| result = Match tied (Kolkata Knight Riders won the [[Super Over]])
+| report = [http://espncricinfo.com/ci/engine/match/1529281.html Scorecard]
+| venue = [[Ekana Cricket Stadium]], [[Lucknow]]
+| umpires = Abhijeet Bengeri (Ind) and Keyur Kelkar (Ind)
+| motm = [[Rinku Singh (cricketer)|Rinku Singh]] (Kolkata Knight Riders)
+| toss = Lucknow Super Giants won the toss and elected to field.
+| notes = Super Over: Lucknow Super Giants 1/2 (0.3 overs), Kolkata Knight Riders 4/0 (0.1 overs)
+}}<section end= "match38"/>
+----
+<section begin="match39"/>{{Single-innings cricket match
+| round = {{anchor|match39}}'''Match 39'''
+| date = {{Start date|2026|04|27|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Delhi Capitals]] (H)
+| team2 = [[Royal Challengers Bengaluru]]
+| score1 = 75 (16.3 overs)
+| runs1 = [[Abishek Porel]] 30 (33)
+| wickets1 = [[Josh Hazlewood]] 4/12 (3.3 overs)
+| score2 = 77/1 (6.3 overs)
+| runs2 = [[Devdutt Padikkal]] 34[[not out|*]] (13)
+| wickets2 = [[Kyle Jamieson]] 1/42 (3 overs)
+| result = Royal Challengers Bengaluru won by 9 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529282.html Scorecard]
+| venue = [[Arun Jaitley Cricket Stadium|Arun Jaitley Stadium]], [[Delhi]]
+| umpires = [[Ajitesh Argal]] (Ind) and [[Sam Nogajski]] (Aus)
+| motm = [[Josh Hazlewood]] (Royal Challengers Bengaluru)
+| toss = Royal Challengers Bengaluru won the toss and elected to field.
+| notes = [[Virat Kohli]] (Royal Challengers Bengaluru) scored his 9,000th run in IPL.<ref>{{cite web |access-date=28 April 2026 |title=Virat Kohli in a league of his own, completes 9000 IPL runs in style|url=https://www.indiatoday.in/sports/cricket/story/virat-kohli-first-batter-9000-ipl-runs-rcb-vs-delhi-capitals-2902419-2026-04-27 |work=[[India Today]]}}</ref>
+* [[Sahil Parakh]] (Delhi Capitals) made his IPL debut.<ref>{{cite web |access-date=17 May 2026 |title=Who is Sahil Parakh? Maharashtra teenager makes IPL debut for Delhi Capitals|url=https://www.indiatoday.in/sports/cricket/story/ipl-2026-sahil-parakh-debut-delhi-capitals-maiden-cap-dc-vs-rcb-2902379-2026-04-27 |work=[[India Today]]}}</ref>
+}}<section end="match39"/>
+----
+<section begin="match40"/>{{Single-innings cricket match
+| round = {{anchor|match40}}'''Match 40'''
+| date = {{Start date|2026|04|28|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Punjab Kings]] (H)
+| team2 = [[Rajasthan Royals]]
+| score1 = 222/4 (20 overs)
+| runs1 = [[Marcus Stoinis]] 62[[not out|*]] (22)
+| wickets1 = [[Yash Raj Punja]] 2/41 (4 overs)
+| score2 = 228/4 (19.2 overs)
+| runs2 = [[Donovan Ferreira]] 52[[not out|*]] (26)
+| wickets2 = [[Yuzvendra Chahal]] 3/36 (4 overs)
+| result = Rajasthan Royals won by 6 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529283.html Scorecard]
+| venue = [[Maharaja Yadavindra Singh International Cricket Stadium|Maharaja Yadavindra Singh Stadium]], [[Mullanpur Garibdass|Mullanpur]]
+| umpires = [[Nitin Menon]] (Ind) and [[Tanmay Srivastava]] (Ind)
+| motm = [[Donovan Ferreira]] (Rajasthan Royals)
+| toss = Rajasthan Royals won the toss and elected to field.
+}}<section end="match40"/>
+----
+<section begin="match41"/>{{Single-innings cricket match
+| round = {{anchor|match41}}'''Match 41'''
+| date = {{Start date|2026|04|29|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Mumbai Indians]] (H)
+| team2 = [[Sunrisers Hyderabad]]
+| score1 = 243/5 (20 overs)
+| runs1 = [[Ryan Rickelton]] 123[[not out|*]] (55)
+| wickets1 = [[Praful Hinge]] 2/54 (4 overs)
+| score2 = 249/4 (18.4 overs)
+| runs2 = [[Travis Head]] 76 (30)
+| wickets2 = [[Allah Ghazanfar]] 2/51 (4 overs)
+| result = Sunrisers Hyderabad won by 6 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529284.html Scorecard]
+| venue = [[Wankhede Stadium]], [[Mumbai]]
+| umpires = Abhijeet Bengeri (Ind) and [[Jayaraman Madanagopal]] (Ind)
+| motm = [[Heinrich Klaasen]] (Sunrisers Hyderabad)
+| toss = Mumbai Indians won the toss and elected to bat.
+| notes = [[Ryan Rickelton]] (Mumbai Indians) scored his maiden [[Century (cricket)|century]] in IPL.<ref>{{Cite news |date=2026-04-29 |title=Fastest and highest ever! Ryan Rickelton scripts MI history with maiden IPL hundred |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-ryan-rickelton-scripts-history-with-fastest-ever-mumbai-indians-hundred/articleshow/130611974.cms |access-date=2026-06-25 |work=[[The Times of India]] |issn=0971-8257}}</ref>
+}}<section end="match41"/>
+----
+<section begin="match42"/>{{Single-innings cricket match
+| round = {{anchor|match42}}'''Match 42'''
+| date = {{Start date|2026|04|30|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Royal Challengers Bengaluru]]
+| team2 = [[Gujarat Titans]] (H)
+| score1 = 155 (19.2 overs)
+| runs1 = [[Devdutt Padikkal]] 40 (24)
+| wickets1 = [[Arshad Khan (Indian cricketer)|Arshad Khan]] 3/22 (3.2 overs)
+| score2 = 158/6 (15.5 overs)
+| runs2 = [[Shubman Gill]] 43 (18)
+| wickets2 = [[Bhuvneshwar Kumar]] 3/28 (4 overs)
+| result = Gujarat Titans won by 4 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529285.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and [[Adrian Holdstock]] (SA)
+| motm = [[Jason Holder]] (Gujarat Titans)
+| toss = Gujarat Titans won the toss and elected to field.
+}}<section end="match42"/>
+----
+<section begin="match43"/>{{Single-innings cricket match
+| round = {{anchor|match43}}'''Match 43'''
+| date = {{Start date|2026|05|01|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Rajasthan Royals]] (H)
+| team2 = [[Delhi Capitals]]
+| score1 = 225/6 (20 overs)
+| runs1 = [[Riyan Parag]] 90 (50)
+| wickets1 = [[Mitchell Starc]] 3/40 (4 overs)
+| score2 = 226/3 (19.1 overs)
+| runs2 = [[KL Rahul]] 75 (40)
+| wickets2 = [[Ravindra Jadeja]] 1/33 (3 overs)
+| result = Delhi Capitals won by 7 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529286.html Scorecard]
+| venue = [[Sawai Mansingh Stadium]], [[Jaipur]]
+| umpires = [[Sam Nogajski]] (Aus) and [[Virender Sharma]] (Ind)
+| motm = [[KL Rahul]] (Delhi Capitals)
+| toss = Rajasthan Royals won the toss and elected to bat.
+}}<section end="match43"/>
+----
+<section begin="match44"/>{{Single-innings cricket match
+| round = {{anchor|match44}}'''Match 44'''
+| date = {{Start date|2026|05|02|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Mumbai Indians]]
+| team2 = [[Chennai Super Kings]] (H)
+| score1 = 159/7 (20 overs)
+| runs1 = [[Naman Dhir]] 57 (37)
+| wickets1 = [[Anshul Kamboj]] 3/32 (4 overs)
+| score2 = 160/2 (18.1 overs)
+| runs2 = [[Ruturaj Gaikwad]] 67[[not out|*]] (47)
+| wickets2 = [[Jasprit Bumrah]] 1/20 (3 overs)
+| result = Chennai Super Kings won by 8 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529287.html Scorecard]
+| venue = [[M. A. Chidambaram Stadium]], [[Chennai]]
+| umpires = [[Kaushik Gandhi]] (Ind) and [[Nitin Menon]] (Ind)
+| motm = [[Ruturaj Gaikwad]] (Chennai Super Kings)
+| toss = Mumbai Indians won the toss and elected to bat.
+| notes = [[Ramakrishna Ghosh]] (Chennai Super Kings) and [[Raghu Sharma (cricketer)|Raghu Sharma]] (Mumbai Indians) both made their IPL debuts.<ref>{{cite web |access-date=3 May 2026 |title=IPL 2026: Who is Ramakrishna Ghosh? CSK's new all-rounder handed IPL debut vs MI|url=https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-who-is-ramakrishna-ghosh-csks-new-all-rounder-handed-ipl-debut-vs-mi/articleshow/130719004.cms |work=[[The Times of India]]}}</ref><ref>{{cite web |access-date=3 May 2026 |title=IPL 2026: Who is Raghu Sharma? MI's surprise pick in high-stakes clash vs CSK|url=https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-who-is-raghu-sharma-mis-surprise-pick-in-high-stakes-clash-vs-csk/articleshow/130718518.cms|work=[[The Times of India]]}}</ref>
+}}<section end="match44"/>
+----
+<section begin="match45"/>{{Single-innings cricket match
+| round = {{anchor|match45}}'''Match 45'''
+| date = {{Start date|2026|05|03|df=y}}
+| time = 15:30
+| daynight = y
+| team1 = [[Sunrisers Hyderabad]] (H)
+| team2 = [[Kolkata Knight Riders]]
+| score1 = 165 (19 overs)
+| runs1 = [[Travis Head]] 61 (28)
+| wickets1 = [[Varun Chakravarthy]] 3/36 (4 overs)
+| score2 = 169/3 (18.2 overs)
+| runs2 = [[Angkrish Raghuvanshi]] 59 (47)
+| wickets2 = [[Sakib Hussain]] 1/17 (3 overs)
+| result = Kolkata Knight Riders won by 7 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529288.html Scorecard]
+| venue = [[Rajiv Gandhi International Cricket Stadium|Rajiv Gandhi Stadium]], [[Hyderabad]]
+| umpires = Abhijeet Bengeri (Ind) and [[Jayaraman Madanagopal]] (Ind)
+| motm = [[Varun Chakravarthy]] (Kolkata Knight Riders)
+| toss = Sunrisers Hyderabad won the toss and elected to bat.
+| notes = [[Smaran Ravichandran]] (Sunrisers Hyderabad) made his IPL debut.<ref>{{cite web |access-date=3 May 2026 |title=Who is Smaran Ravichandran? Karnataka batter replaces Nitish Kumar Reddy to make IPL debut during SRH vs KKR|url=https://www.livemint.com/news/trends/who-is-smaran-ravichandran-karnataka-batter-replaces-nitish-kumar-reddy-to-make-ipl-debut-during-srh-vs-kkr/11777800969830.html|work=[[Mint (newspaper)|Mint]]}}</ref>
+* [[Sunil Narine]] (Kolkata Knight Riders) became the first overseas player to take 200 wickets in IPL.<ref>{{cite web |access-date=3 May 2026 |title=Sunil Narine etches his name in IPL folklore, becomes first overseas player to achieve monumental feat|url=https://www.hindustantimes.com/cricket/sunil-narine-etches-his-name-in-ipl-folklore-becomes-first-overseas-player-to-achieve-monumental-feat-101777807581777.html|work=[[Hindustan Times]]}}</ref>
+}}<section end="match45"/>
+----
+<section begin="match46"/>{{Single-innings cricket match
+| round = {{anchor|match46}}'''Match 46'''
+| date = {{Start date|2026|05|03|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Punjab Kings]]
+| team2 = [[Gujarat Titans]] (H)
+| score1 = 163/9 (20 overs)
+| runs1 = [[Suryansh Shedge]] 57 (29)
+| wickets1 = [[Jason Holder]] 4/24 (4 overs)
+| score2 = 167/6 (19.5 overs)
+| runs2 = [[Sai Sudharsan]] 57 (41)
+| wickets2 = [[Arshdeep Singh]] 2/24 (4 overs)
+| result = Gujarat Titans won by 4 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529289.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and Parashar Joshi (Ind)
+| motm = [[Jason Holder]] (Gujarat Titans)
+| toss = Gujarat Titans won the toss and elected to field.
+| notes = [[Nishant Sindhu]] (Gujarat Titans) made his IPL debut.<ref>{{cite web |date=3 May 2026 |title=IPL 2026: Gujarat Titans opt to bowl vs Punjab Kings; Nishant Sindhu handed debut |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-gujarat-titans-opt-to-bowl-vs-punjab-kings-nishant-sindhu-handed-debut/articleshow/130733618.cms |work=[[The Times of India]] |access-date=5 May 2026}}</ref>
+}}<section end="match46"/>
+----
+<section begin="match47"/>{{Single-innings cricket match
+| round = {{anchor|match47}}'''Match 47'''
+| date = {{Start date|2026|05|04|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Lucknow Super Giants]]
+| team2 = [[Mumbai Indians]] (H)
+| score1 = 228/5 (20 overs)
+| runs1 = [[Nicholas Pooran]] 63 (21)
+| wickets1 = [[Corbin Bosch]] 2/20 (2 overs)
+| score2 = 229/4 (18.4 overs)
+| runs2 = [[Rohit Sharma]] 84 (44)
+| wickets2 = [[Manimaran Siddharth]] 2/47 (4 overs)
+| result = Mumbai Indians won by 6 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529290.html Scorecard]
+| venue = [[Wankhede Stadium]], [[Mumbai]]
+| umpires = [[Ajitesh Argal]] (Ind) and [[Sam Nogajski]] (Aus)
+| motm = [[Ryan Rickelton]] (Mumbai Indians)
+| toss = Mumbai Indians won the toss and elected to field.
+| notes = [[Akshat Raghuwanshi]] (Lucknow Super Giants) made his IPL debut.<ref>{{cite web |date=4 May 2026 |title=Who is Akshat Raghuwanshi? MP batter makes IPL debut against idol Rohit Sharma debut |url=https://www.indiatoday.in/sports/cricket/story/ipl-2026-mi-vs-lsg-rohit-sharma-akshat-raghuwanshi-ipl-debut-2906581-2026-05-04 |work=[[India Today]] |access-date=5 May 2026}}</ref>
+}}<section end="match47"/>
+----
+<section begin="match48"/>{{Single-innings cricket match
+| round = {{anchor|match48}}'''Match 48'''
+| date = {{Start date|2026|05|05|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Delhi Capitals]] (H)
+| team2 = [[Chennai Super Kings]]
+| score1 = 155/7 (20 overs)
+| runs1 = [[Sameer Rizvi]] 40[[not out|*]] (24)
+| wickets1 = [[Noor Ahmad]] 2/22 (3 overs)
+| score2 = 159/2 (17.3 overs)
+| runs2 = [[Sanju Samson]] 87[[not out|*]] (52)
+| wickets2 = [[Axar Patel]] 1/25 (4 overs)
+| result = Chennai Super Kings won by 8 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529291.html Scorecard]
+| venue = [[Arun Jaitley Cricket Stadium|Arun Jaitley Stadium]], [[Delhi]]
+| umpires = [[Kaushik Gandhi]] (Ind) and [[Tanmay Srivastava]] (Ind)
+| motm = [[Sanju Samson]] (Chennai Super Kings)
+| toss = Delhi Capitals won the toss and elected to bat.
+}}<section end="match48"/>
+----
+<section begin="match49"/>{{Single-innings cricket match
+| round = {{anchor|match49}}'''Match 49'''
+| date = {{Start date|2026|05|06|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Sunrisers Hyderabad]] (H)
+| team2 = [[Punjab Kings]]
+| score1 = 235/4 (20 overs)
+| runs1 = [[Heinrich Klaasen]] 69 (43)
+| wickets1 = [[Yuzvendra Chahal]] 1/32 (4 overs)
+| score2 = 202/7 (20 overs)
+| runs2 = [[Cooper Connolly]] 107[[not out|*]] (59)
+| wickets2 = [[Pat Cummins]] 2/34 (4 overs)
+| result = Sunrisers Hyderabad won by 33 runs
+| report = [http://espncricinfo.com/ci/engine/match/1529292.html Scorecard]
+| venue = [[Rajiv Gandhi International Cricket Stadium|Rajiv Gandhi Stadium]], [[Hyderabad]]
+| umpires = Keyur Kelkar (Ind) and [[Jayaraman Madanagopal]] (Ind)
+| motm = [[Pat Cummins]] (Sunrisers Hyderabad)
+| toss = Punjab Kings won the toss and elected to field.
+| notes = [[Cooper Connolly]] (Punjab Kings) scored his maiden [[Century (cricket)|century]] in IPL.<ref>{{cite web |date=7 May 2026 |title=SRH Crush PBKS by 33 Runs Despite Connolly's Stunning Maiden IPL Century |url=https://openthemagazine.com/sports/srh-crush-pbks-by-33-runs-despite-connollys-stunning-maiden-ipl-century |work=[[Open (Indian magazine)|Open The Magazine]] |access-date=8 May 2026}}</ref>
+}}<section end="match49"/>
+----
+<section begin="match50"/>{{Single-innings cricket match
+| round = {{anchor|match50}}'''Match 50'''
+| date = {{Start date|2026|05|07|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Lucknow Super Giants]] (H)
+| team2 = [[Royal Challengers Bengaluru]]
+| score1 = 209/3 (19 overs)
+| runs1 = [[Mitchell Marsh]] 111 (56)
+| wickets1 = [[Krunal Pandya]] 1/31 (4 overs)
+| score2 = 203/6 (19 overs)
+| runs2 = [[Rajat Patidar]] 61 (31)
+| wickets2 = [[Prince Yadav]] 3/33 (4 overs)
+| result = Lucknow Super Giants won by 9 runs ([[Duckworth–Lewis–Stern method|DLS method]])
+| report = [http://espncricinfo.com/ci/engine/match/1529293.html Scorecard]
+| venue = [[Ekana Cricket Stadium]], [[Lucknow]]
+| umpires = Parashar Joshi (Ind) and Akshay Totre (Ind)
+| motm = [[Mitchell Marsh]] (Lucknow Super Giants)
+| toss = Royal Challengers Bengaluru won the toss and elected to field.
+| rain = The match was reduced to 19 overs per side due to rain.
+* Royal Challengers Bengaluru were set a revised target of 213 runs from 19 overs due to rain.
+}}<section end="match50"/>
+----
+<section begin="match51"/>{{Single-innings cricket match
+| round = {{anchor|match51}}'''Match 51'''
+| date = {{Start date|2026|05|08|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Delhi Capitals]] (H)
+| team2 = [[Kolkata Knight Riders]]
+| score1 = 142/8 (20 overs)
+| runs1 = [[Pathum Nissanka]] 50 (29)
+| wickets1 = [[Kartik Tyagi]] 2/25 (4 overs)
+| score2 = 147/2 (14.2 overs)
+| runs2 = [[Finn Allen]] 100[[not out|*]] (47)
+| wickets2 = [[Axar Patel]] 1/27 (4 overs)
+| result = Kolkata Knight Riders won by 8 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529294.html Scorecard]
+| venue = [[Arun Jaitley Cricket Stadium|Arun Jaitley Stadium]], [[Delhi]]
+| umpires = [[Nitin Menon]] (Ind) and [[Rohan Pandit]] (Ind)
+| motm = [[Finn Allen]] (Kolkata Knight Riders)
+| toss = Kolkata Knight Riders won the toss and elected to field.
+| notes = [[Finn Allen]] (Kolkata Knight Riders) scored his maiden [[Century (cricket)|century]] in IPL.<ref>{{cite web |access-date=8 May 2026 |title=Finn Allen blazes maiden IPL century to power KKR to 4th consecutive win |url=https://indianexpress.com/article/sports/cricket/finn-allen-blazes-maiden-ipl-century-to-power-kkr-to-4th-consecutive-win-10680131 |work=[[The Indian Express]]}}</ref>
+}}<section end="match51"/>
+----
+<section begin="match52"/>{{Single-innings cricket match
+| round = {{anchor|match52}}'''Match 52'''
+| date = {{Start date|2026|05|09|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Gujarat Titans]]
+| team2 = [[Rajasthan Royals]] (H)
+| score1 = 229/4 (20 overs)
+| runs1 = [[Shubman Gill]] 84 (44)
+| wickets1 = Brijesh Sharma 2/47 (4 overs)
+| score2 = 152 (16.3 overs)
+| runs2 = [[Ravindra Jadeja]] 38 (25)
+| wickets2 = [[Rashid Khan]] 4/33 (4 overs)
+| result = Gujarat Titans won by 77 runs
+| report = [http://espncricinfo.com/ci/engine/match/1529295.html Scorecard]
+| venue = [[Sawai Mansingh Stadium]], [[Jaipur]]
+| umpires = [[Saiyed Khalid]] (Ind) and [[Virender Sharma]] (Ind)
+| motm = [[Rashid Khan]] (Gujarat Titans)
+| toss = Rajasthan Royals won the toss and elected to field.
+}}<section end="match52"/>
+----
+<section begin="match53"/>{{Single-innings cricket match
+| round = {{anchor|match53}}'''Match 53'''
+| date = {{Start date|2026|05|10|df=y}}
+| time = 15:30
+| daynight = y
+| team1 = [[Lucknow Super Giants]]
+| team2 = [[Chennai Super Kings]] (H)
+| score1 = 203/8 (20 overs)
+| runs1 = [[Josh Inglis]] 85 (33)
+| wickets1 = [[Jamie Overton]] 3/36 (4 overs)
+| score2 = 208/5 (19.2 overs)
+| runs2 = [[Urvil Patel]] 65 (23)
+| wickets2 = [[Shahbaz Ahmed (cricketer)|Shahbaz Ahmed]] 2/30 (3 overs)
+| result = Chennai Super Kings won by 5 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529296.html Scorecard]
+| venue = [[M. A. Chidambaram Stadium]], [[Chennai]]
+| umpires = Keyur Kelkar (Ind) and Amit Rana (Ind)
+| motm = [[Jamie Overton]] (Chennai Super Kings)
+| toss = Chennai Super Kings won the toss and elected to field.
+| notes = Lucknow Super Giants were eliminated as a result of this match.<ref>{{cite web |access-date=10 May 2026 |title=CSK vs LSG, IPL 2026: Urvil, Overton help Chennai Super Kings eliminate Lucknow Super Giants|url=https://sportstar.thehindu.com/cricket/ipl/csk-vs-lsg-ipl-2026-chennai-super-kings-v-lucknow-super-giants-score-result-match-report/article70962300.ece|work=[[Sportstar]]}}</ref>
+}}<section end="match53"/>
+----
+<section begin="match54"/>{{Single-innings cricket match
+| round = {{anchor|match54}}'''Match 54'''
+| date = {{Start date|2026|05|10|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Mumbai Indians]]
+| team2 = [[Royal Challengers Bengaluru]] (H)
+| score1 = 166/7 (20 overs)
+| runs1 = [[Tilak Varma]] 57 (42)
+| wickets1 = [[Bhuvneshwar Kumar]] 4/23 (4 overs)
+| score2 = 167/8 (20 overs)
+| runs2 = [[Krunal Pandya]] 73 (46)
+| wickets2 = [[Corbin Bosch]] 4/26 (4 overs)
+| result = Royal Challengers Bengaluru won by 2 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529297.html Scorecard]
+| venue = [[Shaheed Veer Narayan Singh International Cricket Stadium|Shaheed Veer Narayan Singh Stadium]], [[Raipur]]
+| umpires = [[Rohan Pandit]] (Ind) and [[Tanmay Srivastava]] (Ind)
+| motm = [[Bhuvneshwar Kumar]] (Royal Challengers Bengaluru)
+| toss = Royal Challengers Bengaluru won the toss and elected to field.
+| notes = Mumbai Indians were eliminated as a result of this match.<ref>{{cite web |date=10 May 2026 |title=IPL 2026: Mumbai Indians become second team to be eliminated after loss to Royal Challengers Bengaluru|url=https://sportstar.thehindu.com/cricket/ipl/mumbai-indians-eliminated-ipl-2026-mi-lucknow-super-giants-points-table/article70962842.ece |access-date=11 May 2026|work=[[Sportstar]]}}</ref>
+}}<section end="match54"/>
+----
+<section begin="match55"/>{{Single-innings cricket match
+| round = {{anchor|match55}}'''Match 55'''
+| date = {{Start date|2026|05|11|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Punjab Kings]] (H)
+| team2 = [[Delhi Capitals]]
+| score1 = 210/5 (20 overs)
+| runs1 = [[Shreyas Iyer]] 59[[not out|*]] (36)
+| wickets1 = [[Madhav Tiwari]] 2/40 (4 overs)
+| score2 = 216/7 (19 overs)
+| runs2 = [[Axar Patel]] 56 (30)
+| wickets2 = [[Arshdeep Singh]] 2/21 (4 overs)
+| result = Delhi Capitals won by 3 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529298.html Scorecard]
+| venue = [[Himachal Pradesh Cricket Association Stadium|HPCA Cricket Stadium]], [[Dharamshala]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and Bhavesh Patel (Ind)
+| motm = [[Madhav Tiwari]] (Delhi Capitals)
+| toss = Delhi Capitals won the toss and elected to field.
+| notes = [[Ben Dwarshuis]] (Punjab Kings) made his IPL debut.<ref>{{Cite web |date=11 May 2026 |title=DC opt to bowl; Dwarshuis to make PBKS debut |url=https://www.cricinfo.com/story/ipl-2026-dc-opt-to-bowl-dwarshuis-to-make-pbks-debut-1536310 |access-date=25 June 2026 |publisher=[[Cricinfo]]}}</ref>
+}}<section end="match55"/>
+----
+<section begin="match56"/>{{Single-innings cricket match
+| round = {{anchor|match56}}'''Match 56'''
+| date = {{Start date|2026|05|12|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Gujarat Titans]] (H)
+| team2 = [[Sunrisers Hyderabad]]
+| score1 = 168/5 (20 overs)
+| runs1 = [[Sai Sudharsan]] 61 (44)
+| wickets1 = [[Praful Hinge]] 2/17 (4 overs)
+| score2 = 86 (14.5 overs)
+| runs2 = [[Pat Cummins]] 19 (9)
+| wickets2 = [[Jason Holder]] 3/20 (4 overs)
+| result = Gujarat Titans won by 82 runs
+| report = [http://espncricinfo.com/ci/engine/match/1529299.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[Saiyed Khalid]] (Ind) and [[Virender Sharma]] (Ind)
+| motm = [[Kagiso Rabada]] (Gujarat Titans)
+| toss = Sunrisers Hyderabad won the toss and elected to field.
+}}<section end="match56"/>
+----
+<section begin="match57"/>{{Single-innings cricket match
+| round = {{anchor|match57}}'''Match 57'''
+| date = {{Start date|2026|05|13|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Kolkata Knight Riders]]
+| team2 = [[Royal Challengers Bengaluru]] (H)
+| score1 = 192/4 (20 overs)
+| runs1 = [[Angkrish Raghuvanshi]] 71 (46)
+| wickets1 = [[Bhuvneshwar Kumar]] 1/34 (4 overs)
+| score2 = 194/4 (19.1 overs)
+| runs2 = [[Virat Kohli]] 105[[not out|*]] (60)
+| wickets2 = [[Kartik Tyagi]] 3/32 (4 overs)
+| result = Royal Challengers Bengaluru won by 6 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529300.html Scorecard]
+| venue = [[Shaheed Veer Narayan Singh International Cricket Stadium|Shaheed Veer Narayan Singh Stadium]], [[Raipur]]
+| umpires = [[Nitin Menon]] (Ind) and [[Rohan Pandit]] (Ind)
+| motm = [[Virat Kohli]] (Royal Challengers Bengaluru)
+| toss = Royal Challengers Bengaluru won the toss and elected to field.
+| notes = [[Saurabh Dubey (Maharashtra cricketer)|Saurabh Dubey]] (Kolkata Knight Riders) made his IPL debut.<ref>{{cite web |title=RCB vs KKR, IPL 2026: Who is Saurabh Dubey, Vidarbha fast bowler who is set to make his debut against Royal Challengers Bengaluru? |url=https://sportstar.thehindu.com/cricket/ipl/saurabh-dubey-vidarbha-pacer-ipl-debut-stats-rcb-vs-kkr-ipl-2026-kolkata-knight-riders/article70975108.ece |work=[[Sportstar]] |access-date=17 May 2026}}</ref>
+* [[Virat Kohli]] (Royal Challengers Bengaluru) became the fastest player to score 14,000 runs in T20s, in terms of innings played (409). He also became the first Indian player to score 10 [[Century (cricket)|centuries]] in T20s.<ref>{{cite web |title=Stats - Kohli the first Indian to 10 T20 tons and the fastest ever to 14000 runs|url=https://www.espncricinfo.com/story/ipl-2026-rcb-vs-kkr-virat-kohli-the-first-indian-to-10-t20-tons-and-the-fastest-ever-to-14000-runs-1536676 |publisher=[[Cricinfo|ESPNcricinfo]] |access-date=14 May 2026}}</ref>
+}}<section end="match57"/>
+----
+<section begin="match58"/>{{Single-innings cricket match
+| round = {{anchor|match58}}'''Match 58'''
+| date = {{Start date|2026|05|14|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Punjab Kings]] (H)
+| team2 = [[Mumbai Indians]]
+| score1 = 200/8 (20 overs)
+| runs1 = [[Prabhsimran Singh]] 57 (32)
+| wickets1 = [[Shardul Thakur]] 4/39 (4 overs)
+| score2 = 205/4 (19.5 overs)
+| runs2 = [[Tilak Varma]] 75[[not out|*]] (33)
+| wickets2 = [[Azmatullah Omarzai]] 2/36 (4 overs)
+| result = Mumbai Indians won by 6 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529301.html Scorecard]
+| venue = [[Himachal Pradesh Cricket Association Stadium|HPCA Cricket Stadium]], [[Dharamshala]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and Bhavesh Patel (Ind)
+| motm = [[Tilak Varma]] (Mumbai Indians)
+| toss = Mumbai Indians won the toss and elected to field.
+}}<section end="match58"/>
+----
+<section begin="match59"/>{{Single-innings cricket match
+| round = {{anchor|match59}}'''Match 59'''
+| date = {{Start date|2026|05|15|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Chennai Super Kings]]
+| team2 = [[Lucknow Super Giants]] (H)
+| score1 = 187/5 (20 overs)
+| runs1 = [[Kartik Sharma]] 71 (42)
+| wickets1 = [[Akash Singh (cricketer, born 2002)|Akash Singh]] 3/26 (4 overs)
+| score2 = 188/3 (16.4 overs)
+| runs2 = [[Mitchell Marsh]] 90 (38)
+| wickets2 = [[Mukesh Choudhary]] 1/24 (3 overs)
+| result = Lucknow Super Giants won by 7 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529302.html Scorecard]
+| venue = [[Ekana Cricket Stadium]], [[Lucknow]]
+| umpires = [[Ulhas Gandhe]] (Ind) and Tony Ematty (Ind)
+| motm = [[Mitchell Marsh]] (Lucknow Super Giants)
+| toss = Lucknow Super Giants won the toss and elected to field.
+}}<section end="match59"/>
+----
+<section begin="match60"/>{{Single-innings cricket match
+| round = {{anchor|match60}}'''Match 60'''
+| date = {{Start date|2026|05|16|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Kolkata Knight Riders]] (H)
+| team2 = [[Gujarat Titans]]
+| score1 = 247/2 (20 overs)
+| runs1 = [[Finn Allen]] 93 (35)
+| wickets1 = [[Sai Kishore]] 1/38 (3 overs)
+| score2 = 218/4 (20 overs)
+| runs2 = [[Shubman Gill]] 85 (49)
+| wickets2 = [[Sunil Narine]] 2/29 (4 overs)
+| result = Kolkata Knight Riders won by 29 runs
+| report = [http://espncricinfo.com/ci/engine/match/1529303.html Scorecard]
+| venue = [[Eden Gardens]], [[Kolkata]]
+| umpires = [[Virender Sharma]] (Ind) and Kannur Swaroopanand (Ind)
+| motm = [[Sunil Narine]] (Kolkata Knight Riders)
+| toss = Gujarat Titans won the toss and elected to field.
+| notes = Kolkata Knight Riders became the second IPL team to play in 100 matches at a home venue.<ref>{{cite web |title=Kolkata Knight Riders create IPL history, become only second team after RCB to play 100 IPL matches at a single venue |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/kkr-create-ipl-history-become-only-second-team-after-rcb-to-play-100-ipl-matches-at-a-single-venue/articleshow/131139229.cms |work=[[The Times of India]] |date=16 May 2026 |access-date=17 May 2026}}</ref>
+* [[Sunil Narine]] (Kolkata Knight Riders) became the first overseas player to play in 200 IPL matches.<ref>{{cite web |title=Sunil Narine Becomes First Overseas Cricketer To Play 200 Matches In IPL |url=https://www.news18.com/cricket/sunil-narine-becomes-first-overseas-cricketer-to-play-200-matches-in-ipl-ws-no-10094793.html |work=[[News18]] |date=16 May 2026 |access-date=17 May 2026}}</ref>
+* [[Cameron Green]] (Kolkata Knight Riders) scored his 1,000th run in IPL.<ref>{{cite web |title=KKR's Cameron Green completes 1,000 runs in IPL |url=https://www.aninews.in/news/sports/cricket/kkrs-cameron-green-completes-1000-runs-in-ipl20260517101658 |work=[[Asian News International]] |date=17 May 2026 |access-date=18 May 2026}}</ref>
+}}<section end="match60"/>
+----
+<section begin="match61"/>{{Single-innings cricket match
+| round = {{anchor|match61}}'''Match 61'''
+| date = {{Start date|2026|05|17|df=y}}
+| time = 15:30
+| night = y
+| team1 = [[Royal Challengers Bengaluru]]
+| team2 = [[Punjab Kings]] (H)
+| score1 = 222/4 (20 overs)
+| runs1 = [[Venkatesh Iyer]] 73[[not out|*]] (40)
+| wickets1 = [[Harpreet Brar]] 2/35 (4 overs)
+| score2 = 199/8 (20 overs)
+| runs2 = [[Shashank Singh]] 56 (27)
+| wickets2 = [[Rasikh Salam]] 3/36 (4 overs)
+| result = Royal Challengers Bengaluru won by 23 runs
+| report = [http://espncricinfo.com/ci/engine/match/1529304.html Scorecard]
+| venue = [[Himachal Pradesh Cricket Association Stadium|HPCA Cricket Stadium]], [[Dharamshala]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and [[Adrian Holdstock]] (SA)
+| motm = [[Venkatesh Iyer]] (Royal Challengers Bengaluru)
+| toss = Punjab Kings won the toss and elected to field.
+| notes = [[Shreyas Iyer]] (Punjab Kings) played in his 100th IPL match as a captain.<ref>{{cite web |title=Shreyas Iyer becomes fifth player to captain in 100 IPL games|url=https://sportstar.thehindu.com/cricket/ipl/shreyas-iyer-100-ipl-games-as-captain-most-matches-record-list/article70989963.ece|work=[[Sportstar]] |access-date=17 May 2026}}</ref>
+* Royal Challengers Bengaluru qualified for the playoffs as a result of this match.<ref>{{cite web |title=Royal Challengers Bengaluru become first team to qualify for Playoffs|url=https://sportstar.thehindu.com/cricket/ipl/playoffs-top-four-qualification-ipl-2026-royal-challengers-bengaluru-pbks-vs-rcb/article70990343.ece|work=[[Sportstar]] |access-date=17 May 2026}}</ref>
+}}<section end="match61"/>
+----
+<section begin="match62"/>{{Single-innings cricket match
+| round = {{anchor|match62}}'''Match 62'''
+| date = {{Start date|2026|05|17|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Rajasthan Royals]]
+| team2 = [[Delhi Capitals]] (H)
+| score1 = 193/8 (20 overs)
+| runs1 = [[Dhruv Jurel]] 53 (40)
+| wickets1 = [[Mitchell Starc]] 4/40 (4 overs)
+| score2 = 197/5 (19.2 overs)
+| runs2 = [[KL Rahul]] 56 (42)
+| wickets2 = [[Jofra Archer]] 2/35 (4 overs)
+| result = Delhi Capitals won by 5 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529305.html Scorecard]
+| venue = [[Arun Jaitley Cricket Stadium|Arun Jaitley Stadium]], [[Delhi]]
+| umpires = Amit Rana (Ind) and Keyur Kelkar (Ind)
+| motm = [[Mitchell Starc]] (Delhi Capitals)
+| toss = Delhi Capitals won the toss and elected to field.
+| notes = [[Ravi Singh (cricketer, born 2001)|Ravi Singh]] (Rajasthan Royals) and [[Tripurana Vijay]] (Delhi Capitals) both made their IPL debuts.<ref>{{cite web |title=Who is Ravi Singh? RR hand Railways batter debut against DC |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-who-is-ravi-singh-rr-hand-railways-batter-debut-against-dc/articleshow/131156237.cms |work=[[The Times of India]] |access-date=17 May 2026}}</ref><ref>{{cite web |title=Who is Tripurana Vijay? 24-year-old making his IPL debut in DC vs RR IPL 2026 clash |url=https://thesportstak.com/cricket/ipl/story/who-is-tripurana-vijay-24-year-old-making-his-ipl-debut-in-dc-vs-rr-ipl-2026-clash-3257158-2026-05-17 |website=SportsTak |access-date=17 May 2026}}</ref>
+}}<section end="match62"/>
+----
+<section begin="match63"/>{{Single-innings cricket match
+| round = {{anchor|match63}}'''Match 63'''
+| date = {{Start date|2026|05|18|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Chennai Super Kings]] (H)
+| team2 = [[Sunrisers Hyderabad]]
+| score1 = 180/7 (20 overs)
+| runs1 = [[Dewald Brevis]] 44 (27)
+| wickets1 = [[Pat Cummins]] 3/28 (4 overs)
+| score2 = 181/5 (19 overs)
+| runs2 = [[Ishan Kishan]] 70 (47)
+| wickets2 = [[Mukesh Choudhary]] 2/36 (4 overs)
+| result = Sunrisers Hyderabad won by 5 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529306.html Scorecard]
+| venue = [[M. A. Chidambaram Stadium]], [[Chennai]]
+| umpires = [[Nitin Menon]] (Ind) and [[Tanmay Srivastava]] (Ind)
+| motm = [[Ishan Kishan]] (Sunrisers Hyderabad)
+| toss = Chennai Super Kings won the toss and elected to bat.
+| notes = Sunrisers Hyderabad and Gujarat Titans qualified for the playoffs as a result of this match.<ref>{{cite web |title=IPL 2026 playoffs: Sunrisers Hyderabad, Gujarat Titans confirm top-4 finish|url=https://www.business-standard.com/cricket/ipl/ipl-2026-playoffs-sunrisers-hyderabad-gujarat-titans-confirm-top-4-finish-126051801783_1.html|work=[[Business Standard]] |date=19 May 2026 |access-date=21 May 2026}}</ref>
+}}<section end="match63"/>
+----
+<section begin="match64"/>{{Single-innings cricket match
+| round = {{anchor|match64}}'''Match 64'''
+| date = {{Start date|2026|05|19|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Lucknow Super Giants]]
+| team2 = [[Rajasthan Royals]] (H)
+| score1 = 220/5 (20 overs)
+| runs1 = [[Mitchell Marsh]] 96 (57)
+| wickets1 = [[Yash Raj Punja]] 2/35 (4 overs)
+| score2 = 225/3 (19.1 overs)
+| runs2 = [[Vaibhav Sooryavanshi]] 93 (38)
+| wickets2 = [[Mohsin Khan (Indian cricketer)|Mohsin Khan]] 1/31 (4 overs)
+| result = Rajasthan Royals won by 7 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529307.html Scorecard]
+| venue = [[Sawai Mansingh Stadium]], [[Jaipur]]
+| umpires = [[Adrian Holdstock]] (SA) and Parashar Joshi (Ind)
+| motm = [[Vaibhav Sooryavanshi]] (Rajasthan Royals)
+| toss = Rajasthan Royals won the toss and elected to field.
+| notes = [[Sushant Mishra]] (Rajasthan Royals) made his IPL debut.<ref>{{cite web |title=Yashasvi Jaiswal wins toss, elects to bowl against Lucknow Super Giants |url=https://www.mid-day.com/sports/cricket/article/ipl-2026-yashasvi-jaiswal-wins-toss-elects-to-bowl-first-against-lucknow-super-giants-23631224 |work=[[Mid-Day]] |date=20 May 2026 |access-date=21 May 2026}}</ref>
+}}<section end="match64"/>
+----
+<section begin="match65"/>{{Single-innings cricket match
+| round = {{anchor|match65}}'''Match 65'''
+| date = {{Start date|2026|05|20|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Mumbai Indians]]
+| team2 = [[Kolkata Knight Riders]] (H)
+| score1 = 147/8 (20 overs)
+| runs1 = [[Corbin Bosch]] 32[[not out|*]] (18)
+| wickets1 = [[Cameron Green]] 2/23 (3 overs)
+| score2 = 148/6 (18.5 overs)
+| runs2 = [[Manish Pandey]] 45 (33)
+| wickets2 = [[Corbin Bosch]] 3/30 (3 overs)
+| result = Kolkata Knight Riders won by 4 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529308.html Scorecard]
+| venue = [[Eden Gardens]], [[Kolkata]]
+| umpires = [[Saiyed Khalid]] (Ind) and Kannur Swaroopanand (Ind)
+| motm = [[Manish Pandey]] (Kolkata Knight Riders)
+| toss = Kolkata Knight Riders won the toss and elected to field.
+| notes = [[Tejasvi Singh Dahiya]] (Kolkata Knight Riders) made his IPL debut. He replaced [[Angkrish Raghuvanshi]] as a [[Concussion substitute (cricket)|concussion substitute]] after the batter got injured during the first innings.<ref>{{cite web |title=Who is Tejasvi Singh Dahiya? KKR's Rs 3 crore concussion substitute vs Mumbai Indians |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/who-is-tejasvi-singh-dahiya-kkrs-rs-3-crore-concussion-substitute-vs-mumbai-indians/articleshow/131234404.cms |work=[[The Times of India]] |date=21 May 2026 |access-date=21 May 2026}}</ref>
+}}<section end="match65"/>
+----
+<section begin="match66"/>{{Single-innings cricket match
+| round = {{anchor|match66}}'''Match 66'''
+| date = {{Start date|2026|05|21|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Gujarat Titans]] (H)
+| team2 = [[Chennai Super Kings]]
+| score1 = 229/4 (20 overs)
+| runs1 = [[Sai Sudharsan]] 84 (53)
+| wickets1 = [[Mukesh Choudhary]] 1/36 (4 overs)
+| score2 = 140 (13.4 overs)
+| runs2 = [[Shivam Dube]] 47 (17)
+| wickets2 = [[Rashid Khan]] 3/18 (2 overs)
+| result = Gujarat Titans won by 89 runs
+| report = [http://espncricinfo.com/ci/engine/match/1529309.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[Kaushik Gandhi]] (Ind) and [[Nitin Menon]] (Ind)
+| motm = [[Mohammed Siraj]] (Gujarat Titans)
+| toss = Chennai Super Kings won the toss and elected to field.
+| notes = This match was initially scheduled at [[M. A. Chidambaram Stadium]] in [[Chennai]], but was swapped venues with [[#match37|match 37]] due to the [[2026 Gujarat local elections]].<ref name="M37-M66-1"/><ref name="M37-M66-2"/>
+* Chennai Super Kings were eliminated as a result of this match.<ref>{{Cite news |date=2026-05-22 |title=IPL 2026 Points Table explained: How Gujarat Titans' win and CSK's elimination impact the playoff race |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-points-table-explained-how-gujarat-titans-win-and-csks-elimination-impact-playoffs/articleshow/131250149.cms |access-date=2026-06-25 |work=[[The Times of India]] |issn=0971-8257}}</ref>
+}}<section end="match66"/>
+----
+<section begin="match67"/>{{Single-innings cricket match
+| round = {{anchor|match67}}'''Match 67'''
+| date = {{Start date|2026|05|22|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Sunrisers Hyderabad]] (H)
+| team2 = [[Royal Challengers Bengaluru]]
+| score1 = 255/4 (20 overs)
+| runs1 = [[Ishan Kishan]] 79 (46)
+| wickets1 = [[Rasikh Salam]] 2/52 (4 overs)
+| score2 = 200/4 (20 overs)
+| runs2 = [[Rajat Patidar]] 56 (39)
+| wickets2 = [[Eshan Malinga]] 2/33 (4 overs)
+| result = Sunrisers Hyderabad won by 55 runs
+| report = [http://espncricinfo.com/ci/engine/match/1529310.html Scorecard]
+| venue = [[Rajiv Gandhi International Cricket Stadium|Rajiv Gandhi Stadium]], [[Hyderabad]]
+| umpires = [[Jayaraman Madanagopal]] (Ind) and Amit Rana (Ind)
+| motm = [[Ishan Kishan]] (Sunrisers Hyderabad)
+| toss = Sunrisers Hyderabad won the toss and elected to bat.
+| notes = [[Rajat Patidar]] (Royal Challengers Bengaluru) became the fastest Indian player to score 100 sixes in IPL.<ref>{{cite web |date=23 May 2026 |title=Rajat Patidar Becomes Fastest Indian Batter In IPL History To Hit 100 Sixes|url=https://www.news18.com/cricket/rajat-patidar-becomes-fastest-indian-batter-to-hit-100-sixes-in-ipl-10107291.html |work=[[News18]] |access-date=23 May 2026}}</ref>
+}}<section end="match67"/>
+----
+<section begin="match68"/>{{Single-innings cricket match
+| round = {{anchor|match68}}'''Match 68'''
+| date = {{Start date|2026|05|23|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Lucknow Super Giants]] (H)
+| team2 = [[Punjab Kings]]
+| score1 = 196/6 (20 overs)
+| runs1 = [[Josh Inglis]] 72 (44)
+| wickets1 = [[Yuzvendra Chahal]] 2/25 (4 overs)
+| score2 = 200/3 (18 overs)
+| runs2 = [[Shreyas Iyer]] 101[[not out|*]] (51)
+| wickets2 = [[Mohammed Shami]] 2/45 (4 overs)
+| result = Punjab Kings won by 7 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1529311.html Scorecard]
+| venue = [[Ekana Cricket Stadium]], [[Lucknow]]
+| umpires = [[Kaushik Gandhi]] (Ind) and Vinod Seshan (Ind)
+| motm = [[Shreyas Iyer]] (Punjab Kings)
+| toss = Punjab Kings won the toss and elected to field.
+| notes = [[Shreyas Iyer]] (Punjab Kings) scored his 7,000th run in T20s and his maiden [[Century (cricket)|century]] in IPL.<ref>{{Cite web |last=Latestly |first=Team |date=2026-05-23 |title=Shreyas Iyer Reaches 7,000 T20 Runs, Achieves Milestone During LSG vs PBKS IPL 2026 |url=https://www.latestly.com/socially/sports/cricket/shreyas-iyer-reaches-7000-t20-runs-achieves-milestone-during-lsg-vs-pbks-ipl-2026-7444071.html |access-date=2026-06-25 |website=LatestLY |language=en}}</ref><ref>{{cite web |date=23 May 2026 |title=Maiden IPL ton from Shreyas Iyer guides PBKS past LSG by 7-wickets|url=https://www.aninews.in/news/sports/cricket/maiden-ipl-ton-from-shreyas-iyer-guides-pbks-past-lsg-by-7-wickets20260523232319/ |work=[[Asian News International]] |access-date=23 May 2026}}</ref>
+* Delhi Capitals were eliminated as a result of this match.<ref>{{cite web |title=IPL 2026: Delhi Capitals eliminated after Punjab Kings defeats Lucknow Super Giants|url=https://sportstar.thehindu.com/cricket/ipl/delhi-capitals-eliminated-from-ipl-2026-punjab-kings-rajasthan-royals-playoffs-qualification-race/article71014369.ece|work=[[Sportstar]] |access-date=23 May 2026}}</ref>
+}}<section end="match68"/>
+----
+<section begin="match69"/>{{Single-innings cricket match
+| round = {{anchor|match69}}'''Match 69'''
+| date = {{Start date|2026|05|24|df=y}}
+| time = 15:30
+| daynight = y
+| team1 = [[Rajasthan Royals]]
+| team2 = [[Mumbai Indians]] (H)
+| score1 = 205/8 (20 overs)
+| runs1 = [[Dhruv Jurel]] 38 (26)
+| wickets1 = [[Shardul Thakur]] 2/41 (4 overs)
+| score2 = 175/9 (20 overs)
+| runs2 = [[Suryakumar Yadav]] 60 (42)
+| wickets2 = [[Jofra Archer]] 3/17 (4 overs)
+| result = Rajasthan Royals won by 30 runs
+| report = [http://espncricinfo.com/ci/engine/match/1529312.html Scorecard]
+| venue = [[Wankhede Stadium]], [[Mumbai]]
+| umpires = Tony Ematty (Ind) and [[Rohan Pandit]] (Ind)
+| motm = [[Jofra Archer]] (Rajasthan Royals)
+| toss = Mumbai Indians won the toss and elected to field.
+| notes = Rajasthan Royals qualified for the playoffs while Punjab Kings and Kolkata Knight Riders were eliminated as a result of this match.<ref>{{cite web |title=IPL 2026: Rajasthan Royals seals last Playoffs spot; PBKS, KKR knocked out|url=https://sportstar.thehindu.com/cricket/ipl/rajasthan-royals-qualifies-for-playoffs-eliminator-vs-sunrisers-hyderabad-pbks-kkr-knocked-out/article71017388.ece|work=[[Sportstar]] |access-date=24 May 2026}}</ref>
+}}<section end="match69"/>
+----
+<section begin="match70"/>{{Single-innings cricket match
+| round = {{anchor|match70}}'''Match 70'''
+| date = {{Start date|2026|05|24|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Delhi Capitals]]
+| team2 = [[Kolkata Knight Riders]] (H)
+| score1 = 203/5 (20 overs)
+| runs1 = [[KL Rahul]] 60 (30)
+| wickets1 = [[Saurabh Dubey (Maharashtra cricketer)|Saurabh Dubey]] 2/28 (4 overs)
+| score2 = 163 (18.4 overs)
+| runs2 = [[Ajinkya Rahane]] 63 (39)
+| wickets2 = [[Lungi Ngidi]] 3/27 (3.4 overs)
+| result = Delhi Capitals won by 40 runs
+| report = [http://espncricinfo.com/ci/engine/match/1529313.html Scorecard]
+| venue = [[Eden Gardens]], [[Kolkata]]
+| umpires = [[Saiyed Khalid]] (Ind) and Kannur Swaroopanand (Ind)
+| motm = [[Kuldeep Yadav]] (Delhi Capitals)
+| toss = Kolkata Knight Riders won the toss and elected to field.
+}}<section end="match70"/>
+
+== Playoffs ==
+{{see also|#Format}}
+=== Bracket ===
+<section begin="bracket"/>{{4TeamBracket-PagePlayoff |nowrap=y |team-width=150px |score-width=150px
+
+| RD1 = '''[[#Qualifier 1|Qualifier 1]]'''
+| RD1-text1 = 26 May 2026 {{en dash}} [[Himachal Pradesh Cricket Association Stadium|Dharamshala]]
+| RD1-seed1 = '''1'''
+| RD1-team1 = '''[[Royal Challengers Bengaluru]]'''
+| RD1-score1 = '''254/5 (20 overs)'''
+| RD1-seed2 = 2
+| RD1-team2 = [[Gujarat Titans]]
+| RD1-score2 = 162 (19.3 overs)
+
+| RD1b = '''[[#Eliminator|Eliminator]]'''
+| RD1b-text1 = 27 May 2026 {{en dash}} [[Maharaja Yadavindra Singh International Cricket Stadium|Mullanpur]]
+| RD1b-seed1 = 3
+| RD1b-team1 = [[Sunrisers Hyderabad]]
+| RD1b-score1 = 196 (19.2 overs)
+| RD1b-seed2 = '''4'''
+| RD1b-team2 = '''[[Rajasthan Royals]]'''
+| RD1b-score2 = '''243/8 (20 overs)'''
+
+| RD2 = '''[[#Qualifier 2|Qualifier 2]]'''
+| RD2-text1 = 29 May 2026 {{en dash}} [[Maharaja Yadavindra Singh International Cricket Stadium|Mullanpur]]
+| RD2-seed1 = '''Q1L'''
+| RD2-team1 = '''[[Gujarat Titans]]'''
+| RD2-score1 = '''219/3 (18.4 overs)'''
+| RD2-seed2 = EW
+| RD2-team2 = [[Rajasthan Royals]]
+| RD2-score2 = 214/6 (20 overs)
+
+| RD3 = '''[[2026 Indian Premier League final|Final]]'''
+| RD3-text1 = 31 May 2026 {{en dash}} [[Narendra Modi Stadium|Ahmedabad]]
+| RD3-seed1 = '''Q1W'''
+| RD3-team1 = '''[[Royal Challengers Bengaluru]]'''
+| RD3-score1 = '''161/5 (18 overs)'''
+| RD3-seed2 = Q2W
+| RD3-team2 = [[Gujarat Titans]]
+| RD3-score2 = 155/8 (20 overs)
+}}
+* Sources: [[Cricinfo|ESPNcricinfo]]<ref name=IPL>{{ESPNcricinfo 2|series-sub|id=ipl-2026-1510719|event=2026 Indian Premier League|sub=fixtures and results|access-date=31 May 2026|dynamic=y}}</ref><ref name="sch2"/><section end="bracket"/>
+
+=== Qualifier 1 ===
+<section begin="match71"/>{{Single-innings cricket match
+| round = {{anchor|match71}} '''Qualifier 1'''
+| date = {{Start date|2026|05|26|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Royal Challengers Bengaluru]]
+| team2 = [[Gujarat Titans]]
+| score1 = 254/5 (20 overs)
+| runs1 = [[Rajat Patidar]] 93[[not out|*]] (33)
+| wickets1 = [[Jason Holder]] 2/39 (4 overs)
+| score2 = 162 (19.3 overs)
+| runs2 = [[Rahul Tewatia]] 68 (43)
+| wickets2 = [[Jacob Duffy]] 3/39 (4 overs)
+| result = Royal Challengers Bengaluru won by 92 runs
+| report = [http://espncricinfo.com/ci/engine/match/1535462.html Scorecard]
+| venue = [[Himachal Pradesh Cricket Association Stadium|HPCA Cricket Stadium]], [[Dharamshala]]
+| umpires = [[Jayaraman Madanagopal]] (Ind) and [[Virender Sharma]] (Ind)
+| motm = [[Rajat Patidar]] (Royal Challengers Bengaluru)
+| toss = Gujarat Titans won the toss and elected to field.
+| notes = [[Virat Kohli]] (Royal Challengers Bengaluru) became the first player to score over 600 runs in four consecutive IPL seasons.<ref>{{cite web |title=Virat Kohli becomes first batter to score 600+ runs in four consecutive IPL seasons|url=https://sportstar.thehindu.com/cricket/ipl/virat-kohli-ipl-600-runs-consecutive-seasons-list-rcb-vs-gt-qualifier/article71026296.ece|work=[[Sportstar]] |access-date=31 May 2026}}</ref>
+* Royal Challengers Bengaluru's 254 was the highest innings total in IPL playoffs.<ref>{{cite web |title=RCB create massive record, register highest total in IPL playoffs history |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/rcb-create-massive-record-register-highest-total-in-ipl-playoffs-history/articleshow/131332798.cms |work=[[The Times of India]] |date=26 May 2026 |access-date=29 May 2026}}</ref>
+* Royal Challengers Bengaluru qualified for their second consecutive and overall fifth IPL final.<ref>{{cite web |last=Bisht |first=Harshit |date=27 May 2026 |title=Rajat Patidar Becomes 1st RCB & 5th Captain Overall To Qualify For Back-To-Back IPL Finals |url=https://www.news18.com/cricket/rajat-patidar-becomes-5th-captain-to-qualify-for-back-to-back-ipl-finals-10114306.html |work=[[News18]] |access-date=29 May 2026}}</ref>
+}}<section end="match71"/>
+
+=== Eliminator ===
+<section begin="match72"/>{{Single-innings cricket match
+| round = {{anchor|match72}} '''Eliminator'''
+| date = {{Start date|2026|05|27|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Rajasthan Royals]]
+| team2 = [[Sunrisers Hyderabad]]
+| score1 = 243/8 (20 overs)
+| runs1 = [[Vaibhav Sooryavanshi]] 97 (29)
+| wickets1 = [[Praful Hinge]] 3/54 (4 overs)
+| score2 = 196 (19.2 overs)
+| runs2 = [[Nitish Kumar Reddy]] 38 (20)
+| wickets2 = [[Jofra Archer]] 3/58 (4 overs)
+| result = Rajasthan Royals won by 47 runs
+| report = [http://espncricinfo.com/ci/engine/match/1535463.html Scorecard]
+| venue = [[Maharaja Yadavindra Singh International Cricket Stadium]], [[Mullanpur Garibdass|Mullanpur]]
+| umpires = [[Ulhas Gandhe]] (Ind) and [[Adrian Holdstock]] (SA)
+| motm = [[Vaibhav Sooryavanshi]] (Rajasthan Royals)
+| toss = Sunrisers Hyderabad won the toss and elected to field.
+| notes = [[Vaibhav Sooryavanshi]] (Rajasthan Royals) broke [[Chris Gayle]]'s record (59) for most sixes in a single IPL season.<ref>{{cite web |date=27 May 2026 |title=Vaibhav Sooryavanshi scripts history, breaks Chris Gayle's 14-year-old IPL record of Most sixes in an IPL season |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/vaibhav-sooryavanshi-scripts-history-breaks-chris-gayles-14-year-old-ipl-record-to-hit-most-sixes-in-a-single-season/articleshow/131353114.cms |work=[[The Times of India]] |access-date=29 May 2026}}</ref>
+}}<section end="match72"/>
+
+=== Qualifier 2 ===
+<section begin="match73"/>{{Single-innings cricket match
+| round = {{anchor|match73}} '''Qualifier 2'''
+| date = {{Start date|2026|05|29|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Rajasthan Royals]]
+| team2 = [[Gujarat Titans]]
+| score1 = 214/6 (20 overs)
+| runs1 = [[Vaibhav Sooryavanshi]] 96 (47)
+| wickets1 = [[Jason Holder]] 2/27 (4 overs)
+| score2 = 219/3 (18.4 overs)
+| runs2 = [[Shubman Gill]] 104 (53)
+| wickets2 = [[Nandre Burger]] 1/35 (4 overs)
+| result = Gujarat Titans won by 7 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1535464.html Scorecard]
+| venue = [[Maharaja Yadavindra Singh International Cricket Stadium]], [[Mullanpur Garibdass|Mullanpur]]
+| umpires = [[Sam Nogajski]] (Aus) and [[Rohan Pandit]] (Ind)
+| motm = [[Shubman Gill]] (Gujarat Titans)
+| toss = Rajasthan Royals won the toss and elected to bat.
+| notes = [[Vaibhav Sooryavanshi]] (Rajasthan Royals) became the fastest Indian player to score 1,000 runs in IPL, in terms of innings (23).<ref>{{cite web |last=Kaushik |first=Aditya |date=29 May 2026 |title=Vaibhav Sooryavanshi becomes fastest Indian batter to score 1000 IPL runs |url=https://www.business-standard.com/cricket/ipl/vaibhav-sooryavanshi-becomes-fastest-indian-batter-to-score-1000-ipl-runs-126052901685_1.html |work=[[Business Standard]] |access-date=31 May 2026}}</ref>
+* Gujarat Titans qualified for their third IPL final.<ref>{{cite web |last=Kaushik |first=Suramya |date=29 May 2026 |title=Gill ton steers Gujarat past Rajasthan into IPL final |url=https://www.reuters.com/sports/cricket/gill-ton-steers-gujarat-past-rajasthan-into-ipl-final-2026-05-29/ |work=[[Reuters]] |access-date=31 May 2026}}</ref>
+}}<section end="match73"/>
+
+=== Final ===
+{{Main|2026 Indian Premier League final}}
+<section begin="match74"/>{{Single-innings cricket match
+| round = {{anchor|match74}} '''Final'''
+| date = {{Start date|2026|05|31|df=y}}
+| time = 19:30
+| night = y
+| team1 = [[Gujarat Titans]]
+| team2 = [[Royal Challengers Bengaluru]]
+| score1 = 155/8 (20 overs)
+| runs1 = [[Washington Sundar]] 50[[not out|*]] (37)
+| wickets1 = [[Rasikh Salam]] 3/27 (4 overs)
+| score2 = 161/5 (18 overs)
+| runs2 = [[Virat Kohli]] 75[[not out|*]] (42)
+| wickets2 = [[Rashid Khan]] 2/25 (4 overs)
+| result = Royal Challengers Bengaluru won by 5 wickets
+| report = [http://espncricinfo.com/ci/engine/match/1535465.html Scorecard]
+| venue = [[Narendra Modi Stadium]], [[Ahmedabad]]
+| umpires = [[K. N. Ananthapadmanabhan]] (Ind) and [[Nitin Menon]] (Ind)
+| motm = [[Virat Kohli]] (Royal Challengers Bengaluru)
+| toss = Royal Challengers Bengaluru won the toss and elected to field.
+| notes = Royal Challengers Bengaluru won their second IPL title after [[2025 Indian Premier League final|2025]]. They also became the third team to win two consecutive IPL finals;<ref>{{Cite web |date=2026-05-31 |title=IPL 2026 final: Virat Kohli's unbeaten 75 helps RCB beat Gujarat Titans to secure back-to-back titles |url=https://www.bbc.com/sport/cricket/articles/cdxp0pne2nzo |access-date=2026-06-01 |work=[[BBC Sport]]}}</ref><ref name=consec-win>{{Cite web |date=2026-06-01 |title=Teams defending their IPL titles: Dhoni tames Gayle, ABD and Kohli; MI's last win |url=https://indianexpress.com/article/sports/cricket/rcb-ipl-2026-title-defence-mumbai-indians-chennai-super-kings-csk-10718623/ |access-date=2026-06-08 |work=[[The Indian Express]] |language=en}}</ref> and the first team to win the IPL and the [[Women's Premier League (cricket)|Women's Premier League]] in the same year.<ref>{{Cite news |date=2026-06-01 |title=RCB's rise across IPL, WPL feels closer to the Manchester City model |url=https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/rcbs-rise-across-ipl-wpl-feels-closer-to-the-manchester-city-model/articleshow/131435028.cms |access-date=2026-06-07 |work=[[The Times of India]] |issn=0971-8257}}</ref><ref name="rec-win">{{Cite web |last=Dang |first=Pranvit Singh |date=2026-05-31 |title=History! RCB Becomes First Team to Win IPL and WPL Same Year |url=https://www.sportsdunia.com/ipl-news/history-rcb-becomes-first-team-to-win-ipl-and-wpl-same-year |access-date=2026-06-08 |website=Sportsdunia |language=en}}</ref>
+}}<section end="match74"/>
+
+== Statistics and awards ==
+[[File:Kingdom Kome co-founders Kagiso Rabada and Cameron Scott at the first private screening of The Ring of Beasts (cropped).jpg|thumb|[[Kagiso Rabada]] (pictured in 2021) took the most wickets (29) in the season.|alt=Kagiso Rabada in 2021]]
+
+{| class="wikitable"
+|+ Most runs<ref name="mr">{{ESPNcricinfo 2 |tournament-rec |id=indian-premier-league-2026-17740 |rec=most runs |access-date=31 May 2026 |dynamic=y}}</ref>
+! scope=col | [[Run (cricket)|Runs]]
+! scope=col | Player
+! scope=col | Team
+|-
+! scope=row | 776
+| [[Vaibhav Sooryavanshi]] || [[Rajasthan Royals]]
+|-
+! scope=row | 732
+| [[Shubman Gill]] || [[Gujarat Titans]]
+|-
+! scope=row | 722
+| [[Sai Sudharsan]] || [[Gujarat Titans]]
+|-
+! scope=row | 675
+| [[Virat Kohli]] || [[Royal Challengers Bengaluru]]
+|-
+! scope=row | 624
+| [[Heinrich Klaasen]] || [[Sunrisers Hyderabad]]
+|}
+{| class="wikitable"
+|+ Most wickets<ref name="mw">{{ESPNcricinfo 2 |tournament-rec |id=indian-premier-league-2026-17740 |rec=most wickets |access-date=31 May 2026 |dynamic=y}}</ref>
+! scope=col | [[Wicket]]s
+! scope=col | Player
+! scope=col | Team
+|-
+! scope=row | 29
+| [[Kagiso Rabada]] || [[Gujarat Titans]]
+|-
+! scope=row | 28
+| [[Bhuvneshwar Kumar]] || [[Royal Challengers Bengaluru]]
+|-
+! scope=row | 25
+| [[Jofra Archer]] || [[Rajasthan Royals]]
+|-
+! scope=rowgroup rowspan=2 | 21
+| [[Rashid Khan]] || [[Gujarat Titans]]
+|-
+| [[Anshul Kamboj]] || [[Chennai Super Kings]]
+|}
+{| class="wikitable"
+|+ Most valuable player<ref name="mvp">{{cite web |url=https://www.iplt20.com/stats/2026/playerPoints |title=IPL 2026 Stats – Most Valuable Player |website=[[IPLT20.com]] |access-date=31 May 2026}}</ref>
+! scope=col | Points
+! scope=col | Player
+! scope=col | Team
+|-
+! scope=row | 436.5
+| [[Vaibhav Sooryavanshi]]  || [[Rajasthan Royals]]
+|-
+! scope=row | 427.0
+| [[Kagiso Rabada]]  || [[Gujarat Titans]]
+|-
+! scope=row | 396.5
+| [[Jofra Archer]] || [[Rajasthan Royals]]
+|-
+! scope=row | 379.5
+| [[Bhuvneshwar Kumar]] || [[Royal Challengers Bengaluru]]
+|-
+! scope=row | 369.5
+| [[Shubman Gill]] || [[Gujarat Titans]]
+|}
+
+=== End of season awards ===
+{| class="wikitable"
+|+ End of season awards<ref>{{cite web |access-date=1 June 2026 |title=IPL 2026 award winners: Vaibhav Sooryavanshi sweeps top honours, wins Tata Sierra car at just 15 |url=https://sportstar.thehindu.com/cricket/ipl/ipl-2026-full-list-of-award-winners-vaibhav-sooryavanshi-most-valuable-player-emerging-player-orange-purple-cap/article71045050.ece |work=[[Sportstar]]}}</ref><ref>{{cite web |title=Ball by Ball Commentary & Live Score – RCB vs GT, Final |url=https://www.espncricinfo.com/series/ipl-2026-1510719/royal-challengers-bengaluru-vs-gujarat-titans-final-1535465/ball-by-ball-commentary |publisher=[[Cricinfo|ESPNcricinfo]] |date=2026-05-31|access-date=2026-06-02}}</ref>
+! scope=col | Award
+! scope=col | Prize
+! scope=col | Player
+! scope=col | Team
+|-
+| Most Valuable Player || {{INRConvert|10|l}} and trophy || [[Vaibhav Sooryavanshi]] || [[Rajasthan Royals]]
+|-
+| Orange Cap (most runs) || {{INRConvert|10|l}} || [[Vaibhav Sooryavanshi]] || [[Rajasthan Royals]]
+|-
+| Purple Cap (most wickets) || {{INRConvert|10|l}} || [[Kagiso Rabada]] || [[Gujarat Titans]]
+|-
+| Emerging player of the season || {{INRConvert|10|l}} and trophy || [[Vaibhav Sooryavanshi]] || [[Rajasthan Royals]]
+|-
+| Most fours || {{INRConvert|10|l}} and trophy || [[Sai Sudharsan]] || [[Gujarat Titans]]
+|-
+| Most sixes || {{INRConvert|10|l}} and trophy || [[Vaibhav Sooryavanshi]] || [[Rajasthan Royals]]
+|-
+| Most dot balls || {{INRConvert|10|l}} and trophy || [[Mohammed Siraj]] || [[Gujarat Titans]]
+|-
+| Highest batting strike rate || {{INRConvert|10|l}}, trophy and a car || [[Vaibhav Sooryavanshi]] || [[Rajasthan Royals]]
+|-
+| Catch of the season || {{INRConvert|10|l}} and trophy || [[Manish Pandey]] || [[Kolkata Knight Riders]]
+|-
+| Best pitch || {{INRConvert|50|l}} || [[Eden Gardens]], [[Kolkata]] || {{N/A}}
+|-
+| Team fairplay award || {{INRConvert|10|l}} || {{N/A}} || [[Punjab Kings]]
+|-
+| Runners-up || {{INRConvert|12.5|c}} and runners-up shield || {{N/A}} || [[Gujarat Titans]]
+|-
+| Champions || {{INRConvert|20|c}} and IPL trophy || {{N/A}} || [[Royal Challengers Bengaluru]]
+|}
+
+== See also ==
+{{Div col}}
+* [[2026 Women's Premier League (cricket)]]
+* [[2026 Women's Premier League (cricket) final]]
+{{Div col end}}
+
+== References ==
+{{reflist}}
+
+=== General references ===
+* {{Cite journal |date=11 March 2026 |title=IPL Season Schedule 2026 Part 1 |url=https://documents.iplt20.com/bcci/documents/1773233174530_TATA%20IPL%20Schedule%202026_Part%201.pdf |journal=Indian Premier League Schedule |publisher=[[Board of Control for Cricket in India]] |volume=19 |issue=1}}
+* {{Cite journal |date=26 March 2026 |title=IPL Season Schedule 2026 Complete |url=https://scores.iplt20.com/TATA%20IPL%202026%20Season%20Schedule.pdf |journal=Indian Premier League Schedule |publisher=[[Board of Control for Cricket in India]] |volume=19 |issue=2}}
+
+== External links ==
+* {{Official website|https://www.iplt20.com/}}
+* {{ESPNcricinfo 2|series|id=ipl-2026-1510719}}
+* {{ESPNcricinfo 2|tournament|id=indian-premier-league-2026-17740}}
+
+{{2026 Indian Premier League}}
+{{Indian Premier League}}
+{{Portal bar|India|Cricket}}
+
+[[Category:2026 Indian Premier League|*]]
+[[Category:Domestic cricket competitions in 2026]]

@@ -5,7 +5,7 @@
 // Mega auctions add right-to-match (RTM): when the hammer would fall, the player's previous team may
 // match the price. The winning bidder then gets one final raise, which the RTM team must match again.
 //   rtmCandidate -> useRtm -> (rtmRaise | skip) -> rtmDecide
-import { MODES, SQUAD_MIN, bidBlocker, nextBid, maxAllowedBid, openSlots, overseasSlots, increment } from './rules.js';
+import { MODES, SQUAD_MIN, SQUAD_MAX, MIN_PRICE, bidBlocker, nextBid, maxAllowedBid, openSlots, overseasSlots, increment } from './rules.js';
 import { aiCeiling, marketValue, needMultiplier, marketInflation, AI_TARGET_SIZE } from './valuation.js';
 import { teamStrength } from './squad.js';
 import { createRng } from './rng.js';
@@ -24,7 +24,7 @@ export function createAuction(scn, { userTeam, mode = 'full', difficulty = 'medi
   const lastSet = scn.mainLastSet?.[mode] ?? m.mainLastSet;
   const queue = scn.pool.filter((id) => scn.players[id].set <= lastSet)
     .sort((a, b) => scn.players[a].set - scn.players[b].set || scn.players[a].lot - scn.players[b].lot);
-  const inflation = marketInflation(scn.teams, scn.teams.reduce((n, t) => n + 25 - t.retained.length, 0));
+  const inflation = marketInflation(scn.teams, scn.teams.reduce((n, t) => n + SQUAD_MAX - t.retained.length, 0));
   return {
     version: 2, seed, rngState: seed >>> 0, mode, difficulty, userTeam, inflation, kind, year: scn.year,
     teams, phase: 'main', round: 0, queue, mainTotal: queue.length,
@@ -44,7 +44,7 @@ export function remainingPool(state, scn) {
   return scn.pool.filter((id) => !done.has(id) && !state.queue.includes(id) && state.lot?.playerId !== id);
 }
 
-const auctionComplete = (state) => Object.values(state.teams).every((t) => openSlots(t) === 0 || t.purse < 30);
+const auctionComplete = (state) => Object.values(state.teams).every((t) => openSlots(t) === 0 || t.purse < MIN_PRICE);
 
 // Start the next lot. Moves the phase on when the queue is empty. Returns the lot or null.
 export function beginLot(state, scn) {
@@ -65,7 +65,7 @@ export function beginLot(state, scn) {
       // Team strength only changes when the squad does, so cache it by squad size.
       const c = state.strength[t.id];
       const base = c && c.n === t.squad.length ? c.v : (state.strength[t.id] = { n: t.squad.length, v: teamStrength(t.squad, scn.players).overall }).v;
-      state.ceilings[t.id] = aiCeiling(t, p, scn.players, { seed: state.seed, difficulty: state.difficulty, baseStrength: base, phase: state.phase, inflation: state.inflation ?? 1 });
+      state.ceilings[t.id] = aiCeiling(t, p, scn.players, { seed: state.seed, difficulty: state.difficulty, baseStrength: base, phase: state.phase, inflation: state.inflation ?? 1, affinity: !!state.affinity?.[t.id]?.includes(id) });
     }
     return state.lot;
   }

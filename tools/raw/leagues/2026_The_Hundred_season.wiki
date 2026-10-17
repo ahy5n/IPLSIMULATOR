@@ -1,0 +1,2325 @@
+{{Short description|Sixth season of The Hundred}}
+{{Use dmy dates|date=January 2026}}
+
+{{Infobox cricket tournament
+| name                = 2026 The Hundred season
+| image               = [[File:The Hundred UK.svg|150px]]
+| fromdate            = 21 July
+| todate              = 16 August 2026
+| administrator       = [[England and Wales Cricket Board]]
+| cricket format      = [[100-ball cricket]]
+| tournament format   = [[Group stage]] and [[Single-elimination tournament|knockout]]
+| champions           = '''W''': [[Trent Rockets]] (1st title) <br />'''M''': [[Manchester Super Giants]] (1st title) <br />'''The Hundred Helix''': [[Trent Rockets]] (1st title)
+| count               =
+| participants        = '''W''': 8   <br /> '''M''': 8
+| matches             = 68 <br /> '''W''': 34 <br /> '''M''': 34
+| attendance          = 
+| player of the series = '''W''': [[Annabel Sutherland]] ([[Sunrisers Leeds]])<br />'''M''': [[Tim Seifert]] ([[Manchester Super Giants]])
+| most runs           = '''W''': [[Annabel Sutherland]] ([[Sunrisers Leeds]]) (315)<br />'''M''': [[Mitch Marsh]] ([[Sunrisers Leeds]]) (416)
+| most wickets        = '''W''': [[Samantha Bates]] ([[Trent Rockets]]) (13)<br />[[Deepti Sharma]] ([[Sunrisers Leeds]]) (13)<br />[[Tilly Corteen-Coleman]] ([[Southern Brave]]) (13)<br />'''M''': [[Josh Tongue]] ([[Manchester Super Giants]]) (14)<br />[[Richard Gleeson]] ([[MI London]]) (14)
+| previous_year       = 2025
+| previous_tournament = 2025 The Hundred season
+| next_year           = 2027
+| next_tournament     = 
+| website             = [https://www.thehundred.com/ The Hundred]
+}}
+
+The '''2026 The Hundred season''' was the sixth season of [[The Hundred (cricket)|The Hundred]], a professional franchise [[100-ball cricket]] tournament involving eight men's and women's teams located in major cities across the United Kingdom.<ref>{{cite web |url=https://www.skysports.com/cricket/news/12123/13493919/the-hundred-mens-and-womens-squads-for-2026-season-which-runs-from-july-21-august-16-live-on-sky-sports |title=The Hundred: Men's and women's squads for 2026 season which runs from July 21-August 16 live on Sky Sports |work=[[Sky Sports]] |access-date=15 January 2026}}</ref><ref>{{cite web |url=https://www.bbc.com/sport/cricket/articles/c3r4rdq8523o |title=What will The Hundred look like in 2026? |work=[[BBC Sport]] |access-date=15 January 2026}}</ref>
+
+The previous year's women's tournament was won for the first time by the [[Northern Superchargers]], while the men's [[Oval Invincibles]] won their third consecutive title.<ref>{{cite web |url=https://www.bbc.com/sport/cricket/articles/cvg02n9lll5o |title=Invincibles win third Hundred men's title in a row |work=[[BBC Sport]] |access-date=15 January 2026}}</ref><ref>{{cite web |url=https://www.cricinfo.com/series/the-hundred-women-s-competition-2025-1471001/northern-superchargers-women-vs-southern-brave-women-final-1471069/match-report |title=Cross, Sutherland level up as Northern Superchargers clinch Women's Hundred title |work=[[Cricinfo]] |access-date=15 January 2026}}</ref>
+
+[[Trent Rockets|Trent Rockets women]] and [[Manchester Super Giants|Manchester Super Giants men]] won their respective titles for the first time.<ref>{{cite web |last=Miller |first=Andrew |date=16 August 2026 |title=Adams excels as Rockets surge to maiden Women's Hundred title |url=https://www.cricinfo.com/series/the-hundred-women-s-competition-2026-1521193/sunrisers-leeds-women-vs-trent-rockets-women-final-1521230/match-report |work=[[Cricinfo]] |access-date=17 August 2026}}</ref><ref>{{cite web |last=Wynne |first=Ffion |date=16 August 2026 |title=Rockets crush Sunrisers for first women's Hundred title |url=https://www.bbc.com/sport/cricket/articles/cdj00mw7l20o |work=[[BBC Sport]] |access-date=17 August 2026}}</ref><ref>{{cite web |title=Trent Rockets thrash SunRisers Leeds at Lord's to win women's title for first time |url=https://www.skysports.com/the-hundred/news/36888/13573734/the-hundred-trent-rockets-thrash-sunrisers-leeds-at-lords-to-win-womens-title-for-first-time |work=[[Sky Sports]] |date=16 August 2026 |access-date=17 August 2026}}</ref><ref>{{cite web |last=Roller |first=Matt |date=16 August 2026 |title=Seifert blasts Manchester Super Giants to maiden Hundred title |url=https://www.cricinfo.com/series/the-hundred-men-s-competition-2026-1521176/manchester-super-giants-men-vs-trent-rockets-men-final-1521264/match-report |work=[[Cricinfo]] |access-date=17 August 2026}}</ref><ref>{{cite web |last=Langford |first=Noah |date=16 August 2026 |title=Tim Seifert propels Manchester Super Giants to title with last-gasp win over Trent Rockets in Lord's final |url=https://www.skysports.com/the-hundred/news/36890/13573676/the-hundred-tim-seifert-propels-manchester-super-giants-to-title-with-last-gasp-win-over-trent-rockets-in-lords-final |work=[[Sky Sports]] |access-date=17 August 2026}}</ref><ref>{{cite web |last=Wynne |first=Ffion |date=16 August 2026 |title=Super Giants survive late wobble to win men's Hundred |url=https://www.bbc.com/sport/cricket/articles/c2dkk2j086lo |work=[[BBC Sport]] |access-date=17 August 2026}}</ref>
+
+==Background==
+===Finance===
+In late 2025, the ECB finalised deals that valued the eight teams at over £975 million.<ref>{{cite web |url=https://www.ecb.co.uk/news/4413484/the-hundred-team-partnerships-completed |title=The Hundred team partnerships completed |work=[[England and Wales Cricket Board]] |access-date=15 January 2026}}</ref> This restructuring was designed to secure the long-term financial health of the game, with over £500 million set to be reinvested into English and Welsh cricket, including a £50 million commitment to grassroots initiatives.
+
+The 2026 season is the first where '''TeamCos'''—consisting of the investors and host venues—assumes full operational control. The buyers include a mix of [[Indian Premier League]] (IPL) owners, American private equity firms, and tech entrepreneurs. The completed partnerships for the 2026 season are as follows:<ref>{{cite web |first=Roller |last=Matt |date=13 February 2025 |url=https://www.cricinfo.com/story/hundred-equity-sale-explainer-who-has-bought-what-how-much-1473079 |title=Hundred sale explainer: Who has bought what and for how much? |work=[[Cricinfo]] |access-date=15 January 2026}}</ref>
+* London Spirit: A consortium of Silicon Valley tech entrepreneurs (including executives from Google and Microsoft) bought the 49% stake for £145m (the highest valuation).
+* Oval Invincibles: Reliance Industries (owners of Mumbai Indians) bought the 49% stake for £60m.
+* Manchester Originals: RPSG Group (owners of Lucknow Super Giants) took a 70% stake for £81m, with Lancashire retaining 30%.
+* Northern Superchargers: Sun TV Network (owners of Sunrisers Hyderabad) purchased 100% of the team for £100m.
+* Birmingham Phoenix: Knighthead Capital (owners of Birmingham City FC) acquired 49% for £40m.
+* Welsh Fire: Sanjay Govil (owner of Washington Freedom) bought 50% for £40m.
+* Southern Brave: GMR Group (co-owners of Delhi Capitals) bought 49% and is also taking over the host county, Hampshire.
+* Trent Rockets: [[Cain (company)|Cain]] & Ares Management jointly bought 49% for just under £40m.
+
+=== Competition format ===
+As in previous editions, eight city-based teams will compete for the men's and women's titles during 21 July to 16 August 2026.
+
+The teams will play a total of 64 matches in the group stage (32 men's, 32 women's). All matches will be held on the same day at the same grounds, with one ticket granting access to both men's and women's contests.
+
+Each team will play four matches at home and four away, including one match against every other side in the competition and a bonus match against their nearest regional rivals. After the league stage, the top three teams will progress to the knockout stage to decide the champions. The second- and third-placed teams will face each other in the eliminator at The Oval in London. The winner of the eliminator then met the league-topping team in the final at Lord's.
+
+{{3TeamBracket
+|RD2=Final
+|RD1-seed1=
+|RD1-team1=Second-placed team
+|RD1-score1=
+|RD1-seed2=
+|RD1-team2=Third-placed team
+|RD1-score2=
+|RD2-seed1=
+|RD2-team1=First-placed team
+|RD2-score1=
+|RD2-seed2=
+|RD2-team2=Winner of Eliminator
+|RD2-score2=
+|RD1=Eliminator
+}}
+
+===Player selection process===
+For the 2026 season of The Hundred, player recruitment is conducted through a structured, three-stage system designed to balance competitive fairness with strategic flexibility for teams.<ref name="PP">{{cite web |url=https://www.thehundred.com/info/how-player-selection-works |title=The Hundred Player Slection-Explained |work=The Hundred |access-date=15 January 2026}}</ref>
+
+====Pre-auction signings and retention====
+Each franchise may make up to four pre-auction signings or retentions between mid-November and the end of January. Of these, a maximum of three can be direct signings limited to overseas players or England centrally contracted players, while at least one must be a retention from the existing squad, which can include domestic players as well. Teams may include up to two England centrally contracted players and up to two overseas players among their pre-auction signings. No "right to match (RTM)" option is available at this stage.<ref name="PP"/>
+
+To maintain balance and competitiveness, pre-auction signings reduce each team's available salary cap ahead of the auction according to a tiered cumulative deduction model. For the men's competition, deductions range from £350,000 for one signing to £950,000 for four signings. In the women's competition, corresponding deductions range from £130,000 to £360,000.<ref name="PP"/>
+
+====Auction====
+Following the direct signing window, an auction will be held on 11 & 12 March to complete squad formation.<ref>{{Cite web |title=First Hundred auction to span two days in March |url=https://www.bbc.com/sport/cricket/articles/cedweq6zj52o}}</ref> Teams are required to recruit the remaining players within their salary cap: 16–18 players for men's squads and 15 for women's squads. For the 2026 season, the overall salary pot is set at £2.05 million for men's teams and £880,000 for women's teams, reflecting increased investment in player payments.<ref>{{cite web |url=https://www.cricinfo.com/story/the-hundred-to-introduce-player-auction-for-2026-season-1509479 |title=The Hundred to introduce player auction for 2026 season |work=[[Cricinfo]] |access-date=15 January 2026}}</ref><ref>{{cite web |url=https://www.cricbuzz.com/cricket-news/136149/the-hundred-set-for-first-player-auction-in-march-2026-cricbuzzcom |title=The Hundred set for first player auction in March 2026 |work=[[Cricbuzz]] |access-date=15 January 2026}}</ref>
+
+====Vitality Wildcard====
+After the main auction, the Vitality Wildcard offers teams an additional mechanism to recruit players based on strong performances in the domestic [[T20 Blast]] competitions. Players who are not selected in the main auction can still earn contracts through this pathway, reinforcing the link between domestic form and participation in The Hundred.<ref name="PP"/>
+
+==Teams and venues ==
+{{Location map+|England|AlternativeMap=England and Wales.png|width=250|float=right|caption=Venues in England and Wales|places={{Location map~|England|AlternativeMap=England and Wales location map.svg|lat=52.455814|long=-1.902489|position=left|background=|label=[[Edgbaston Cricket Ground|Birmingham]]}}
+ {{Location map~|England|AlternativeMap=England and Wales location map.svg|lat=51.487222|long=-3.191389|position=left|background=|label=[[Sophia Gardens (cricket ground)|Cardiff]]}}
+ {{Location map~|England|AlternativeMap=England and Wales location map.svg|lat=53.817686|long=-1.582070|position=right|background=|label=[[Headingley Cricket Ground|Leeds]]}}
+ {{Location map~|England|AlternativeMap=England and Wales location map.svg|lat=53.003280|long=-1.144573|position=right|background=|label=[[Trent Bridge|Nottingham]]}}
+ {{Location map~|England|AlternativeMap=England and Wales location map.svg|lat=53.479251|long=-2.247926|position=left|background=|label=[[Old Trafford Cricket Ground|Manchester]]}}
+ {{Location map~|England|AlternativeMap=England and Wales location map.svg|lat=51.529420|long=-0.172822|position=top|background=|label=[[Lord's]]}}
+ {{Location map~|England|AlternativeMap=England and Wales location map.svg|lat=51.483769|long=-0.114850|position=bottom|background=|label=[[The Oval]]}}
+ {{Location map~|England|AlternativeMap=England and Wales location map.svg|lat=50.924000|long=-1.321900|position=left|background=|label=[[The Rose Bowl (cricket ground)|Southampton]]}}}}
+
+With the acquisition by [[Indian Premier League]] team, Oval Invincibles rebranded as [[MI London]], whereas as Northern Superchargers to [[Sunrisers Leeds]], while Manchester Originals were rebranded as [[Manchester Super Giants]].<ref>{{cite web |url=https://www.cricinfo.com/story/oval-invincibles-rebrand-as-mi-london-as-hundred-deal-is-finalised-1514252 |title=Oval Invincibles rebrand as MI London as Hundred deal is finalised |work=[[Cricinfo]] |access-date=15 January 2026}}</ref><ref>{{cite web |url=https://www.cricbuzz.com/cricket-news/137242/northern-superchargers-renamed-sunrisers-leeds-cricbuzzcom |title=Northern Superchargers rebranded as Sunrisers Leeds |work=[[Cricbuzz]] |access-date=15 January 2026}}</ref> All remaining teams who took part in the 2025 season also returned for the 2026 season.
+{| class="wikitable"
+!Team
+!Home ground
+!Men's coach
+!Women's coach
+|-
+|[[Birmingham Phoenix]]
+|[[Edgbaston Cricket Ground|Edgbaston]], [[Birmingham]]
+|[[Shane Bond]]
+|[[Alistair Maiden]]
+|-
+|[[London Spirit]]
+|[[Lord's]], [[London]]
+|[[Andy Flower]]
+|[[Jon Lewis (cricketer, born 1975)|Jon Lewis]]
+|-
+|[[Manchester Super Giants]]
+|[[Old Trafford Cricket Ground|Old Trafford]], [[Manchester]]
+|[[Justin Langer]]
+|[[Matthew Mott]]
+|-
+|[[MI London]]
+|[[The Oval]], [[London]]
+|[[Kieron Pollard]]
+|[[Lisa Keightley]]
+|-
+|[[Southern Brave]]
+|[[Rose Bowl (cricket ground)|Rose Bowl]], [[Southampton]]
+|[[Hemang Badani]]
+|[[Jonathan Batty]]
+|-
+|[[Sunrisers Leeds]]
+|[[Headingley Cricket Ground|Headingley]], [[Leeds]]
+|[[Daniel Vettori]]
+|[[Adrian Birrell]]
+|-
+|[[Trent Rockets]]
+|[[Trent Bridge]], [[Nottingham]]
+|[[Peter Moores (cricketer)|Peter Moores]]
+|[[Chris Read]]
+|-
+|[[Welsh Fire]] ({{langx|cy|Tân Cymreig}})
+|[[Sophia Gardens (cricket ground)|Sophia Gardens]], [[Cardiff]]
+|[[Mike Hussey]]
+|[[Michael Klinger]]
+|}
+
+==Squads==
+{{Main|2026 The Hundred personnel signings and auction}}
+
+===Women's===
+Team captains are in '''bold'''.
+<div class="overflowbugx" style="overflow-x:auto;">
+{| class="wikitable" style="white-space:nowrap;"
+|+Squads contracted for the 2026 The Hundred season<ref name="sq">{{cite web |url=https://www.thehundred.com/news/4428607/the-hundred-2026-direct-signings--and-retentions-tracker |title=The Hundred 2026 direct signings and retentions tracker |work=The Hundred |access-date=15 January 2026}}</ref>
+|-
+!scope="col"| [[2026 Birmingham Phoenix season|Birmingham Phoenix]]
+!scope="col"|[[2026 London Spirit season|London Spirit]]
+!scope="col"| [[2026 Manchester Super Giants season|Manchester Super Giants]]
+!scope="col"| [[2026 MI London season|MI London]]
+!scope="col"| [[2026 Southern Brave season|Southern Brave]]
+!scope="col"| [[2026 Sunrisers Leeds season|Sunrisers Leeds]]
+!scope="col"| [[2026 Trent Rockets season|Trent Rockets]]
+!scope="col"| [[2026 Welsh Fire season|Welsh Fire]]
+|-
+! colspan="8" | Signings / Retentions
+|-
+| valign="top" |
+* [[Alice Capsey]]
+* [[Lauren Filer]]
+* [[Lucy Hamilton (cricketer)|Lucy Hamilton]]
+* '''[[Ellyse Perry]]'''
+
+| valign="top" |
+* '''[[Charlie Dean]]'''
+* [[Mahika Gaur]]
+* [[Grace Harris]]
+* [[Marizanne Kapp]]
+
+| valign="top" |
+* [[Sophie Ecclestone]]
+* '''[[Meg Lanning]]'''
+* [[Smriti Mandhana]]
+
+| valign="top" | 
+* [[Amelia Kerr]]
+* [[Hayley Matthews]]
+* [[Danni Wyatt-Hodge]]
+
+| valign="top" |
+* [[Lauren Bell]]
+* [[Maia Bouchier]]
+* [[Jemimah Rodrigues]]
+* [[Laura Wolvaardt]]
+
+| valign="top" |
+* [[Kate Cross]]  
+* [[Phoebe Litchfield]]
+* [[Annabel Sutherland]]
+
+| valign="top" |
+* [[Sophia Dunkley]]
+* '''[[Ashleigh Gardner]]'''
+* [[Kim Garth]]
+* [[Nat Sciver-Brunt]]
+
+| valign="top" |
+* [[Freya Kemp]]
+* [[Georgia Wareham]]
+* [[Georgia Voll]]
+|-
+! colspan="8" | Auction
+|-
+| valign="top" |
+* [[Tammy Beaumont]]
+* [[Phoebe Brett]]
+* [[Annerie Dercksen]]
+* [[Eva Gray (cricketer)|Eva Gray]]
+* [[Cordelia Griffith]]
+* [[Alana King]]
+* [[Emma Lamb]]
+* [[Esmae MacGregor]]
+* Eve O'Neill
+* [[Davina Perrin]]
+* [[Linsey Smith]]
+* [[Jemima Spence]]
+
+| valign="top" |
+* [[Deandra Dottin]]
+* [[Josie Groves]]
+* [[Lucy Higham]]
+* [[Amy Jones (cricketer)|Amy Jones]]
+* [[Sterre Kalis]]
+* [[Marie Kelly]]
+* [[Nadine de Klerk]]
+* [[Charis Pavely]]
+* [[Seren Smale]]
+* [[Phoebe Turner]]
+
+| valign="top" |
+* [[Grace Ballinger]]
+* [[Maitlan Brown]]
+* [[Kathryn Bryce]]
+* [[Jo Gardner]]
+* [[Richa Ghosh]]
+* [[Ryana MacDonald-Gay]]
+* [[Paige Scholfield]]
+* [[Grace Scrivens]]
+* [[Rebecca Tyson]]
+* [[Mady Villiers]]
+* [[Nat Wraith]]
+
+| valign="top" |
+* '''[[Hollie Armitage]]'''
+* [[Nicola Carey]]
+* [[Kira Chathli]]
+* [[Alice Davidson-Richards]]
+* [[Kirstie Gordon]]
+* [[Danielle Gregory]]
+* [[Chinelle Henry]]
+* [[Alice Monaghan]]
+* [[Kalea Moore]]
+* [[Tara Norris]]
+* [[Alexa Stonehouse]]
+* [[Eleanor Threlkeld]]
+
+| valign="top" |
+* [[Ellie Anderson]]
+* [[Tilly Corteen-Coleman]]
+* [[Daisy Gibb]]
+* [[Sarah Glenn]]
+* [[Jodi Grewcock]]
+* [[Phoebe Franklin]]
+* [[Lizelle Lee]]
+* '''[[Sophie Molineux]]'''
+* [[Rebecca Odgers]]
+* [[Issy Wong]]
+
+| valign="top" |
+* [[Hannah Baker (cricketer)|Hannah Baker]]
+* [[Claudie Cooper]]
+* '''[[Danielle Gibson (cricketer)|Dani Gibson]]'''
+* [[Jess Jonassen]]
+* [[Cassidy McCarthy]]
+* [[Florence Miller (cricketer)|Florence Miller]]
+* [[Deepti Sharma]]
+* [[Rachel Slater]]
+* [[Bryony Smith]]
+* [[Maddie Ward]]
+* [[Lauren Winfield-Hill]]
+
+| valign="top" |
+* [[Georgia Adams]]
+* [[Samantha Bates]]
+* [[Georgia Elwiss]]
+* [[Bess Heath]]
+* [[Grace Johnson (cricketer)|Grace Johnson]]
+* [[Emma Jones (cricketer)|Emma Jones]]
+* [[Katie Levick]]
+* [[Ailsa Lister]]
+* [[Beth Mooney]]
+* Charley Phillips
+* [[Millie Taylor]]
+
+| valign="top" |
+* [[Emily Arlott]]
+* [[Sarah Bryce]]
+* '''[[Sophie Devine]]'''
+* [[Heather Graham (cricketer)|Heather Graham]]
+* [[Ella McCaughan]]
+* [[Fi Morris]]
+* [[Abi Norgrove]]
+* [[Grace Potts]]
+* [[Sophia Smale]]
+* [[Rhianna Southby]]
+* Grace Thompson
+
+|-
+! colspan="8" | Wildcard Picks
+|-
+| valign="top" |
+* [[Fatima Sana]]
+* [[Mary Taylor (cricketer)|Mary Taylor]]
+
+| valign="top" |
+* Olivia Barnes
+* Trudy Johnson 
+
+| valign="top" |
+* [[Beth Langston]]
+* [[Mia Rogers]]
+
+| valign="top" |
+* [[Kate Coppack]]
+* Francesca Sweet
+
+| valign="top" |
+* [[Naomi Dattani]]
+* [[Katherine Fraser (cricketer)|Katherine Fraser]]
+
+| valign="top" |
+* [[Darcey Carter]]
+* [[Sophia Turner]]
+
+| valign="top" |
+* [[Eve Jones]]
+* [[Amu Surenkumar]]
+
+| valign="top" |
+* [[Georgia Davis]]
+* [[Niamh Holland]]
+|}</div>
+
+==== Replacements ====
+* '''Birmingham Phoenix:'''
+** [[Meg Austin]] replaced [[Cordelia Griffith]] due to injury.
+** [[Kayla Reyneke]] replaced [[Fatima Sana]] for two matches due to international commitments.
+
+* '''London Spirit:'''
+** [[Katie George (cricketer)|Katie George]] replaced [[Mahika Gaur]] due to injury.
+** [[Hannah Rainey]] replaced [[Phoebe Turner]] due to injury.
+
+* '''MI London:'''
+** [[Ella Claridge]] replaced [[Danni Wyatt-Hodge]] due to injury.
+
+* '''Southern Brave:'''
+** [[Charli Knott]] replaced [[Jemimah Rodrigues]] due to injury.
+
+* '''Sunrisers Leeds:'''
+** [[Emily Windsor]] replaced [[Florence Miller (cricketer)|Florence Miller]] due to injury.
+** [[Katie Jones (cricketer)|Katie Jones]] replaced [[Maddie Ward]] due to injury.
+** [[Chloe Skelton]] replaced [[Rachel Slater]] due to injury.
+** Tilly Kesteven replaced [[Emily Windsor]] due to injury.
+
+* '''Trent Rockets:'''
+** [[Sophie Munro]] replaced [[Grace Johnson (cricketer)|Grace Johnson]] due to injury.
+** [[Sophie Luff]] replaced [[Ailsa Lister]] due to injury.
+
+* '''Welsh Fire:'''
+** [[Orla Prendergast]] replaced [[Sophie Devine]] due to injury.
+
+===Men's===
+Team captains are in '''bold'''.
+<div class="overflowbugx" style="overflow-x:auto;">
+{| class="wikitable" style="white-space:nowrap;"
+|+Squads contracted for the 2026 The Hundred season<ref name="sq"/>
+|-
+!scope="col"| [[2026 Birmingham Phoenix season|Birmingham Phoenix]]
+!scope="col"| [[2026 London Spirit season|London Spirit]]
+!scope="col"| [[2026 Manchester Super Giants season|Manchester Super Giants]]
+!scope="col"| [[2026 MI London season|MI London]]
+!scope="col"| [[2026 Southern Brave season|Southern Brave]]
+!scope="col"| [[2026 Sunrisers Leeds season|Sunrisers Leeds]]
+!scope="col"| [[2026 Trent Rockets season|Trent Rockets]]
+!scope="col"| [[2026 Welsh Fire season|Welsh Fire]]
+|-
+! colspan="8" | Signings / Retentions
+|-
+| valign="top" |
+* [[Rehan Ahmed]]
+* [[Jacob Bethell]]
+* '''[[Donovan Ferreira]]'''
+* [[Mitchell Owen]]
+
+| valign="top" |
+* [[Dewald Brevis]]
+* '''[[Liam Livingstone]]''' 
+* [[Jamie Overton]]  
+* [[Adam Zampa]]
+
+| valign="top" |
+* [[Noor Ahmad]]
+* [[Jos Buttler]] 
+* [[Liam Dawson]]
+* [[Heinrich Klaasen]]
+
+| valign="top" |
+* '''[[Sam Curran]]'''
+* [[Will Jacks]]
+* [[Rashid Khan]]
+* [[Nicholas Pooran]]
+
+| valign="top" |
+* [[Jofra Archer]] 
+* [[Jamie Smith (cricketer)|Jamie Smith]] 
+* [[Marcus Stoinis]]
+* [[Tristan Stubbs]]
+
+| valign="top" |
+* [[Harry Brook]]
+* [[Brydon Carse]]  
+* [[Nathan Ellis]]
+* [[Mitchell Marsh]]
+
+| valign="top" |
+* [[Tom Banton]] 
+* [[Tim David (cricketer)|Tim David]] 
+* [[Ben Duckett]] 
+* [[Mitchell Santner]]
+
+| valign="top" |
+* [[Marco Jansen]]
+* [[Rachin Ravindra]]
+* '''[[Phil Salt]]'''
+* [[Chris Woakes]]
+|-
+
+! colspan="8" | Auction
+|-
+| valign="top" |
+* [[Ethan Brookes]]
+* [[Joe Clarke (cricketer)|Joe Clarke]]
+* [[Scott Currie]]
+* [[Laurie Evans]]
+* [[Saqib Mahmood]]
+* [[Mustafizur Rahman]]
+* [[Will Smeed]]
+* [[Usman Tariq]]
+* [[Jordan Thompson (cricketer)|Jordan Thompson]]
+* [[Chris Wood (cricketer)|Chris Wood]]
+
+| valign="top" |
+* [[Jonny Bairstow]]
+* [[James Coles]]
+* [[Mason Crane]]
+* [[Matthew Fisher (English cricketer)|Matthew Fisher]]
+* [[Adam Hose]]
+* [[Tymal Mills]]
+* [[Adam Milne]]
+* [[Lhuan-dre Pretorius]]
+* [[James Rew]]
+* [[David Willey (cricketer)|David Willey]]
+
+| valign="top" |
+* [[Gus Atkinson]]
+* [[Sonny Baker]]
+* [[Leus du Plooy]]
+* [[Tom Hartley (cricketer)|Tom Hartley]]
+* [[Max Holden (cricketer)|Max Holden]]
+* '''[[Aiden Markram]]'''
+* [[Tom Moores]]
+* [[Tawanda Muyeye]]
+* [[George Scrimshaw (cricketer)|George Scrimshaw]]
+* [[Tim Seifert]]
+* [[Josh Tongue]]
+* [[Paul Walter]]
+
+| valign="top" |
+* [[Trent Boult]]
+* [[Tom Curran (cricketer)|Tom Curran]]
+* [[Richard Gleeson]]
+* [[Callum Parkinson]]
+* [[Ollie Pope]]
+* [[Jason Roy]]
+* [[Sherfane Rutherford]]
+* [[Nathan Sowter]]
+* [[Olly Stone]]
+* [[Ollie Sykes (cricketer)|Ollie Sykes]]
+* [[James Vince]]
+
+| valign="top" |
+* [[Tom Abell]]
+* [[Nikhil Chaudhary (cricketer)|Nikhil Chaudhary]]
+* [[Caleb Falconer]]
+* '''[[Chris Jordan (cricketer)|Chris Jordan]]'''
+* [[Ben McKinney]]
+* [[David Miller (South African cricketer)|David Miller]]
+* [[Michael Pepper (cricketer)|Michael Pepper]]
+* [[Adil Rashid]]
+* [[Thomas Rew (cricketer)|Thomas Rew]]
+* [[Luke Wood (cricketer)|Luke Wood]]
+* [[Daniel Worrall]]
+
+| valign="top" |
+* [[Abrar Ahmed]]
+* [[Tom Alsop]]
+* [[Ed Barnard]]
+* '''[[Zak Crawley]]'''
+* [[Benny Howell]]
+* [[Tom Lawes (cricketer)|Tom Lawes]]
+* [[Dan Lawrence]]
+* [[Liam Patterson-White]]
+* [[Matthew Potts]]
+* [[Ryan Rickelton]]
+* [[Reece Topley]]
+
+| valign="top" |
+* [[Finn Allen]]
+* '''[[Sam Billings]]'''
+* [[Danny Briggs]]
+* [[Brad Currie]]
+* [[Aneurin Donald]]
+* [[Lewis Gregory]]
+* [[Matt Henry (cricketer)|Matt Henry]]
+* [[Louis Kimber]]
+* [[Ben Mayes (cricketer)|Ben Mayes]]
+* [[Dan Mousley]]
+* [[Craig Overton]]
+* [[David Payne (cricketer)|David Payne]]
+
+| valign="top" |
+* [[Tom Aspinwall]]
+* [[Jafer Chohan]]
+* [[Sam Cook (cricketer, born 1997)|Sam Cook]]
+* [[Jordan Cox (cricketer)|Jordan Cox]]
+* [[Lockie Ferguson]]
+* [[Ben Kellaway]]
+* [[Tom Kohler-Cadmore]]
+* [[Joe Root]]
+* [[Matthew Short]]
+* [[Asa Tribe]]
+
+|-
+! colspan="8" | Wildcard Picks
+|-
+| valign="top" |
+* [[Sean Dickson]]
+* [[Tom Helm (cricketer)|Tom Helm]]
+
+| valign="top" |
+* [[Kiran Carlson]]
+* [[Henry Crocombe]]
+
+| valign="top" |
+* [[Adam Finch]]
+* [[James Sales]]
+
+| valign="top" |
+* [[Eddie Jack]]
+* [[Sebastian Morgan]]
+
+| valign="top" |
+* [[Manny Lumsden]]
+* [[Saif Zaib]]
+
+| valign="top" |
+* [[Charlie Allison]]
+* [[Matt Revis]]
+
+| valign="top" |
+* [[Ben Raine]]
+* [[Ben Sanderson]]
+
+| valign="top" |
+* [[Jordan Clark (cricketer)|Jordan Clark]]
+* [[Dillon Pennington]]
+
+|}</div>
+
+==== Replacements ====
+* '''Birmingham Phoenix:'''
+** [[Matt Montgomery (cricketer)|Matt Montgomery]] replaced [[Ethan Brookes]] due to injury.
+** [[Joe Weatherley]] replaced [[Jacob Bethell]] due to injury.
+** [[Ben Dwarshuis]] replaced [[Mustafizur Rahman]] due to injury.
+
+* '''London Spirit:'''
+** [[Andrew Tye]] replaced [[Adam Hose]] due to injury.
+** [[Joe Moores]] replaced [[Tymal Mills]] due to injury.
+
+* '''Manchester Super Giants:'''
+** [[Michael Bracewell (cricketer)|Michael Bracewell]] replaced [[Aiden Markram]] due to personal reasons.
+
+* '''MI London:'''
+** [[Josh Philippe]] replaced [[Sherfane Rutherford]] for one match due to prior commitments.
+** [[Sikandar Raza]] replaced [[Rashid Khan]] for three matches due to international commitments.
+
+* '''Southern Brave:'''
+** [[Moeen Ali]] replaced [[Thomas Rew (cricketer)|Thomas Rew]] due to injury.
+
+* '''Sunrisers Leeds:'''
+** [[Graham Clark (English cricketer)|Graham Clark]] replaced [[Tom Alsop]] due to injury.
+** [[James Fuller (cricketer, born 1990)|James Fuller]] replaced [[Reece Topley]] due to injury.
+
+* '''Trent Rockets:'''
+** [[Mohammad Amir]] replaced [[David Payne (cricketer)|David Payne]] due to injury.
+** [[Calvin Harrison (cricketer)|Calvin Harrison]] replaced [[Brad Currie]] due to injury.
+** [[Matt Milnes]] replaced [[Tom Banton]] due to injury.
+
+==Standings==
+=== Women ===
+{{#invoke:Sports table|main|style=CricketTH
+|source=[https://www.cricinfo.com/series/the-hundred-women-s-competition-2026-1521193/points-table-standings Cricinfo]
+|update=complete
+|show_tie=yes
+
+|team_order=TR, SL, SB, MSG, WF, LS, BP, MIL
+
+|win_BP=2 |loss_BP=5 |nr_BP=1 |nrr_BP=-1.602
+|win_LS=2 |loss_LS=5 |tie_LS=1 |nr_LS= |nrr_LS=-0.363
+|win_MSG=4 |loss_MSG=3 |nr_MSG=1 |nrr_MSG=0.344
+|win_MIL=1 |loss_MIL=6 |tie_MIL=1 |nr_MIL= |nrr_MIL=-1.165
+|win_SB=5 |loss_SB=3 |nr_SB= |nrr_SB=0.107
+|win_SL=5 |loss_SL=3 |nr_SL= |nrr_SL=1.031
+|win_TR=7 |loss_TR=1 |nr_TR= |nrr_TR=1.391
+|win_WF=4 |loss_WF=4 |nr_WF= |nrr_WF=0.133
+
+
+|result1=Q|result2=A|result3=A|result4=E|result5=E|result6=E|result7=E|result8=E
+
+|name_BP={{cr-ENG|bp}}
+|name_LS={{cr-ENG|ls}}
+|name_MSG={{cr-ENG|msg}}
+|name_MIL={{cr-ENG|mil}}
+|name_SB={{cr-ENG|sb}}
+|name_SL={{cr-ENG|sl}}
+|status_SL=R
+|name_TR={{cr-ENG|tr}} |status_TR=C
+|name_WF={{cr-ENG|wf}}
+
+|col_Q=#cfc
+|col_A=#ffc
+|res_col_header=Q
+|text_Q=Advanced to the [[#match34w|Final]]
+|text_A={{nobr|Advanced to the [[#match33w|Eliminator]]}}
+|text_E=Eliminated
+}}
+
+===Point summary Women===
+{{#{{Twenty20 League results summary|mode=progression}}|create
+<!--SINCE THERE ARE MEN'S AND WOMEN'S FIXTURES HERE WHILE UPDATING WOMEN'S POINTS SUMMARY, USE (w1w or l1w or t1w or n1w) TO GET THE RESULT.--> 
+<!-- BP -->|l4w, n7w, l13w, w15w, l22w, l24w, l28w, w30w|E,E
+<!-- LS -->|l3w, w8w, t12w, l16w, l20w, l23w, w28w, l31w|E,E
+<!-- MSG -->|w3w, n7w, w10w, l14w, w18w, l21w, w26w, l30w|E,E
+<!-- MIL -->|l1w, l6w, l9w, t12w, l18w, w23w, l25w, l30w|E,E
+<!-- SB -->|w2w, w5w, w9w, w13w, w16w, l19w, l26w, l29w|L33w,E
+<!-- SL -->|w1w, l5w, l10w, l17w, w20w, w24w, w27w, w30w|W33w,L34w
+<!-- TR -->|w4w, l8w, w11w, w14w, w17w, w22w, w25w, w29w|,W34w
+<!-- WF -->|l2w, w6w, l11w, l15w, w19w, w21w, l27w, w31w|E,E
+
+|teams= [[2026 Birmingham Phoenix season|Birmingham Phoenix]], [[2026 London Spirit season|London Spirit]], {{nowrap|[[2026 Manchester Originals season|Manchester Super Giants]]}}, [[2026 MI London season|MI London]], [[2026 Southern Brave season|Southern Brave]], [[2026 Sunrisers Leeds season|Sunrisers Leeds]], [[2026 Trent Rockets season|Trent Rockets]], [[2026 Welsh Fire season|Welsh Fire]]
+|matchesPerTeam= 8
+|playoffLabels= {{Abbr|E|Eliminator}}, {{Abbr|F|Final}}
+}}
+
+===Men===
+{{#invoke:Sports table|main|style=CricketTH
+|source=[https://www.cricinfo.com/series/the-hundred-men-s-competition-2026-1521176/points-table-standings Cricinfo]
+|update=complete
+|show_tie=yes
+
+|team_order=TR, MSG, SL, MIL, WF, SB, LS, BP
+
+|win_BP=1 |loss_BP=7 |nr_BP= |nrr_BP=-1.318
+|win_LS=3 |loss_LS=5 |nr_LS= |nrr_LS=-0.098
+|win_MSG=5 |loss_MSG=3 |nr_MSG= |nrr_MSG=0.791
+|win_MIL=5 |loss_MIL=3 |nr_MIL= |nrr_MIL=0.241
+|win_SB=3 |loss_SB=5 |nr_SB= |nrr_SB=-0.015
+|win_SL=5 |loss_SL=3 |nr_SL= |nrr_SL=0.603
+|win_TR=6 |loss_TR=2 |nr_TR= |nrr_TR=0.740
+|win_WF=4 |loss_WF=4 |nr_WF= |nrr_WF=-0.900
+
+
+|result1=Q|result2=A|result3=A|result4=E|result5=E|result6=E|result7=E|result8=E
+
+|name_BP={{cr-ENG|bp}}
+|name_LS={{cr-ENG|ls}}
+|name_MSG={{cr-ENG|msg}}
+|name_MIL={{cr-ENG|mil}}
+|name_SB={{cr-ENG|sb}}
+|name_SL={{cr-ENG|sl}}
+|name_TR={{cr-ENG|tr}}
+|name_WF={{cr-ENG|wf}}
+|status_MSG=C
+|status_TR=R
+
+|col_Q=#cfc
+|col_A=#ffc
+|res_col_header=Q
+|text_Q=Advanced to the [[#match34|Final]]
+|text_A={{nobr|Advanced to the [[#match33|Eliminator]]}}
+|text_E=Eliminated
+}}
+
+===Point summary Men===
+{{#{{Twenty20 League results summary|mode=progression}}|create
+
+<!-- BP -->|W4, L7, L13, L15, L22, L24, L28, L32|E,E
+<!-- LS -->|L3, L8, W12, L16, L20, L23, W28, W31|E,E
+<!-- MSG -->|W3, W7, L10, L14, L18, W21, W26, W30|W33, W34
+<!-- MIL -->|W1, L6, W9, L12, W18, W23, L25, W32|E,E
+<!-- SB -->|L2, L5, L9, W13, W16, L19, L26, W29|E,E
+<!-- SL -->|L1, W5, W10, L17, W20, W24, W27, L30|L33,E
+<!-- TR -->|L4, W8, W11, W14, W17, W22, W25, L29|, L34
+<!-- WF -->|W2, W6, L11, W15, W19, L21, L27, L31|E, E
+
+|teams= [[2026 Birmingham Phoenix season|Birmingham Phoenix]], [[2026 London Spirit season|London Spirit]], {{nowrap|[[2026 Manchester Originals season|Manchester Super Giants]]}}, [[2026 MI London season|MI London]], [[2026 Southern Brave season|Southern Brave]], [[2026 Sunrisers Leeds season|Sunrisers Leeds]], [[2026 Trent Rockets season|Trent Rockets]], [[2026 Welsh Fire season|Welsh Fire]]
+|matchesPerTeam= 8
+| playoffLabels = {{Abbr|E|Eliminator}}, {{Abbr|F|Final}}
+}}
+
+=== Combined ===
+{{#invoke:Sports table|main|style=CricketTH
+|show_tie=yes
+|source=[https://www.thehundred.com/standings The Hundred]
+|update=16 August 2026
+
+|team_order=TR, SL, MSG, SB, WF, MIL, LS, BP
+
+|win_BP=3 |loss_BP=12 |nr_BP=1 |nrr_BP=-1.482
+|win_LS=5 |loss_LS=10 |tie_LS=1 |nr_LS= |nrr_LS=-0.261
+|win_MSG=10 |loss_MSG=6 |nr_MSG=1 |nrr_MSG=0.636
+|win_MIL=6 |loss_MIL=9 |tie_MIL=1 |nr_MIL= |nrr_MIL=-0.488
+|win_SB=8 |loss_SB=9 |nr_SB= |nrr_SB=-0.003
+|win_SL=11 |loss_SL=8 |nr_SL= |nrr_SL=0.778
+|win_TR=14 |loss_TR=3 |nr_TR= |bonus_TR=8 |nrr_TR=1.081
+|win_WF=8 |loss_WF=8 |nr_WF= |nrr_WF=-0.377
+
+|name_BP={{cr-ENG|bp}}
+|name_LS={{cr-ENG|ls}}
+|name_MSG={{cr-ENG|msg}}
+|name_MIL={{cr-ENG|mil}}
+|name_SB={{cr-ENG|sb}}
+|name_SL={{cr-ENG|sl}}
+|name_TR={{cr-ENG|tr}}
+|name_WF={{cr-ENG|wf}}
+
+|result1=C
+|col_C=gold
+}}
+{{color box|border=darkgray|gold}} '''The Hundred Helix'''
+
+==Fixtures==
+{{hatnote|All times are in local [[British Summer Time]] ([[UTC+01:00]]).}}
+
+On 27 January 2026, fixtures were announced by [[England and Wales Cricket Board]] (ECB).<ref>{{cite web |url=https://www.skysports.com/the-hundred/news/36888/13499530/the-hundred-fixtures-2026-mi-london-men-and-sunrisers-leeds-women-to-start-title-defences-at-kia-oval-on-opening-day |title=The Hundred fixtures 2026: MI London Men and Sunrisers Leeds Women to start title defences at Kia Oval on opening day |work=[[Sky Sports]] |access-date=27 January 2026}}</ref>
+
+===Women===
+{{Single-innings cricket match
+| round = {{anchor|match1w}} '''Match 1'''
+| date = 21 July 2026
+| time = 14:45
+| team1 = {{cr-ENG|mil}}
+| team2 = {{cr-ENG|sl}}
+| score1 = 107/8 (100 balls)
+| runs1 = [[Hayley Matthews]] 33 (22)
+| wickets1 = [[Hannah Baker]] 2/16 (15 balls)
+| score2 = 109/3 (69 balls)
+| runs2 = [[Phoebe Litchfield]] 43 (26)
+| wickets2 = [[Alexa Stonehouse]] 1/12 (10 balls)
+| result = Sunrisers Leeds won by 7 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521197.html Scorecard]
+| venue = [[The Oval]], [[London]]
+| umpires = [[Mark Newell]] and [[Sue Redfern]]
+| motm = [[Phoebe Litchfield]] (Sunrisers Leeds)
+| toss = Sunrisers Leeds won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match2w}} '''Match 2'''
+| date = 22 July 2026
+| time = 15:00
+| team1 = {{cr-ENG|sb}}
+| team2 = {{cr-ENG|wf}}
+| score1 = 126/7 (100 balls)
+| runs1 = [[Laura Wolvaardt]] 45[[not out|*]] (36)
+| wickets1 = [[Heather Graham (cricketer)|Heather Graham]] 4/19 (20 balls)
+| score2 = 118/8 (100 balls)
+| runs2 = [[Georgia Voll]] 52 (39)
+| wickets2 = [[Sophie Molineux]] 3/14 (20 balls)
+| result = Southern Brave won by 8 runs
+| report = [http://cricinfo.com/ci/engine/match/1521198.html Scorecard]
+| venue = [[Rose Bowl (cricket ground)|Rose Bowl]], [[Southampton]]
+| umpires = [[Gabi Brown]] and Chris Watts
+| motm = [[Sophie Molineux]] (Southern Brave)
+| toss = Welsh Fire won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match3w}} '''Match 3'''
+| date = 23 July 2026
+| time = 15:00
+| team1 = {{cr-ENG|ls}}
+| team2 = {{cr-ENG|msg}}
+| score1 = 80 (91 balls)
+| runs1 = [[Marizanne Kapp]] 17 (12)
+| wickets1 = [[Ryana MacDonald-Gay]] 4/17 (16 balls)
+| score2 = 86/3 (59 balls)
+| runs2 = [[Paige Scholfield]] 22 (15)
+| wickets2 = [[Marizanne Kapp]] 2/18 (20 balls)
+| result = Manchester Super Giants won by 7 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521199.html Scorecard]
+| venue = [[Lord's]], [[London]]
+| umpires = [[Rose Fernando]] and Surendiran Shanmugam
+| motm = [[Ryana MacDonald-Gay]] (Manchester Super Giants)
+| toss = Manchester Super Giants won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match4w}} '''Match 4'''
+| date = 24 July 2026
+| time = 15:00
+| team1 = {{cr-ENG|bp}}
+| team2 = {{cr-ENG|tr}}
+| score1 = 64 (95 balls)
+| runs1 = [[Ellyse Perry]] 39 (33)
+| wickets1 = [[Samantha Bates]] 3/10 (20 balls)
+| score2 = 68/1 (31 balls)
+| runs2 = [[Sophia Dunkley]] 43[[not out|*]] (17)
+| wickets2 = [[Lauren Filer]] 1/17 (6 balls)
+| result = Trent Rockets won by 9 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521200.html Scorecard]
+| venue = [[Edgbaston Cricket Ground|Edgbaston]], [[Birmingham]]
+| umpires = [[Rose Fernando]] and [[Neil Pratt]]
+| motm = [[Samantha Bates]] (Trent Rockets)
+| toss = Trent Rockets won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match5w}} '''Match 5'''
+| date = 25 July 2026
+| time = 11:00
+| team1 = {{cr-ENG|sl}}
+| team2 = {{cr-ENG|sb}}
+| score1 = 116 (100 balls)
+| runs1 = [[Bryony Smith]] 48 (34)
+| wickets1 = [[Issy Wong]] 3/15 (20 balls)
+| score2 = 117/5 (96 balls)
+| runs2 = [[Jemimah Rodrigues]] 42[[not out|*]] (34)
+| wickets2 = [[Cassidy McCarthy]] 2/14 (20 balls)
+| result = Southern Brave won by 5 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521201.html Scorecard]
+| venue = [[Headingley Cricket Ground|Headingley]], [[Leeds]]
+| umpires = [[Hassan Adnan]] and [[Gabi Brown]]
+| motm = [[Jemimah Rodrigues]] (Southern Brave)
+| toss = Southern Brave won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match6w}} '''Match 6'''
+| date = 25 July 2026
+| time = 14:30
+| team1 = {{cr-ENG|wf}}
+| team2 = {{cr-ENG|mil}}
+| score1 = 177/4 (100 balls)
+| runs1 = [[Sophie Devine]] 52 (29)
+| wickets1 = [[Hayley Matthews]] 2/52 (20 balls)
+| score2 = 117 (92 balls)
+| runs2 = [[Chinelle Henry]] 30 (23)
+| wickets2 = [[Grace Potts]] 3/24 (20 balls)
+| result = Welsh Fire won by 60 runs
+| report = [http://cricinfo.com/ci/engine/match/1521202.html Scorecard]
+| venue = [[Sophia Gardens (cricket ground)|Sophia Gardens]], [[Cardiff]]
+| umpires = Julia Jarvis and [[Sue Redfern]]
+| motm = [[Georgia Wareham]] (Welsh Fire)
+| toss = MI London won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match7w}} '''Match 7'''
+| date = 26 July 2026
+| time = 11:00
+| team1 = {{cr-ENG|msg}}
+| team2 = {{cr-ENG|bp}}
+| score1 = 
+| score2 = 
+| result = Match abandoned
+| report = [http://cricinfo.com/ci/engine/match/1521203.html Scorecard]
+| venue = [[Old Trafford Cricket Ground|Old Trafford]], [[Manchester]]
+| umpires = [[Rose Fernando]] and [[Neil Pratt]]
+| toss = No toss.
+| rain = No play was possible due to rain.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match8w}} '''Match 8'''
+| date = 26 July 2026
+| time = 14:30
+| team1 = {{cr-ENG|tr}}
+| team2 = {{cr-ENG|ls}}
+| score1 = 142/6 (100 balls)
+| runs1 = [[Ashleigh Gardner]] 34 (22)
+| wickets1 = [[Marizanne Kapp]] 3/12 (20 balls)
+| score2 = 146/5 (97 balls)
+| runs2 = [[Marie Kelly]] 41 (28)
+| wickets2 = [[Ashleigh Gardner]] 2/24 (20 balls)
+| result = London Spirit won by 5 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521204.html Scorecard]
+| venue = [[Trent Bridge]], [[Nottingham]]
+| umpires = [[Anna Harris]] and Chris Watts
+| motm = [[Nadine de Klerk]] (London Spirit)
+| toss = London Spirit won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match9w}} '''Match 9'''
+| date = 27 July 2026
+| time = 15:00
+| team1 = {{cr-ENG|sb}}
+| team2 = {{cr-ENG|mil}}
+| score1 = 126/7 (100 balls)
+| runs1 = [[Laura Wolvaardt]] 35 (30)
+| wickets1 = [[Hayley Matthews]] 4/22 (20 balls)
+| score2 = 125/3 (100 balls)
+| runs2 = [[Danni Wyatt-Hodge]] 52[[not out|*]] (42)
+| wickets2 = [[Issy Wong]] 1/20 (20 balls)
+| result = Southern Brave won by 1 run
+| report = [http://cricinfo.com/ci/engine/match/1521205.html Scorecard]
+| venue = [[Rose Bowl (cricket ground)|Rose Bowl]], [[Southampton]]
+| umpires = [[Mark Newell]] and Surendiran Shanmugam
+| motm = [[Jemimah Rodrigues]] (Southern Brave)
+| toss = MI London won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match10w}} '''Match 10'''
+| date = 28 July 2026
+| time = 15:00
+| team1 = {{cr-ENG|sl}}
+| team2 = {{cr-ENG|msg}}
+| score1 = 142/4 (100 balls)
+| runs1 = [[Annabel Sutherland]] 35 (24)
+| wickets1 = [[Maitlan Brown]] 1/27 (20 balls)
+| score2 = 147/6 (96 balls)
+| runs2 = [[Smriti Mandhana]] 88[[not out|*]] (50)
+| wickets2 = [[Jess Jonassen]] 1/34 (20 balls)
+| result = Manchester Super Giants won by 4 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521206.html Scorecard]
+| venue = [[Headingley Cricket Ground|Headingley]], [[Leeds]]
+| umpires = [[Naeem Ashraf]] and [[Gabi Brown]]
+| motm = [[Smriti Mandhana]] (Manchester Super Giants)
+| toss =  Manchester Super Giants won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match11w}} '''Match 11'''
+| date = 29 July 2026
+| time = 11:30
+| team1 = {{cr-ENG|wf}}
+| team2 = {{cr-ENG|tr}}
+| score1 = 129/3 (100 balls)
+| runs1 = [[Sophie Devine]] 38 (25)
+| wickets1 = Charley Phillips 2/17 (20 balls)
+| score2 = 132/2 (83 balls)
+| runs2 = [[Beth Mooney]] 57 (35)
+| wickets2 = [[Em Arlott]] 1/15 (10 balls)
+| result = Trent Rockets won by 8 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521207.html Scorecard]
+| venue = [[Sophia Gardens (cricket ground)|Sophia Gardens]], [[Cardiff]]
+| umpires = Julia Jarvis and [[Simon Widdup]]
+| motm = [[Beth Mooney]] (Trent Rockets)
+| toss = Trent Rockets won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match12w}} '''Match 12'''
+| date = 29 July 2026
+| time = 15:00
+| team1 = {{cr-ENG|mil}}
+| team2 = {{cr-ENG|ls}}
+| score1 = 151/4 (100 balls)
+| runs1 = [[Amelia Kerr]] 49[[not out|*]] (32)
+| wickets1 = [[Marizanne Kapp]] 2/24 (20 balls)
+| score2 = 151/5 (100 balls)
+| runs2 = [[Amy Jones (cricketer)|Amy Jones]] 49 (36)
+| wickets2 = [[Kirstie Gordon]] 2/29 (20 balls)
+| result = Match tied
+| report = [http://cricinfo.com/ci/engine/match/1521208.html Scorecard]
+| venue = [[The Oval]], [[London]]
+| umpires = [[Mark Newell]] and [[James Tredwell]]
+| motm = [[Marie Kelly]] (London Spirit)
+| toss = London Spirit won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match13w}} '''Match 13'''
+| date = 30 July 2026
+| time = 15:00
+| team1 = {{cr-ENG|sb}}
+| team2 = {{cr-ENG|bp}}
+| score1 = 140/3 (100 balls)
+| runs1 = [[Maia Bouchier]] 45 (31)
+| wickets1 = [[Lauren Filer]] 1/22 (15 balls)
+| score2 = 116/5 (100 balls)
+| runs2 = [[Davina Perrin]] 52 (43)
+| wickets2 = [[Sophie Molineux]] 2/24 (20 balls)
+| result = Southern Brave won by 24 runs
+| report = [http://cricinfo.com/ci/engine/match/1521209.html Scorecard]
+| venue = [[Rose Bowl (cricket ground)|Rose Bowl]], [[Southampton]]
+| umpires = [[Siphelele Gasa]] (SA) and [[Sue Redfern]] (Eng)
+| motm = [[Lizelle Lee]] (Southern Brave)
+| toss = Birmingham Phoenix won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match14w}} '''Match 14'''
+| date = 31 July 2026
+| time = 15:00
+| team1 = {{cr-ENG|tr}}
+| team2 = {{cr-ENG|msg}}
+| score1 = 153/8 (100 balls)
+| runs1 = [[Sophia Dunkley]] 57 (33)
+| wickets1 = [[Sophie Ecclestone]] 2/24 (20 balls)
+| score2 = 122/10 (93 balls)
+| runs2 = [[Meg Lanning]] 35 (24)
+| wickets2 = [[Ashleigh Gardner]] 4/16 (18 balls)
+| result = Trent Rockets won by 31 runs
+| report = [http://cricinfo.com/ci/engine/match/1521210.html Scorecard]
+| venue = [[Old Trafford Cricket Ground|Old Trafford]], [[Manchester]]
+| umpires = [[Ben Peverall]] and [[Neil Pratt]]
+| motm = [[Sophia Dunkley]] (Trent Rockets)
+| toss = Manchester Super Giants won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match15w}} '''Match 15'''
+| date = 1 August 2026
+| time = 11:00
+| team1 = {{cr-ENG|wf}}
+| team2 = {{cr-ENG|bp}}
+| score1 = 144/3 (100 balls)
+| runs1 = [[Georgia Voll]] 78 (55)
+| wickets1 = [[Alice Capsey]] 2/24 (15 balls)
+| score2 = 145/3 (99 balls)
+| runs2 = [[Ellyse Perry]] 68[[not out|*]] (46)
+| wickets2 = [[Georgia Voll]] 1/9 (10 balls)
+| result = Birmingham Phoenix won by 7 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521211.html Scorecard]
+| venue = [[Edgbaston Cricket Ground|Edgbaston]], [[Birmingham]]
+| umpires = Anthony Harris and [[Gabi Brown]]
+| motm = [[Ellyse Perry]] (Birmingham Phoenix)
+| toss = Birmingham Phoenix won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match16w}} '''Match 16'''
+| date = 1 August 2026
+| time = 14:30
+| team1 = {{cr-ENG|ls}}
+| team2 = {{cr-ENG|sb}}
+| score1 = 114/8 (100 balls)
+| runs1 = [[Nadine de Klerk]] 38 (28)
+| wickets1 = [[Sophie Molineux]] 3/7 (20 balls)
+| score2 = 115/5 (93 balls)
+| runs2 = [[Maia Bouchier]] 46 (38)
+| wickets2 = [[Nadine de Klerk]] 2/13 (18 balls)
+| result = Southern Brave won by 5 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521212.html Scorecard]
+| venue = [[Lord's]], [[London]]
+| umpires = Grace Bambury and [[James Tredwell]]
+| motm = [[Sophie Molineux]] (Southern Brave)
+| toss = Southern Brave won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match17w}} '''Match 17'''
+| date = 2 August 2026
+| time = 11:00
+| team1 = {{cr-ENG|tr}}
+| team2 = {{cr-ENG|sl}}
+| score1 = 139/7 (100 balls)
+| runs1 = [[Sophia Dunkley]] 56 (33)
+| wickets1 = [[Jess Jonassen]] 2/20 (20 balls)
+| score2 = 134/5 (100 balls)
+| runs2 = [[Annabel Sutherland]] 59[[not out|*]] (30)
+| wickets2 = [[Georgia Adams]] 1/17 (15 balls)
+| result = Trent Rockets won by 5 runs
+| report = [http://cricinfo.com/ci/engine/match/1521213.html Scorecard]
+| venue = [[Trent Bridge]], [[Nottingham]]
+| umpires = [[Ben Peverall]] and [[Sue Redfern]]
+| motm = [[Sophia Dunkley]] (Trent Rockets)
+| toss = Sunrisers Leeds won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match18w}} '''Match 18'''
+| date = 2 August 2026
+| time = 14:30
+| team1 = {{cr-ENG|mil}}
+| team2 = {{cr-ENG|msg}}
+| score1 = 92/10 (99 balls)
+| runs1 = [[Kira Chathli]] 18 (16)
+| wickets1 = [[Ryana MacDonald-Gay]] 3/19 (19 balls)
+| score2 = 95/4 (72 balls)
+| runs2 = [[Meg Lanning]] 43 (31)
+| wickets2 = [[Amelia Kerr]] 2/21 (20 balls)
+| result = Manchester Super Giants won by 6 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521214.html Scorecard]
+| venue = [[The Oval]], [[London]]
+| umpires = [[Hassan Adnan]] and [[Anna Harris]]
+| motm = [[Sophie Ecclestone]] (Manchester Super Giants)
+| toss = Manchester Super Giants won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match19w}} '''Match 19'''
+| date = 3 August 2026
+| time = 15:00
+| team1 = {{cr-ENG|sb}}
+| team2 = {{cr-ENG|wf}}
+| score1 = 121/5 (100 balls)
+| runs1 = [[Laura Wolvaardt]] 48 (45)
+| wickets1 = [[Grace Potts]] 2/14 (20 balls)
+| score2 = 122/6 (100 balls)
+| runs2 = [[Heather Graham (cricketer)|Heather Graham]] 35[[not out|*]] (28)
+| wickets2 = [[Tilly Corteen-Coleman]] 3/27 (20 balls)
+| result = Welsh Fire won by 4 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521215.html Scorecard]
+| venue = [[Sophia Gardens (cricket ground)|Sophia Gardens]], [[Cardiff]]
+| umpires = Chris Watts and Grace Bambury
+| motm = [[Heather Graham (cricketer)|Heather Graham]] (Welsh Fire)
+| toss = Southern Brave won the toss and elected to bat.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match20w}} '''Match 20'''
+| date = 4 August 2026
+| time = 15:00
+| team1 = {{cr-ENG|ls}}
+| team2 = {{cr-ENG|sl}}
+| score1 = 136/7 (100 balls)
+| runs1 = [[Grace Harris]] 51 (27)
+| wickets1 = [[Deepti Sharma]] 2/18 (20 balls)
+| score2 = 142/5 (98 balls)
+| runs2 = [[Annabel Sutherland]] 37[[not out|*]] (21)
+| wickets2 = [[Katie George (cricketer)|Katie George]] 3/25 (20 balls)
+| result = Sunrisers Leeds won by 5 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521216.html Scorecard]
+| venue = [[Headingley Cricket Ground|Headingley]], [[Leeds]]
+| umpires = Mark Newall and [[Simon Widdup]]
+| motm = [[Annabel Sutherland]] (Sunrisers Leeds)
+| toss = Sunrisers Leeds won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match21w}} '''Match 21'''
+| date = 5 August 2026
+| time = 11:30
+| team1 = {{cr-ENG|msg}}
+| team2 = {{cr-ENG|wf}}
+| score1 = 85/9 (100 balls)
+| runs1 = [[Ryana MacDonald-Gay]] 18[[not out|*]] (14)
+| wickets1 = [[Orla Prendergast]] 4/18 (20 balls)
+| score2 = 88/7 (91 balls)
+| runs2 = [[Georgia Wareham]] 17 (12)
+| wickets2 = [[Sophie Ecclestone]] 3/14 (20 balls)
+| result = Welsh Fire won by 3 wicket
+| report = [http://cricinfo.com/ci/engine/match/1521217.html Scorecard]
+| venue = [[Old Trafford Cricket Ground|Old Trafford]], [[Manchester]]
+| umpires = Anthony Harris and [[Neil Pratt]]
+| motm = [[Orla Prendergast]] (Welsh Fire)
+| toss = Welsh Fire won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match22w}} '''Match 22'''
+| date = 5 August 2026
+| time = 15:00
+| team1 = {{cr-ENG|bp}}
+| team2 = {{cr-ENG|tr}}
+| score1 = 122/7 (100 balls)
+| runs1 = [[Emma Lamb]] 45 (34)
+| wickets1 = [[Kim Garth]] 4/23 (20 balls)
+| score2 = 124/4 (84 balls)
+| runs2 = [[Sophia Dunkley]] 65 (37)
+| wickets2 = [[Alice Capsey]] 1/16 (10 balls)
+| result = Trent Rockets won by 6 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521218.html Scorecard]
+| venue = [[Trent Bridge]], [[Nottingham]]
+| umpires = [[Hassan Adnan]] and Surendiran Shanmugam
+| motm = [[Sophia Dunkley]] (Trent Rockets)
+| toss = Trent Rockets won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match23w}} '''Match 23'''
+| date = 6 August 2026
+| time = 15:00
+| team1 = {{cr-ENG|mil}}
+| team2 = {{cr-ENG|ls}}
+| score1 = 122/9 (100 balls)
+| runs1 = [[Amelia Kerr]] 69[[not out|*]] (40)
+| wickets1 = [[Charlie Dean]] 3/26 (20 balls)
+| score2 = 119/8 (100 balls)
+| runs2 = [[Nadine de Klerk]] 35 (29)
+| wickets2 = [[Hayley Matthews]] 2/21 (15 balls)
+| result = MI London won by 3 runs
+| report = [http://cricinfo.com/ci/engine/match/1521219.html Scorecard]
+| venue = [[Lord's]], [[London]]
+| umpires = [[Gabi Brown]] and [[Ben Peverall]]
+| motm = [[Amelia Kerr]] (MI London)
+| toss = London Spirit won the toss and elected to field
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match24w}} '''Match 24'''
+| date = 7 August 2026
+| time = 15:00
+| team1 = {{cr-ENG|bp}}
+| team2 = {{cr-ENG|sl}}
+| score1 = 107/9 (100 balls)
+| runs1 = [[Emma Lamb]] 47 (34)
+| wickets1 = [[Deepti Sharma]] 3/11 (15 balls)
+| score2 = 111/1 (69 balls)
+| runs2 = [[Phoebe Litchfield]] 71[[not out|*]] (33)
+| wickets2 = [[Fatima Sana]] 1/25 (15 balls)
+| result = Sunrisers Leeds won by 9 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521220.html Scorecard]
+| venue = [[Edgbaston Cricket Ground|Edgbaston]], [[Birmingham]]
+| umpires = [[Hassan Adnan]] and [[Anna Harris]]
+| motm = [[Phoebe Litchfield]] (Sunrisers Leeds)
+| toss = Sunrisers Leeds won the toss and elected to field
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match25w}} '''Match 25'''
+| date = 8 August 2026
+| time = 11:00
+| team1 = {{cr-ENG|mil}}
+| team2 = {{cr-ENG|tr}}
+| score1 = 121/5 (100 balls)
+| runs1 = [[Kira Chathli]] 31 (27)
+| wickets1 = [[Samantha Bates]] 3/13 (20 balls)
+| score2 = 125/1 (82 balls)
+| runs2 = [[Nat Sciver-Brunt]] 67[[not out|*]] (36)
+| wickets2 = [[Tara Norris]] 1/26 (20 balls)
+| result = Trent Rockets won by 9 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521221.html Scorecard]
+| venue = [[The Oval]], [[London]]
+| umpires = Anthony Harris and [[Rose Fernando]]
+| motm = [[Nat Sciver-Brunt]] (Trent Rockets)
+| toss = Trent Rockets won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match26w}} '''Match 26'''
+| date = 8 August 2026
+| time = 14:30
+| team1 = {{cr-ENG|msg}}
+| team2 = {{cr-ENG|sb}}
+| score1 = 139/4 (100 balls)
+| runs1 = [[Richa Ghosh]] 54 (34)
+| wickets1 = [[Issy Wong]] 2/24 (20 balls)
+| score2 = 112/6 (100 balls)
+| runs2 = [[Laura Wolvaardt]] 36 (28)
+| wickets2 = [[Mady Villiers]] 3/17 (20 balls)
+| result = Manchester Super Giants won by 27 runs
+| report = [http://cricinfo.com/ci/engine/match/1521222.html Scorecard]
+| venue = [[Rose Bowl (cricket ground)|Rose Bowl]], [[Southampton]]
+| umpires = [[Mark Newell]] and [[James Tredwell]]
+| motm = [[Mady Villiers]] (Manchester Super Giants)
+| toss = Manchester Super Giants won the toss and elected to bat.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match27w}} '''Match 27'''
+| date = 9 August 2026
+| time = 11:00
+| team1 = {{cr-ENG|wf}}
+| team2 = {{cr-ENG|sl}}
+| score1 = 121/8 (100 balls)
+| runs1 = [[Freya Kemp]] 72[[not out|*]] (45)
+| wickets1 = [[Deepti Sharma]] 3/13 (20 balls)
+| score2 = 122/4 (74 balls)
+| runs2 = [[Phoebe Litchfield]] 55 (25)
+| wickets2 = [[Sophia Smale]] 2/23 (20 balls)
+| result = Sunrisers Leeds won by 6 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521223.html Scorecard]
+| venue = [[Headingley Cricket Ground|Headingley]], [[Leeds]]
+| umpires = [[Paul Baldwin]] and Surendiran Shanmugam
+| motm = [[Phoebe Litchfield]] (Sunrisers Leeds)
+| toss = Sunrisers Leeds won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match28w}} '''Match 28'''
+| date = 9 August 2026
+| time = 14:30
+| team1 = {{cr-ENG|ls}}
+| team2 = {{cr-ENG|bp}}
+| score1 = 140/4 (100 balls)
+| runs1 = [[Marizanne Kapp]] 57[[not out|*]] (28)
+| wickets1 = [[Alana King]] 2/18 (20 balls)
+| score2 = 108/8 (100 balls)
+| runs2 = [[Emma Lamb]] 36 (26)
+| wickets2 = [[Charlie Dean]] 3/17 (20 balls)
+| result = London Spirit won by 32 runs
+| report = [http://cricinfo.com/ci/engine/match/1521224.html Scorecard]
+| venue = [[Lord's]], [[London]]
+| umpires = Grace Bambury and Mark Newall
+| motm = [[Marizanne Kapp]] (London Spirit)
+| toss = Birmingham Phoenix won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match29w}} '''Match 29'''
+| date = 10 August 2026
+| time = 15:00
+| team1 = {{cr-ENG|sb}}
+| team2 = {{cr-ENG|tr}}
+| score1 = 117/5 (100 balls)
+| runs1 = [[Maia Bouchier]] 38 (33)
+| wickets1 = [[Georgia Adams]] 2/14 (20 balls)
+| score2 = 118/7 (98 balls)
+| runs2 = [[Ashleigh Gardner]] 37 (25)
+| wickets2 = [[Tilly Corteen-Coleman]] 2/16 (20 balls)
+| result = Trent Rockets won by 3 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521225.html Scorecard]
+| venue = [[Trent Bridge]], [[Nottingham]]
+| umpires = [[Paul Baldwin]] and [[Neil Pratt]]
+| motm = [[Nat Sciver-Brunt]] (Trent Rockets)
+| toss = Trent Rockets won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match30w}} '''Match 30'''
+| date = 11 August 2026
+| time = 15:00
+| team1 = {{cr-ENG|sl}}
+| team2 = {{cr-ENG|msg}}
+| score1 = 166/4 (100 balls)
+| runs1 = [[Annabel Sutherland]] 62[[not out|*]] (36)
+| wickets1 = [[Mady Villiers]] 2/25 (15 balls)
+| score2 = 125/8 (100 balls)
+| runs2 = [[Grace Scrivens]] 31 (24)
+| wickets2 = [[Jess Jonassen]] 3/21 (20 balls)
+| result = Sunrisers Leeds won by 41 runs
+| report = [http://cricinfo.com/ci/engine/match/1521226.html Scorecard]
+| venue = [[Old Trafford Cricket Ground|Old Trafford]], [[Manchester]]
+| umpires = [[Naeem Ashraf]] and [[Simon Widdup]]
+| motm = [[Annabel Sutherland]] (Sunrisers Leeds)
+| toss = Manchester Super Giants won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match31w}} '''Match 31'''
+| date = 12 August 2026
+| time = 11:30
+| team1 = {{cr-ENG|wf}}
+| team2 = {{cr-ENG|ls}}
+| score1 = 138/7 (100 balls)
+| runs1 = [[Georgia Wareham]] 50 (34)
+| wickets1 = [[Grace Harris]] 3/15 (15 balls)
+| score2 = 123 (99 balls)
+| runs2 = [[Charlie Dean]] 27 (20)
+| wickets2 = [[Grace Potts]] 3/23 (20 balls)
+| result = Welsh Fire won by 15 runs
+| report = [http://cricinfo.com/ci/engine/match/1521227.html Scorecard]
+| venue = [[Sophia Gardens (cricket ground)|Sophia Gardens]], [[Cardiff]]
+| umpires = Julia Jarvis and Chris Watts
+| motm = [[Grace Potts]] (Welsh Fire)
+| toss = London Spirit won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match32w}} '''Match 32'''
+| date = 12 August 2026
+| time = 15:00
+| team1 = {{cr-ENG|mil}}
+| team2 = {{cr-ENG|bp}}
+| score1 = 120/6 (100 balls)
+| runs1 = [[Chinelle Henry]] 42 (33)
+| wickets1 = [[Eva Gray (cricketer)|Eva Gray]] 2/29 (20 balls)
+| score2 = 121/5 (94 balls)
+| runs2 = [[Ellyse Perry]] 62[[not out|*]] (39)
+| wickets2 = [[Kirstie Gordon]] 2/20 (20 balls)
+| result = Birmingham Phoenix won by 5 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521228.html Scorecard]
+| venue = [[Edgbaston Cricket Ground|Edgbaston]], [[Birmingham]]
+| umpires = [[Rose Fernando]] and Surendiran Shanmugam
+| motm = [[Ellyse Perry]] (Birmingham Phoenix)
+| toss = Birmingham Phoenix won the toss and elected to field.
+}}
+
+===Men===
+{{Single-innings cricket match
+| round = {{anchor|match1}} '''Match 1'''
+| date = 21 July 2026
+| time = 18:30
+| daynight = y
+| team1 = {{cr-ENG|sl}}
+| team2 = {{cr-ENG|mil}}
+| score1 = 143 (99 balls)
+| runs1 = [[Mitchell Marsh]] 41 (27)
+| wickets1 = [[Richard Gleeson]] 4/25 (19 balls)
+| score2 = 144/3 (84 balls)
+| runs2 = [[Sam Curran]] 60[[not out|*]] (39)
+| wickets2 = [[Brydon Carse]] 2/18 (20 balls)
+| result = MI London won by 7 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521231.html Scorecard]
+| venue = [[The Oval]], [[London]]
+| umpires = [[Martin Saggers]] and [[Rob White (cricketer)|Rob White]]
+| motm = [[Nicholas Pooran]] (MI London)
+| toss = MI London won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match2}} '''Match 2'''
+| date = 22 July 2026
+| time = 18:30
+| daynight = y
+| team1 = {{cr-ENG|sb}}
+| team2 = {{cr-ENG|wf}}
+| score1 = 135/7 (100 balls)
+| runs1 = [[David Miller (South African cricketer)|David Miller]] 44 (35)
+| wickets1 = [[Marco Jansen]] 2/17 (20 balls)
+| score2 = 138/4 (98 balls)
+| runs2 = [[Phil Salt]] 47[[not out|*]] (37)
+| wickets2 = [[Nikhil Chaudhary (cricketer)|Nikhil Chaudhary]] 2/19 (15 balls)
+| result = Welsh Fire won by 6 wickets 
+| report = [http://cricinfo.com/ci/engine/match/1521232.html Scorecard]
+| venue = [[Rose Bowl (cricket ground)|Rose Bowl]], [[Southampton]]
+| umpires = [[James Middlebrook]] and [[Jack Shantry]]
+| motm = [[Phil Salt]] (Welsh Fire)
+| toss = Welsh Fire won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match3}} '''Match 3'''
+| date = 23 July 2026
+| time = 18:30
+| daynight = y
+| team1 = {{cr-ENG|msg}}
+| team2 = {{cr-ENG|ls}}
+| score1 = 138/9 (100 balls)
+| runs1 = [[Tim Seifert (cricketer)|Tim Seifert]] 67 (45)
+| wickets1 = [[Liam Livingstone]] 2/27 (15 balls)
+| score2 = 131/6 (100 balls)
+| runs2 = [[Liam Livingstone]] 69 (40)
+| wickets2 = [[Gus Atkinson]] 2/15 (20 balls)
+| result = Manchester Super Giants won by 7 runs
+| report = [http://cricinfo.com/ci/engine/match/1521233.html Scorecard]
+| venue = [[Lord's]], [[London]]
+| umpires = [[Ben Debenham]] and [[Nigel Llong]]
+| motm = [[Liam Livingstone]] (London Spirit)
+| toss = London Spirit won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match4}} '''Match 4'''
+| date = 24 July 2026
+| time = 18:30
+| daynight = y
+| team1 = {{cr-ENG|bp}}
+| team2 = {{cr-ENG|tr}}
+| score1 = 214/4 (100 balls)
+| runs1 = [[Joe Clarke (cricketer)|Joe Clarke]] 68 (33)
+| wickets1 = [[Calvin Harrison (cricketer)|Calvin Harrison]] 2/27 (20 balls)
+| score2 = 204/7 (100 balls)
+| runs2 = [[Tom Banton]] 67 (32)
+| wickets2 = [[Usman Tariq (cricketer, born 1983)|Usman Tariq]] 2/36 (20 balls)
+| result = Birmingham Phoenix won by 10 runs
+| report = [http://cricinfo.com/ci/engine/match/1521234.html Scorecard]
+| venue = [[Edgbaston Cricket Ground|Edgbaston]], [[Birmingham]]
+| umpires = [[Tom Lungley]] and [[Paul Pollard]]
+| motm = [[Joe Clarke (cricketer)|Joe Clarke]] (Birmingham Phoenix)
+| toss = Trent Rockets won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match5}} '''Match 5'''
+| date = 25 July 2026
+| time = 14:30
+| team1 = {{cr-ENG|sl}}
+| team2 = {{cr-ENG|sb}}
+| score1 = 187/5 (100 balls)
+| runs1 = [[Mitchell Marsh]] 69 (34)
+| wickets1 = [[Adil Rashid]] 3/21 (20 balls)
+| score2 = 182/5 (100 balls)
+| runs2 = [[Ben McKinney]] 44 (23)
+| wickets2 = [[Abrar Ahmed]] 2/23 (20 balls)
+| result = Sunrisers Leeds won by 5 runs
+| report = [http://cricinfo.com/ci/engine/match/1521235.html Scorecard]
+| venue = [[Headingley Cricket Ground|Headingley]], [[Leeds]]
+| umpires = [[Steve O'Shaughnessy (cricketer)|Steve O'Shaughnessy]] and [[Jack Shantry]]
+| motm = [[Mitchell Marsh]] (Sunrisers Leeds)
+| toss = Southern Brave won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match6}} '''Match 6'''
+| date = 25 July 2026
+| time = 18:00
+| daynight = y
+| team1 = {{cr-ENG|wf}}
+| team2 = {{cr-ENG|mil}}
+| score1 = 167/5 (100 balls)
+| runs1 = [[Rachin Ravindra]] 98 (44)
+| wickets1 = [[Trent Boult]] 1/16 (20 balls)
+| score2 = 152/6 (100 balls)
+| runs2 = [[James Vince]] 66 (38)
+| wickets2 = [[Lockie Ferguson]] 4/27 (20 balls)
+| result = Welsh Fire won by 15 runs
+| report = [http://cricinfo.com/ci/engine/match/1521236.html Scorecard]
+| venue = [[Sophia Gardens (cricket ground)|Sophia Gardens]], [[Cardiff]]
+| umpires = [[Mike Burns (cricketer)|Mike Burns]] and [[Ben Debenham]]
+| motm = [[Rachin Ravindra]] (Welsh Fire)
+| toss = MI London won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match7}} '''Match 7'''
+| date = 26 July 2026
+| time = 14:30
+| team1 = {{cr-ENG|msg}}
+| team2 = {{cr-ENG|bp}}
+| score1 = 187/5 (100 balls)
+| runs1 = [[Jos Buttler]] 90 (50)
+| wickets1 = [[Rehan Ahmed]] 2/43 (20 balls)
+| score2 = 100 (97 balls)
+| runs2 = [[Donovan Ferreira]] 23 (25)
+| wickets2 = [[Liam Dawson]] 3/15 (17 balls)
+| result = Manchester Super Giants won by 87 runs
+| report = [http://cricinfo.com/ci/engine/match/1521237.html Scorecard]
+| venue = [[Old Trafford Cricket Ground|Old Trafford]], [[Manchester]]
+| umpires = [[James Middlebrook]] and [[Steve O'Shaughnessy (cricketer)|Steve O'Shaughnessy]]
+| motm = [[Jos Buttler]] (Manchester Super Giants)
+| toss = Birmingham Phoenix won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match8}} '''Match 8'''
+| date = 26 July 2026
+| time = 18:00
+| daynight = y
+| team1 = {{cr-ENG|ls}}
+| team2 = {{cr-ENG|tr}}
+| score1 = 159/9 (100 balls)
+| runs1 = [[Dewald Brevis]] 39 (24)
+| wickets1 = [[Calvin Harrison (cricketer)|Calvin Harrison]] 2/25 (20 balls)
+| score2 = 160/6 (98 balls)
+| runs2 = [[Ben Duckett]] 75 (47)
+| wickets2 = [[Adam Milne]] 2/25 (20 balls)
+| result = Trent Rockets won by 4 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521238.html Scorecard]
+| venue = [[Trent Bridge]], [[Nottingham]]
+| umpires = [[Paul Pollard]] and [[Rob White (cricketer)|Rob White]]
+| motm = [[Ben Duckett]] (Trent Rockets)
+| toss = Trent Rockets won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match9}} '''Match 9'''
+| date = 27 July 2026
+| time = 18:30
+| daynight = y
+| team1 = {{cr-ENG|sb}}
+| team2 = {{cr-ENG|mil}}
+| score1 = 129/9 (100 balls)
+| runs1 = [[Jamie Smith (cricketer)|Jamie Smith]] 49 (26)
+| wickets1 = [[Trent Boult]] 2/15 (20 balls)
+| score2 = 130/7 (100 balls)
+| runs2 = [[Will Jacks]] 54 (41)
+| wickets2 = [[Marcus Stoinis]] 3/17 (20 balls)
+| result = MI London won by 3 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521239.html Scorecard]
+| venue = [[Rose Bowl (cricket ground)|Rose Bowl]], [[Southampton]]
+| umpires = [[Ian Blackwell]] and [[Martin Saggers]]
+| motm = [[Will Jacks]] (MI London)
+| toss = MI London won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match10}} '''Match 10'''
+| date = 28 July 2026
+| time = 18:30
+| daynight = y
+| team1 = {{cr-ENG|msg}}
+| team2 = {{cr-ENG|sl}}
+| score1 = 181/3 (100 balls)
+| runs1 = [[Jos Buttler]] 63[[not out|*]] (33)
+| wickets1 = [[Nathan Ellis]] 2/32 (20 balls)
+| score2 = 186/2 (88 balls)
+| runs2 = [[Mitchell Marsh]] 63 (26)
+| wickets2 = [[Sonny Baker]] 1/30 (20 balls)
+| result = Sunrisers Leeds won by 8 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521240.html Scorecard]
+| venue = [[Headingley Cricket Ground|Headingley]], [[Leeds]]
+| umpires = [[James Middlebrook]] and [[David Millns]]
+| motm = [[Mitchell Marsh]] (Sunrisers Leeds)
+| toss =  Sunrisers Leeds won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match11}} '''Match 11'''
+| date = 29 July 2026
+| time = 15:00
+| team1 = {{cr-ENG|wf}}
+| team2 = {{cr-ENG|tr}}
+| score1 = 122/7 (100 balls)
+| runs1 = [[Matthew Short]] 36 (26)
+| wickets1 = [[Mitchell Santner]] 3/35 (20 balls)
+| score2 = 126/1 (72 balls)
+| runs2 = [[Ben Duckett]] 52[[not out|*]] (45)
+| wickets2 = [[Rachin Ravindra]] 1/4 (5 balls)
+| result = Trent Rockets won by 9 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521241.html Scorecard]
+| venue = [[Sophia Gardens (cricket ground)|Sophia Gardens]], [[Cardiff]]
+| umpires = [[Ian Blackwell]] and [[Martin Saggers]]
+| motm = [[Ben Duckett]] (Trent Rockets)
+| toss = Trent Rockets won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match12}} '''Match 12'''
+| date = 29 July 2026
+| time = 18:30
+| daynight = y
+| team1 = {{cr-ENG|mil}}
+| team2 = {{cr-ENG|ls}}
+| score1 = 164/5 (100 balls)
+| runs1 = [[Will Jacks]] 65 (44)
+| wickets1 = [[Jamie Overton]] 3/30 (20 balls)
+| score2 = 165/3 (89 balls)
+| runs2 = [[Lhuan-dre Pretorius]] 64 (28)
+| wickets2 = [[Richard Gleeson]] 1/23 (15 balls)
+| result = London Spirit won by 7 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521242.html Scorecard]
+| venue = [[The Oval]], [[London]]
+| umpires = [[Ben Debenham]] and [[Paul Pollard]]
+| motm = [[Lhuan-dre Pretorius]] (London Spirit)
+| toss = London Spirit won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match13}} '''Match 13'''
+| date = 30 July 2026
+| time = 18:30
+| daynight = y 
+| team1 = {{cr-ENG|sb}}
+| team2 = {{cr-ENG|bp}}
+| score1 = 128/8 (100 balls)
+| runs1 = [[Marcus Stoinis]] 34 (26)
+| wickets1 = [[Rehan Ahmed]] 3/25 (20 balls)
+| score2 = 116/9 (100 balls)
+| runs2 = [[Will Smeed]] 35 (28)
+| wickets2 = [[Luke Wood (cricketer)|Luke Wood]] 3/24 (20 balls)
+| result = Southern Brave won by 12 runs
+| report = [http://cricinfo.com/ci/engine/match/1521243.html Scorecard]
+| venue = [[Rose Bowl (cricket ground)|Rose Bowl]], [[Southampton]]
+| umpires = [[Nigel Llong]] and [[Martin Saggers]]
+| motm = [[Marcus Stoinis]] (Southern Brave)
+| toss = Birmingham Phoenix won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match14}} '''Match 14'''
+| date = 31 July 2026
+| time = 18:30
+| daynight = y
+| team1 = {{cr-ENG|msg}}
+| team2 = {{cr-ENG|tr}}
+| score1 = 137/3 (100 balls)
+| runs1 = [[Jos Buttler]] 55[[not out|*]] (37)
+| wickets1 = [[Craig Overton]] 3/23 (20 balls)
+| score2 = 140/4 (87 balls)
+| runs2 = [[Finn Allen]] 72[[not out|*]] (35)
+| wickets2 = [[Gus Atkinson]] 2/27 (20 balls)
+| result = Trent Rockets won by 6 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521244.html Scorecard]
+| venue = [[Old Trafford Cricket Ground|Old Trafford]], [[Manchester]]
+| umpires = [[David Millns]] and [[Steve O'Shaughnessy (cricketer)|Steve O'Shaughnessy]]
+| motm = [[Finn Allen]] (Trent Rockets)
+| toss = Trent Rockets won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match15}} '''Match 15'''
+| date = 1 August 2026
+| time = 14:30
+| team1 = {{cr-ENG|bp}}
+| team2 = {{cr-ENG|wf}}
+| score1 = 137/9 (100 balls)
+| runs1 = [[Joe Clarke (cricketer)|Joe Clarke]] 35 (23)
+| wickets1 = [[Lockie Ferguson]] 2/20 (20 balls)
+| score2 = 138/3 (96 balls)
+| runs2 = [[Joe Root]] 58[[not out|*]] (40)
+| wickets2 = [[Chris Wood (cricketer)|Chris Wood]] 1/21 (20 balls)
+| result = Welsh Fire won by 7 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521245.html Scorecard]
+| venue = [[Edgbaston Cricket Ground|Edgbaston]], [[Birmingham]]
+| umpires = [[Graham Lloyd]] and [[Jack Shantry]]
+| motm = [[Joe Root]] (Welsh Fire)
+| toss = Birmingham Phoenix won the toss and elected to bat.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match16}} '''Match 16'''
+| date = 1 August 2026
+| time = 18:00
+| daynight = y
+| team1 = {{cr-ENG|ls}}
+| team2 = {{cr-ENG|sb}}
+| score1 = 105/10 (92 balls)
+| runs1 = [[Jonny Bairstow]] 56 (43)
+| wickets1 = [[Jofra Archer]] 4/9 (20 balls)
+| score2 = 111/5 (97 balls)
+| runs2 = [[David Miller (South African cricketer)|David Miller]] 39[[not out|*]] (28)
+| wickets2 = [[David Willey (cricketer)|David Willey]] 2/28 (15 balls)
+| result = Southern Brave won by 5 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521246.html Scorecard]
+| venue = [[Lord's]], [[London]]
+| umpires = [[Ian Blackwell]] and [[Siphelele Gasa]]
+| motm = [[Jofra Archer]] (Southern Brave)
+| toss = Southern Brave won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match17}} '''Match 17'''
+| date = 2 August 2026
+| time = 14:30
+| team1 = {{cr-ENG|tr}}
+| team2 = {{cr-ENG|sl}}
+| score1 = 146/4 (100 balls)
+| runs1 = [[Ben Duckett]] 64 (47)
+| wickets1 = [[Brydon Carse]] 2/20 (20 balls)
+| score2 = 141/4 (100 balls)
+| runs2 = [[Harry Brook ]] 46 (33)
+| wickets2 = [[Mohammad Amir]] 2/20 (20 balls)
+| result = Trent Rockets won by 5 runs
+| report = [http://cricinfo.com/ci/engine/match/1521247.html Scorecard]
+| venue = [[Trent Bridge]], [[Nottingham]]
+| umpires = [[Ben Debenham]] and [[Michael Gough (cricketer)|Michael Gough]]
+| motm = [[Ben Duckett]] (Trent Rockets)
+| toss = Trent Rockets won the toss and elected to bat.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match18}} '''Match 18'''
+| date = 2 August 2026
+| time = 18:00
+| daynight = y
+| team1 = {{cr-ENG|mil}}
+| team2 = {{cr-ENG|msg}}
+| score1 = 183/6 (100 balls)
+| runs1 = [[Will Jacks]] 62 (31)
+| wickets1 = [[Josh Tongue]] 2/13 (20 balls)
+| score2 = 138/10 (95 balls)
+| runs2 = [[Aiden Markram]] 50 (26)
+| wickets2 = [[Rashid Khan]] 5/17 (20 balls)
+| result = MI London won by 45 runs
+| report = [http://cricinfo.com/ci/engine/match/1521248.html Scorecard]
+| venue = [[The Oval]], [[London]]
+| umpires = [[Siphelele Gasa]] (SA) and [[Russell Warren (cricketer)|Russell Warren]] (Eng)
+| motm = [[Rashid Khan]] (MI London)
+| toss = Manchester Super Giants won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match19}} '''Match 19'''
+| date = 3 August 2026
+| time = 18:30
+| daynight = y
+| team1 = {{cr-ENG|sb}}
+| team2 = {{cr-ENG|wf}}
+| score1 = 115/8 (100 balls)
+| runs1 = [[Marcus Stoinis]] 55 (39)
+| wickets1 = [[Sam Cook (cricketer, born 1997)|Sam Cook]] 3/14 (20 balls)
+| score2 = 116/4 (95 balls)
+| runs2 = [[Matthew Short]] 60[[not out|*]] (41)
+| wickets2 = [[Jofra Archer]] 2/19 (20 balls)
+| result = Welsh Fire won by 6 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521249.html Scorecard]
+| venue = [[Sophia Gardens (cricket ground)|Sophia Gardens]], [[Cardiff]]
+| umpires = [[Rob White (cricketer)|Rob White]] and [[Tom Lungley]]
+| motm = [[Matthew Short]] (Welsh Fire)
+| toss = Welsh Fire won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match20}} '''Match 20'''
+| date = 4 August 2026
+| time = 18:30
+| daynight = y
+| team1 = {{cr-ENG|sl}}
+| team2 = {{cr-ENG|ls}}
+| score1 = 241/2 (100 balls)
+| runs1 = [[Ryan Rickelton]] 94[[not out|*]] (42)
+| wickets1 = [[Adam Milne]] 1/37 (20 balls)
+| score2 = 204/6 (100 balls)
+| runs2 = [[David Willey (cricketer)|David Willey]] 83[[not out|*]] (46)
+| wickets2 = [[Nathan Ellis]] 2/42 (20 balls)
+| result = Sunrisers Leeds won by 37 runs 
+| report = [http://cricinfo.com/ci/engine/match/1521250.html Scorecard]
+| venue = [[Headingley Cricket Ground|Headingley]], [[Leeds]]
+| umpires = [[Michael Gough (cricketer)|Michael Gough]] and [[Paul Pollard]]
+| motm = [[Ryan Rickelton]] (Sunrisers Leeds)
+| toss = London Spirit won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match21}} '''Match 21'''
+| date = 5 August 2026
+| time = 15:00
+| team1 = {{cr-ENG|wf}}
+| team2 = {{cr-ENG|msg}}
+| score1 = 155/4 (100 balls)
+| runs1 = [[Matthew Short]] 71 (47)
+| wickets1 = [[Gus Atkinson]] 2/12 (15 balls)
+| score2 = 161/1 (69 balls)
+| runs2 = [[Tim Seifert]] 62[[not out|*]] (36)
+| wickets2 = [[Sam Cook (cricketer, born 1997)|Sam Cook]] 1/20 (10 balls)
+| result = Manchester Super Giants won by 9 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521251.html Scorecard]
+| venue = [[Old Trafford Cricket Ground|Old Trafford]], [[Manchester]]
+| umpires = [[Ian Blackwell]] and [[Michael Gough (cricketer)|Michael Gough]]
+| motm = [[Tim Seifert]] (Manchester Super Giants)
+| toss = Welsh Fire won the toss and elected to bat.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match22}} '''Match 22'''
+| date = 5 August 2026
+| time = 18:30
+| daynight = y
+| team1 = {{cr-ENG|bp}}
+| team2 = {{cr-ENG|tr}}
+| score1 = 111/6 (100 balls)
+| runs1 = [[Joe Clarke (cricketer)|Joe Clarke]] 62 (45)
+| wickets1 = [[Lewis Gregory]] 2/20 (20 balls)
+| score2 = 116/3 (83 balls)
+| runs2 = [[Sam Billings]] 31[[not out|*]] (19)
+| wickets2 = [[Usman Tariq]] 2/15 (20 balls)
+| result = Trent Rockets won by 7 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521252.html Scorecard]
+| venue = [[Trent Bridge]], [[Nottingham]]
+| umpires = [[David Millns]] and [[Graham Lloyd]]
+| motm = [[Lewis Gregory]] (Trent Rockets)
+| toss = Trent Rockets won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match23}} '''Match 23'''
+| date = 6 August 2026
+| time = 18:30
+| daynight = y
+| team1 = {{cr-ENG|ls}}
+| team2 = {{cr-ENG|mil}}
+| score1 = 160/5 (100 balls)
+| runs1 = [[Lhuan-dre Pretorius]] 52 (28)
+| wickets1 = [[Nathan Sowter]] 2/29 (20 balls)
+| score2 = 164/6 (94 balls)
+| runs2 = [[Nicholas Pooran]] 39 (25)
+| wickets2 = [[Jamie Overton]] 2/23 (15 balls)
+| result = MI London won by 4 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521253.html Scorecard]
+| venue = [[Lord's]], [[London]]
+| umpires = [[Mike Burns (cricketer)|Mike Burns]] and [[Nigel Llong]]
+| motm = [[Sikandar Raza]] (MI London)
+| toss = MI London won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match24}} '''Match 24'''
+| date = 7 August 2026
+| time = 18:30
+| daynight = y
+| team1 = {{cr-ENG|sl}}
+| team2 = {{cr-ENG|bp}}
+| score1 = 169/7 (100 balls)
+| runs1 = [[Ryan Rickelton]] 65 (37)
+| wickets1 = [[Usman Tariq]] 2/28 (20 balls)
+| score2 = 124/8 (100 balls)
+| runs2 = [[Sean Dickson]] 34 (27)
+| wickets2 = [[Brydon Carse]] 3/17 (20 balls)
+| result = Sunrisers Leeds won by 45 runs
+| report = [http://cricinfo.com/ci/engine/match/1521254.html Scorecard]
+| venue = [[Edgbaston Cricket Ground|Edgbaston]], [[Birmingham]]
+| umpires = [[Graham Lloyd]] and [[Tom Lungley]]
+| motm = [[Ryan Rickelton]] (Sunrisers Leeds)
+| toss = Birmingham Phoenix won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match25}} '''Match 25'''
+| date = 8 August 2026
+| time = 14:30
+| team1 = {{cr-ENG|mil}}
+| team2 = {{cr-ENG|tr}}
+| score1 = 147/7 (100 balls)
+| runs1 = [[Sam Curran]] 72 (46)
+| wickets1 = [[Lewis Gregory]] 2/32 (15 balls)
+| score2 = 148/4 (90 balls)
+| runs2 = [[Mitchell Santner]] 52[[not out|*]] (23)
+| wickets2 = [[Richard Gleeson]] 2/27 (20 balls)
+| result = Trent Rockets won by 6 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521255.html Scorecard]
+| venue = [[The Oval]], [[London]]
+| umpires = [[David Millns]] and [[Russell Warren (cricketer)|Russell Warren]]
+| motm = [[Mitchell Santner]] (Trent Rockets)
+| toss = Trent Rockets won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match26}} '''Match 26'''
+| date = 8 August 2026
+| time = 18:00
+| daynight = y
+| team1 = {{cr-ENG|msg}}
+| team2 = {{cr-ENG|sb}}
+| score1 = 149/8 (100 balls)
+| runs1 = [[Paul Walter]] 64 (32)
+| wickets1 = [[Adil Rashid]] 2/17 (20 balls)
+| score2 = 139/6 (100 balls)
+| runs2 = [[Tristan Stubbs]] 53 (38)
+| wickets2 = [[Gus Atkinson]] 2/19 (20 balls)
+| result = Manchester Super Giants won by 10 runs
+| report = [http://cricinfo.com/ci/engine/match/1521256.html Scorecard]
+| venue = [[Rose Bowl (cricket ground)|Rose Bowl]], [[Southampton]]
+| umpires = [[Mike Burns (cricketer)|Mike Burns]] and [[Steve O'Shaughnessy (cricketer)|Steve O'Shaughnessy]]
+| motm = [[Paul Walter]] (Manchester Super Giants)
+| toss = Manchester Super Giants won the toss and elected to bat.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match27}} '''Match 27'''
+| date = 9 August 2026
+| time = 14:30
+| team1 = {{cr-ENG|sl}}
+| team2 = {{cr-ENG|wf}}
+| score1 = 201/4 (100 balls)
+| runs1 = [[Mitchell Marsh]] 50 (34)
+| wickets1 = [[Chris Woakes]] 2/41 (20 balls)
+| score2 = 130/6 (100 balls)
+| runs2 = [[Matthew Short]] 43 (29)
+| wickets2 = [[Brydon Carse]] 3/24 (20 balls)
+| result = Sunrisers Leeds won by 71 runs
+| report = [http://cricinfo.com/ci/engine/match/1521257.html Scorecard]
+| venue = [[Headingley Cricket Ground|Headingley]], [[Leeds]]
+| umpires = [[Paul Pollard]] and [[Tom Lungley]]
+| motm = [[Mitchell Marsh]] (Sunrisers Leeds)
+| toss = Welsh Fire won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match28}} '''Match 28'''
+| date = 9 August 2026
+| time = 18:00
+| daynight = y
+| team1 = {{cr-ENG|bp}}
+| team2 = {{cr-ENG|ls}}
+| score1 = 162/4 (100 balls)
+| runs1 = [[Joe Clarke (cricketer)|Joe Clarke]] 73 (42)
+| wickets1 = [[James Coles]] 1/25 (20 balls)
+| score2 = 166/3 (82 balls)
+| runs2 = [[Liam Livingstone]] 66 (30)
+| wickets2 = [[Jordan Thompson (cricketer)|Jordan Thompson]] 1/24 (10 balls)
+| result = London Spirit won by 7 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521258.html Scorecard]
+| venue = [[Lord's]], [[London]]
+| umpires = [[Michael Gough (cricketer)|Michael Gough]] and [[Russell Warren (cricketer)|Russell Warren]]
+| motm = [[Liam Livingstone]] (London Spirit)
+| toss = London Sprit won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match29}} '''Match 29'''
+| date = 10 August 2026
+| time = 18:30
+| daynight = y
+| team1 = {{cr-ENG|tr}}
+| team2 = {{cr-ENG|sb}}
+| score1 = 158/5 (100 balls)
+| runs1 = [[Mitchell Santner]] 35[[not out|*]] (23)
+| wickets1 = [[Daniel Worrall]] 1/21 (20 balls)
+| score2 = 159/4 (97 balls)
+| runs2 = [[Tristan Stubbs]] 52[[not out|*]] (28)
+| wickets2 = [[Calvin Harrison (cricketer)|Calvin Harrison]] 2/32 (10 balls)
+| result = Southern Brave won by 6 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521259.html Scorecard]
+| venue = [[Trent Bridge]], [[Nottingham]]
+| umpires = [[Graham Lloyd]] and [[Jack Shantry]]
+| motm = [[Tristan Stubbs]] (Southern Brave)
+| toss = Southern Brave won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match30}} '''Match 30'''
+| date = 11 August 2026
+| time = 18:30
+| daynight = y
+| team1 = {{cr-ENG|sl}}
+| team2 = {{cr-ENG|msg}}
+| score1 = 127 (100 balls)
+| runs1 = [[Mitchell Marsh]] 32 (23)
+| wickets1 = [[Gus Atkinson]] 3/30 (20 balls)
+| score2 = 128/0 (67 balls)
+| runs2 = [[Tim Seifert]] 80[[not out|*]] (40)
+| result = Manchester Super Giants won by 10 wickets
+| report = [http://cricinfo.com/ci/engine/match/1521260.html Scorecard]
+| venue = [[Old Trafford Cricket Ground|Old Trafford]], [[Manchester]]
+| umpires = [[Mike Burns (cricketer)|Mike Burns]] and [[Russell Warren (cricketer)|Russell Warren]]
+| motm = [[Tim Seifert]] (Manchester Super Giants)
+| toss = Manchester Super Giants won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match31}} '''Match 31'''
+| date = 12 August 2026
+| time = 15:00
+| team1 = {{cr-ENG|ls}}
+| team2 = {{cr-ENG|wf}}
+| score1 = 131/8 (100 balls)
+| runs1 = [[Jonny Bairstow]] 34 (19)
+| wickets1 = [[Marco Jansen]] 2/16 (20 balls)
+| score2 = 125/7 (100 balls)
+| runs2 = [[Jordan Cox (cricketer)|Jordan Cox]] 44 (28) 
+| wickets2 = [[David Willey (cricketer)|David Willey]] 3/20 (20 balls)
+| result = London Spirit won by 6 runs
+| report = [http://cricinfo.com/ci/engine/match/1521261.html Scorecard]
+| venue = [[Sophia Gardens (cricket ground)|Sophia Gardens]], [[Cardiff]]
+| umpires = [[James Middlebrook]] and [[Rob White (cricketer)|Rob White]]
+| motm = [[David Willey (cricketer)|David Willey]] (London Spirit)
+| toss = Welsh Fire won the toss and elected to field.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match32}} '''Match 32'''
+| date = 12 August 2026
+| time = 18:30
+| daynight = y
+| team1 = {{cr-ENG|mil}}
+| team2 = {{cr-ENG|bp}}
+| score1 = 157/6 (100 balls)
+| runs1 = [[Nicholas Pooran]] 36 (21)
+| wickets1 = [[Rehan Ahmed]] 2/7 (15 balls)
+| score2 = 155/7 (100 balls)
+| runs2 = [[Joe Weatherley]] 42 (31) 
+| wickets2 = [[Richard Gleeson]] 2/29 (20 balls)
+| result = MI London won by 2 runs
+| report = [http://cricinfo.com/ci/engine/match/1521262.html Scorecard]
+| venue = [[Edgbaston Cricket Ground|Edgbaston]], [[Birmingham]]
+| umpires = [[Ben Debenham]] and [[Nigel Llong]]
+| motm = [[Richard Gleeson]] (MI London)
+| toss = Birmingham Phoenix won the toss and elected to field.
+}}
+
+== Knockout stages ==
+[[File:2026 Hundred Women's Final (Sunrisers Leeds v Trent Rockets).jpg|thumb|right|Womens Final at Lords]]
+{{hatnote|All times are in [[British Summer Time]] ([[UTC+01:00]])}}
+=== Women ===
+{{3TeamBracket
+| team-width = 170px | score-width = 150px|nowrap=y
+
+|RD1= [[#match33w|Eliminator]]
+|RD1-seed1= '''2'''
+|RD1-team1= '''{{cr-ENG|sl}}'''
+|RD1-score1= '''116/5 (89 balls)'''
+|RD1-seed2= 3
+|RD1-team2= {{cr-ENG|sb}}
+|RD1-score2= 114/7 (100 balls)
+
+|RD2= [[#match34w|Final]]
+|RD2-seed1= '''1'''
+|RD2-team1= '''{{cr-ENG|tr}}'''
+|RD2-score1= '''92/2 (54 balls)'''
+|RD2-seed2= EW
+|RD2-team2= {{cr-ENG|sl}}
+|RD2-score2= 91 (91 balls)
+}}
+
+====Eliminator====
+{{Single-innings cricket match
+| round = {{anchor|match33w}} '''Eliminator'''
+| date = 14 August 2026
+| time = 14:15
+| team1 = {{cr-ENG|sb}}
+| team2 = {{cr-ENG|sl}}
+| score1 = 114/7 (100 balls)
+| runs1 = [[Lizelle Lee]] 32 (25)
+| wickets1 = [[Hannah Baker (cricketer)|Hannah Baker]] 2/13 (20 balls)
+| score2 = 116/5 (89 balls)
+| runs2 = [[Lauren Winfield-Hill]] 37 (37)
+| wickets2 = [[Issy Wong]] 3/21 (20 balls)
+| result = Sunrisers Leeds won by 5 wickets
+| report = [https://www.cricinfo.com/ci/engine/match/1521229.html Scorecard]
+| venue = [[The Oval]], [[London]]
+| umpires = [[Gabi Brown]] and [[Neil Pratt]]
+| motm = [[Hannah Baker (cricketer)|Hannah Baker]] (Sunrisers Leeds)
+| toss = Sunrisers Leeds won the toss and elected to field.
+| notes = 
+}}
+
+====Final====
+{{Single-innings cricket match
+| round = {{anchor|match34w}} '''Final'''
+| date = 16 August 2026
+| time = 14:15
+| daynight = 
+| team1 = {{cr-ENG|sl}}
+| team2 = {{cr-ENG|tr}}
+| score1 = 91 (91 balls)
+| runs1 = [[Annabel Sutherland]] 25 (23)
+| wickets1 = [[Georgia Adams]] 2/9 (15 balls)
+| score2 = 92/2 (54 balls)
+| runs2 = [[Sophia Dunkley]] 41 (23)
+| wickets2 = [[Dani Gibson]] 1/9 (5 balls)
+| result = Trent Rockets won by 8 wickets
+| report = [https://www.cricinfo.com/ci/engine/match/1521230.html Scorecard]
+| venue = [[Lord's]], [[London]]
+| umpires = [[Anna Harris]] and Surendiran Shanmugam
+| motm = [[Georgia Adams]] (Trent Rockets)
+| toss = Trent Rockets won the toss and elected to field.
+| rain = 
+| notes = 
+}}
+
+=== Men ===
+{{3TeamBracket
+| team-width = 170px 
+| score-width = 150px
+| nowrap=y
+
+|RD1= [[#match33|Eliminator]]
+|RD1-seed1= '''2'''
+|RD1-team1= '''{{cr-ENG|msg}}'''
+|RD1-score1= '''186/4 (100 balls)'''
+|RD1-seed2= 3
+|RD1-team2= {{cr-ENG|sl}}
+|RD1-score2= 166/7 (100 balls)
+
+|RD2= [[#match34|Final]]
+|RD2-seed1= 1
+|RD2-team1= {{cr-ENG|tr}}
+|RD2-score1= 158/8 (100 balls)
+|RD2-seed2= '''EW'''
+|RD2-team2= '''{{cr-ENG|msg}}'''
+|RD2-score2= '''162/5 (98 balls)'''
+}}
+====Eliminator ====
+{{Single-innings cricket match
+| round = {{anchor|match33}} '''Eliminator'''
+| date = 14 August 2026
+| time = 18:00
+| daynight = y
+| team1 = {{cr-ENG|msg}}
+| team2 = {{cr-ENG|sl}}
+| score1 = 186/4 (100 balls)
+| runs1 = [[Paul Walter]] 80 (46)
+| wickets1 = [[Brydon Carse]] 1/22 (20 balls)
+| score2 = 166/7 (100 balls)
+| runs2 = [[Ryan Rickelton]] 54[[not out|*]] (34)
+| wickets2 = [[Josh Tongue]] 4/26 (20 balls)
+| result = Manchester Super Giants won by 20 runs
+| report = [https://www.cricinfo.com/ci/engine/match/1521263.html Scorecard]
+| venue = [[The Oval]], [[London]]
+| umpires = [[Ian Blackwell]] and [[Paul Pollard]]
+| motm = [[Josh Tongue]] (Manchester Super Giants)
+| toss = Sunrisers Leeds won the toss and elected to field.
+| notes = 
+}}
+
+====Final====
+[[Image:2026 Hundred Final at Lord's.jpg|right|300px|thumb|The men's final at Lord's.]]
+{{Single-innings cricket match
+| round = {{anchor|match34}} '''Final'''
+| date = 16 August 2026
+| time = 18:00
+| daynight = y
+| team1 = {{cr-ENG|tr}}
+| team2 = {{cr-ENG|msg}}
+| score1 = 158/8 (100 balls)
+| runs1 = [[Aneurin Donald]] 38 (19)
+| wickets1 = [[Noor Ahmad]] 3/33 (20 balls)
+| score2 = 162/5 (98 balls)
+| runs2 = [[Tim Seifert]] 72 (38)
+| wickets2 = [[Mohammad Amir]] 3/29 (20 balls)
+| result = Manchester Super Giants won by 5 wickets
+| report = [https://www.cricinfo.com/ci/engine/match/1521264.html Scorecard]
+| venue = [[Lord's]], [[London]]
+| umpires = [[Graham Lloyd]] and [[Michael Gough (cricketer)|Michael Gough]]
+| motm = [[Tim Seifert]] (Manchester Super Giants)
+| toss = Manchester Super Giants won the toss and elected to field.
+| rain = 
+| notes = 
+}}
+
+==Statistics==
+===Most runs===
+{{col-begin}}
+{{col-break}}
+{| class="wikitable" style="max-width:30em;"
+|-
+|+ Women
+|-
+!Runs
+!Player
+!Team
+!{{Abbr|HS|High score}}
+|-
+!315
+| [[Annabel Sutherland]] || rowspan="2"|[[Sunrisers Leeds]] || 62*
+|-
+!303
+| [[Phoebe Litchfield]] || 71*
+|-
+!301
+| [[Sophia Dunkley]] || [[Trent Rockets]] || 65
+|-
+!250
+| [[Georgia Voll]] || [[Welsh Fire]] || 78
+|-
+!232
+| [[Smriti Mandhana]] || [[Manchester Super Giants]] || 88*
+|}
+*Source: [https://www.cricinfo.com/records/tournament/batting-most-runs-career/the-hundred-women-s-competition-2026-17889 Cricinfo]
+{{col-break}}
+{| class="wikitable" style="max-width:30em;"
+|-
+|+ Men
+|-
+!Runs
+!Player
+!Team
+!{{Abbr|HS|High score}}
+|-
+!416
+|[[Mitch Marsh]] || [[Sunrisers Leeds]] || 76
+|-
+!394
+|[[Tim Seifert]] || [[Manchester Super Giants]] || 80*
+|-
+!345
+|[[Ryan Rickelton]] || [[Sunrisers Leeds]] || 94*
+|-
+!337
+|[[Ben Duckett]] || [[Trent Rockets]] || 75
+|-
+!334
+|[[Jos Buttler]] || [[Manchester Super Giants]] || 90
+|}
+*Source: [https://www.cricinfo.com/records/tournament/batting-most-runs-career/the-hundred-men-s-competition-2026-17888 Cricinfo]
+{{col-end}}
+
+===Most wickets===
+{{col-begin}}
+{{col-break}}
+{{Table alignment}}
+{| class="wikitable defaultleft col4center" style="max-width:30em;"
+|-
+|+ Women
+|-
+!Wickets
+!Player
+!Team
+!{{Abbr|BBI|Best Bowling Innings}}
+|-
+!rowspan="3"|13
+|[[Samantha Bates]] || [[Trent Rockets]] || 3/10
+|-
+|[[Deepti Sharma]] || [[Sunrisers Leeds]] || 3/11
+|-
+|[[Tilly Corteen-Coleman]] || [[Southern Brave]] || 3/27
+|-
+!rowspan="2"|12
+|[[Charlie Dean]] || [[London Spirit]] || 3/17
+|-
+|[[Issy Wong]] || [[Southern Brave]] || 3/15
+|}
+*Source: [https://www.cricinfo.com/records/tournament/bowling-most-wickets-career/the-hundred-women-s-competition-2026-17889 Cricinfo]
+{{col-break}}
+{| class="wikitable defaultleft col4center" style="max-width:30em;"
+|-
+|+ Men
+|-
+!Wickets
+!Player
+!Team
+!{{Abbr|BBI|Best Bowling Innings}}
+|-
+!rowspan="2"|14
+|[[Josh Tongue]] || [[Manchester Super Giants]] || 4/26
+|-
+|[[Richard Gleeson]] || [[MI London]] || 4/25
+|-
+!13
+|[[Sonny Baker]] || rowspan="2"|[[Manchester Super Giants]] || 2/22
+|-
+!rowspan="2"|12
+|[[Gus Atkinson]] || 3/30
+|-
+|[[Brydon Carse]] || [[Sunrisers Leeds]] || 3/17
+|}
+*Source: [https://www.cricinfo.com/records/tournament/bowling-most-wickets-career/the-hundred-men-s-competition-2026-17888 Cricinfo]
+{{col-end}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+*[https://www.thehundred.com Official website]
+* [https://www.cricinfo.com/series/the-hundred-women-s-competition-2026-1521193/match-schedule-fixtures-and-results Series home at Cricinfo (Women's)]
+* [https://www.cricinfo.com/series/the-hundred-men-s-competition-2026-1521176/match-schedule-fixtures-and-results Series home at Cricinfo (Men's)]
+
+{{2026 English cricket season}}
+{{The Hundred}}
+
+[[Category:The Hundred (cricket) seasons]]
+[[Category:2026 in English cricket|Hundred]]
+[[Category:2026 in English women's cricket]]
+[[Category:Domestic cricket competitions in 2026|2026 The Hundred season]]

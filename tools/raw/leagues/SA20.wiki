@@ -1,0 +1,470 @@
+{{short description|South African cricket league}}
+{{other uses|SA-20 (disambiguation)}}
+{{Use dmy dates|date=August 2022}}
+{{Infobox cricket tournament main
+|name = SA20
+| current= [[2026 SA20]]
+| image = SA20Logo.png
+| administrator = [[Cricket South Africa]]
+| participants =6
+| first = [[2023 SA20|2023]]
+|last = [[2026 SA20|2026]]
+|next  =[[2027 SA20|2027]]
+|cricket format    = [[Twenty20]]
+| country = South Africa
+| tournament format   = [[Round-robin tournament|Double round-robin]] and [[playoffs]]
+| champions = [[Sunrisers Eastern Cape]]<br />(3rd title)
+| most successful = [[Sunrisers Eastern Cape]]<br />(3 titles)
+| most runs = [[Ryan Rickelton]] (1,349)
+| most wickets = [[Ottniel Baartman]] (61)
+| website = {{official URL|https://www.sa20.co.za/}}
+| TV = '''South Africa:'''<br />[[SuperSport (South African broadcaster)|SuperSport]]<br />'''International:'''<br />[[#List of Broadcasters|See list]]
+| streaming = 
+}}<!--
+{{Season sidebar
+| title = Seasons
+| list = * [[2023 SA20 season|2023]]
+* [[2024 SA20 season|2024]]
+* [[2025 SA20 season|2025]]
+* [[2026 SA20 season|2026]]
+}}-->
+The '''SA20''', also known as the '''[[Betway]] SA20''' for sponsorship reasons, is a [[Twenty20]] franchise [[cricket]] tournament in [[South Africa]], organised by [[Cricket South Africa]] (CSA) and first contested during the [[2023 SA20 season|2023 season]].<ref>{{cite web |url=https://www.espncricinfo.com/story/cricket-south-africa-announces-new-six-team-franchise-based-t20-competition-1312731 |title=Cricket South Africa announces new six-team franchise-based T20 competition |work=ESPN Cricinfo}}</ref><ref name="csa">{{cite web |url=https://cricket.co.za/2022/04/29/t20-comes-home-as-csa-and-supersport-announce-grand-new-event/ |title=T20 COMES HOME AS CSA AND SUPERSPORT ANNOUNCE GRAND NEW EVENT |work=Cricket South Africa |access-date=14 August 2022 |archive-date=1 December 2023 |archive-url=https://web.archive.org/web/20231201134828/https://cricket.co.za/2022/04/29/t20-comes-home-as-csa-and-supersport-announce-grand-new-event/ |url-status=dead }}</ref> It is contested by six teams based in cities around the country.<ref name="players">{{cite web |date=12 August 2022 |title=CSA T20 League 2023: List of players signed up for the first edition |url=https://www.wisden.com/cricket-news/csa-t20-league-2023-list-of-players-signed-up-for-the-first-edition |work=Wisden}}</ref><ref>{{cite web|url=https://www.espncricinfo.com/story/csa-t20-league-to-be-called-sa20-player-auction-to-be-held-on-september-19-1331697 |title=CSA T20 league to be called 'SA20'; player auction to be held on September 19 |work=ESPN Cricinfo |access-date=31 August 2022}}</ref> [[Sunrisers Eastern Cape]] have won three of the first four editions of the tournament, with [[MI Cape Town]] winning the third season. The primary sponsor is [[Betway]], sponsoring the league since it launched.
+
+==History==
+Cricket [[South Africa]] established the franchise [[T20 Global League]] in 2017. The inaugural season was deferred by a year due to the lack of a broadcast deal and title sponsor and in June 2018 was replaced by the [[Mzansi Super League]], a league featuring six [[Cricket South Africa|CSA]]-owned teams.<ref>{{Cite web |date=2020-07-24 |title=Haroon Lorgat calls for independent inquiry into 'collapsed' T20 Global League |url=https://www.hindustantimes.com/cricket/haroon-lorgat-calls-for-independent-inquiry-into-collapsed-t20-global-league/story-t88irsR7NaudoyWAJXMgKN.html |access-date=2022-08-11 |website=Hindustan Times |language=en}}</ref> It did not become a huge success.<ref>{{Cite web |title=The SA20 player auction: all you need to know |url=https://www.espncricinfo.com/story/sa20-player-auction-all-you-need-to-know-1335262 |access-date=2022-10-12 |website=ESPNcricinfo}}</ref> The MSL ran for only two seasons, the 2020 and 2021 editions being cancelled due to the [[COVID-19 pandemic]].
+
+SA20 was established by CSA in 2022 through a newly formed entity, Africa Cricket Development (Pty) Limited (ACD). CSA is the majority stakeholder in ACD with a 50% share, while broadcaster [[SuperSport (South African broadcaster)|SuperSport]] has a 30% share and former [[Indian Premier League]] (IPL) Chief Operating Officer [[Sundar Raman]], the remaining 20%.<ref name=":1">{{Cite web|title=CSA confident of seeing off legal challenge to new T20 league |url=https://www.espncricinfo.com/story/cricket-south-africa-confident-of-seeing-off-legal-challenge-to-new-t20-league-1325772 |access-date=2022-08-11 |website=ESPNcricinfo}}</ref> All six of the teams were bought by franchises from the IPL.<ref>{{cite web |url=https://www.espncricinfo.com/story/south-africa-new-t20-league-csk-mi-delhi-capitals-rajasthan-royals-kevin-pietersen-interested-in-buying-franchises-1313604 |title=CSK, Mumbai Indians interested in buying franchises in South Africa's new T20 league |work=ESPN Cricinfo |date=13 August 2022}}</ref> In July 2022, CSA announced that the [[One Day International]] series against [[Australia national cricket team|Australia]] due to be played in January 2023 would be cancelled in order for SA20 to go ahead.<ref>{{cite news|url=https://www.abc.net.au/news/2022-07-13/south-africa-withdraws-from-australia-odi-series/101234794 |title=South Africa's men's cricket team withdraws from three-match ODI series against Australia in January |work=ABC News |date=13 July 2022 |access-date=13 August 2022}}</ref>
+
+In August 2022, [[Graeme Smith]] was announced as the commissioner for the tournament.<ref name=":0">{{cite news |title=Graeme Smith Named as Commissioner for CSA's New T20 league |url=https://www.timesofsports.com/cricket/news/graeme-smith-named-as-commissioner-for-csas-new-t20-league/amp/ |access-date=13 August 2022 |work=Times of Sports |archive-date=17 November 2022 |archive-url=https://web.archive.org/web/20221117064842/https://www.timesofsports.com/cricket/news/graeme-smith-named-as-commissioner-for-csas-new-t20-league/amp/ |url-status=dead }}</ref> Later in the month, the marquee players for the first season were announced.<ref name="players" />
+
+In December 2023 Cricket South Africa announced that it would send a makeshift Test team, comprising players with little or no Test cricket experience, to its scheduled two-Test tour of [[New Zealand national cricket team|New Zealand]] in February 2024, to allow its best players to remain in South Africa to compete in the SA20. The decision was widely criticised.<ref>{{cite news|url=https://www.espncricinfo.com/story/a-south-africa-test-squad-with-just-seven-capped-players-1414855 |title=A South Africa Test squad with just seven capped players |work=ESPN cricinfo |date=30 December 2023 |access-date=31 December 2023}}</ref><ref>{{cite news|url=https://www.theguardian.com/sport/2023/aug/30/thes-spin-south-african-cricket-faustian-pact-has-kept-lights-on-but-at-price |title=South African cricket's Faustian pact keeps the lights on, but at a price |work=The Guardian |date=30 August 2023 |access-date=31 December 2023}}</ref> In January 2025, Cricket South Africa announced the windows for the competition for 2026, 2027, and 2028.<ref>{{Cite web|url=https://www.indiatvnews.com/sports/cricket/sa20-window-for-next-three-seasons-revealed-next-edition-likely-to-begin-on-boxing-day-2025-02-04-974558 |title=SA20: Window for next three seasons revealed, next edition likely to begin on Boxing day |work=IndiaTV|access-date=4 February 2025}}</ref><ref>{{Cite web|url=https://www.espn.in/cricket/story/_/id/43677199/next-season-sa20-likely-begin-boxing-day |title=Next season's SA20 likely to begin on Boxing Day |work=ESPN|access-date=4 February 2025}}</ref>
+
+==Organisation==
+The six teams play each other twice in the group stages of the competition before the top four teams move to the [[Playoff format|playoffs stage]].<ref>{{Cite web |title=SA20 2022/23 Table, Matches, win, loss, points for SA20 |url=https://www.espncricinfo.com/series/sa20-2022-23-1335268/points-table-standings |access-date=2023-02-05 |website=ESPNcricinfo}}</ref>
+
+Teams acquire players through an auction as opposed to a draft, making it the third  cricket league in the world after the [[Indian Premier League]] and [[International League T20]] to do so. Each team purchases a squad of 17 players, with the opportunity of signing up to five players prior to the auction: three international players; one South African international player; and one uncapped South African player.<ref>{{Cite web |title=Cricket South Africa {{!}} GLOBAL CRICKET SUPERSTAR LINED UP FOR SOUTH AFRICA T20 LEAGUE |url=https://cricket.co.za/2022/08/10/global-cricket-superstar-lined-up-for-south-africa-t20-league/ |access-date=2022-08-11 |language=en-US |archive-date=10 August 2022 |archive-url=https://web.archive.org/web/20220810185805/https://cricket.co.za/2022/08/10/global-cricket-superstar-lined-up-for-south-africa-t20-league/ |url-status=dead }}</ref><ref>{{Cite web |title=CSA T20 league: Livingstone and Buttler in top salary bracket as England, SA players hit paydirt |url=https://www.espncricinfo.com/story/csa-t20-league-eleven-from-england-including-eoin-morgan-and-jason-roy-among-30-plus-marquee-players-to-sign-up-1328571 |access-date=2022-08-11 |website=ESPNcricinfo}}</ref>
+
+===Prize money===
+[[Cricket South Africa]] increased the prize money for the SA20 in 2024 to a total of $890,000 . The prize money is split between the teams as follows:<ref>{{Cite web |last=Sagar |first=Singh |date=2024-02-11 |title=SA20 2024 Winner Prize Money, Complete List of Award-Winners, Top Records & Stats  All You Need To Know|url=https://www.crictracker.com/cricket-news/sa20-2024-winner-prize-money-awards/ |access-date=2024-02-10 |website=CricTracker |language=en}}</ref><ref>{{Cite web | title=SA20 Prize Money And Full List Of Awards: How Much Amount Did Sunrisers Eastern Cape Get After 3rd Title {{!}} Cricket News | url=https://sports.ndtv.com/cricket/sa20-prize-money-and-full-list-of-awards-how-much-amount-did-sunrisers-eastern-cape-get-after-3rd-title-10886119 | archive-url=https://web.archive.org/web/20260126105536/https://sports.ndtv.com/cricket/sa20-prize-money-and-full-list-of-awards-how-much-amount-did-sunrisers-eastern-cape-get-after-3rd-title-10886119 | access-date=2026-09-29 | archive-date=2026-01-26}}</ref>
+
+*R16,250,000– To the [[#Tournament_results|runner up]] 
+*R32,500,000 – To the [[#Tournament_results|champion]] of the season
+
+The total prize money in the SA20 is R70 million.
+
+=== Trophy ===
+The trophy for the Betway T20 was unveiled in January 2023. The 24-carat gold and silver-plated trophy was designed and made by British silverware manufacturers [[Thomas Lyte]].<ref>{{Cite web |last=on |first=Published |date=2023-01-07 |title=SA20 trophy a 'masterpiece' |url=https://www.sacricketmag.com/sa20-trophy-a-masterpiece/ |access-date=2025-08-28 |website=SA Cricketmag |language=en-US}}</ref> It features six handles, representing league's six founding franchises, with the tournament's logo engraved on the front of the trophy.<ref>{{Cite web |title=https://www.sa20.co.za/news/inaugural-betway-sa20-trophy-on-show |url=https://www.sa20.co.za/news/inaugural-betway-sa20-trophy-on-show |access-date=2025-08-28 |website=www.sa20.co.za |language=en}}</ref>
+
+==Teams==
+The six teams are all owned by existing [[Indian Premier League]] franchise owners.<ref>{{cite web|url=https://www.espncricinfo.com/story/ipl-franchise-owners-buy-all-six-teams-in-south-africas-new-t20-league-1325425 |title=IPL franchise owners buy all six teams in South Africa's new T20 league |work=ESPN Cricinfo}}</ref>
+
+{| cellpadding="0" style="border:0 solid darkgrey;margin: 0.5em auto;"
+|- style="text-align:center;"
+| style="border:0 solid blue;"|
+{{Location map+|South Africa|width=350|float=right|caption=Location of SA20 teams|places=
+{{Location map~|South Africa|coordinates={{coord|26|7|S|28|3|E}}|position=left|mark=yellow pog.svg |label=[[Joburg Super Kings|JSK]]}}
+{{Location map~|South Africa|coordinates={{coord|29|51|S|31|1|E}}|position=right|mark=cyan pog.svg|label=[[Durban's Super Giants|DSG]]}}
+{{Location map~|South Africa|coordinates={{coord|33|58|S|18|28|E}}|position=bottom|mark=blue pog.svg|label=[[MI Cape Town|MICT]]}}
+{{Location map~|South Africa|coordinates={{coord|25|51|S|28|11|E}}|position=right|mark=blue pog.svg|label=[[Pretoria Capitals|PC]]}}
+{{Location map~|South Africa|coordinates={{coord|33|44|S|18|59|E}}|position=right|mark=pink pog.svg|label=[[Paarl Royals|PR]]}}
+{{Location map~|South Africa|coordinates={{coord|33|59|S|25|36|E}}|position=top|mark=orange pog.svg|label=[[Sunrisers Eastern Cape|SEC]]}}
+}}
+| style="border:0 solid #777;"|
+|}
+
+{| class="wikitable"
+|-
+!Team
+!Owner
+!Captain
+!Coach
+|-
+|[[Durban's Super Giants]] 
+|[[RPSG Group]]
+|[[Aiden Markram]]
+|
+|-
+|[[Joburg Super Kings]]
+|[[Chennai Super Kings Cricket Limited]]
+|[[Faf du Plessis]]
+|
+|-
+|[[MI Cape Town]]
+|[[Reliance Industries]]
+|[[Rashid Khan]]
+|
+|-
+|[[Paarl Royals]]
+|[[Manoj Badale]]
+|[[David Miller (South African cricketer)|David Miller]]
+|
+|-
+|[[Pretoria Capitals]]
+|[[JSW Group]]
+|[[Keshav Maharaj]]
+|[[Sourav Ganguly]]
+|-
+|[[Sunrisers Eastern Cape]]
+|[[Sun Group]]
+|[[Tristan Stubbs]]
+|
+|}
+
+==Tournament season and results==
+=== Finals ===
+{| class="wikitable" style="font-size:90%; text-align: center;"
+! rowspan="2" |Year
+! colspan="3" |Final
+! rowspan="2" |Final venue
+! rowspan="2" |Player of the season
+|-
+!Winner
+!Result
+!Runner-up
+|- style="background:#ddeeff"
+![[2023 SA20 season|2023]]
+|[[Sunrisers Eastern Cape]]<br />{{small|137/6 (16.2 overs)}}
+|'''Sunrisers Eastern Cape won  by 4 wickets'''<br />[http://www.espncricinfo.com/ci/engine/match/1343973.html Scorecard]
+|[[Pretoria Capitals]]<br />{{small|135 (19.3 overs)}}
+|[[Wanderers Stadium]], [[Johannesburg]]
+|[[Aiden Markram]]<br />([[Sunrisers Eastern Cape|SEC]])
+|-
+![[2024 SA20 season|2024]]
+|[[Sunrisers Eastern Cape]]<br />{{small|204/3 (20 overs)}}
+|'''Sunrisers Eastern Cape won  by 89 runs'''<br />[http://www.espncricinfo.com/ci/engine/match/1392685.html Scorecard]
+|[[Durban's Super Giants]]<br />{{small|115 (17 overs)}}
+|[[Newlands Cricket Ground]], [[Cape Town]]
+|[[Heinrich Klaasen]]<br />([[Durban's Super Giants|DSG]])
+|- style="background:#ddeeff"
+![[2025 SA20 season|2025]]
+|[[MI Cape Town]]<br />{{small|181/8 (20 overs)}}
+|'''MI Cape Town won  by 76 runs'''<br />[https://www.espncricinfo.com/ci/engine/match/1449667.html Scorecard]
+|[[Sunrisers Eastern Cape]]<br />{{small|105 (18.4 overs)}}
+|[[Wanderers Stadium]], [[Johannesburg]]
+|[[Marco Jansen]]<br />([[Sunrisers Eastern Cape|SEC]])
+|-
+![[2026 SA20|2026]]
+|[[Sunrisers Eastern Cape]]<br />{{small|162/4 (19.2 overs)}}
+|'''Sunrisers Eastern Cape won  by 6 wickets'''<br />[https://www.espncricinfo.com/ci/engine/match/1494286.html Scorecard]<br />
+|[[Pretoria Capitals]]<br />{{small|158/7 (20 overs)}}
+|[[Newlands Cricket Ground]], [[Cape Town]]
+|[[Quinton de Kock]]<br />([[Sunrisers Eastern Cape|SEC]])
+|}
+
+=== Number of titles ===
+{| class="wikitable "
+|-
+! Team
+! Seasons won
+! Seasons runner-up
+! No. of <br /> playoffs played
+! No. of seasons <br /> played
+|- 
+| [[Sunrisers Eastern Cape]]
+| style="background:gold"| '''3''' ([[2023 SA20|2023]], [[2024 SA20|2024]], [[2026 SA20|2026]])
+| style="background:silver"| '''1''' ([[2025 SA20|2025]]) 
+| 4
+| 4
+|-
+| [[MI Cape Town]]
+| style="background:gold" | '''1''' ([[2025 SA20|2025]]) 
+|
+| 1
+| 4
+|-
+| [[Pretoria Capitals]]
+| 
+| style="background:silver"| '''2''' ([[2023 SA20|2023]], [[2026 SA20|2026]])
+| 2
+| 4
+|-
+| [[Durban's Super Giants]]
+| 
+| style="background:silver"| '''1''' ([[2024 SA20|2024]])
+| 1
+| 4
+|-
+| [[Joburg Super Kings]]
+| 
+| 
+| 4
+| 4
+|-
+| [[Paarl Royals]]
+| 
+| 
+| 3
+| 4
+|}
+
+==Team performances==
+{| class="wikitable" style="text-align: center"
+|-
+!Season
+![[2023 SA20|2023]]
+![[2024 SA20|2024]] 
+![[2025 SA20|2025]]
+![[2026 SA20|2026]]
+|-
+| style="text-align:left"| [[Durban's Super Giants]]
+| 5th
+| style="background: silver" | RU
+| 6th
+|5th
+|-
+| style="text-align:left"| [[Joburg Super Kings]]         
+| style="background: #cfc" |SF
+| style="background: #c96" |3rd
+| style="background: #cfc" |4th
+| style="background: #cfc" |4th
+|-
+| style="text-align:left"| [[MI Cape Town]]
+| 6th
+| 6th
+| style="background: gold" | C
+|6th
+|-
+| style="text-align:left"| [[Paarl Royals]]
+| style="background: #cfc" |SF
+| style="background: #cfc" |4th
+| style="background: #c96" |3rd
+| style="background: #c96" |3rd
+|-
+| style="text-align:left"| [[Pretoria Capitals]]
+| style="background: silver" | RU
+| 5th
+| 5th
+| style="background: silver" | RU
+|-
+| style="text-align:left"| {{nobr|[[Sunrisers Eastern Cape]]}}
+| style="background: gold" | C
+| style="background: gold" | C
+| style="background: silver" | RU
+| style="background: gold" | C
+|}
+* {{color box|border=darkgray|gold}} '''C''': Champions
+* {{color box|border=darkgray|silver}} '''RU''': Runner-up
+* {{color box|border=darkgray|c96}} '''3rd''': Team won the 3rd place playoff
+* {{color box|border=darkgray|cfc}} '''4th''': Team lost the 3rd place playoff
+* {{color box|border=darkgray|cfc}} '''SF''': Team qualified for the semi-final of the competition
+
+===Position of teams in SA20===
+
+{| class="wikitable" style="text-align:center"
+|-
+! Year
+!1st 
+!2nd 
+!3rd
+!4th
+!5th
+!6th
+|-
+![[2023 SA20|2023]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[Pretoria Capitals|PC]] '''(R)'''
+|scope="row"  style="text-align:center; background:#cfc;" |[[Joburg Super Kings|JSK]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[Sunrisers Eastern Cape|SEC]] '''(C)'''
+|scope="row"  style="text-align:center; background:#cfc;" |[[Paarl Royals|PR]]
+|[[Durban's Super Giants|DSG]]
+|[[MI Cape Town|MICT]]
+|-
+![[2024 SA20|2024]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[Sunrisers Eastern Cape|SEC]] '''(C)'''
+|scope="row"  style="text-align:center; background:#cfc;" |[[Durban's Super Giants|DSG]] '''(R)'''
+|scope="row"  style="text-align:center; background:#cfc;" |[[Paarl Royals|PR]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[Joburg Super Kings|JSK]]
+|[[Pretoria Capitals|PC]] 
+|[[MI Cape Town|MICT]]
+|-
+![[2025 SA20|2025]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[MI Cape Town|MICT]] '''(C)'''
+|scope="row"  style="text-align:center; background:#cfc;" |[[Paarl Royals|PR]]
+|scope="row"  style="text-align:center; background:#cfc;" |[[Sunrisers Eastern Cape|SEC]] '''(R)'''
+|scope="row"  style="text-align:center; background:#cfc;" |[[Joburg Super Kings|JSK]]
+|[[Pretoria Capitals|PC]]
+|[[Durban's Super Giants|DSG]]
+|-
+![[2026 SA20|2026]]
+|scope="row"  style="text-align:center; background:#cfc;" | [[Sunrisers Eastern Cape|SEC]] '''(C)'''
+|scope="row"  style="text-align:center; background:#cfc;" | [[Pretoria Capitals|PC]] '''(R)'''
+|scope="row"  style="text-align:center; background:#cfc;" | [[Paarl Royals|PR]]
+|scope="row"  style="text-align:center; background:#cfc;" | [[Joburg Super Kings|JSK]]
+|[[Durban's Super Giants|DSG]]
+|[[MI Cape Town|MICT]]
+|}
+* {{color box|border=darkgray|cfc}} indicates qualified for playoffs
+*'''(C)''' = Eventual champion; '''(R)''' = Runner-up
+
+=== All time standings ===
+
+{| class="wikitable mw-collapsible" style="text-align:center"
+|+''Source: [https://www.espncricinfo.com/records/trophy/team-results-summary/sa20-987 ESPNcricinfo] (Last updated: 8 February  2025)''
+|-
+!rowspan="2" |Team
+!colspan=3|Appearances
+!rowspan="2" |Best result
+!colspan="7"|Statistics
+|-
+!Total
+!First
+!Latest
+!Played
+!Won
+!Lost
+!{{tooltip|Tied+W|Won tied match in Super Over}} 
+!{{tooltip|Tied+L|Lost tied match in Super Over}} 
+!NR
+!Win%
+|-
+![[Sunrisers Eastern Cape]]
+| 4 || [[2023 SA20|2023]] || [[2026 SA20|2026]] ||style="background:gold"| {{sort|3|'''Champions'''}} ([[2023 SA20|2023]], [[2024 SA20|2024]], [[2026 SA20|2026]]) || 36 || 22 || 13 || 0 || 0 || 1 || 62.85
+|-
+![[MI Cape Town]]
+| 4 || [[2023 SA20|2023]] || [[2026 SA20|2026]] || style="background:gold" | {{sort|1|'''Champions'''}} ([[2025 SA20|2025]]) || 32 || 15 || 16 || 0 || 0 || 1 || 48.38
+|-
+![[Pretoria Capitals]]
+| 4 || [[2023 SA20|2023]] || [[2026 SA20|2026]] || style="background:silver" | {{sort|2|'''Runners-up'''}} ([[2023 SA20|2023]], [[2026 SA20|2026]]) || 32 || 13 || 16 || 0 || 0 || 3 || 44.82
+|-
+![[Durban's Super Giants]]
+| 4 || [[2023 SA20|2023]] || [[2026 SA20|2026]] || style="background:silver" | {{sort|1|'''Runners-up'''}} ([[2024 SA20|2024]]) || 33 || 14 || 16 || 0 || 0 || 3 || 46.66
+|-
+![[Paarl Royals]]
+| 4 || [[2023 SA20|2023]]|| [[2026 SA20|2026]]|| {{sort|1|Qualifier 2}} ([[2024 SA20|2024]], [[2026 SA20|2026]]) || 34 || 16 || 17 || 0 || 0 || 1 || 48.48
+|-
+![[Joburg Super Kings]]
+| 4 || [[2023 SA20|2023]] || [[2026 SA20|2026]] || {{sort|1|Qualifier 2}} ([[2024 SA20|2024]]) || 33 || 14 || 16 || 0 || 0 || 3 || 46.66
+|}
+
+==Records and statistics==
+{{main|List of SA20 records and statistics}}
+
+{| class="wikitable"
+|-
+! colspan="3"|Batting records
+|-
+|Most runs
+|[[Ryan Rickelton]]
+|1,349
+|-
+|Highest score
+|[[Shai Hope]]
+|118[[not out|*]] vs [[Durban's Super Giants]]
+|-
+! colspan="3"|Bowling records
+|-
+|Most wickets
+| [[Ottniel Baartman]]
+|61
+|-
+! colspan="3"| Fielding
+|-
+|Most dismissals ([[wicket-keeper]])
+|[[Tristan Stubbs]]
+|42
+|-
+|Most catches ([[fielding (cricket)|fielder]])
+|[[David Miller (South African cricketer)|David Miller]]<br />[[Marco Jansen]]<br />[[Aiden Markram]]
+|18
+|-
+! colspan="3" | Team records
+|-
+|Highest total
+|[[Durban's Super Giants]] 
+|254/4 (20) vs [[Pretoria Capitals]]
+|-
+|Lowest total
+|[[Paarl Royals]]
+|49 (13.3) vs [[Sunrisers Eastern Cape]]
+|}
+
+{{updated|8 February 2025}}
+
+== Broadcasting ==
+{{as of|January 2023}}, Betway SA20 and Sky Sports have a five-year contract to broadcast the T20 cricket league.<ref>{{cite web|url=https://supersport.com/cricket/sa20-202324/news/9ede6d05-548f-4411-b9b7-8454f12565ca/sky-sports-to-broadcast-sa20|title=Sky Sports to broadcast SA20|work=Super Sports|date=9 January 2023}}</ref>
+
+{| class="wikitable"
+! Country !! Channels !! Year
+|-
+| Sub-saharan Africa
+| [[SuperSport (South African broadcaster)|SuperSport]]
+| 2023–present 
+|-
+| Australia
+| [[Fox Sports]]
+| 2025–present
+|-
+| Brunei
+| rowspan="15" | [[Willow TV]]
+| rowspan="15" | 2025–present
+|-
+| Cambodia
+|-
+| Canada
+|-
+| Indonesia
+|-
+| Laos
+|-
+| Malaysia
+|-
+| MENA
+|-
+| Mexico
+|-
+| Myanmar
+|-
+| Philippines
+|-
+| Singapore
+|-
+| Thailand
+|-
+| Timor Leste
+|-
+| USA
+|-
+| Vietnam
+|-
+| Pan-Europe (exc. UK-IRE)
+| [[Triller TV]]
+| 2025–present
+|-
+| Ireland
+| rowspan="2" | [[Sky Sports]]
+| rowspan="2" | 2023–present<ref>{{Cite web |title=Sky Sports announces new rights deal with the SA20 cricket league |url=https://www.skygroup.sky/en-gb/article/sky-sports-announces-new-rights-deal-with-the-sa20-cricket-league |access-date=2023-01-03 |website=Skygroup}}</ref>
+|-
+| United Kingdom
+|-
+| rowspan="2" | Indian subcontinent
+| [[Star Sports (Indian TV network)|Star Sports]]
+| rowspan="2" |2023–present<ref>{{Cite web |title=SA20 strikes landmark broadcast deal for Indian market |url=https://www.espncricinfo.com/story/south-africa-news-sa20-strikes-landmark-broadcast-deal-for-indian-market-1343046 |access-date=2022-11-03 |website=ESPNcricinfo}}</ref><ref>{{Cite web |title=Dinesh Karthik set to become first Indian to play in SA20: Live Streaming Info, when and where to watch |url=https://sportstar.thehindu.com/cricket/dinesh-karthik-sa20-live-streaming-info-paarl-royals-vs-sunrisers-eastern-cape-when-where-to-watch-telecast-india-squads/article69088275.ece |access-date=2024-01-11 |website=SPORTSTAR}}</ref>
+|-
+| [[JioHotstar]]
+|-
+| rowspan="3" | Pakistan
+|[[Geo Super]]
+|rowspan="3" | 2025–present
+|-
+|mytv
+|-
+|Tapmad
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Official website|sa20.co.za}}
+
+{{SA20}}
+{{Cricket in South Africa}}
+{{Twenty20 cricket domestic competitions}}
+
+[[Category:Cricket in South Africa]]
+[[Category:Twenty20 cricket leagues]]
+[[Category:South African domestic cricket competitions]]
+[[Category:Recurring sporting events established in 2023]]
+[[Category:Sports leagues established in 2023]]
+[[Category:Professional cricket leagues]]
+[[Category:Cricket leagues in South Africa]]
+[[Category:SA20]]

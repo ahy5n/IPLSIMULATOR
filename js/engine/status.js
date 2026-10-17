@@ -1,3 +1,4 @@
+import { OVERSEAS_MAX } from './rules.js';
 // Player form, fitness, injuries and team chemistry through a season. Plain JSON on the season object:
 //   season.status[playerId] = { form, fit, inj, injury }   form -10..+10, fit 0..100, inj = matches left out
 //   season.chem[teamId] = { value 0..100, lastXI: [ids] }
@@ -19,7 +20,8 @@ export const INJURIES = [
   ['Torn knee ligament', 14, 14, 2, 'any'],
 ];
 // Out for this many team matches or more = ruled out of the season; the team may sign a replacement.
-export const RULED_OUT = 6;
+export let RULED_OUT = 6;
+export function configureStatus({ ruledOut }) { RULED_OUT = ruledOut; }
 
 export function initStatus(season, scn, continuity = {}) {
   season.status = {};
@@ -141,7 +143,7 @@ export function replacementPool(season, scn, teamId, outId) {
   const out = scn.players[outId];
   const fee = Math.max(season.prices?.[outId] ?? out.price ?? out.base ?? 30, 30);
   const osInSquad = season.squads[teamId].filter((id) => id !== outId && scn.players[id].overseas).length;
-  return scn.pool.map((id) => scn.players[id]).filter((p) => p && !taken.has(p.id) && !p.retired && (p.base ?? 30) <= fee && !(p.overseas && osInSquad >= 8))
+  return scn.pool.map((id) => scn.players[id]).filter((p) => p && !taken.has(p.id) && !p.retired && (p.base ?? 30) <= fee && !(p.overseas && osInSquad >= OVERSEAS_MAX))
     .sort((a, b) => b.ovr - a.ovr);
 }
 

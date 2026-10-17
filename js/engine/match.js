@@ -6,9 +6,18 @@ import { effectiveBat, positionFit, styleEffect } from './batting.js';
 import { typeOf, phaseBonus, rolesOf } from './bowling.js';
 import { CONDITIONS, adjustPlayers } from './conditions.js';
 
-const OVERS = 20;
-const BALLS = OVERS * 6;
-const MAX_OVERS_PER_BOWLER = 4;
+// Match format. T20: 20 overs of 6, four overs a bowler, powerplay overs 1-6, death 16-20.
+// The Hundred: 20 sets of 5 balls, 20 balls a bowler (four sets), 25-ball powerplay, death from ball 76.
+// Both have 20 bowling units, so the captaincy logic below works in units ("overs") for either.
+export const FORMATS = {
+  t20: { id: 't20', balls: 120, setBalls: 6, maxSets: 4, ppSets: 6, deathFrom: 15, impact: true, unit: 'over' },
+  hundred: { id: 'hundred', balls: 100, setBalls: 5, maxSets: 4, ppSets: 5, deathFrom: 15, impact: false, unit: 'ball' },
+};
+export let FORMAT = FORMATS.t20;
+let OVERS = 20, BALLS = 120, SET = 6, MAX_OVERS_PER_BOWLER = 4;
+export function configureFormat(f) {
+  FORMAT = f; BALLS = f.balls; SET = f.setBalls; OVERS = f.balls / f.setBalls; MAX_OVERS_PER_BOWLER = f.maxSets;
+}
 
 // Base outcome rates per legal ball by phase, tuned to IPL 2025 scoring (about 9.5 an over).
 const PHASE_RATES = {
@@ -18,7 +27,7 @@ const PHASE_RATES = {
 };
 const EXTRA_RATE = 0.04;
 
-const phaseOf = (over) => (over < 6 ? 'pp' : over < 15 ? 'mid' : 'death');
+const phaseOf = (over) => (over < FORMAT.ppSets ? 'pp' : over < FORMAT.deathFrom ? 'mid' : 'death');
 
 function ballOutcome(rng, batSkill, bowl, ctx) {
   const phase = phaseOf(ctx.over);
@@ -103,19 +112,19 @@ export function simulateInnings(rng, { battingOrder, bowlers, fielders, players,
   card[0].batted = true; if (card[1]) card[1].batted = true;
   const fow = [];
   let lastBowler = null;
-  const totalOvers = Math.ceil(balls / 6);
+  const totalOvers = Math.ceil(balls / SET);
   for (let over = 0; over < totalOvers && wkts < maxWickets; over++) {
     const bowlerId = balls < BALLS ? bowlers[0] : chooseBowler(over, bowlers, overs, lastBowler, players);
     const bw = bowl[bowlerId] || (bowl[bowlerId] = { id: bowlerId, balls: 0, r: 0, w: 0, dots: 0 });
     let inOver = 0;
-    while (inOver < 6 && legal < balls && wkts < maxWickets) {
+    while (inOver < SET && legal < balls && wkts < maxWickets) {
       if (target != null && runs >= target) break;
       if (rng.next() < EXTRA_RATE) { runs++; extras++; bw.r++; continue; }
       const bat = card[striker];
       const ballsLeft = balls - legal;
       let aggression = phaseOf(over) === 'death' ? 0.3 : 0;
       if (target != null) {
-        const req = ((target - runs) / ballsLeft) * 6;
+        const req = ((target - runs) / ballsLeft) * 6;   // per six balls in either format
         aggression = Math.max(-0.5, Math.min(1, (req - 9) / 6));
       }
       // A batter's skill depends on where he bats: card index = batting slot.
@@ -175,7 +184,7 @@ export function applyMods(players, mods) {
 
 // Swap in the impact player at the innings break. Returns { xi, swap } for the next innings.
 function applyImpact(lineup, players, role) {
-  const imp = impactFor(lineup, role);
+  const imp = FORMAT.impact ? impactFor(lineup, role) : null;
   if (!imp) return { xi: lineup.xi, swap: null };
   const xi = lineup.xi.slice();
   let outIdx;
@@ -203,7 +212,7 @@ function superOver(rng, a, b, lineups, players, conditions) {
   const one = (bat, bowlTeam, target) => {
     const order = lineups[bat].xi.slice().sort((x, y) => players[y].bat - players[x].bat).slice(0, 3);
     const best = pickAttack(lineups[bowlTeam].xi, players)[0];
-    return simulateInnings(rng, { battingOrder: order, bowlers: [best], fielders: lineups[bowlTeam].xi, players, target, balls: 6, maxWickets: 2, conditions });
+    return simulateInnings(rng, { battingOrder: order, bowlers: [best], fielders: lineups[bowlTeam].xi, players, target, balls: SET, maxWickets: 2, conditions });
   };
   for (let i = 0; i < 3; i++) {
     const s1 = one(a, b, null);
@@ -259,7 +268,7 @@ export function simulateMatch(rng, { teamA, teamB, lineups, players: basePlayers
   } else {
     superOverResult = superOver(rng, second, first, { [first]: { xi: f2.xi }, [second]: { xi: s2.xi } }, players, conditions);
     winner = superOverResult.winner;
-    summary = 'won the Super Over';
+    summary = FORMAT.id === 'hundred' ? 'won the Super Five' : 'won the Super Over';
   }
   const everyone = [...new Set([...lineups[teamA].xi, ...lineups[teamB].xi, ...s2.xi, ...f2.xi])];
   const potm = everyone.reduce((best, id) => {

@@ -2,7 +2,9 @@
 import { arrangeOrder, quickOrder, effectiveBat } from './batting.js';
 import { attackVariety } from './bowling.js';
 
-export const XI_OVERSEAS_MAX = 4;
+export let XI_OVERSEAS_MAX = 4;
+export let IMPACT = true;   // impact players (IPL only)
+export function configureSquad({ xiOverseas, impact }) { XI_OVERSEAS_MAX = xiOverseas; IMPACT = impact; }
 const BAT_W = [1, 1, 0.95, 0.9, 0.85, 0.75, 0.6];
 const BOWL_W = [1, 1, 0.95, 0.9, 0.85];
 const BOWLER_MIN = 55;                       // rating at which a player is a genuine bowling option
@@ -74,6 +76,7 @@ export function orderBatting(ids, players) { return arrangeOrder(ids, players); 
 //   bowl: a bowler who comes in for the second innings if we bat first
 // If the XI already has 4 overseas players, both must be Indian.
 export function bestImpacts(squad, xi, players, { exclude = [] } = {}) {
+  if (!IMPACT) return { bat: null, bowl: null };
   const osFull = overseasIn(xi, players) >= XI_OVERSEAS_MAX;
   const legal = squad.filter((id) => !xi.includes(id) && !exclude.includes(id) && !(osFull && players[id].overseas));
   const pick = (key, not) => legal.filter((id) => id !== not).reduce((b, id) => (b == null || key(players[id]) > key(players[b]) ? id : b), null);

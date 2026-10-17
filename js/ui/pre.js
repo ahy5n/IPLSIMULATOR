@@ -1,6 +1,6 @@
 // Before the auction: the user's retained squad and the purse, slots and overseas slots of every team.
 import { esc, money } from '../format.js';
-import { MODES, openSlots, overseasSlots, SQUAD_MIN } from '../engine/rules.js';
+import { MODES, openSlots, overseasSlots, SQUAD_MIN, SQUAD_MAX, OVERSEAS_MAX } from '../engine/rules.js';
 import { teamStrength } from '../engine/squad.js';
 import { badge, squadTable, statBlock, teamChip } from './components.js';
 import { masthead, footer } from './shell.js';
@@ -18,8 +18,9 @@ export function render(root, ctx) {
   const mainLots = a.queue.length;
   const mega = a.kind === 'mega';
   const cost = me.retained.reduce((n, id) => n + (scn.players[id].price || 0), 0);
-  const intro = scn.year > 2026 || mega
-    ? `IPL ${scn.year} ${mega ? 'mega' : 'mini'} auction. Salary cap ${money(myT.purse + cost)}; your retentions cost ${money(cost)}. ${scn.pool.length} players in the auction.${a.inflation > 1.05 ? ` With ${money(rows.reduce((n, r) => n + r.purse, 0))} chasing ${rows.reduce((n, r) => n + r.slots, 0)} slots, expect prices about ${a.inflation.toFixed(1)}× 2026 levels.` : ''}${mega ? ` Right-to-match: when a player you held last season is about to be sold, you can match the price; the buyer then gets one final raise.` : ''}`
+  const LG = scn.league?.short || 'IPL';
+  const intro = scn.year > 2026 || mega || scn.league
+    ? `${LG} ${scn.year} ${mega ? (LG === 'IPL' ? 'mega' : 'full') : 'mini'} auction. Salary cap ${money(myT.purse + cost)}; your retentions cost ${money(cost)}. ${scn.pool.length} players in the auction.${a.inflation > 1.05 ? ` With ${money(rows.reduce((n, r) => n + r.purse, 0))} chasing ${rows.reduce((n, r) => n + r.slots, 0)} slots, expect prices about ${a.inflation.toFixed(1)}× normal levels.` : ''}${mega && LG === 'IPL' ? ` Right-to-match: when a player you held last season is about to be sold, you can match the price; the buyer then gets one final raise.` : ''}`
     : '';
   root.innerHTML = `${masthead()}
   <main class="stack-lg">
@@ -29,16 +30,16 @@ export function render(root, ctx) {
       ${intro ? `<p class="muted">${intro}</p>` : ''}
       <div class="stats">
         ${statBlock('Purse', money(myT.purse), 'accent')}
-        ${statBlock('Squad', `${myT.squad.length}/25`)}
+        ${statBlock('Squad', `${myT.squad.length}/${SQUAD_MAX}`)}
         ${statBlock('Open slots', openSlots(myT))}
         ${statBlock('Overseas slots', overseasSlots(myT, scn.players))}
-        ${mega ? statBlock('RTM cards', myT.rtm, 'accent') : ''}
+        ${mega && LG === 'IPL' ? statBlock('RTM cards', myT.rtm, 'accent') : ''}
       </div>
-      <p class="muted">You need at least ${SQUAD_MIN} players and can have up to 25, with no more than 8 from overseas. ${mode.label}: ${mainLots} lots in the opening sets, then ${mode.acceleratedRounds === 1 ? 'one accelerated round' : 'two accelerated rounds'} where teams nominate the players they want.</p>
+      <p class="muted">You need at least ${SQUAD_MIN} players and can have up to ${SQUAD_MAX}, with no more than ${OVERSEAS_MAX} from overseas. ${mode.label}: ${mainLots} lots in the opening sets, then ${mode.acceleratedRounds === 1 ? 'one accelerated round' : 'two accelerated rounds'} where teams nominate the players they want.</p>
     </section>
 
     <section class="stack">
-      <div class="section-head"><h3>Every franchise before the hammer</h3><span class="muted" style="font-size:.85rem">₹${(rows.reduce((n, r) => n + r.purse, 0) / 100).toFixed(2)} Cr for ${rows.reduce((n, r) => n + r.slots, 0)} slots</span></div>
+      <div class="section-head"><h3>Every franchise before the hammer</h3><span class="muted" style="font-size:.85rem">${money(rows.reduce((n, r) => n + r.purse, 0))} for ${rows.reduce((n, r) => n + r.slots, 0)} slots</span></div>
       <div class="panel scroll-x"><table>
         <thead><tr><th>Team</th><th class="r">Purse</th><th class="r">Squad</th><th class="r">Slots</th><th class="r">Overseas</th>${mega ? '<th class="r">RTM</th>' : ''}<th class="r hide-sm">Rating</th></tr></thead>
         <tbody>${rows.sort((x, y) => y.purse - x.purse).map((r) => `<tr class="${r.t.id === me.id ? 'me' : ''}">

@@ -92,7 +92,7 @@ export function render(root, ctx) {
       <div class="lot-top">
         <div class="lot-meta"><span class="tag tag-accent mono">${esc(p.setCode)}</span><span class="tag">${lotPosition()}</span>${p.capped ? '<span class="tag">Capped</span>' : '<span class="tag">Uncapped</span>'}</div>
         <div class="lot-name">${esc(p.name)}</div>
-        <div class="lot-sub">${esc(p.country)} · ${ROLE_LABEL[p.role]}${typeLabel(p) ? ' · ' + typeLabel(p) : ''}${p.age ? ` · ${p.age} yrs` : ''}${p.prevTeam && tl[p.prevTeam] ? ` · IPL ${scn.year - 1}: ${p.prevTeam}` : p.prospect ? ' · New prospect' : ''}</div>
+        <div class="lot-sub">${esc(p.country)} · ${ROLE_LABEL[p.role]}${typeLabel(p) ? ' · ' + typeLabel(p) : ''}${p.age ? ` · ${p.age} yrs` : ''}${p.prevTeam && tl[p.prevTeam] ? ` · ${scn.league?.short || 'IPL'} ${scn.year - 1}: ${p.prevTeam}` : p.prospect ? ' · New prospect' : ''}</div>
         <div class="row">${roleTag(p)}${osTag(p)}${a.kind === 'mega' && p.prevTeam && a.teams[p.prevTeam]?.rtm > 0 ? `<span class="tag tag-data" title="${p.prevTeam} can use a right-to-match card">RTM ${p.prevTeam}</span>` : ''}<span class="tag">Reserve ${money(p.base)}</span><span class="tag">Scout value ${money(Math.round(marketValue(p) * (a.inflation ?? 1)))}</span></div>
         <div class="bars">${bar('Bat', p.bat, p.bat >= p.bowl)}${bar('Bowl', p.bowl, p.bowl > p.bat)}${bar('Overall', p.ovr, true)}</div>
       </div>

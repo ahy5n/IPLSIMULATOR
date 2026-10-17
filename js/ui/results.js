@@ -29,12 +29,12 @@ export function render(root, ctx) {
   <main class="stack-lg">
     <section class="grid-2" style="align-items:end;padding-top:8px">
       <div class="stack">
-        <span class="eyebrow">${esc(T[me].name)} · IPL ${scn.year}</span>
+        <span class="eyebrow">${esc(T[me].name)} · ${scn.league?.short || 'IPL'} ${scn.year}</span>
         <h1>Auction report</h1>
         <p class="muted">Spent ${money(spent)} on ${values.length} player${values.length === 1 ? '' : 's'}; ${money(a.teams[me].purse)} left in the purse. Squad rating ${mine.before.overall.toFixed(1)} → <strong>${mine.after.overall.toFixed(1)}</strong>, ${ordinal(rankBy(grades, me, (g) => g.after.overall))} strongest in the league.</p>
       </div>
       <div class="panel row" style="justify-content:space-between">
-        <div><div class="eyebrow">Grade</div><div class="grade">${mine.grade}</div><div class="muted" style="font-size:.85rem">${ordinal(mine.rank)} of 10 auctions</div></div>
+        <div><div class="eyebrow">Grade</div><div class="grade">${mine.grade}</div><div class="muted" style="font-size:.85rem">${ordinal(mine.rank)} of ${scn.teams.length} auctions</div></div>
         <div class="stack" style="gap:8px;text-align:right">
           <div><div class="eyebrow">Playoffs</div><div class="display" style="font-size:1.8rem">${pct(myPred.playoffs)}</div></div>
           <div><div class="eyebrow">Title</div><div class="display" style="font-size:1.8rem">${pct(myPred.titles)}</div></div>
@@ -90,7 +90,7 @@ export function render(root, ctx) {
 
     <div class="grid-2">
       ${game.season ? '' : `<button class="btn bid-btn" data-act="trade">Open the trade window${(a.trades || []).length ? ` · ${a.trades.length} made` : ''}</button>`}
-      <button class="btn btn-primary bid-btn" data-act="season">${game.season ? 'Back to the season' : `Start the IPL ${scn.year} season`}</button>
+      <button class="btn btn-primary bid-btn" data-act="season">${game.career ? 'Back to your career' : game.season ? 'Back to the season' : `Start the IPL ${scn.year} season`}</button>
     </div>
   </main>${footer()}`;
 
@@ -102,11 +102,12 @@ export function render(root, ctx) {
     const b = e.target.closest('button');
     if (!b) return;
     if (b.dataset.act === 'season') {
+      if (game.career) return ctx.careerAuctionDone();
       if (!game.season) ctx.startSeason();
       ctx.save();
       ctx.go('season');
     } else if (b.dataset.act === 'trade') {
-      game.tradeContext = 'auction';
+      game.tradeContext = game.career ? 'career-auction' : 'auction';
       ctx.go('trade');
     } else if (b.dataset.act === 'copy') {
       const msg = root.querySelector('#copyMsg');
@@ -125,18 +126,18 @@ export function render(root, ctx) {
   }
 
   async function drawCard() {
-    try { await Promise.all([document.fonts.load('800 80px "Inter"'), document.fonts.load('600 24px "Inter"')]); } catch { /* fallback fonts */ }
+    // System fonts only (no web font to wait for).
     const c = document.createElement('canvas');
     c.width = 1200; c.height = 630;
     const g = c.getContext('2d');
     const team = T[me];
-    g.fillStyle = '#050e2b'; g.fillRect(0, 0, 1200, 630);
-    g.fillStyle = '#e8590c'; g.fillRect(0, 618, 1200, 12);
+    g.fillStyle = '#2e2a33'; g.fillRect(0, 0, 1200, 630);
+    g.fillStyle = '#9a4560'; g.fillRect(0, 618, 1200, 12);
     g.fillStyle = team.color; g.fillRect(0, 0, 1200, 14);
     g.fillStyle = team.color2; g.fillRect(0, 14, 1200, 6);
-    const D = '"Inter", system-ui, sans-serif', B = '"Inter", system-ui, sans-serif';
-    const accent = '#ff7a2f';
-    g.fillStyle = '#aab6dc'; g.font = `600 22px ${B}`; g.fillText(cardLine, 60, 78);
+    const D = '-apple-system, "Segoe UI", system-ui, sans-serif', B = D;
+    const accent = '#e3a0b5';
+    g.fillStyle = '#c9bfc6'; g.font = `600 22px ${B}`; g.fillText(cardLine, 60, 78);
     g.fillStyle = '#f2f4f8'; g.font = `800 76px ${D}`; g.fillText(team.name.toUpperCase(), 60, 160, 820);
     g.fillStyle = accent; g.font = `800 230px ${D}`; g.textAlign = 'right'; g.fillText(mine.grade, 1140, 300);
     g.textAlign = 'left';

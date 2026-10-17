@@ -1,0 +1,952 @@
+{{short description|Professional Pakistani Twenty20 cricket league}}
+{{protection padlock|small=yes}}
+{{Use Pakistani English|date=July 2026}}
+{{Use dmy dates|date=April 2026}}
+{{Infobox cricket tournament main
+|name              = Pakistan Super League 
+|image             = Official logo of Pakistan Super League.png
+| country          = Pakistan
+| administrator    = [[Pakistan Cricket Board]]
+|headquarters      = [[Gaddafi Stadium]]
+| cricket format   = [[Twenty20]]
+| first            = [[2016 Pakistan Super League|2016]]
+| last             = [[2026 Pakistan Super League|2026]]
+| next             = [[2027 Pakistan Super League|2027]]
+| current          = 
+|tournament format = [[Round-robin tournament|Double round-robin]] and [[Playoffs]]
+|participants      = [[#Teams|8]]
+|champions         = [[Peshawar Zalmi]] (2nd title)
+|most successful   = [[Islamabad United]]<br />[[Lahore Qalandars]] (3 titles each)
+|most runs         = [[Babar Azam]] (4,380)<ref>{{Cite web |title=Pakistan Super League Trophy batting most runs career |url=https://www.espncricinfo.com/records/trophy/batting-most-runs-career/pakistan-super-league-205 |access-date=12 March 2024 |website=ESPNcricinfo |language=en}}</ref>
+|most wickets      = [[Hasan Ali (cricketer)|Hasan Ali]] (140)<ref>{{Cite web |title=Pakistan Super League Trophy bowling most wickets career |url=https://www.espncricinfo.com/records/trophy/bowling-most-wickets-career/pakistan-super-league-205 |access-date=12 March 2024 |website=ESPNcricinfo |language=en}}</ref>
+| TV               = '''Pakistan''' <br/> [[PTV Sports]]  <br/>[[A Sports]] <br />[[Ten Sports]] <br/> '''International''' <br/>[[#Broadcasters|List of broadcasters]]
+|website           = {{URL|https://www.psl-t20.com/|psl-t20.com}}
+}}<!--
+{{Season sidebar
+| title = Seasons
+| list  =
+* [[2016 Pakistan Super League|2016]]
+* [[2017 Pakistan Super League|2017]]
+* [[2018 Pakistan Super League|2018]]
+* [[2019 Pakistan Super League|2019]]
+* [[2020 Pakistan Super League|2020]]
+* [[2021 Pakistan Super League|2021]]
+* [[2022 Pakistan Super League|2022]]
+* [[2023 Pakistan Super League|2023]]
+* [[2024 Pakistan Super League|2024]]
+* [[2025 Pakistan Super League|2025]]
+* [[2026 Pakistan Super League|2026]]
+}}-->
+
+The '''Pakistan Super League''' ('''PSL'''), also known as '''HBL PSL''' for sponsorship reasons, is a professional [[Twenty20]] (T20) [[cricket]] league in [[Pakistan]], organised by the [[Pakistan Cricket Board]] (PCB).
+
+The league was founded by the PCB in 2015, and as of 2026 features eight city-based franchise teams.<ref name="expansion26" /> Instead of operating as an association of independently owned teams, the league operates as a single entity in which each franchise is owned and controlled by investors.<ref>{{cite news |title=PCB eyes lucrative deals after 'securing' windows for PSL editions |url=https://www.thenews.com.pk/print/690615-pcb-eyes-lucrative-deals-after-securing-windows-for-psl-editions |access-date=31 July 2020 |work=www.thenews.com.pk |language=en |archive-date=4 February 2021 |archive-url=https://web.archive.org/web/20210204075709/https://www.thenews.com.pk/print/690615-pcb-eyes-lucrative-deals-after-securing-windows-for-psl-editions |url-status=live }}</ref>
+
+Each team plays group-stage matches in a [[double round-robin]] format, with the top four teams qualifying for the playoffs, culminating in the final.
+
+The [[2026 Pakistan Super League]] was the eleventh season of the league. [[Islamabad United]] and [[Lahore Qalandars]] are the most successful teams, with three titles each, followed by [[Peshawar Zalmi]] with two titles.<ref>{{cite news |last=Ali |first=Akber |date=3 May 2026 |title=Peshawar Zalmi beat Hyderabad Kingsmen by 5 wickets, lift PSL trophy a second time |url=https://www.dawn.com/news/1997223 |work=[[Dawn (newspaper)|Dawn]] |access-date=4 May 2026}}</ref>
+
+==History==
+{{Main|History of the Pakistan Super League}}
+
+===Establishment===
+In September 2015, the [[Pakistan Cricket Board]] officially announced the launch of the PSL. Former [[Pakistan national cricket team|Pakistani national team]] captains [[Wasim Akram]] and [[Rameez Raja]] signed up to promote the PSL and become [[brand ambassadors]] of the league for three years.<ref>{{cite web|url=http://tribune.com.pk/story/952840/wasim-akram-ramiz-raja-become-official-ambassadors|title=Wasim Akram, Ramiz Raja becomes official ambassadors for PSL|date=8 September 2015|work=The Express Tribune|access-date=19 February 2016|archive-date=9 July 2019|archive-url=https://web.archive.org/web/20190709170324/https://tribune.com.pk/story/952840/wasim-akram-ramiz-raja-become-official-ambassadors/|url-status=live}}</ref> After several years of planning and two previous failed attempts,<ref name=gt21sep15>{{Cite web |date=21 September 2015 |title=Pakistan Super League set to be moved to UAE |url=https://www.gulf-times.com/story/455901/pakistan-super-league-set-to-be-moved-to-uae |archive-url=https://web.archive.org/web/20190701092742/https://www.gulf-times.com/story/455901/Pakistan-Super-League-set-to-be-moved-to-UAE |archive-date=1 July 2019 |access-date=11 April 2016 |url-status=live |website=Gulf Times |language=en}}</ref><ref name=aj4feb16>{{Cite web |last=Mahmood |first=Rishad |title=Pakistan Super League: Morale booster or gimmick? |url=https://www.aljazeera.com/sports/2016/2/4/pakistan-super-league-morale-booster-or-gimmick |archive-url=https://web.archive.org/web/20190701092754/https://www.aljazeera.com/news/2016/02/pakistan-super-league-morale-booster-gimmick-160204133320285.html |archive-date=1 July 2019 |url-status=live |date=4 February 2016 |access-date=11 April 2016 |website=Al Jazeera |language=en}}</ref> the league officially began on 4 February 2016 in the [[United Arab Emirates]]. The [[United Arab Emirates|UAE]] [[Ministry of sports|sports minister]], [[Nahyan bin Mubarak Al Nahyan]], inaugurated the opening ceremony.<ref name="PSL">{{Cite web |date=4 February 2016 |title=PSL kicks off with colourful ceremony in Dubai |url=https://arynews.tv/pakistan-superemony-in-dubai/ |archive-url=https://web.archive.org/web/20180916174101/https://arynews.tv/en/pakistan-superemony-in-dubai/ |archive-date=16 September 2018 |url-status=live |access-date=3 February 2018 |website=ARY News |language=en-US}}</ref> The first two seasons included five teams based on the capital cities of Pakistan's provinces and the Federal capital.<ref name=wsj23feb16>{{Cite news |last=Nauman |first=Qasim |date=23 February 2016 |title=Pakistan Super League: Twenty20 Underdogs Quetta Gladiators Emerge as Favorites in Final |archive-url=https://web.archive.org/web/20190701092736/https://blogs.wsj.com/indiarealtime/2016/02/23/pakistan-super-league-twenty20-underdogs-quetta-gladiators-emerge-as-favorites-in-final/ |archive-date=1 July 2019 |url-status=live |language=en-US |work=[[The Wall Street Journal]] |url=http://blogs.wsj.com/indiarealtime/2016/02/23/pakistan-super-league-twenty20-underdogs-quetta-gladiators-emerge-as-favorites-in-final/ |access-date=11 April 2016 |issn=0099-9660}}</ref><ref>{{cite web|url=http://www.espncricinfo.com/pakistan-super-league-2015-16/content/story/923067.html|title=Dubai, Sharjah venues for Pakistan Super League|work=Cricinfo|access-date=1 January 2016|archive-date=1 July 2019|archive-url=https://web.archive.org/web/20190701092735/http://www.espncricinfo.com/pakistan-super-league-2015-16/content/story/923067.html|url-status=live}}</ref> In its first season the PSL had a higher percentage of international players. The league uses a draft system for player recruitment similar to that used in many North American professional sports leagues and as opposed to the auction system used in some other T20 leagues.<ref name="tribune15dec15">{{cite web|url=http://tribune.com.pk/story/1010350/pakistan-super-league-draft-pick-order-decided-logo-launched/|title=Pakistan Super League: Draft pick order decided, logo launched|date=15 December 2015|work=The Express Tribune|access-date=20 December 2015|archive-date=8 July 2019|archive-url=https://web.archive.org/web/20190708185917/https://tribune.com.pk/story/1010350/pakistan-super-league-draft-pick-order-decided-logo-launched/|url-status=live}}</ref>
+
+The PSL's official logo was launched on 20 September 2015 in a ceremony in [[Lahore]], and was revealed by 3Di.The ceremony was attended by current and retired cricketers, as well as Pakistani celebrities.
+
+The commercial rights to the initial franchises were sold for {{US$|93 million}} for a span of 10 years in December 2015. The market value of PSL in 2017 was up to US$300&nbsp;million according to [[Arif Habib]],<ref>{{cite news|last1=Faseeh Mangi|first1=Chris Kay|title=Back From Exile, Pakistan's Cricket Push Lures Advertisers|url=https://www.bloomberg.com/news/articles/2017-03-13/back-from-exile-pakistan-s-terror-hit-cricket-lures-advertisers|access-date=26 February 2018|work=Bloomberg|date=14 March 2017|archive-date=27 February 2018|archive-url=https://web.archive.org/web/20180227034314/https://www.bloomberg.com/news/articles/2017-03-13/back-from-exile-pakistan-s-terror-hit-cricket-lures-advertisers|url-status=live}}</ref> and has grown significantly in the years since.<ref>{{cite news|url=https://www.arabnews.pk/node/1634476/pakistan|title=PSL 2020 spurs business boom at home|work=Arab News|date=29 February 2020|access-date=1 March 2020|first=Khurshid|last=Ahmed|archive-date=18 March 2023|archive-url=https://web.archive.org/web/20230318192155/https://www.arabnews.pk/node/1634476/pakistan|url-status=live}}</ref>
+
+===Expansion===
+====Five to Six teams (2018)====
+The league expanded to six franchises with the inclusion of [[Multan Sultans]] for the [[2018 Pakistan Super League|2018 season]]. The PCB had shortlisted [[Faisalabad]], [[Federally Administered Tribal Areas|FATA]], [[Hyderabad, Sindh|Hyderabad]], [[Dera Murad Jamali]] and [[Multan]] as candidate cities,<ref>{{cite web|url=https://www.geo.tv/latest/139852-PCB-shortlists-five-possible-regions-as-6th-team-in-PSL-3|title=PCB shortlists five possible region as 6th team in PSL 3|publisher=GEO News|access-date=29 April 2017|archive-date=1 July 2019|archive-url=https://web.archive.org/web/20190701092733/https://www.geo.tv/latest/139852-PCB-shortlists-five-possible-regions-as-6th-team-in-PSL-3|url-status=live}}</ref> with several political and regional stakeholders expressing interest in securing representation for their areas.<ref>{{cite web|title=FATA name coming up as sixth team in PSL 2018|date=7 March 2017 |url=https://tribune.com.pk/story/1349005/governors-claim-fata-team-will-participate-next-psl-jhagra-says/|publisher=The Express tribune|access-date=8 March 2017|archive-date=8 March 2017|archive-url=https://web.archive.org/web/20170308114620/https://tribune.com.pk/story/1349005/governors-claim-fata-team-will-participate-next-psl-jhagra-says/|url-status=live}}</ref> [[Multan Sultans]] was announced as the new franchise on 1 June 2017, purchased by [[Schön Properties]] for US$5.2&nbsp;million per year.<ref>{{cite web|url=https://arynews.tv/en/pakistan-super-league-gets-sixth-team/|title=Pakistan Super League gets sixth team|publisher=ARY News|date=1 June 2017|access-date=1 June 2017|archive-date=13 October 2017|archive-url=https://web.archive.org/web/20171013024250/https://arynews.tv/en/pakistan-super-league-gets-sixth-team/|url-status=live}}</ref><ref>{{cite web|url=https://www.samaa.tv/sports/2017/06/pcb-announces-sixth-psl-franchise/|title=PCB announces Multan as sixth PSL franchise|publisher=Samaa TV|date=1 June 2017|access-date=1 June 2017|archive-date=3 August 2017|archive-url=https://web.archive.org/web/20170803091327/https://www.samaa.tv/sports/2017/06/pcb-announces-sixth-psl-franchise/|url-status=live}}</ref> On 10 November 2018, the PCB terminated the franchise agreement with Schön Properties, after which new owners took control and retained the Multan Sultans name.<ref name="Multerm">{{cite news|url=https://www.dawn.com/news/1444813|title=PCB terminates franchise agreement with Schon Group for Multan Sultans|date=11 November 2018|work=Dawn|access-date=11 November 2018|archive-date=10 November 2018|archive-url=https://web.archive.org/web/20181110230034/https://www.dawn.com/news/1444813|url-status=live}}</ref>
+
+====Six to Eight teams (2026)====
+Following the expiration of the franchise's operating agreement, the Pakistan Cricket Board auctioned the [[Multan Sultans]] franchise, which was purchased by Walee Technologies on 9 February 2026 for a bid of PKR 2.45 billion, making it the most expensive franchise sale in PSL history.<ref>{{cite news |url=https://www.dawn.com/news/1972074/psls-multan-sultans-sold-for-rs245bn |title=PSL's Multan Sultans sold for record Rs2.45bn |work=Dawn |date=9 February 2026}}</ref><ref>{{cite news |title=Multan Sultans sold for record Rs2.45bn ahead of PSL 11 |work=Geo.tv |date=9 February 2026 |url=https://www.geo.tv/latest/649956-multan-sultans-sold-for-record-rs245bn-ahead-of-psl-11 }}</ref> After they acquisition the owners decided to relocate the franchise to [[Rawalpindi]] and rebranded it as [[Rawalpindiz]].<ref name="espn1">{{cite web |title=Multan Sultans set to become Rawalpindi franchise after record high sale |url=https://www.espncricinfo.com/story/psl-2026-multan-sultans-set-to-become-rawalpindi-after-pkr-2-45-billion-sale-1523150 |website=[[ESPNcricinfo]] |publisher=Danyal Rasool |access-date=9 February 2026}}</ref>
+
+PCB held an auction to sale rights of two more teams and added [[Sialkot Stallionz]] and [[Hyderabad Kingsmen]] as seventh and eighth team.<ref name="expansion26" /><ref>{{cite web |title=PCB confirms PSL expansion from 2026 with two new teams |url=https://www.espncricinfo.com/story/psl-to-become-an-eight-team-tournament-from-2026-1434186 |work=ESPNcricinfo |date=17 May 2024|access-date=14 November 2025}}</ref> Later the owners of [[Sialkot Stallionz]] sold the franchise to CD Ventures before the start of [[2026 Pakistan Super League|2026 season]] who decided to bring back [[Multan Sultans]] as team identity and relocated the franchise from [[Sialkot]] to [[Multan]].<ref>{{cite news |title=Sialkot Stallionz officially change name to Multan Sultans under new management |url=https://www.dawn.com/news/1977836 |work=Dawn |date=3 March 2026 |language=en}}</ref>
+
+===Trophy===
+From its inception, the Pakistan Super League has featured new trophy designs for most editions. The [[2016 Pakistan Super League|inaugural 2016]] "Shooting Star" trophy was designed by [[Swarovski]] and unveiled in [[Dubai]] ahead of the first season, followed by the "Spirit Trophy" in 2017 which continued Swarovski's involvement.<ref>{{cite news |title=PSL 'Shooting Star' trophy unveiled |work=The News International |date=4 February 2016 |url=https://www.thenews.com.pk/print/95910-PSL-Shooting-Star-trophy-unveiled |access-date=7 October 2025}}</ref><ref>{{cite news |title=PSL 2017 trophy unveiled in Dubai |work=Dawn |date=1 February 2017 |url=https://www.dawn.com/news/1313267 |access-date=7 October 2025}}</ref> Similar Swarovski-made trophies were used in the 2018 and 2019 seasons before production shifted to Pakistan.<ref>{{cite web |title=HBL PSL Trophy unveiled amid fanfare |work=Pakistan Cricket Board |date=20 February 2018 |url=https://www.pcb.com.pk/press-release-detail/hbl-psl-trophy-unveiled-amid-fanfare.html |access-date=7 October 2025}}</ref><ref>{{cite web |title=PSL 2019 Trophy unveiled in Dubai |work=Pakistan Cricket Board |date=12 February 2019 |url=https://www.pcb.com.pk/press-release-detail/psl-2019-trophy-unveiled-in-dubai.html |access-date=7 October 2025}}</ref>
+
+On 19 February 2020, the first domestically made trophy was unveiled by squash legend [[Jahangir Khan]] and PCB chairman [[Ehsan Mani]] at the [[National Stadium, Karachi]]. The 65-centimetre-tall, eight-kilogram design featuring a crescent and star was used from 2020 to 2022, with each champion's name engraved on its base.<ref>{{cite news|title=PSL 2020 trophy unveiled at Karachi's National Stadium|author=Imran Siddique|url=https://www.dawn.com/news/1535439|work=Dawn|date=20 February 2020|access-date=7 October 2025}}</ref> In 2023, a new silver-plated "Supernova" trophy, crafted by Lahore-based Mahfooz Jewellers, was introduced at the [[Shalimar Gardens, Lahore|Shalimar Gardens]] in [[Lahore]], the first to be fully produced in Pakistan.<ref>{{cite tweet |author=PakistanSuperLeague |user=thePSLt20 |number=1623622637946654720 |date=9 February 2023 |title=🏆 𝐀 𝐑𝐎𝐘𝐀𝐋 𝐔𝐍𝐕𝐄𝐈𝐋 🏆 📸 First look at the #HBLPSL8 𝘚𝘶𝘱𝘦𝘳𝘯𝘰𝘷𝘢 Trophy at the historic Shalimar Gardens ✨ Read more ➡️ https://t.co/34hSJ7rogS #SabSitarayHumaray https://t.co/Nds1Ife9mf |language=en |access-date=7 October 2025 |archive-url=https://web.archive.org/web/20230318192351/https://twitter.com/thePSLt20/status/1623622637946654720 |archive-date=18 March 2023 |url-status=live}}</ref><ref>{{Cite web |date=9 February 2023 |title=PSL 8 trophy unveiled in Lahore |url=https://a-sports.tv/psl-8-trophy-unveiled-in-lahore/ |website=ASports.tv |access-date=7 October 2025}}</ref>
+
+The 2025 trophy was called "Luminara", which was revealed on 14 March 2025 through a video on the PSL's official YouTube channel. It incorporated luminous crystal and reflective metalwork to mark a decade of PSL cricket.<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=_FFWzd8aVH4 |title=HBL PSL X Trophy Unveiled in Style! 🌊🏆 Meet '𝐋𝐮𝐦𝐢𝐧𝐚𝐫𝐚' 🤩 |date=13 March 2025 |last=Pakistan Super League |access-date=15 March 2025 |via=YouTube}}</ref><ref>{{cite web |title=PSL Trophy Designs 2016–2024: Visual history of trophies |work=CricTracker |date=14 February 2024 |url=https://www.crictracker.com/cricket-appeal/psl-trophy-designs-2016-2024-visual-history-of-trophies/ |access-date=7 October 2025}}</ref>
+
+The 2026 edition of the Pakistan Super League will feature a new trophy design.<ref>{{cite web |title=PSL 11 trophy unveiled at National Stadium Karachi as league expands to eight teams |url=https://www.urdupoint.com/en/sports/psl-11-trophy-unveiled-at-national-stadium-ka-2152525.html |website=UrduPoint |language=en}}</ref> The trophy is named "Infinity" and was revealed in ceremony held at [[National Stadium]], [[Karachi]]. It is handcrafted by 18 artisans who completed it in 2,600 hours.<ref>{{cite news |last1=khurram |first1=Tayyaba |title=PCB unveils 'Infinity Trophy' ahead of HBL PSL XI |url=https://tribune.com.pk/story/2597062/infinity-trophy-unveiled-ahead-of-psl11?amp=1 |work=The Express Tribune |date=11 March 2026 |language=en}}</ref> It features a crescent and a star at the top, The crescent is embedded with 1600 small crystals, There are eight emerald-cut gemstones at the base of the trophy representing the eight PSL franchises.<ref>{{cite news |title=PSL 11 trophy unveiled as league enters new era |url=https://www.dawn.com/news/1981120 |work=Dawn |date=12 March 2026 |language=en}}</ref>
+
+===Profits===
+In May 2016, the [[Pakistan Cricket Board|PCB]] announced that the inaugural season of the PSL had yielded profits of {{US$|2.6 million}}.<ref>{{cite news|title=PCB reaps $2.6m profit from Pakistan Super League|url=https://tribune.com.pk/story/1096439/pcb-reaps-2-6m-profit-from-pakistan-sports-league/|date=3 May 2016|access-date=21 February 2017|work=[[The Express Tribune]]|author=AFP|archive-date=22 February 2017|archive-url=https://web.archive.org/web/20170222105648/https://tribune.com.pk/story/1096439/pcb-reaps-2-6m-profit-from-pakistan-sports-league/|url-status=live}}</ref> The [[2023 Pakistan Super League|2023 edition]] recorded revenue of Over Rs. 5 Billion. The revenue was accumulated through various sources, including broadcasting rights, title sponsorship, [[Gate receipts|gate money]], and other related rights.<ref>{{Cite web|date=26 June 2023|title=PCB earns more than Rs.5 billion from PSL 8|url=https://cricketpakistan.com.pk/en/news/detail/pcb-earns-more-than-rs5-billion-from-psl-8|website=Cricket Pakistan|access-date=22 November 2023}}</ref><ref>{{Cite web|date=26 June 2023|title=PSL 8 Strikes Gold: Records Revenue of Over Rs. 5 Billion|url=https://propakistani.pk/2023/06/26/psl-8-strikes-gold-records-revenue-of-over-rs-5-billion/|website=Propakistani|access-date=22 November 2023}}</ref>
+
+==Format==
+[[File:PSL Playoffs.svg|thumbnail|PSL playoffs system]]
+The PSL is played in a double [[Round-robin tournament|round-robin]] format. Every team plays each other twice and the top four advance to the playoffs. The playoffs use the [[Page playoff system]], like the Indian Premier League.
+
+The league follows the rules and regulations dictated by the [[International Cricket Council]]. However, it introduced DRS system in T20s which was later emulated by [[International Cricket Council]] as well. In the group stage, two points are awarded for a win, one for a no-result and none for a loss. In the event of tied scores after both teams have faced their quota of overs, a [[super over]] is used to determine the match winner. In the group stage teams are ranked on the following criteria:
+
+# Higher number of points
+# If equal, better run rate
+# If equal, highest number of wins
+# If equal, fewest losses
+# If still equal, the results of head-to-head meeting
+
+In any play-off match in which there is no result, a super over is used to determine the winner. If the super over is not possible or the result of the over is a tie, the team which finished in the highest league position at the end of the regular season is deemed the winner of the match.
+
+==Schedule==
+The PSL traditionally been held between February and March each year, with the only major disruption occurring during the [[COVID-19 in Pakistan|COVID-19 pandemic]]. The league previously took place before the start of the [[Indian Premier League]]. The [[2025 Pakistan Super League|2025 season]] was the last to be held in the traditional February–March slot, during which it overlapped with the IPL for the first time.<ref>{{Cite news |date=17 August 2022 |title=Pakistan Super League to clash with IPL in 2025, here's why |language=en |work=WIO News |url=https://www.wionews.com/sports/pakistan-super-league-to-clash-with-ipl-in-2025-heres-why-507800 |access-date=26 August 2022 |archive-date=26 August 2022 |archive-url=https://web.archive.org/web/20220826173506/https://www.wionews.com/sports/pakistan-super-league-to-clash-with-ipl-in-2025-heres-why-507800 |url-status=live}}</ref> However, scheduling changes announced by the [[Pakistan Cricket Board]] in 2025 confirmed that from the [[2026 Pakistan Super League|2026 season]] onward, the PSL would move to an April–May window to improve overseas player availability and avoid weather disruptions.<ref>{{cite news |title=Franchises, PCB all but agree over eight-team PSL, April–May window |url=https://www.dawn.com/news/1834150 |work=Dawn |date=18 May 2024 |access-date=5 October 2025}}</ref> [[2026 Pakistan Super League]] will start on 26 March and will end on 3 May
+
+==Teams==
+{{See also|List of Pakistan Super League team records|List of Pakistan Super League venues}}
+{{Location map+ |Pakistan |width=350|float=right|caption=Cities represented by PSL teams|places=
+{{Location map~ |Pakistan |lat=34.01|long=71.58 |label=[[Peshawar&nbsp;Zalmi]] |position=left}}
+{{Location map~ |Pakistan |lat=33.71|long=73.06 |label=[[Islamabad&nbsp; United]] |position=top}}
+{{location map~ |Pakistan
+|lat=33.85|long=73.18 |label=
+[[Rawalpindiz]] |position=bottom}}
+{{Location map~ |Pakistan |lat=31.54|long=74.34 |label=[[Lahore&nbsp;Qalandars]] |position=left}}
+{{Location map~ |Pakistan |lat=30.18|long=67.00 |label=[[Quetta&nbsp;Gladiators]] |position=left}}
+{{Location map~ |Pakistan |lat=24.86|long=67.01 |label=[[Karachi&nbsp;Kings]] |position=left}}
+{{Location map~ |Pakistan| lat=25.38 |long=68.33 |label=[[Hyderabad&nbsp;Kingsmen]] |position=right}}
+{{Location map~|Pakistan|lat_deg=30|lat_min=11|lon_deg=71|lon_min=28|background=|label=[[Multan&nbsp;Sultans]] |position=right}}
+}} 
+According to a PCB press release, around 20 parties showed an interest in buying franchises for the league before the first season.<ref name=NDTVSPORTS>{{cite news|title=PSL promises IPL style Cricket|url=http://sports.ndtv.com/cricket/news/248904-pakistan-super-league-glitz-glamour-and-promises-of-ipl-style-cricket|access-date=23 September 2015|publisher=NDTV Sports|date=21 September 2015|archive-url=https://web.archive.org/web/20150923054606/http://sports.ndtv.com/cricket/news/248904-pakistan-super-league-glitz-glamour-and-promises-of-ipl-style-cricket|archive-date=23 September 2015|url-status=dead}}</ref> On 18 October 2015 the [[Pakistan Cricket Board]] began accepting tenders for franchises with a deadline for bids of 15 November.<ref>{{cite web|title=PCB invites bids for Pakistan Super League franchises|url=http://en.dailypakistan.com.pk/sports/pc-invites-bids-for-pakistan-super-league-franchises/|website=Daily Pakistan|date=18 October 2015 |publisher=Ali Zain|access-date=1 November 2015|archive-date=21 October 2015|archive-url=https://web.archive.org/web/20151021220106/http://en.dailypakistan.com.pk/sports/pc-invites-bids-for-pakistan-super-league-franchises/|url-status=live}}</ref> Bid winners were granted the rights to a franchise for ten years.<ref>{{cite web|title=PCB initiates bids for Pakistan Super League franchises|date=18 October 2015 |url=http://www.cricbuzz.com/cricket-news/75259/pakistan-cricket-board-initiates-bids-for-pakistan-super-league-franchises|publisher=[[Cricbuzz]]|access-date=1 November 2015|archive-date=8 December 2015|archive-url=https://web.archive.org/web/20151208100633/http://www.cricbuzz.com/cricket-news/75259/pakistan-cricket-board-initiates-bids-for-pakistan-super-league-franchises|url-status=live}}</ref>
+
+All five franchises for the first season of the league were sold on 3 December 2015, for a total price of {{US$|93 million}}, after seven bidders presented formal proposals.<ref>{{cite news|title=Pakistan Super League: Seven companies fight it out to buy franchises|url=https://tribune.com.pk/story/1002853/p|access-date=3 December 2015|work=The Express Tribune|author=Nabeel Hashmi|archive-date=7 February 2018|archive-url=https://web.archive.org/web/20180207025033/https://tribune.com.pk/story/1002853/p/|url-status=live}}</ref><ref>{{cite news |author=Umar Farooq |date=3 December 2015 |title=PCB sells five PSL teams for $93m |work=ESPNcricinfo |url=https://www.espncricinfo.com/story/pcb-sells-five-psl-teams-for-93m-948267 |access-date=2 July 2017 |archive-date=11 May 2021 |archive-url=https://web.archive.org/web/20210511210629/https://www.espncricinfo.com/story/pcb-sells-five-psl-teams-for-93m-948267 |url-status=live }}</ref>
+
+In April 2017, the PCB invited bids for a sixth team. As many as 40 national and international parties expressed an interest in buying the sixth franchise<ref>{{cite news|url=http://pakobserver.net/pcb-invites-bids-sixth-psl-team/|title=PCB invites bids for sixth PSL team|newspaper=Pakistan Observer|access-date=29 April 2017|archive-url=https://web.archive.org/web/20170429192454/http://pakobserver.net/pcb-invites-bids-sixth-psl-team/|archive-date=29 April 2017|url-status=dead}}</ref> and on 1 June the rights to the Multan franchise was bought by [[Schön Properties]] for a price of {{US$|5.2 million}} a year, the most expensive franchise rights in the league.<ref>{{cite web|url=https://tribune.com.pk/story/1424861/m|title=Multan becomes PSL's sixth franchise as Schon Group buys franchise|work=The Express Tribune|date=June 2017 |access-date=2 June 2017|archive-date=6 February 2018|archive-url=https://web.archive.org/web/20180206191840/https://tribune.com.pk/story/1424861/m/|url-status=live}}</ref> In November 2018, however, the rights were terminated by the PCB due to issues with payments. The rights were resold to a consortium led by Ali Tareen for {{US$|6.35 million}}.
+
+In November 2025, following the conclusion of the original ten-year agreements, the PCB conducted a re-evaluation of franchise values through [[Ernst & Young]]. The financial model was shifted from US dollars to [[Pakistani Rupee]]s for the next ten-year cycle (2026–2035). Five of the original six franchises renewed their rights under the new valuation terms, with annual fees set at {{PKR|670 million}} for [[Lahore Qalandars]], {{PKR|640 million}} for [[Karachi Kings]], {{PKR|490 million}} for [[Peshawar Zalmi]], {{PKR|480 million}} for [[Islamabad United]], and {{PKR|340 million}} for [[Quetta Gladiators]].<ref>{{cite news|title=Quetta Gladiators, Karachi Kings renew 10-year PSL deals|url=https://dailytimes.com.pk/1406853/quetta-gladiators-karachi-kings-renew-10-year-psl-deals/|work=Daily Times|date=25 November 2025|access-date=26 November 2025}}</ref><ref>{{cite news|title=Lahore Qalandars, Peshawar Zalmi renew PSL rights for 10 years|url=https://www.crictracker.com/cricket-news/lahore-qalandars-peshawar-zalmi-renew-psl-rights-for-10-years/|work=CricTracker|date=25 November 2025|access-date=26 November 2025}}</ref> In late November 2025, [[Multan Sultans]] didn't finalized their renewal agreement with the [[Pakistan Cricket Board]], resulting in the franchise being placed under PCB administration and scheduled for auction on 9 February 2026 ahead of the [[2026 Pakistan Super League|2026 season]].<ref>{{cite news|title=Comment: Will three PSL teams be sold?|url=https://tribune.com.pk/story/2579075/comment-will-three-teams-be-sold|work=The Express Tribune|date=25 November 2025|access-date=26 November 2025}}</ref><ref>{{cite news|title=Multan Sultans auction to take place on February 9 in Lahore |url=https://www.ipl.com/cricket/news/multan-sultans-auction-to-take-place-on-february-9-in-lahore/ |website=ipl.com |date= 5 February 2026
+|access-date= 8 February 2026
+}}</ref>
+
+The PCB confirmed that the PSL would expand from six to eight teams beginning with the [[2026 Pakistan Super League|2026 season]], following the expiry of the original franchise agreements after the [[2025 Pakistan Super League|2025 edition]].<ref>{{cite web |title=PCB confirms PSL expansion from 2026 with two new teams |url=https://www.espncricinfo.com/story/psl-to-become-an-eight-team-tournament-from-2026-1434186 |work=ESPNcricinfo |date=17 May 2024 |access-date=5 October 2025}}</ref><ref>{{cite news |title=HBL PSL to add two more teams, new host cities next season |url=https://tribune.com.pk/story/2534093/hbl-psl-to-add-two-more-teams-new-host-cities-next-season |work=The Express Tribune |date=14 March 2025 |access-date=5 October 2025}}</ref> In November 2025 the PCB published a shortlist of six candidate cities for the two new franchises: [[Hyderabad, Sindh|Hyderabad]], [[Rawalpindi (PSL team)|Rawalpindi]], [[Faisalabad]], [[Gilgit]], [[Muzaffarabad]] and [[Sialkot]].<ref>{{cite news |title=PCB confirms six-city shortlist for two new PSL teams |url=https://www.dawn.com/news/1955032 |work=Dawn |date=14 November 2025 |access-date=14 November 2025}}</ref> On 8 January, the new teams were announced to be representing the cities Hyderabad and Sialkot, with FSK and OZ Developers winning the bid with {{PKR|1.75 billion}} and {{PKR|1.85 bilion}} respectively.<ref name="expansion26">{{cite news|url=https://tribune.com.pk/story/2585422/p|title=Sialkot, Hyderabad enter HBL PSL after Rs3.6b auction|date=8 January 2026|accessdate=9 January 2026|work=The Express Tribune|author=Zulfiqar Baig}}</ref>
+
+Following the 9 February 2026 auction, the [[Multan Sultans]] franchise was sold to Walee Technologies for a record PKR 2.45 billion, which subsequently relocated the team to [[Rawalpindi]] and rebranded it as [[Rawalpindiz]].<ref>{{cite news|title=Multan Sultans sold for record Rs2.45bn|url=https://www.dawn.com/news/1972074|work=[[Dawn (newspaper)]]|date=9 February 2026}}</ref><ref>{{cite news|title=Multan Sultans Sold for Rs2.45bn, Rebranding to Rawalpindi|url=https://www.pakistantoday.com.pk/2026/02/09/multan-sultans-sold-for-rs2-45bn-in-psl-record-deal-new-owner-announces-rawalpindi-identity|work=[[Pakistan Today]]|date=9 February 2026}}</ref> However, the Sultans brand returned to the league shortly after when the newly established expansion team, the [[Sialkot Stallionz]], faced immediate financial instability. Following the reported bankruptcy of original owners OZ Developers, [[Gohar Shah|Syed Mohammad Gohar Hussain Shah]] of CD Ventures acquired a 99% stake in the Sialkot franchise in February 2026 to stabilize the team ahead of its debut.<ref name="Wisden26">{{cite news |title=Multan Sultans Return To PSL As New Franchise Sells Ownership Before Playing First Match |url=https://www.wisden.com/series/psl-2026/cricket-news/multan-sultans-return-to-psl-as-new-franchise-sells-ownership-before-playing-first-match |work=Wisden |date=3 March 2026}}</ref>
+
+On 3 March 2026, the [[Pakistan Cricket Board]] officially approved Shah's request to rebrand the Sialkot entity as the [[Multan Sultans]], citing his desire to restore [[Punjab, Pakistan|South Punjab]]'s representation in the league.<ref name="GeoSuper">{{cite news|title=PSL 11: Sialkot Stallionz rebranded as Multan Sultans following CD Ventures acquisition|url=https://www.geosuper.tv/latest/53949-psl-11-sialkot-stallionz-rebranded-as-multan-sultans-following-cd-ventures-acquisition|work=Geo Super|date=3 March 2026}}</ref><ref>{{cite news|title=Sialkot Stallionz rebranded as Multan Sultans|url=https://www.thenews.pk/print/1402551-sialkot-stallionz-rebranded-as-multan-sultans|work=[[The News International]]|date=4 March 2026}}</ref> The transition involved increasing the annual franchise fee from PKR 1.85 billion to PKR 2 billion, alongside a one-time US$1 million name-change fee.<ref name="Wisden26" /> Under the new management, Shah introduced a Total Cricket philosophy and appointed [[Ashton Turner]] as captain to lead the rebranded team for the [[2026 Pakistan Super League|2026 season]].<ref>{{cite news|title=Gohar Shah reveals plan to reshape Multan Sultans ahead of PSL|url=https://www.pakistantoday.com.pk/2026/03/18/gohar-shah-reveals-plan-to-reshape-multan-sultans-ahead-of-psl|work=Pakistan Today|date=18 March 2026}}</ref>
+
+=== Current teams ===
+{| class="wikitable"
+|-
+!colspan="2"| Team
+!City
+!Owner
+!Home ground
+!Founded
+!Captain
+!Coach
+|-
+| style="background:#800000;" |
+|[[Hyderabad Kingsmen]]
+|[[Hyderabad, Pakistan|Hyderabad]]
+|FKS Group
+|[[Niaz Stadium]], [[Hyderabad, Pakistan|Hyderabad]]
+|2026{{efn|name=2k26|1=The team was founded in 2026 and made its PSL debut in the same year.}}
+|[[Marnus Labuschagne]]
+|[[Jason Gillespie]]
+|-
+| style="background:#d92028;" |
+|[[Islamabad United]]
+|[[Islamabad]]
+|[[Leonine Global Sports]]
+|[[Islamabad Cricket Stadium]], [[Islamabad]] (planned)
+|2015{{efn|name=i|The team was founded in 2015 and made its PSL debut in the 2016 season.}}
+|[[Shadab Khan]]
+|[[Luke Ronchi]]
+|-
+| style="background:#1c5f93;" |
+|[[Karachi Kings]]
+|[[Karachi]]
+|[[Salman Iqbal]]
+|[[National Stadium, Karachi|National Stadium]], [[Karachi]]
+|2015{{efn|name=i}}
+|[[David Warner (cricketer)|David Warner]]
+|[[Ravi Bopara]]
+|-
+| style="background:#96D701;" |
+|[[Lahore Qalandars]]
+|[[Lahore]]
+|[[Fawad Rana]]
+|[[Gaddafi Stadium]], [[Lahore]]
+|2015{{efn|name=i}}
+|[[Shaheen Afridi]]
+|[[Russell Domingo]]
+|-
+|style="background:#1E2A56;" |
+|[[Multan Sultans]]
+|[[Multan]]
+|CD Venture 
+|[[Multan Cricket Stadium]]
+|2018
+|[[Ashton Turner]]
+|[[Tim Paine]]
+|-
+| style="background:#FFFF00;" |
+|[[Peshawar Zalmi]]
+|[[Peshawar]]
+|[[Javed Afridi]]
+|[[Imran Khan Cricket Stadium]], [[Peshawar]]
+|2015{{efn|name=i}}
+|[[Babar Azam]]
+|[[Ottis Gibson]]
+|-
+| style="background:#3a225c;" |
+|[[Quetta Gladiators]]
+|[[Quetta]]
+|[[Nadeem Omar]]
+|[[Bugti Stadium]], [[Quetta]]
+|2015{{efn|name=i}}
+|[[Saud Shakeel]]
+|[[Moin Khan]]
+|-
+| style="background:#FE5B01;" |
+|[[Rawalpindiz]]
+|[[Rawalpindi]]
+|Walee Technologies
+|[[Rawalpindi Cricket Stadium]], [[Rawalpindi]]
+|2026{{efn|name=2k26}}
+|[[Mohammad Rizwan]]
+|[[Justin Kemp]]
+|}
+{{notelist}}
+
+===Franchise fees===
+{{Pie chart
+| thumb = right
+| caption = Distribution of Annual Franchise Fees (PKR crore)
+| label1 = Rawalpindiz
+| value1 = 245
+| color1 = #E32636
+| label2 = Multan Sultans
+| value2 = 200
+| color2 = #0047AB
+| label3 = Hyderabad Kingsmen
+| value3 = 175
+| color3 = #FFD700
+| label4 = Lahore Qalandars
+| value4 = 67
+| color4 = #008000
+| label5 = Karachi Kings
+| value5 = 64
+| color5 = #0F52BA
+| label6 = Peshawar Zalmi
+| value6 = 49
+| color6 = #FFCC00
+| label7 = Islamabad United
+| value7 = 48
+| color7 = #D73B3E
+| label8 = Quetta Gladiators
+| value8 = 34
+| color8 = #4B0082
+}}
+The following table outlines the annual franchise fees as of the 2026 expansion. The total annual revenue generated for the [[Pakistan Cricket Board]] (PCB) from these fees is approximately {{PKR|882 crore}}.
+
+{| class="wikitable sortable" style="text-align:right"
+|+ PSL Annual Franchise Fees
+! scope="col" | Franchise
+! scope="col" | Fee (PKR crore)
+! scope="col" | % of Total
+|-
+! [[Rawalpindiz]]
+| 245
+| 27.8%
+|-
+! [[Multan Sultans]]
+| 200
+| 22.7%
+|-
+! [[Hyderabad Kingsmen]]
+| 175
+| 19.8%
+|-
+! [[Lahore Qalandars]]
+| 67
+| 7.60%
+|-
+! [[Karachi Kings]]
+| 64
+| 7.26%
+|-
+! [[Peshawar Zalmi]]
+| 49
+| 5.56%
+|-
+! [[Islamabad United]]
+| 48
+| 5.44%
+|-
+! [[Quetta Gladiators]]
+| 34
+| 3.85%
+|-
+! Total
+! 882
+! 100%
+|}
+<small>''Note: The table reflects final valuations only for each franchise.''</small>
+{{clear}}
+
+==Results==
+{{main|List of Pakistan Super League records and statistics}}
+
+The [[2016 Pakistan Super League|first season of the PSL]] was played entirely in the [[United Arab Emirates]] due to security reasons.<ref>{{Cite web |last=Yaqoob |first=Mohammad |date=7 February 2016 |title=SPORTS DIARY: Pros and cons of PSL in UAE |url=https://www.dawn.com/news/1237907 |access-date=27 April 2023 |website=DAWN.COM |language=en}}</ref><ref>{{Cite web |agency=Reuters |date=23 February 2016 |title=PSL — Sold out finale could provide perfect climax to Pakistan's 'dream' |url=https://www.dawn.com/news/1241413 |access-date=27 April 2023 |website=DAWN.COM |language=en}}</ref> The inaugural champions were [[Islamabad United]], who defeated [[Quetta Gladiators]] in the final. [[Peshawar Zalmi]] were the 2017 PSL champions, beating Quetta Gladiators in [[Lahore]] on 5 March 2017. Islamabad United were the 2018 PSL champions, beating defending champions [[Peshawar Zalmi]] on 25 March 2018. Quetta Gladiators defeated Peshawar Zalmi to win their first title on 17 March 2019 in [[Karachi]], in 2020 [[Karachi Kings]] took the trophy home.<ref name="The News">{{cite news |title=PSL Final 2019: Quetta Gladiators clinch maiden PSL title |url=https://www.thenews.com.pk/latest/445209-psl-final-2019-live-updates |work=The News International |date=18 March 2019 |access-date=15 April 2019 |archive-date=21 March 2019 |archive-url=https://web.archive.org/web/20190321071751/https://www.thenews.com.pk/latest/445209-psl-final-2019-live-updates |url-status=live }}</ref> [[Multan Sultans]], who won their first title defeating [[Peshawar Zalmi]] on 24 June 2021 in Abu Dhabi. [[Lahore Qalandars]] won their first title on 27 February 2022, against reigning champions [[Multan Sultans in 2022|Multan Sultan]]. Lahore Qalandars again defeated Multan Sultans with a minor margin of 1 run to win their consecutive 2nd title of the tournament in its 8th edition on 18 March 2023. [[Islamabad United]] became first team to win three title on 18 March 2024 when they defeated Multan Sultans by 2 wickets. It was Multan's fourth consecutive final and third consecutive runner up finish. Lahore Qalandars also won their third title by defeating Quetta Gladiators by 6 wickets on 25 May 2025. [[Shaheen Afridi]] is most successful captain of the League.
+
+===Final results===
+{| class="wikitable" style="text-align: center;"
+! rowspan="2" | Season
+! rowspan="2" | No. of teams
+! colspan="3" | Final
+! rowspan="2" | Venue
+! rowspan="2" | Player of the Tournament
+|-
+! Winner
+! Winning margin
+! Runner-up
+|-
+!2016<br />''[[2016 Pakistan Super League Final|Details]]''
+|rowspan=2 style="text-align: center;"|5
+|[[Islamabad United]]<br /><small>175/4 (18.4 overs)</small>
+|6 wickets<br /><small>[http://www.espncricinfo.com/ci/engine/match/959221.html Scorecard]</small>
+|[[Quetta Gladiators]]<br /><small>174/7 (20 overs)</small>
+|[[Dubai International Cricket Stadium]], [[Dubai]]
+|[[Ravi Bopara]] ([[Karachi Kings]])
+|-
+!2017<br />''[[2017 Pakistan Super League Final|Details]]''
+|[[Peshawar Zalmi]]<br /><small>148/6 (20 overs)</small>
+|58 runs<br /><small>[http://www.espncricinfo.com/ci/engine/match/1076009.html Scorecard]</small>
+|[[Quetta Gladiators]]<br /><small>90 (16.3 overs)</small>
+|[[Gaddafi Stadium]], [[Lahore]]
+|[[Kamran Akmal]] ([[Peshawar Zalmi]])
+|-
+!2018<br />''[[2018 Pakistan Super League Final|Details]]''
+|rowspan=8 style="text-align: center;"|6
+|[[Islamabad United]]<br /><small>154/7 (16.5 overs)</small>
+|3 wickets<br /><small>[http://www.espncricinfo.com/series/8679/game/1128851 Scorecard]</small>
+|[[Peshawar Zalmi]]<br /><small>148/9 (20 overs)</small>
+|rowspan=3|[[National Stadium, Karachi|National Stadium]], [[Karachi]]
+|[[Luke Ronchi]] ([[Islamabad United]])
+|-
+!2019<br />''[[2019 Pakistan Super League Final|Details]]''
+|[[Quetta Gladiators]]<br /><small>139/2 (17.5 overs)</small>
+|8 wickets<br /><small>[http://www.espncricinfo.com/series/18898/game/1168853 Scorecard]</small>
+|[[Peshawar Zalmi]]<br /><small>138/8 (20 overs)</small>
+|[[Shane Watson]] ([[Quetta Gladiators]])
+|-
+!2020<br />''[[2020 Pakistan Super League Final|Details]]''
+|[[Karachi Kings]]<br /><small>135/5 (18.4 overs)</small>
+|5 wickets<br /><small>[https://www.espncricinfo.com/series/8679/game/1231146 Scorecard]</small>
+|[[Lahore Qalandars]]<br /><small>134/7 (20 overs)</small>
+|[[Babar Azam]] ([[Karachi Kings]])
+|-
+!2021<br />''[[2021 Pakistan Super League Final|Details]]''
+|[[Multan Sultans]]<br /><small>206/4 (20 overs)</small>
+|47 runs<br /><small>[https://www.espncricinfo.com/series/8679/game/1247044 Scorecard]</small>
+|[[Peshawar Zalmi]]<br /><small>159/9 (20 overs)</small>
+|[[Sheikh Zayed Cricket Stadium]], [[Abu Dhabi]]
+|[[Sohaib Maqsood]] ([[Multan Sultans]])
+|-
+!2022<br />''[[2022 Pakistan Super League Final|Details]]''
+|[[Lahore Qalandars]]<br /><small>180/5 (20 overs)</small>
+|42 runs<br /><small>[https://www.espncricinfo.com/ci/engine/match/1293033.html Scorecard]</small>
+|[[Multan Sultans]]<br /><small>138 (19.3 overs)</small>
+|rowspan=2|[[Gaddafi Stadium]], [[Lahore]]
+|[[Mohammad Rizwan (cricketer)|Mohammad Rizwan]] ([[Multan Sultans]])
+|-
+!|2023<br />''[[2023 Pakistan Super League Final|Details]]''
+|[[Lahore Qalandars]]<br /> <small>200/6 (20 overs)</small>
+|1 run<br /><small>[https://www.espncricinfo.com/ci/engine/match/1354957.html Scorecard]</small>
+|[[Multan Sultans]]<br /> <small>199/8 (20 overs)    </small>
+| [[Ihsanullah (Pakistani cricketer)|Ihsanullah]] ([[Multan Sultans]])
+|-
+!2024<br />''[[2024 Pakistan Super League final|Details]]''
+|[[Islamabad United]]<br /> <small>163/8 (20 overs)</small>
+|2 wickets<br /><small>[https://www.espncricinfo.com/ci/engine/match/1416505.html Scorecard]</small>
+|[[Multan Sultans]]<br /><small>159/9 (20 overs)</small>
+|[[National Stadium, Karachi|National Stadium]], [[Karachi]]
+| [[Shadab Khan]] ([[Islamabad United]])
+|-
+!2025<br />''[[2025 Pakistan Super League final|Details]]''
+|[[Lahore Qalandars]]<br /> <small>204/4 (19.5 overs)</small>
+|6 wickets<br /><small>[https://www.espncricinfo.com/series/pakistan-super-league-2025-1434269/quetta-gladiators-vs-lahore-qalandars-final-1475271/live-cricket-score Scorecard]</small>
+|[[Quetta Gladiators]]<br /> <small>201/9 (20 overs)</small>
+|[[Gaddafi Stadium]], [[Lahore]]
+| [[Hassan Nawaz (cricketer)|Hassan Nawaz]] ([[Quetta Gladiators]])
+|-
+!2026<br />''[[2026 Pakistan Super League final|Details]]''
+|rowspan=1 style="text-align: center;"|8
+|[[Peshawar Zalmi]]<br /> <small>130/5 (15.2 overs) </small>
+|5 wickets <br /><small>[https://www.espncricinfo.com/series/pakistan-super-league-2026-1515734/hyderabad-kingsmen-vs-peshawar-zalmi-final-1527595/live-cricket-score Scorecard]</small>
+|[[Hyderabad Kingsmen]]<br /> <small>129/10 (18 overs)</small>
+|[[Gaddafi Stadium]], [[Lahore]]
+| [[Sufiyan Muqeem]] ([[Peshawar Zalmi]])
+|-
+|}
+
+=== Champions ===
+
+''Teams are ranked by the number of titles won, in case of a tie, the team with more runner-up appearances is ranked higher and then by alphabetical order.''
+
+{| class="wikitable"
+! Team
+!Title(s)
+!Runner-up
+!Seasons won
+!Seasons runner-up
+|-
+|[[Lahore Qalandars]]
+|'''3'''
+| 1
+|[[2022 Pakistan Super League|2022]], [[2023 Pakistan Super League|2023]], [[2025 Pakistan Super League|2025]]
+|[[2020 Pakistan Super League|2020]]
+|-
+|[[Islamabad United]]
+|'''3'''
+| –
+|[[2016 Pakistan Super League|2016]], [[2018 Pakistan Super League|2018]], [[2024 Pakistan Super League|2024]]
+| –
+|-
+|[[Peshawar Zalmi]]
+|'''2'''
+| 3
+|[[2017 Pakistan Super League|2017]], [[2017 Pakistan Super League|2026]]
+|[[2018 Pakistan Super League|2018]], [[2019 Pakistan Super League|2019]], [[2021 Pakistan Super League|2021]]
+|-
+|[[Multan Sultans]]
+|'''1'''
+| 3
+|[[2021 Pakistan Super League|2021]]
+|[[2022 Pakistan Super League|2022]], [[2023 Pakistan Super League|2023]], [[2024 Pakistan Super League|2024]]
+|-
+|[[Quetta Gladiators]]
+|'''1'''
+| 3
+|[[2019 Pakistan Super League|2019]]
+|[[2016 Pakistan Super League|2016]], [[2017 Pakistan Super League|2017]], [[2025 Pakistan Super League|2025]]
+|-
+|[[Karachi Kings]]
+|'''1'''
+| –
+|[[2020 Pakistan Super League|2020]]
+| –
+|-
+|}
+
+===Team results===
+{| class="wikitable" style="text-align: center;"
+!Season<br />(No. of teams)
+![[2016 Pakistan Super League|2016]]<br />(5)
+![[2017 Pakistan Super League|2017]]<br />(5)
+![[2018 Pakistan Super League|2018]]<br />(6)
+![[2019 Pakistan Super League|2019]]<br />(6)
+![[2020 Pakistan Super League|2020]]<br />(6)
+![[2021 Pakistan Super League|2021]]<br />(6)
+![[2022 Pakistan Super League|2022]]<br />(6)
+![[2023 Pakistan Super League|2023]]<br />(6)
+![[2024 Pakistan Super League|2024]]<br/> (6)
+![[2025 Pakistan Super League|2025]]<br/> (6)
+![[2026 Pakistan Super League|2026]]<br/> (8)
+|-
+!{{diagonal split header|Teams|Hosts(s)}}
+!UAE
+!UAE<br />Pakistan
+!UAE<br />Pakistan
+!UAE<br />Pakistan
+!Pakistan
+!Pakistan<br />UAE
+!Pakistan
+!Pakistan
+!Pakistan
+!Pakistan
+!Pakistan
+|-
+|style="text-align:left;"|[[Hyderabad Kingsmen]] || colspan="10" style="background: #ececec;" |Team did not exist
+|style="background:silver;"|RU
+|-
+|style="text-align:left;"|[[Islamabad United]]
+|style="background:gold;"|'''W'''
+|PO
+|style="background:gold;"|'''W'''
+|PO
+|Grp
+|PO
+|PO
+|PO
+|style="background:gold;"|'''W'''
+|PO
+|PO
+|-
+|style="text-align:left;"|[[Karachi Kings]]
+|PO
+|PO
+|PO
+|PO
+|style="background:gold;"|'''W'''
+|PO
+|Grp
+|Grp
+|Grp
+|PO
+|Grp
+|-
+|style="text-align:left;"|[[Lahore Qalandars]]
+|Grp
+|Grp
+|Grp
+|Grp
+|style="background:silver;"|RU
+|Grp
+|style="background:gold;"|'''W'''
+|style="background:gold;"|'''W'''
+|Grp
+|style="background:gold;"|'''W'''
+|Grp
+|-
+|style="text-align:left;"|[[Multan Sultans]] ||style="background: #ececec;" colspan=2|Team did not exist
+|Grp
+|Grp
+|PO
+|style="background:gold;"|'''W'''
+|style="background:silver;"|RU
+|style="background:silver;"|RU
+|style="background:silver;"|RU
+|Grp
+|PO
+|-
+|style="text-align:left;"|[[Peshawar Zalmi]]
+|PO
+|style="background:gold;"|'''W'''
+|style="background:silver;"|RU
+|style="background:silver;"|RU
+|PO
+|style="background:silver;"|RU
+|PO
+|PO
+|PO
+|Grp
+|style="background:gold;"|'''W'''
+|-
+|style="text-align:left;"|[[Quetta Gladiators]]
+|style="background:silver;"|RU
+|style="background:silver;"|RU
+|PO
+|style="background:gold;"|'''W'''
+|Grp
+|Grp
+|Grp
+|Grp
+|Grp
+|style="background:silver;"|RU
+|Grp
+|-
+|style="text-align:left;"|[[Rawalpindiz]] || colspan="10" style="background: #ececec;" |Team did not exist
+|Grp
+|}
+
+; Key:
+* {{bg|gold|W}}: Winner;
+* {{bg|silver|RU}}: Runner-up;
+* PO: Eliminated in the play-off stage
+* Grp: Eliminated in the group stage
+
+===Team results summary===
+{{Main|List of Pakistan Super League records and statistics}}
+
+{{updated|22 February 2026}}
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! scope="col" style="width:3px;" class="unsortable" | 
+! scope="col" | Team
+! scope="col" | Span
+! scope="col" | Best result
+! scope="col" | {{abbr|App|Appearances}}
+! scope="col" | {{abbr|Pld|Played}}
+! scope="col" | {{abbr|Won|Won}}
+! scope="col" | {{abbr|Lost|Lost}}
+! scope="col" | {{abbr|Tie+W|Tie+Win}}
+! scope="col" | {{abbr|Tie+L|Tie+Loss}}
+! scope="col" | {{abbr|NR|No Result}}
+! scope="col" | {{abbr|Win%|Win percentage}}
+|-
+| style="background:#FF0000;" |
+| style="text-align:left;" | [[Islamabad United]]
+| 2016–present
+| style="background:gold;" | '''Champions''' ([[2016 Pakistan Super League|2016]], [[2018 Pakistan Super League|2018]], [[2024 Pakistan Super League|2024]])
+| 11
+| 123 || 67 || 55 || 1 || 0 || 0 || 55.28
+|-
+| style="background:#008000;" |
+| style="text-align:left;" | [[Lahore Qalandars]]
+| 2016–present
+| style="background:gold;" | '''Champions''' ([[2022 Pakistan Super League|2022]], [[2023 Pakistan Super League|2023]], [[2025 Pakistan Super League|2025]])
+| 11
+| 117 || 53 || 60 || 1 || 2 || 1 || 46.55
+|-
+| style="background:#FFD700;" |
+| style="text-align:left;" | [[Peshawar Zalmi]]
+| 2016–present
+| style="background:gold;" | '''Champions''' ([[2017 Pakistan Super League|2017]], [[2026 Pakistan Super League|2026]])
+| 11
+| 125 || 69 || 54 || 1 || 0 || 1 || 56.45
+|-
+| style="background:#4B0082;" |
+| style="text-align:left;" | [[Quetta Gladiators]]
+| 2016–present
+| style="background:gold;" | '''Champions''' ([[2019 Pakistan Super League|2019]])
+| 11
+| 114 || 55 || 57 || 0 || 0 || 2 || 49.10
+|-
+| style="background:#000080;" |
+| style="text-align:left;" | [[Karachi Kings]]
+| 2016–present
+| style="background:gold;" | '''Champions''' ([[2020 Pakistan Super League|2020]])
+| 11
+| 116 || 47 || 65 || 1 || 1 || 2 || 42.10
+|-
+|style="background:#1E2A56;" |
+| style="text-align:left;" | [[Multan Sultans]]
+| 2018–present
+| style="background:gold;" | '''Champions''' ([[2021 Pakistan Super League|2021]])
+| 9
+| 100 || 52 || 45 || 0 || 1 || 2 || 53.06
+|-
+| style="background:#800000;" |
+| style="text-align:left;" | [[Hyderabad Kingsmen]]
+| 2026–present
+| style="background-color: silver" |'''Runners-up''' ([[2026 Pakistan Super League|2026]])
+| 1
+| 13 || 7 || 6 || 0 || 0 || 0 || 53.84
+|-
+| style="background:#FE5B01;" |
+| style="text-align:left;" | [[Rawalpindiz]]
+| 2026–present
+| style="background:#F47721;"|'''League stage'''
+| 1
+| 10 || 1 || 9 || 0 || 0 || 0 || 10.00
+|-
+|}
+[https://www.espncricinfo.com/records/trophy/team-results-summary/pakistan-super-league-205 Source]
+
+=== Individual awards ===
+
+The Pakistan Super League honors outstanding individual excellence through three dedicated awards named after iconic figures of Pakistan cricket. The '''Hanif Mohammad Award''' (Green Cap) is presented to the tournament's leading run-scorer, while the '''Fazal Mahmood Award''' (Maroon Cap) recognizes the leading wicket-taker. The best wicket-keeper is honored with the '''Imtiaz Ahmed Award'''. Although these named trophies were formally introduced in the 2017 season, the league officially recognizes the statistical leaders from the 2016 inaugural edition as the original recipients of these honors.<ref>{{cite news|title=Late Abdul Sattar Edhi honoured by PSL with caps, bat|url=https://www.dawn.com/news/1313549|access-date=8 February 2022|work=Dawn|date=8 February 2017}}</ref>
+
+{| class="wikitable sortable" style="text-align:center; width:100%; font-size:95%; line-height:1.6;"
+|- style="background:#efefef;"
+! scope="col" | Season !! scope="col" | Hanif Mohammad Award<br /><small>(Most Runs)</small> !! scope="col" | Fazal Mahmood Award<br /><small>(Most Wickets)</small> !! scope="col" | Imtiaz Ahmed Award<br /><small>(Best Wicket-keeper)</small> !! scope="col" | Player of the Series
+|-
+! 2016
+| [[Umar Akmal]] (335) || [[Andre Russell]] (16) || [[Sarfaraz Ahmed]] (10) || [[Ravi Bopara]]<ref>{{cite web|url=https://www.espncricinfo.com/records/tournament/batting-most-runs-career/pakistan-super-league-2015-16-10334|title=PSL 2016 Stats and Award Winners|publisher=ESPNcricinfo|access-date=18 March 2024}}</ref>
+|-
+! 2017
+| [[Kamran Akmal]] (353) || [[Sohail Khan (cricketer)|Sohail Khan]] (16) || [[Kamran Akmal]] (12) || [[Kamran Akmal]]<ref>{{cite web|url=https://www.pcb.com.pk/news-details/kamran-akmal-cleans-up-psl-awards.html|title=Kamran Akmal cleans up PSL 2017 awards|publisher=PCB|access-date=18 March 2024}}</ref>
+|-
+! 2018
+| [[Luke Ronchi]] (435) || [[Faheem Ashraf]] (18) || [[Kumar Sangakkara]] (10) || [[Luke Ronchi]]<ref>{{cite web|url=https://www.dawn.com/news/1397554|title=Ronchi's blitz helps Islamabad United claim second PSL title|work=Dawn|date=26 March 2018}}</ref>
+|-
+! 2019
+| [[Shane Watson]] (430) || [[Hasan Ali (cricketer)|Hasan Ali]] (25) || [[Luke Ronchi]] (11) || [[Shane Watson]]<ref>{{cite news|title=Shane Watson named player of PSL 2019|url=https://www.dawn.com/news/1470258|work=Dawn|date=18 March 2019}}</ref>
+|-
+! 2020
+| [[Babar Azam]] (473) || [[Shaheen Afridi]] (17) || [[Ben Dunk]] (9) || [[Babar Azam]]<ref>{{cite news|title=Babar Azam named Player of PSL 2020|url=https://www.geosuper.tv/latest/6835-babar-azam-named-player-of-psl-2020|work=Geo Super|date=17 November 2020}}</ref>
+|-
+! 2021
+| [[Babar Azam]] (554) || [[Shahnawaz Dahani]] (20) || [[Mohammad Rizwan]] (20) || [[Sohaib Maqsood]]<ref>{{cite web|url=https://www.psl-t20.com/news/2479|title=Sultans' Shahnawaz Dahani named Best Bowler of PSL 6|publisher=PSL Official|access-date=18 March 2024}}</ref>
+|-
+! 2022
+| [[Fakhar Zaman (cricketer)|Fakhar Zaman]] (588) || [[Shaheen Afridi]] (20) || [[Mohammad Rizwan]] (9) || [[Mohammad Rizwan]]<ref>{{cite news|title=Mohammad Rizwan named Player of PSL 7|url=https://tribune.com.pk/story/2345579/mohammad-rizwan-named-player-of-hbl-psl-7|work=The Express Tribune|date=27 February 2022}}</ref>
+|-
+! 2023
+| [[Mohammad Rizwan]] (550) || [[Abbas Afridi (cricketer)|Abbas Afridi]] (23) || [[Mohammad Rizwan]] (14) || [[Ihsanullah (Pakistani cricketer)|Ihsanullah]]<ref>{{cite web|url=https://www.espncricinfo.com/series/pakistan-super-league-2022-23-1351532/multan-sultans-vs-lahore-qalandars-final-1354957/match-report|title=Ihsanullah named Player of PSL 8|publisher=ESPNcricinfo|access-date=18 March 2024}}</ref>
+|-
+! 2024
+| [[Babar Azam]] (569) || [[Usama Mir]] (24) || [[Azam Khan (cricketer, born 1998)|Azam Khan]] (10) || [[Shadab Khan]]<ref>{{cite news|title=Shadab Khan named Player of PSL 2024|url=https://www.geosuper.tv/latest/32958-psl-2024-award-winners-full-list|work=Geo Super|date=18 March 2024}}</ref>
+|-
+! 2025
+| [[Sahibzada Farhan]] (449) || [[Shaheen Afridi]] (19) || [[Mohammad Haris]] (12) || [[Hassan Nawaz (cricketer)|Hassan Nawaz]]<ref>{{cite news|title=PSL 2025 Awards: Hassan Nawaz named Player of the Tournament|url=https://www.geosuper.tv/latest/44643-hasan-nawaz-headlines-psl-10-awards-list|work=Geo Super|date=26 May 2025}}</ref>
+|-
+! 2026
+| [[Babar Azam]] (588) || [[Sufiyan Muqeem]] (22) || [[Kusal Mendis]] (8) || [[Sufiyan Muqeem]] 
+|}
+
+===Most individual appearances===
+:{{as of|2026|5|3}}
+
+{| class="wikitable plainrowheaders" style="text-align: center"
+|-
+! scope="col" | Rank
+! scope="col" | Player
+! scope="col" | Team(s)
+! scope="col" | Years active
+! scope="col" | Appearances
+! scope="col" | Runs
+! scope="col" | Wkts
+|-
+|1
+|'''[[Imad Wasim]]'''
+| [[Islamabad United|IU]], [[Karachi Kings|KK]],
+| 2016–present
+!112
+|1,334
+| 89
+|-
+|2
+|'''[[Babar Azam]]'''
+| [[Peshawar Zalmi|PZ]], [[Karachi Kings|KK]], [[Islamabad United|IU]]
+| 2016–present
+!111
+|4,380
+| –
+|-
+|3
+|'''[[Fakhar Zaman (cricketer)|Fakhar Zaman]]'''
+|[[Lahore Qalandars|LQ]]
+| 2017–present
+!105
+|3,365
+| 2
+|-
+|4
+|'''[[Rilee Rossouw]]'''
+|[[Quetta Gladiators|QG]], [[Multan Sultans|MS]]
+| 2017–present
+!104
+|2,604
+| –
+|-
+|5
+|'''[[Shadab Khan]]'''
+|[[Islamabad United|IU]]
+| 2017–present
+!104
+|1,586
+| 122
+|-
+|6
+|'''[[Mohammad Rizwan]]'''
+|[[Multan Sultans|MS]], [[Karachi Kings|KK]], [[Lahore Qalandars|LQ]]
+| 2016–present
+!103
+|2,974
+| –
+|-
+|7
+|'''[[Hasan Ali (cricketer)|Hasan Ali]]'''
+|[[Karachi Kings|KK]], [[Islamabad United|IU]], [[Peshawar Zalmi|PZ]]
+| 2016–present
+!101
+|340
+| 140
+|-
+|8
+|'''[[Mohammad Nawaz (cricketer)|Mohammad Nawaz]]'''
+|[[Quetta Gladiators|QG]], [[Karachi Kings|KK]]
+| 2016–present
+!98
+|958
+| 80
+|-
+|9
+|'''[[Asif Ali (cricketer, born 1991)|Asif Ali]]'''
+|[[Lahore Qalandars|LQ]], [[Islamabad United|IU]], [[Peshawar Zalmi|PZ]]
+| 2018–present
+!96
+|1,289
+|2
+|-
+|10
+|'''[[Faheem Ashraf]]'''
+|[[Islamabad United|IU]], [[Quetta Gladiators|QG]]
+| 2018–present
+!95
+|1,039
+| 104
+|}
+*Source: ESPNcricinfo<ref>{{cite web |url=https://www.espncricinfo.com/records/trophy/individual-most-matches-career/pakistan-super-league-205|title=Most Matches Played in PSL |work=ESPNcricinfo |access-date=22 February 2026}}</ref>
+*Currently active PSL players appear in '''boldface'''.
+
+== Sponsorship ==
+The PSL's initial title sponsorship was awarded to [[HBL Pakistan]] for three years in December 2015.<ref name=berecorder>{{cite news|url=https://fp.brecorder.com/2015/12/201512161256285/|title=HBL becomes title sponsor of first-ever PSL|work=Business Recorder|date=16 December 2015|access-date=26 January 2022|archive-date=26 March 2022|archive-url=https://web.archive.org/web/20220326102533/https://fp.brecorder.com/2015/12/201512161256285/|url-status=live}}</ref> At that time sponsorship deals for the league, including the title sponsorship, were estimated to be worth more than US$6 million.<ref>{{cite news|title=Pakistan Super League ropes in HBL bank as title sponsors|url=http://gulfnews.com/sport/cricket/pakistan/pakistan-super-league-ropes-in-hbl-bank-as-title-sponsors-1.1638070|access-date=15 December 2015|work=Gulf News|archive-date=16 December 2015|archive-url=https://web.archive.org/web/20151216074705/http://gulfnews.com/sport/cricket/pakistan/pakistan-super-league-ropes-in-hbl-bank-as-title-sponsors-1.1638070|url-status=live}}</ref> HBL renewed its title sponsorship in 2018 and again in 2021, extending its arrangement through the 2025 season.<ref name="hbl2021">{{cite news|title=HBL to retain PSL title sponsorship until 2025|url=https://www.dawn.com/news/1658887|work=Dawn|date=19 November 2021|access-date=30 October 2025}}</ref>
+
+In October 2025, HBL extended its title sponsorship for two further PSL seasons (2026–2027). The value of the title sponsorship agreement increased 505% compared to the original 2016 deal.<ref name="Pcb25">{{cite web |title=HBL shatters records – Retains Title Sponsorship of PSL |url=https://www.pcb.com.pk/press-release-detail/hbl-shatters-records-retains-title-sponsorship-of-psl.html |website=www.pcb.com.pk |date=10 January 2014}}</ref><ref>{{cite news|title=HBL retains PSL title sponsorship in landmark deal through 2027|url=https://www.cricexec.com/hbl-renews-psl-title-sponsorship-in-landmark-deal-through-2027/689563289/|work=CricExec|date=30 October 2025|access-date=30 October 2025}}</ref>
+
+{| class="wikitable"
+! Title sponsor
+! Period
+! Sponsorship cost (per year)
+! Ref.
+|-
+| rowspan="4" | [[HBL Pakistan]]
+| 2016–2018
+| PKR 54.4 crore (US$5.2 million)
+| <ref name=berecorder/>
+|-
+| 2019–2021
+| PKR 214.8 crore (US$14.3 million)
+| <ref>{{cite news|title=HBL renews its title sponsorship for PSL-T20 league|url=https://www.psl-t20.com/news/802/|work=PSL-T20.com|access-date=14 November 2018|archive-date=26 March 2022|archive-url=https://web.archive.org/web/20220326102436/https://www.psl-t20.com/news/802/|url-status=live}}</ref>
+|-
+| 2022–2025
+| PKR 340 crore (US$22.2 million)
+| <ref name="hbl2021"/>
+|-
+| 2026–2027
+| 505% of the 2016 deal <small>(Figures not publicly disclosed.)</small>
+| <ref name="Pcb25"/>
+|}
+
+== Broadcasters ==
+===Historic partners===
+The league signed a broadcast production deal with UK–based company [[Tinopolis|Sunset and Vine]] for the first three seasons of the competition.<ref>{{Cite news|date=31 October 2015|title=Pakistan Super League has signed a broadcast production deal|work=Pakistan Cricket Board|access-date=10 January 2024|url=https://www.pcb.com.pk/press-release-detail/pakistan-super-league-has-signed-a-broadcast-production-deal.html}}</ref> Domestically TV broadcast rights were sold to [[PTV Sports]] and [[Ten Sports]] for the same period,<ref>{{Cite news|date=3 December 2015|title=Pakistan Super League marches on!|work=Pakistan Cricket Board|access-date=10 January 2024|url=https://www.pcb.com.pk/press-release-detail/pakistan-super-league-marches-on.html}}</ref> with digital broadcast rights sold to [[YouTube]] in Pakistan for the first season.<ref>{{Cite news|date=3 February 2016|title=HBL Pakistan Super League to be streamed live on Youtube!|work=Pakistan Cricket Board|access-date=11 January 2024|url=https://www.pcb.com.pk/news-detail/hbl-pakistan-super-league-to-be-streamed-live-on-youtube.html}}</ref> The digital rights were subsequently sold to cricketgateway.<ref>{{Cite news|date=3 February 2017|title=PSL 2017 sets high viewership benchmark for future sports events|work=dailytimes.com.pk|access-date=11 January 2024|url=https://dailytimes.com.pk/22441/psl-2017-sets-high-viewership-benchmark-for-future-sports-events/}}</ref><ref>{{Cite news|date=17 February 2017|title=PSL Live Streaming & TV Channels Broadcasting Rights PSL T20 2018|work=cricketzine.com|access-date=11 January 2024|url=https://www.cricketzine.com/psl-2018-live-streaming-tv-channels-pakistan-super-league-2018/}}</ref>
+
+For the period from 2019 to 2021, broadcast rights were sold to Blitz Advertising.<ref>{{Cite news|date=21 December 2018|title=PCB HITS A SIX ON HBL PSL BROADCAST AND LIVE-STREAMING RIGHTS|work=Pakistan Cricket Board|access-date=11 January 2024|url=https://www.pcb.com.pk/press-release-detail/pcb-hits-a-six-on-hbl-psl-broadcast-and-live-streaming-rights.html}}</ref><ref>{{Cite news|date=19 February 2019|title=PCB appoints new live production partner for HBL PSL 2019|work=Pakistan Cricket Board|access-date=11 January 2024|url=https://www.pcb.com.pk/press-release-detail/pcb-appoints-new-live-production-partner-for-hbl-psl.html}}</ref><ref>{{Cite news|date=30 January 2020|title=PCB announces consortium of Tower Sports and SportzWorkz as production partner for HBL PSL 2020|work=Pakistan Cricket Board|access-date=11 January 2024|url=https://www.pcb.com.pk/press-release-detail/pcb-announces-consortium-of-tower-sports-and-sportzworkz-as-production-partner-for-hbl-psl-2020-.html}}</ref> Domestic TV rights for the same period were acquired by [[PTV Sports]] and [[Geo Network]] with cricketgateway retaining the digital rights.
+
+From 2021 to 2025 broadcast rights were sold to TransGroup International<ref>{{Cite news|date=3 January 2021|title=Mammoth surge in HBL PSL brand partnership rights|work=Pakistan Cricket Board|access-date=11 January 2024|url=https://www.pcb.com.pk/press-release-detail/mammoth-surge-in-hbl-psl-brand-partnership-rights.html}}</ref> with PTV Sports, [[A Sports]] and Ten Sports having the domestic broadcast rights until 2023.<ref>{{Cite news|date=23 December 2021|title=HBL PSL TV broadcast rights see an increase of 50%|work=Pakistan Cricket Board|access-date=10 January 2024|url=https://www.pcb.com.pk/press-release-detail/hbl-psl-tv-broadcast-rights-see-an-increase-of-50-.html}}</ref><ref>{{Cite news|date=10 January 2022|title=PCB signs landmark TV broadcast agreement with ARY-PTV consortium|work=Pakistan Cricket Board|access-date=10 January 2024|url=https://www.pcb.com.pk/press-release-detail/pcb-signs-landmark-tv-broadcast-agreement-with-ary-ptv-consortium.html}}</ref> A Sports and Walee Technologies acquired these rights for the 2024–2025 seasons along with the digital streaming rights{{citation needed|date=January 2025}} which had been sold to [[Daraz]] for the 2022 and 2023 seasons.<ref>{{Cite news|date=24 December 2021|title=HBL PSL live-streaming rights see 175 per cent increase|work=Pakistan Cricket Board|access-date=10 January 2024|url=https://www.pcb.com.pk/press-release-detail/hbl-psl-live-streaming-rights-see-175-per-cent-increase.html}}</ref><ref>{{Cite news |date=10 January 2024 |title=HBL PSL media rights see a massive increase |url=https://www.facebook.com/share/p/KVHn2uKgor9ZVARX/?mibextid=Nif5oz |access-date=10 January 2024 |work=Pakistan Cricket Board}}</ref>
+
+===Current partners===
+Global media rights (minus India) for 2026 season were bought by Walee Technologies.<ref>{{cite web |title=HBL PSL International Media Rights Sold – Another Record Shattered |url=https://www.pcb.com.pk/press-release-detail/hbl-psl-international-media-rights-sold-another-record-shattered.html |website=www.pcb.com.pk |date=10 January 2014}}</ref> It was a record-breaking deal at 149% increase compared to the previous cycle.<ref>{{cite web |title=PCB Sells PSL 11 Media Rights for Record Surge of 149% |url=https://www.khelwire.com/articles/pcb-sells-psl-11-media-rights-for-record-surge-of-149 |website=KhelWire |date=1 February 2026 |access-date=3 February 2026}}</ref> Walee Technologies also bought local broadcasting rights for PKR 26.11 billion for the 2026 – 2029 period.<ref>{{cite web |title=PSL signs record broadcast deal until 2029 |url=https://www.espncricinfo.com/story/psl-signs-record-broadcast-deal-until-2029-1526354?|access-date=2 March 2026}}</ref>
+
+=== List of global broadcasters ===
+{| class="wikitable"
+!Territory
+!Years
+!Channels and streaming services
+|-
+|Pakistan
+|[[2024 Pakistan Super League|2024]]
+|[[A Sports|A Sports HD]]<ref>{{Cite news|date=17 February 2024|title=The day is finally here when the 9th season of the #PakistanSuperLeague begins The first match of the #PSL9 season Islamabad United vs Lahore Qalandars Who'll take the win in the opening game #PSL9 #PSL2024 #KhulKeKhel #Cricket #TenSportsHD|work=facebook.com/TenSportsPakistanOfficial|access-date=|url=}}</ref><br />
+[[Ten Sports|Ten Sports HD]]<ref>{{Cite news |date=17 February 2024 |title=The day is finally here when the 9th season of the #PakistanSuperLeague begins the first match of the #PSL9 season Islamabad United Lahore Qalandars Who'll take the opening game #PSL9 #PSL2024 #KhulKeKhel #Cricket #TenSportsHD |url=https://www.facebook.com/share/p/UFTKGovAT5aUmkCM/?mibextid=oFDknk |access-date=17 February 2024 |work=facebook.com/TenSportsPakistanOfficial}}</ref><hr />
+Myco (OTT)<ref>{{Cite news |date=5 February 2024 |title=We are honored and proud to announce yet another groundbreaking achievement which will definitely revolutionize #cricket fans' viewing experience myco has successfully secured the rights for HBL #PSL Season 9 & 10 Huge congratulations to the team who managed to achieve this massive milestone in our sports #streaming lineup myco lagao #psl2024 |url=https://m.facebook.com/story.php?story_fbid=pfbid03RCXF1sSi3rT7bb3jswb8xyMjVr3T5dnPTLC3CCozLyy63da1GSUDjGfBZHq7Rgkl&id=100069006423747&mibextid=2JQ9oc |access-date=5 February 2024 |work=facebook.com/myco.io.official}}</ref><br />
+SnackVideo (APP)<ref>{{Cite news|date=10 February 2024|title=Watch every exciting moment of #HBLPSL9 LIVE on SnackVideo Pakistan, our Official Live Streaming Partner for the Pakistan Region #KhulKeKhel|work=facebook.com/thePSL|access-date=10 February 2024|url=https://www.facebook.com/share/p/y6PHHheCLh6dNDWJ/?mibextid=2JQ9oc}}</ref><br/>Tamasha (OTT)<ref>{{Cite news|date=7 February 2024|title=Ab Dekh Tamasha HBL PSL ke junoon ka Aik baar phir cricket ka maidaan sajay ga aur khel jamay ga Stream karo HBL PSL season 9 starting on 17th Feb for FREE in HD only on Tamasha Download the app now onelink.to/sg2fps|work=facebook.com/tamashadigital|access-date=9 February 2024|url=https://www.facebook.com/share/p/XZTMhSdfvuVE5p8x/?mibextid=2JQ9oc}}</ref><br /> Tapmad (OTT)<ref>{{Cite news|date=10 January 2024|title=BIG NEWS CRICKET FANS! tapmad is set to elevate your PSL 9 experience Enjoy every moment in HD, and guess what No ads to break the excitement #HBLPSL9 #HojaoADFree #tapmad|work=facebook.com/tapmadsports|access-date=31 January 2024|url=https://m.facebook.com/story.php?story_fbid=pfbid02raaeqNLfGkDFNa3CfLShmN9TfqgSntt5De8PhJWaQqU3guJVhq34Z9YRK2DYhFTjl&id=100067800260632&mibextid=2JQ9oc}}</ref>
+|-
+|Sub-Saharan Africa
+|[[2024 Pakistan Super League|2024]]
+|[[SuperSport (South African broadcaster)|SuperSport]]<ref>{{Cite news|date=15 February 2024|title=Watch every exciting moment of #HBLPSL9 LIVE on SuperSport, our Official Broadcast Partner for the Sub-Saharan Africa Region #KhulKeKhel|work=facebook.com/thePSL|access-date=15 February 2024|url=https://www.facebook.com/share/p/FKadZMdSa8nvah9T/?mibextid=oFDknk}}</ref>
+|-
+|Australia
+|[[2024 Pakistan Super League|2024]]
+|[[Fox Cricket]]<ref>{{Cite news|date=15 February 2024|title=Watch every exciting moment of #HBLPSL9 LIVE on Fox Cricket our Official Broadcast Partner for the Australian Region #KhulKeKhel|work=facebook.com/thePSL|access-date=15 February 2024|url=https://www.facebook.com/share/p/rFDEViq2MRNLz9Rn/?mibextid=oFDknk}}</ref>
+|-
+|Bangladesh
+|[[2024 Pakistan Super League|2024]]
+|[[T Sports]]<ref>{{Cite news|date=17 February 2024|title=পিএসএল সরাসরি দেখতে চোখ রাখুন টি স্পোর্টসে।|work=facebook.com/tsportsbd|access-date=17 February 2024|url=https://www.facebook.com/share/p/2q2hioUbgsg7yVBu/?mibextid=oFDknk}}</ref><hr />Tapmad (OTT)<ref>{{Cite news|date=10 February 2024|title=Watch every exciting moment of #HBLPSL9 LIVE on Tapmad Sports our Official Broadcast Partner for the Bangladesh Region #KhulKeKhel|work=facebook.com/thePSL|access-date=10 February 2024|url=https://www.facebook.com/share/p/moaAkHyNmQsuW4hS/?mibextid=2JQ9oc}}</ref>
+|-
+|Caribbean
+|[[2024 Pakistan Super League|2024]]
+|Flow Sports<ref>{{Cite news|date=10 February 2024|title=Watch every exciting moment of #HBLPSL9 LIVE on Flow Sports our Official Broadcast Partner for the Caribbean Region #KhulKeKhel|work=facebook.com/thePSL|access-date=10 February 2024|url=https://www.facebook.com/share/p/9RcC1TRhhkPYVXgS/?mibextid=2JQ9oc}}</ref>
+|-
+|Central America:-
+|[[2024 Pakistan Super League|2024]]
+|LiveSportsCentral (Facebook)<br />Sports Central (YouTube)
+|-
+|Central Asia:-
+|[[2024 Pakistan Super League|2024]]
+|LiveSportsCentral (Facebook)<br />Sports Central (YouTube)
+|-
+|East Asia
+|[[2024 Pakistan Super League|2024]]
+|LiveSportsCentral (Facebook)<br />Sports Central (YouTube)
+|-
+|Europe
+|[[2024 Pakistan Super League|2024]]
+|LiveSportsCentral (Facebook)<br />Sports Central (YouTube)
+|-
+|India
+|[[2024 Pakistan Super League|2024]]
+|[[Fancode|Fancode (OTT)]]<ref>{{Cite news|date=10 February 2024|title=Watch every exciting moment of #HBLPSL9 LIVE on FanCode our Official Broadcast Partner for India #KhulKeKhel|work=facebook.com/thePSL|access-date=10 February 2024|url=https://www.facebook.com/share/p/6rdfbpLrAfbNRSFL/?mibextid=2JQ9oc}}</ref>
+|-
+|Mexico
+|[[2024 Pakistan Super League|2024]]
+|LiveSportsCentral (Facebook)<br />Sports Central (YouTube)
+|-
+|Middle East
+|[[2024 Pakistan Super League|2024]]
+|STARZPLAY e-vision<hr />[[Cricbuzz|Cricbuzz (OTT)]]<ref>{{Cite news|date=10 February 2024|title=Babar Shaheen Rizwan Pakistan's Biggest Stars are ready Catch Live Action from the PakistanSuperLeague on Cricbuzz (Only in Middle East regions) Streaming from 17th February #PSL9|work=facebook.com/cricbuzz|access-date=10 February 2024|url=https://www.facebook.com/share/p/oFEq2QpoWErc5jBv/?mibextid=2JQ9oc}}</ref>
+|-
+|Nepal
+|[[2024 Pakistan Super League|2024]]
+|Action Sports HD<ref>{{Cite news|date=16 February 2024|title=Pakistan Super League is coming to your screens exclusively on Action Sports HD Get ready to catch all the action LIVE on DishHome #DishHome #khusikoconnection #PSL #CricketFever #ActionSportsHD #DishHome #ExclusiveCoverage|url=https://www.facebook.com/share/v/epjqqtsU28gztZwW/?mibextid=oFDknk|access-date=17 February 2024}}</ref><hr />
+Tapmad (OTT)<ref>{{Cite news|date=10 February 2024|title=Watch every exciting moment of #HBLPSL9 LIVE on Tapmad Sports our Official Broadcast Partner for the Nepal Region #KhulKeKhel|work=facebook.com/thePSL|access-date=10 February 2024|url=https://www.facebook.com/share/p/moaAkHyNmQsuW4hS/?mibextid=2JQ9oc}}</ref>
+|-
+|New Zealand
+|[[2024 Pakistan Super League|2024]]
+|[[Sky Sport (New Zealand)|Sky Sports NZ]]<ref>{{Cite news|date=15 February 2024|title=Watch every exciting moment of #HBLPSL9 LIVE on Sky Sport NZ, our Official Broadcast Partner for the New Zealand Region #KhulKeKhel|work=facebook.com/thePSL|access-date=15 February 2024|url=https://www.facebook.com/share/p/a8uti2ZpMeiuPHja/?mibextid=oFDknk}}</ref>
+|-
+|North Africa
+|[[2024 Pakistan Super League|2024]]
+|STARZPLAY e-vision<hr />[[Cricbuzz|Cricbuzz (OTT)]]<ref>{{Cite news|date=10 February 2024|title=Babar Shaheen Rizwan Pakistan's Biggest Stars are ready Catch Live Action from the PakistanSuperLeague on Cricbuzz (Only in North Africa regions) Streaming from 17th February #PSL9|work=facebook.com/cricbuzz|access-date=10 February 2024|url=https://www.facebook.com/share/p/oFEq2QpoWErc5jBv/?mibextid=2JQ9oc}}</ref>
+|-
+|North America
+|[[2024 Pakistan Super League|2024]]
+|[[Willow (TV channel)|Willow]]<ref>{{Cite news|date=10 February 2024|title=Watch every exciting moment of #HBLPSL9 LIVE on Willow, our Official Broadcast Partner for the North American Region #KhulKeKhel|work=facebook.com/thePSL|access-date=10 February 2024|url=https://www.facebook.com/share/p/y6PHHheCLh6dNDWJ/?mibextid=2JQ9oc}}</ref>
+|-
+|Russia
+|[[2024 Pakistan Super League|2024]]
+|LiveSportsCentral (Facebook)<br />Sports Central (YouTube)
+|-
+|Oceania
+|[[2024 Pakistan Super League|2024]]
+|LiveSportsCentral (Facebook)<br />Sports Central (YouTube)
+|-
+|South America
+|[[2024 Pakistan Super League|2024]]
+|LiveSportsCentral (Facebook)<br />Sports Central (YouTube)
+|-
+|South Asia
+|[[2024 Pakistan Super League|2024]]
+|LiveSportsCentral (Facebook)<br />Sports Central (YouTube)
+|-
+|Southeast Asia
+|[[2024 Pakistan Super League|2024]]
+|[[Cricbuzz|Cricbuzz (OTT)]]<ref>{{Cite news|date=10 February 2024|title=Babar Shaheen Rizwan Pakistan's Biggest Stars are ready Catch Live Action from the PakistanSuperLeague on Cricbuzz (Only in South East Asia regions) Streaming from 17th February #PSL9|work=facebook.com/cricbuzz|access-date=10 February 2024|url=https://www.facebook.com/share/p/oFEq2QpoWErc5jBv/?mibextid=2JQ9oc}}</ref>
+|-
+|Sri Lanka
+|[[2024 Pakistan Super League|2024]]
+|[[Dialog TV|The Papare TV]] <hr /> [[Dialog Axiata|Dialog ViU]] (App)<ref>{{Cite news|date=20 February 2024|title=Multan Sultans take on Islamabad United in the 5th match of Pakistan Super League 2024 at Multan Cricket Stadium #PSL2024 #MSvIU #ThePapare Watch Pakistan Super League on ThePapare Sri Lanka's No.1 Sports Channel Available on Dialog Television Channel 63 Dialog ViU App ThePapare.com|work=facebook.com/thepaparecricket|access-date=20 February 2024|url=https://www.facebook.com/share/p/otg8PujPPVejazy9/?mibextid=oFDknk}}</ref>
+|-
+|United Kingdom
+|[[2024 Pakistan Super League|2024]]
+|[[Geo News|Geo News UK]]<ref>{{Cite news|date=8 February 2024|title=PSL-9 matches to be broadcast on Geo TV in UK|work=The News International|access-date=10 February 2024|url=https://www.thenews.com.pk/print/1155640-psl-9-matches-to-be-broadcast-on-geo-tv-in-uk}}</ref><hr /> [[Sky Sports|Sky Sports UK]]<ref>{{Cite news|date=15 February 2024|title=Watch every exciting moment of #HBLPSL9 LIVE on Sky Sports our Pay TV & Digital Broadcast Partner for the UK Region #KhulKeKhel|access-date=15 February 2024|work=facebook.com/thePSL|url=https://www.facebook.com/share/p/gFkWPtZVGPh6gmYE/?mibextid=oFDknk}}</ref>
+|-
+|Worldwide rights
+|[[2024 Pakistan Super League|2024]]–[[2025 Pakistan Super League|2025]]
+|TransGroup International<ref>{{Cite news|date=31 January 2024|title=HBL PSL international media rights see a 41 percent increase|work=Pakistan Cricket Board|access-date=31 January 2024|url=https://www.pcb.com.pk/press-release-detail/hbl-psl-international-media-rights-see-a-41-per-cent-increase.html?fbclid=IwAR1K-zzfiZiwTCgCYWKk22uM9MlAoccIX99VdSO_h4NQ1uQ6mS-Mo9lk-es}}</ref>
+|}
+
+==Other media==
+
+=== Hamaray Heroes ===
+{{Main|HBL PSL Hamaray Heroes Award}}
+
+[[File:HBL PSL Hamaray Heroes Award 2022.jpg|thumb|HBL PSL Hamaray Heroes Award]]
+The HBL PSL Hamaray Heroes campaign was introduced in 2020 season. The initiative rewarded prominent Pakistanis like [[Squash (sport)|squash]] player [[Farhan Mehboob]], founder of ACF Animal Rescue [[Ayesha Chundrigar]], [[Mountaineering|mountaineer]] [[Ali Sadpara]], and professional [[eSports]] player [[Arslan Ash]]. A total of 32 [[HBL PSL Hamaray Heroes Award]]s were handed out during the 2020 season.<ref>{{Cite web|title=HBL Pakistan Super League|url=https://www.psl-t20.com/|access-date=1 March 2021|website=www.psl-t20.com|language=en|archive-date=18 November 2018|archive-url=https://web.archive.org/web/20181118214305/https://www.psl-t20.com/|url-status=live}}</ref>
+
+=== Cancer awareness ===
+Since 2019, the league has reserved a day for [[breast cancer awareness]], with a [[pink ribbon]] theme. A day has also been set aside to raise awareness of [[childhood cancer]] with a gold ribbon.<ref>{{cite news|url=https://www.thenews.com.pk/latest/431569|title=PSL 2019 to observe childhood cancer and breast cancer awareness days|date=13 February 2019|access-date=19 March 2019|work=The News|archive-date=27 March 2019|archive-url=https://web.archive.org/web/20190327190013/https://www.thenews.com.pk/latest/431569|url-status=live}}</ref><ref>{{cite news|url=https://a-sports.tv/psl-7-pcb-embark-breast-and-childhood-cancer-awareness-initiatives|title=PSL 7: PCB to embark breast and childhood cancer awareness initiatives|date=25 January 2022|access-date=25 January 2022|publisher=A Sports|archive-date=25 January 2022|archive-url=https://web.archive.org/web/20220125164636/https://a-sports.tv/psl-7-pcb-embark-breast-and-childhood-cancer-awareness-initiatives/|url-status=live}}</ref>
+
+==See also==
+{{Portal|Cricket|Pakistan}}
+* [[List of Pakistan Super League records and statistics]]
+* [[List of Pakistan Super League centuries]]
+* [[List of Pakistan Super League anthems]]
+* [[Pakistan Junior League]]
+* [[List of Twenty20 cricket competitions]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{sister project links|d=Q3267414|c=category:Pakistan Super League|n=no|s=no|v=no|wikt=no|q=no|voy=no|mw=no|m=no|species=no|b=no}}
+* {{Official website|psl-t20.com}}
+* [https://stats.espncricinfo.com/ci/engine/records/index.html?id=205;type=trophy Tournament home] at ESPNcricinfo
+{{Pakistan Super League |state=collapsed}}
+{{Cricket in Pakistan |state=collapsed}}
+{{Twenty20 cricket domestic competitions}}
+
+{{DEFAULTSORT:Pakistan Super League}}
+[[Category:Pakistan Super League| ]]
+[[Category:Twenty20 cricket leagues]]
+[[Category:Cricket leagues in Pakistan]]
+[[Category:Professional cricket leagues]]
+[[Category:Professional sports leagues in Pakistan]]
+[[Category:Sports leagues established in 2016]]
+[[Category:2016 establishments in Pakistan]]
+[[Category:Organisations based in Lahore]]

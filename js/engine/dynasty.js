@@ -13,6 +13,7 @@ import { createRng } from './rng.js';
 import { marketValue } from './valuation.js';
 import { bestXI } from './squad.js';
 import { SQUAD_MAX, OVERSEAS_MAX } from './rules.js';
+import { reserveFor, LEAGUES } from './league.js';
 
 // Mega-auction retention costs (₹ lakh), 2025 rules: capped players in order, uncapped at a flat ₹4 Cr.
 export const MEGA_SLABS = [1800, 1400, 1100, 1800, 1400];
@@ -21,6 +22,12 @@ export const MEGA_MAX = { total: 6, capped: 5, uncapped: 2 };
 
 export const BASE_YEAR = 2026;
 export function purseCap(year) { return 12500 + 500 * (year - BASE_YEAR); }
+
+// Career mode runs these rules on a per-league view of the world: world.league names the league,
+// world.cap its salary cap and world.cycle / world.megaMax its retention cycle. Without them, IPL rules.
+const isIPL = (w) => !w.league || w.league === 'ipl';
+const capOf = (w) => w.cap ?? purseCap(w.year);
+const fullMax = (w) => (isIPL(w) ? MEGA_MAX.total : w.megaMax ?? LEAGUES[w.league].cycle.megaMax);
 
 export function overall(role, bat, bowl) {
   if (role === 'BAT' || role === 'WK') return bat + (role === 'WK' ? 2 : 0);
@@ -44,7 +51,7 @@ export function startWorld(scn) {
 // Which kind of auction the world's current off-season leads to.
 export function nextKind(world) {
   if (world.forceKind) return world.forceKind;
-  return world.year - world.lastMega >= 3 ? 'mega' : 'mini';
+  return world.year - world.lastMega >= (world.cycle ?? 3) ? 'mega' : 'mini';
 }
 
 // A world built from the real IPL 2026 squads (retentions plus the actual auction buys), one year on.
@@ -153,8 +160,9 @@ export function endSeason(world, { auction, season, userTeam, finish, seed }) {
   signContracts(world, auction, season);
   if (auction.kind === 'mega') world.lastMega = auction.year ?? world.year;
   world.forceKind = null;
-  const fin = season.playoffs?.[3]?.result;
-  const runnerUp = fin ? (fin.winner === season.playoffs[3].home ? season.playoffs[3].away : season.playoffs[3].home) : null;
+  const last = season.playoffs?.[season.playoffs.length - 1];
+  const fin = last?.stage === 'Final' ? last.result : null;
+  const runnerUp = fin ? (fin.winner === last.home ? last.away : last.home) : null;
   world.history.push({ year: world.year, champion: season.champion, runnerUp, userTeam, finish });
   const rng = createRng((seed ^ (world.year * 2654435761)) >>> 0);
   const changes = [];
@@ -190,7 +198,7 @@ export const ICONS = {
   'ruturaj-gaikwad': 'CSK', 'sunil-narine': 'KKR', 'rinku-singh': 'KKR', 'rashid-khan': 'GT', 'shubman-gill': 'GT',
   'yashasvi-jaiswal': 'RR', 'abhishek-sharma': 'SRH', 'axar-patel': 'DC', 'shreyas-iyer': 'PBKS', 'rishabh-pant': 'LSG',
 };
-export function isIcon(world, id) { const p = world.players[id]; return !!p && !p.retired && ICONS[id] === p.team; }
+export function isIcon(world, id) { const p = world.players[id]; return isIPL(world) && !!p && !p.retired && ICONS[id] === p.team; }
 export function teamIcons(world, teamId) { return teamPlayers(world, teamId).filter((id) => isIcon(world, id)); }
 
 export function teamPlayers(world, teamId) {
@@ -203,7 +211,7 @@ export function suggestRetentions(world, teamId) {
   const ids = teamPlayers(world, teamId);
   const P = world.players;
   const xi = new Set(bestXI(ids, P));
-  const cap = purseCap(world.year);
+  const cap = capOf(world);
   const keepers = ids.filter((id) => {
     const p = P[id], v = value(p), sal = p.price || 30;
     return v >= sal * 0.75 || (xi.has(id) && v >= sal * 0.35) || (sal <= 50 && p.age <= 24 && p.ovr >= 60);
@@ -225,7 +233,7 @@ export function retentionProblem(world, ids) {
   const os = ids.filter((id) => world.players[id].overseas).length;
   if (ids.length > SQUAD_MAX) return `You can retain at most ${SQUAD_MAX} players`;
   if (os > OVERSEAS_MAX) return `At most ${OVERSEAS_MAX} overseas players (you have ${os})`;
-  if (retentionCost(world, ids) > purseCap(world.year)) return 'Retentions cost more than the salary cap';
+  if (retentionCost(world, ids) > capOf(world)) return 'Retentions cost more than the salary cap';
   return null;
 }
 
@@ -234,6 +242,10 @@ export function retentionProblem(world, ids) {
 // uncapped players cost a flat ₹4 Cr. Returns { total, each: { id: cost } }.
 export function megaRetentionCost(world, ids) {
   const P = world.players;
+  if (!isIPL(world)) {   // other leagues: retained players keep their current fee
+    const each = Object.fromEntries(ids.map((id) => [id, P[id].price || 30]));
+    return { total: Object.values(each).reduce((n, c) => n + c, 0), each };
+  }
   const capped = ids.filter((id) => P[id].capped).sort((a, b) => value(P[b]) - value(P[a]));
   const each = {};
   capped.forEach((id, i) => { each[id] = MEGA_SLABS[i] ?? MEGA_SLABS[MEGA_SLABS.length - 1]; });
@@ -242,6 +254,12 @@ export function megaRetentionCost(world, ids) {
 }
 
 export function megaRetentionProblem(world, ids) {
+  if (!isIPL(world)) {
+    const os = ids.filter((id) => world.players[id].overseas).length;
+    if (ids.length > fullMax(world)) return `This auction allows at most ${fullMax(world)} retentions`;
+    if (os > OVERSEAS_MAX) return `At most ${OVERSEAS_MAX} overseas players (you have ${os})`;
+    return null;
+  }
   const capped = ids.filter((id) => world.players[id].capped).length;
   if (ids.length > MEGA_MAX.total) return `A mega auction allows at most ${MEGA_MAX.total} retentions`;
   if (capped > MEGA_MAX.capped) return `At most ${MEGA_MAX.capped} capped players (you have ${capped})`;
@@ -253,6 +271,17 @@ export function megaRetentionProblem(world, ids) {
 export function suggestMegaRetentions(world, teamId) {
   const P = world.players;
   const ids = teamPlayers(world, teamId).sort((a, b) => value(P[b]) - value(P[a]));
+  if (!isIPL(world)) {
+    // Keep the most valuable players who are worth most of their fee, within the league's limit.
+    const out = [];
+    let os = 0, cost = 0;
+    for (const id of ids) {
+      const p = P[id], sal = p.price || 30;
+      if (out.length >= fullMax(world) || (p.overseas && os >= OVERSEAS_MAX) || value(p) < sal * 0.8 || cost + sal > capOf(world) * 0.6) continue;
+      out.push(id); cost += sal; if (p.overseas) os++;
+    }
+    return out;
+  }
   const out = teamIcons(world, teamId).slice(0, MEGA_MAX.total);
   let capped = out.filter((id) => P[id].capped).length, uncapped = out.length - capped;
   for (const id of ids) {
@@ -272,6 +301,7 @@ export function suggestMegaRetentions(world, teamId) {
 }
 
 export function rtmCards(world, ids) {
+  if (!isIPL(world)) return { rtm: 0, rtmCapped: 0 };
   const capped = ids.filter((id) => world.players[id].capped).length;
   const rtm = Math.max(0, MEGA_MAX.total - ids.length);
   return { rtm, rtmCapped: Math.min(rtm, Math.max(0, MEGA_MAX.capped - capped)) };
@@ -294,7 +324,7 @@ export function suggestFor(world, teamId) { return nextKind(world) === 'mega' ? 
 export function retentionCostFor(world, ids) { return nextKind(world) === 'mega' ? megaRetentionCost(world, ids).total : retentionCost(world, ids); }
 export function retentionProblemFor(world, ids) {
   if (nextKind(world) !== 'mega') return retentionProblem(world, ids);
-  return megaRetentionProblem(world, ids) || (megaRetentionCost(world, ids).total > purseCap(world.year) ? 'Retentions cost more than the salary cap' : null);
+  return megaRetentionProblem(world, ids) || (megaRetentionCost(world, ids).total > capOf(world) ? 'Retentions cost more than the salary cap' : null);
 }
 
 // Release everyone not retained. retained: { teamId: [ids] }. In a mega year the retained players'
@@ -335,7 +365,7 @@ const setGroup = (p) => (p.role === 'BAT' ? 'BA' : p.role === 'AR' ? 'AL' : p.ro
 export function buildAuction(world, teamsMeta) {
   const P = world.players;
   const kind = nextKind(world);
-  const cap = purseCap(world.year);
+  const cap = capOf(world);
   const teams = teamsMeta.map((t) => {
     const retained = teamPlayers(world, t.id);
     const cost = kind === 'mega' ? megaRetentionCost(world, retained).total : retentionCost(world, retained);
@@ -351,7 +381,7 @@ export function buildAuction(world, teamsMeta) {
     for (const p of list) { p.set = setNo; p.setCode = code; p.lot = ++lot; pool.push(p.id); }
   };
   for (const p of available) {
-    p.base = reservePrice(p);
+    p.base = isIPL(world) ? reservePrice(p) : reserveFor(world.league, value(p), p.capped);
     p.prevTeam = p.releasedBy || null;    // in a mega auction the releasing team may use an RTM card
   }
   let rest = available;
@@ -406,7 +436,7 @@ export function scenarioFromWorld(world, baseScn) {
   return {
     id: baseScn.id, year: world.year, kind: world.current.kind || 'mini', mainLastSet: world.current.mainLastSet,
     champion: last?.champion || null, runnerUp: last?.runnerUp || null,
-    cap: purseCap(world.year), players: world.players, teams, pool: world.current.pool.slice(), actual: {},
+    cap: capOf(world), players: world.players, teams, pool: world.current.pool.slice(), actual: {},
     teamById: Object.fromEntries(teams.map((t) => [t.id, t])),
   };
 }

@@ -1,0 +1,715 @@
+{{short description|British professional cricket league}}
+{{Use British English|date=December 2017}}
+{{Use dmy dates|date=October 2019}}
+{{Infobox cricket tournament main
+| name              = The Hundred
+| image             = The Hundred (cricket) logo.svg
+| country           = England and Wales
+| administrator     = [[England and Wales Cricket Board]]
+| cricket format    = [[100-ball cricket]] / [[Twenty20|T20]]<ref name="auto">{{cite web|url=https://crickettimes.com/2025/08/explained-why-the-hundred-league-is-classified-as-a-t20-format/|title=EXPLAINED: Why The Hundred league is classified as a T20 format?|date=16 August 2025}}</ref>
+| first             = [[2021 The Hundred season|2021]]
+| last              = [[2026 The Hundred season|2026]]
+| next              = [[2027 The Hundred season|2027]]
+| tournament format = [[Round-robin tournament|Round-robin league]] and [[Play-offs]]
+| participants      = '''Women:''' 8<br />'''Men:''' 8
+| champions         = '''Women:''' [[Trent Rockets]] (1st title)<br />'''Men:''' [[Manchester Super Giants]] (1st title)
+| most successful   = '''Women:''' [[MI London]] (2 titles)<br />'''Men:''' [[MI London]] (3 titles)
+| website           = {{URL|https://www.thehundred.com}}
+| TV                = [[BBC Sport]]<br />[[Sky Sports]]
+}}<!--
+{{Season sidebar
+|title = Seasons
+|list  = *[[2021 The Hundred season|2021]]
+*[[2022 The Hundred season|2022]]
+*[[2023 The Hundred season|2023]]
+*[[2024 The Hundred season|2024]]
+*[[2025 The Hundred season|2025]]
+*[[2026 The Hundred season|2026]]
+}}-->
+
+'''The Hundred''' is a professional [[cricket]] league in [[England]] and [[Wales]]. It is the only cricket league in the world that uses the [[100-ball cricket]] format. It is organised by the [[England and Wales Cricket Board]] (ECB) and played during July and August each year. The competition is one of the four cricket tournaments organised by the ECB, alongside the [[County Championship]], the [[One-Day Cup (England)|One-Day Cup]] and the [[T20 Blast]]. The Hundred comprises eight teams, with seven based in England and one in Wales.
+
+The format was invented with the expectation that each match will last around two-and-a-half hours.<ref>{{cite web |date=23 February 2021 |title=ECB announces Hundred will start in July with women's match at Oval |url=http://www.theguardian.com/sport/2021/feb/23/ecb-announce-the-hundred-will-start-in-july-with-womens-match-at-the-oval |access-date=16 April 2021 |website=The Guardian}}</ref> The [[BBC]] shows [[free-to-air]] broadcasts of some of the competition, while all of the women's matches and some of the men's matches were available to stream for free on [[Sky Sports]]' [[YouTube]] channel.<ref>{{cite web |date=23 October 2019 |title=Hundred must show it can 'grow the game' to be a success – ECB |url=http://www.theguardian.com/sport/2019/oct/23/hundred-mps-ecb-t20-county-cricket |access-date=16 April 2021 |website=The Guardian}}</ref><ref>{{cite web|title=The Hundred: All women's matches available for free on Sky Sports' YouTube channel |work=The Cricketer|url=https://www.thecricketer.com/Topics/news/all_women_hundred_matches_streamed_free_sky_sports_youtube.html|access-date=2021-04-18}}</ref>
+
+Almost all matches take place as back-to-back double-headers at the same venue on the same day. One ticket gives access to both the men's and women's games. The men's salaries are four times higher than the women's, but the tournament prize money is equal.<ref>{{cite web |title=The Hundred – The Hundred: Women's salaries will more than double and men's salaries to rise by a fifth in 2022 edition |publisher=Sky Sports |url=https://www.skysports.com/the-hundred/news/36890/12484203/the-hundred-womens-salaries-will-more-than-double-and-mens-salaries-to-rise-by-a-fifth-in-2022-edition |access-date=2022-09-13}}</ref><ref>{{cite web |title=The Hundred – women fixtures 2021: Full schedule, dates |work=The Cricketer |url=https://www.thecricketer.com/Topics/fixtures/the_hundred_women_fixtures_2021_full_schedule_dates.html |access-date=2021-04-16}}</ref><ref>{{cite web |title=Men's and women's competitions to have equal prize money |date=8 March 2020 |url=http://www.ecb.co.uk/news/1634166 |access-date=2021-05-14 |publisher=England and Wales Cricket Board}}</ref> For statistical purposes The Hundred is designated as a [[Twenty20]] competition.<ref name="auto"/><ref>{{cite web |url=https://www.bbc.co.uk/sport/cricket/articles/c201wyqj9dxo |title=The Hundred 2025 results: Davina Perrin hits record century as Northern Superchargers beat London Spirit in Eliminator |date=30 August 2025 |publisher=BBC Sport}}</ref>
+
+==History==
+A new city-based cricket [[Twenty20]] competition was first proposed by the [[England and Wales Cricket Board]] (ECB) in September 2016. Following early discussions between the 18 [[List of current first-class cricket teams#England and Wales|first-class counties]], the [[Professional Cricketers' Association]] (PCA) and the [[Marylebone Cricket Club]] (MCC), those bodies voted 16–3 in favour of developing the competition.<ref name="BBC 2016">{{cite news |title=T20: English counties vote for new eight-team competition |url=https://www.bbc.co.uk/sport/cricket/37365637 |publisher=BBC Sport |date=14 September 2016 |access-date=7 June 2019}}</ref> On 26 April 2017, members of the ECB voted by 38–3 to push ahead with the new competition.<ref name="BBC approval">{{cite news |url=https://www.bbc.co.uk/sport/cricket/39721254 |date=26 April 2017 |title=City-based Twenty20 tournament featuring eight teams gets approval for 2020}}</ref>
+
+The idea of switching the competition from the established [[Twenty20]] format to an entirely new type of cricket was first proposed by Sanjay Patel, the ECB's chief commercial officer, in a private October 2017 meeting with senior cricket officials. He argued that the hundred-ball format would be simpler to understand for new audiences that the competition wants to attract.<ref name="wisden.com">{{cite web |date=15 June 2020 |title=The Birth Of The Hundred: Bitterness, Betrayal & Accusations Of Bullying |url=https://www.wisden.com/wisden-cricketers-almanack/the-birth-of-the-hundred-bitterness-bullying-accusations-betrayal-almanack |access-date=9 April 2025 |website=Wisden |language=en-GB}}</ref>
+
+Former England player and Northern Superchargers head coach [[Danielle Hazell|Dani Hazell]] stated that the tournament would help with investment into the women's regional structure and the tournament would be an important learning experience for domestic players.<ref>{{cite web |title=The Hundred and women's cricket: A search for equality with a little way to go |url=https://www.thecricketer.com/Topics/news/the_hundred_and_womens_cricket_a_search_for_equality_with_a_little_way_to_go.html |website=The Cricketer |access-date=2021-07-29}}</ref>
+
+The tournament was delayed by a year due to the [[COVID-19 pandemic]].<ref>{{cite web |title=The launch of The Hundred moved to 2021 |url=http://www.ecb.co.uk/news/1662613 |publisher=ECB |access-date=2020-04-30}}</ref>
+
+The profitability of The Hundred has been a subject of debate. In 2016, a report produced by [[Deloitte]] had predicted the tournament would make about £27m profit per year. The [[England Cricket Board|ECB]] reported in 2022 that The Hundred had made an £11.8m profit. A report produced in 2023 by Fanos Hira, a chartered accountant, and assisted by ECB chairman Richard Thompson, showed a loss of £9m in its first two years. These figures do not include the £24.7m promised to the counties and MCC. The ECB's chief executive Richard Gould said he expected the tournament was "here to stay" beyond the current deal with [[Sky Sports]], which runs until 2028.<ref>{{cite web|title=Hundred has made loss of £9m, says new report|url=https://www.thetimes.com/article/hundred-has-made-loss-of-9m-says-new-report-hlcp2zkfv|website=[[The Times]]|date=5 April 2023 |access-date=2023-05-13}}</ref>
+
+For the third season of The Hundred, it was announced that the 100-ball cricket competition would be collaborating with [[Marvel Comics]]. A selection of Marvel's characters, such as Hulk, Iron Man and Black Panther featured in digital content with players from across all eight teams to introduce the competition to new audiences.<ref>{{cite web |title=MARVEL TEAMS UP WITH THE HUNDRED THIS SUMMER |url=https://www.thehundred.com/news/3616035/marvel-teams-up-with-the-hundred-this-summer |website=The Hundred |access-date=2023-08-04}}</ref>
+
+=== Investment and possible future match format change ===
+In 2024, the ECB secured support from county cricket clubs to transfer ownership of the eight franchises away from the ECB, with the host counties (or MCC for London Spirit) given 51% of their franchise, and the ECB retaining 49%, which they would make available to private investors.<ref>{{cite web |title=ECB secures counties agreement on Hundred 'direction of travel' |url=https://www.espncricinfo.com/story/ecb-secures-counties-agreement-hundred-direction-of-travel-1433319 |access-date=2025-02-07 |website=ESPNcricinfo}}</ref>
+
+The proceeds from the sale of the ECB's 49% stake would see 90% split equally between the 18 counties and the MCC, with 10% going to the recreational game. Any host selling part or all of their 51% stake would see proceeds split in the following way: 80% for the host county, 10% split between the 18 counties and MCC, and 10% for the recreational game.<ref>{{Cite news |last=Macpherson |first=Will |date=2024-05-10 |title=Hundred privatisation moves closer after counties give ECB green light |url=https://www.telegraph.co.uk/cricket/2024/05/10/hundred-privatisation-counties-ecb-green-light/ |access-date=2025-02-07 |work=The Telegraph |language=en-GB |issn=0307-1235}}</ref>
+
+In September 2024, it was reported the ECB had turned down a £400m offer for 75% of the competition, from [[Bridgepoint Group]], a London-listed buyout firm.<ref>{{cite news |last=Martin |first=Ali |date=2022-11-26 |title=Private equity firm 'makes £400m offer' for 75% stake in the Hundred |url=https://www.theguardian.com/sport/2022/nov/26/cricket-hundred-private-equity-offer-400-million |access-date=2025-02-07 |work=The Observer |language=en-GB |issn=0029-7712}}</ref> In October, MCC held a vote in which its members voted in favour of accepting the ECB's offer.<ref>{{cite web |date=2024-10-29 |title=The Hundred: MCC members vote to accept 51% share in London Spirit |url=https://www.bbc.com/sport/cricket/articles/cg7gr30n28vo |access-date=2025-02-07 |publisher=BBC Sport |language=en-GB}}</ref>
+
+The process of courting potential investors culminated in the final stage taking place in January 2025.<ref>{{cite web |date=2025-01-29 |title=The Hundred: Landmark sales near completion as fixtures released |url=https://www.bbc.com/sport/cricket/articles/c8edyly4ndyo |access-date=2025-02-07 |publisher=BBC Sport |language=en-GB}}</ref> A 49% share in [[Birmingham Phoenix]] was sold for approximately £40m to Knighthead Capital, a US investment group including retired [[NFL]] quarterback [[Tom Brady]] who also own [[Birmingham City F.C.]]. On the same day, [[Oval Invincibles]] announced that the [[Mukesh Ambani|Ambani]] family, owners of the [[Mumbai Indians]], had acquired a 49% stake for around £60m.<ref>{{cite web |date=2025-01-30 |title=The Hundred: Mumbai Indians buy stake in Oval Invincibles, Knighthead in Birmingham Phoenix |url=https://www.bbc.com/sport/cricket/articles/crm7dz02emxo |access-date=2025-02-07 |publisher=BBC Sport |language=en-GB}}</ref>
+
+[[Sanjay Govil]]'s [[Washington Freedom (cricket)|Washington Freedom]] bought a 50% stake in [[Welsh Fire]]<ref>{{cite web |date=2025-02-12 |title='Landmark' deal can make Welsh Fire 'global brand'|url=https://www.bbc.com/sport/cricket/articles/ckgnwp8x29po |access-date=2025-11-06 |publisher=BBC Sport |language=en-GB}}</ref> and a consortium of tech billionaires led by [[Nikesh Arora]] acquired 49% of [[London Spirit]] for £145m.<ref>{{cite web |date=2025-01-31 |title=The Hundred: London Spirit stake sold for £145m to tech consortium |url=https://www.bbc.com/sport/cricket/articles/c360z2k47jwo |access-date=2025-02-07 |publisher=BBC Sport |language=en-GB}}</ref>
+
+[[Lancashire County Cricket Club|Lancashire]] became the first host county to sell part of their stake in their franchise, with 70% of the [[Manchester Originals]] going to the [[RP-Sanjiv Goenka Group]], owners of the [[Mohun Bagan Super Giant]] and [[Lucknow Super Giants]], for approximately £81m.<ref>{{cite web |date=2025-02-03 |title=The Hundred: Lucknow Super Giants buy stake in Manchester Originals |url=https://www.bbc.com/sport/cricket/articles/c4g305xvl3lo |access-date=2025-02-07 |publisher=BBC Sport |language=en-GB}}</ref> This transaction established RPSG as the principal stakeholder in the Manchester-based team, with Lancashire County Cricket Club retaining the remaining 30% ownership.<ref>{{Cite web |last=Team |first=CricOpinion |date=2025-07-05 |title=Private Investment's Impact on The Hundred Sport |url=https://cricopinion.com/cricket-analysis/private-investment-hundred-league-impact-cricket |access-date=2025-07-29 |website=CricOpinion}}</ref>
+
+[[Yorkshire County Cricket Club|Yorkshire]] then sold their entire stake in the [[Northern Superchargers]] to [[Sun Group]], the owners of [[Sunrisers Hyderabad]], for around £100m.<ref>{{cite web |date=2025-02-05 |title=The Hundred sales: Yorkshire become first team to sell entire franchise |url=https://www.bbc.com/sport/cricket/articles/cdrymeyp8z7o |access-date=2025-02-07 |publisher=BBC Sport |language=en-GB}}</ref> On 11 February 2025, [[Chelsea F.C.|Chelsea]] co-owner [[Todd Boehly]]'s [[Cain (company)|Cain]] agreed to buy a 49% share in [[Trent Rockets]] for close to £40m.<ref>{{cite web |url=https://www.skysports.com/the-hundred/news/36888/13307157/the-hundred-chelsea-co-owner-todd-boehly-buys-stake-in-trent-rockets-for-close-to-gbp40m |title=The Hundred: Chelsea co-owner Todd Boehly buys stake in Trent Rockets for close to £40m |publisher=Sky Sports}}</ref> On February 12, [[GMR Group]], owner of [[Hampshire County Cricket Club|Hampshire Cricket Club]],<ref>{{cite news |last=Ingle |first=Sean |date=2024-09-30 |title=Delhi Capitals owner buys majority stake in Hampshire CCC for £120m |url=https://www.theguardian.com/sport/2024/sep/30/cricket-hampshire-gmr-group-delhi-capitals-majority-stake |access-date=2025-06-24 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> agreed a £48m deal for the ECB's 49% stake in [[Southern Brave]].<ref>{{cite web |url=https://www.espncricinfo.com/story/gmr-agree-deal-southern-brave-conclude-hundred-sell-off-1472933 |title=GMR agree deal for Southern Brave to conclude Hundred sell-off |work=ESPNcricinfo}}</ref> The sales were finalised in the second half of 2025 leading to Northern Superchargers and Oval Invincibles being rebranded as Sunrisers Leeds and MI London respectively.<ref name="3dec25">{{cite web |title=The Hundred team partnerships completed |url=https://www.ecb.co.uk/news/4413484/the-hundred-team-partnerships-completed |website=ECB |access-date=3 December 2025 |date=3 December 2025}}</ref><ref>{{cite web |title=Northern Superchargers officially renamed Sunrisers Leeds |url=https://www.espncricinfo.com/story/the-hundred-northern-superchargers-officially-renamed-sunrisers-leeds-1510067 |website=ESPNcricinfo |access-date=3 December 2025 |date=4 November 2025}}</ref><ref>{{cite web |title=Oval Invincibles rebrand as MI London as Hundred deal is finalised |url=https://www.espncricinfo.com/story/oval-invincibles-rebrand-as-mi-london-as-hundred-deal-is-finalised-1514252 |website=ESPNcricinfo |access-date=3 December 2025 |date=3 December 2025}}</ref> In August 2025, ''[[The Guardian]]'' reported that the new IPL-affiliated investors were keen to change the format of The Hundred from 100 ball cricket into a franchise T20 tournament to align with other franchise leagues.<ref>{{cite web |last=Hughes |first=Matt |title=Hundred's days could be numbered with T20 switch in play for next year |url=https://www.theguardian.com/sport/2025/aug/06/the-hundred-set-for-twenty20-transformation-as-early-as-next-year |work=The Guardian |date=6 August 2025}}</ref> Months earlier, in April of the same year, the [[England and Wales Cricket Board]] had admitted it was "open to discussions" about changing the format of The Hundred into a franchise T20 cricket tournament. It has been noted by sources such as [[ESPN]] that any attempted change of format to The Hundred before 2028 could face objections from [[BBC Sport]] and [[Sky Sports]], which are the contracted broadcasters for the tournament.<ref>{{cite web |url=https://www.espn.co.uk/cricket/story/_/id/46126583/the-hundred-end-beginning-change-looms-hundred |title=End of the beginning as change looms for the Hundred |website=www.espn.co.uk |date=2025-09-01}}</ref>
+{| class="wikitable sortable"
+|+ Ownership structure and team valuations
+|-
+! Team
+!Established as
+! Host (equity stake)
+! Investor (equity stake)<ref name="3dec25"/>
+! Valuation ([[£]] million){{Citation needed|date=January 2026}}
+|-
+| [[Birmingham Phoenix]]
+|
+| [[Warwickshire County Cricket Club|Warwickshire Cricket Club]] (51%)
+| [[Knighthead Capital]] (49%)
+| 81.63
+|-
+| [[London Spirit]]
+|
+| [[Marylebone Cricket Club]] (51%)
+| [[Tech Titans]] (49%)
+| 295.92
+|-
+| [[Manchester Super Giants]]
+|Manchester Originals
+| [[Lancashire County Cricket Club|Lancashire Cricket Club]] (30%)
+| [[RP-Sanjiv Goenka Group]] (70%)
+| 115.71
+|-
+| [[Sunrisers Leeds]]
+|Northern Superchargers
+| [[Yorkshire County Cricket Club|Yorkshire Cricket Club]] (—)
+| [[Sun Group]] (100%)
+| 100.00
+|-
+| [[MI London]]
+|Oval Invincibles
+| [[Surrey County Cricket Club|Surrey Cricket Club]] (51%)
+| [[Reliance Industries]] (49%)
+| 122.45
+|-
+| [[Southern Brave]]
+|
+| [[Hampshire County Cricket Club|Hampshire Cricket Club]] (51%)
+| [[GMR Group]] (49%)
+| 97.96
+|-
+| [[Trent Rockets]]
+|
+| [[Nottinghamshire County Cricket Club|Nottinghamshire Cricket Club]] (51%)
+| [[Cain & Ares]] (49%)
+| 81.63
+|-
+| [[Welsh Fire]]
+|
+| [[Glamorgan County Cricket Club|Glamorgan Cricket Club]] (50%)
+| [[Washington Freedom (cricket)|Washington Freedom]] (50%)
+| 67.50
+|}
+
+==Format==
+One-hundred-ball cricket is a form of [[limited overs cricket]], played by two teams each playing a single [[innings]] made up of 100 [[delivery (cricket)|balls]].<ref name="BBC">{{cite news |url=https://www.bbc.co.uk/sport/cricket/46387938 |title=100-ball cricket: New short-form competition confirmed by ECB |publisher=BBC Sport |access-date=7 June 2019 |date=29 November 2018}}</ref> Games last approximately two and a half hours.<ref>{{cite web |title=The Hundred: Your guide to cricket's new quickfire competition |url=https://news.sky.com/story/the-hundred-your-guide-to-crickets-new-quickfire-competition-11840168 |access-date=2021-05-04 |publisher=Sky News}}</ref>
+
+The [[Laws of Cricket]] apply in The Hundred, with some major exceptions:<ref name="100 ball rules">{{cite web |title=Playing Conditions – 100 balls per side |date=1 March 2023 |publisher=[[England and Wales Cricket Board]] |url=https://resources.ecb.co.uk/ecb/document/2023/03/01/6861cebe-94d7-431c-9073-98ea01d23d47/7.-100-Ball.pdf}}</ref>
+
+*Law 11 (Intervals):
+** there are two innings, each normally lasting 65 minutes separated by a 15-minute interval
+** if the first innings is completed before the scheduled time of the interval, the interval takes place immediately
+** if the first innings is delayed or interrupted, the interval is shortened to 10 minutes
+*Law 12 (Start of play; cessation of play):
+** each team shall bat for 20 overs unless all out earlier
+** the fielding team is entitled to take one 90 second strategic time-out (but not during the first 25 balls of the innings)
+*Law 13 (Innings):
+** a match consists of one innings per side, each limited to a maximum of 20 overs with 5 ball overs, but the captain can decide to let them bowl another 5 balls. This, however, counts as 2 overs 
+** no bowler may bowl more than four overs in an innings
+*Law 17 (The over):
+** an over consists of five balls
+** two overs shall be bowled from each end alternately. Batters shall not change ends between overs
+** a bowler shall be allowed to change ends as often as desired
+** a bowler shall not be allowed to bowl more than 2 consecutive overs
+*Law 21 (No ball):
+** the penalty for a no ball is two runs
+** the delivery following a no ball shall be a free hit
+*Law 28 (The fielder):
+** there shall not be more than 5 fielders on the leg side
+** for the first five (powerplay) overs, no more than two fielders are permitted to be outside the 30-yard circle
+*Law 40 (Timed out):
+** an incoming batter must be ready to receive the next ball within 60 seconds after the dismissal or retirement of the preceding batter
+** in the event of the above requirement not being met, the umpire shall issue one warning
+** if the above requirement is not met for a subsequent time in the same innings, five penalty runs shall be awarded to the fielding team
+** if the batter is not ready within 80 seconds, they will be timed out
+
+==Tournament structure==
+Eight city-based teams compete during the [[Summer vacation#United Kingdom|school summer holidays]]. All men's and women's matches are held on the same day at the same grounds. In total, there are 32 matches in the league stage of the tournament. Each team plays four matches at home and four matches away. This includes one match against every other team and then a second bonus match against their nearest regional rivals.<ref>{{cite web |date=2021-02-23 |title=The Hundred 2021 Schedule: Full List Of Men's & Women's Fixtures |url=https://www.wisden.com/cricket-news/the-hundred-2021-schedule-full-list-of-fixtures-dates-start-time-venues |access-date=9 April 2025 |website=Wisden |language=en-GB}}</ref>
+
+The team that finishes top of the league progresses straight into the final. The teams finishing second and third compete in the Eliminator (or semi-final), with the winner progressing into the final.<ref>{{cite web |title=The Hundred: Your essential guide to the new 100-ball competition |url=https://www.skysports.com/the-hundred/news/36890/12359260/the-hundred-your-essential-guide-to-the-new-100-ball-competition |publisher=[[Sky Sports]] |access-date=2022-05-23 |date=2021-07-20}}</ref>
+
+==Trophies==
+The Hundred trophies for both the men's and women's tournaments were designed and made by London-based goldsmiths and silversmiths [[Thomas Lyte]]. Originally commissioned in 2019, the two identical trophies were produced simultaneously.<ref>{{cite web |last=tshego |date=2021-08-20 |title=Op-ed: Creating The Hundred's Trophies With Thomas Lyte |url=https://www.sportindustry.biz/news-categories/news/op-ed-creating-hundreds-trophies-thomas-lyte/ |access-date=2025-02-24 |website=Sport Industry Group |language=en-GB}}</ref> They stand at a height of 56{{nbsp}}cm and weigh 13{{nbsp}}kg. The identical nature of the trophies is symbolic of the [[England and Wales Cricket Board|ECB]]'s drive for equality in the sport of [[cricket]], with the prize fund for the competition split equally between the men's and women's tournaments.<ref>{{cite news |date=2020-03-04 |title=The Hundred: Men's and women's winners to receive equal prize money |url=https://www.bbc.co.uk/sport/cricket/51703409 |access-date=2025-02-24 |publisher=BBC Sport |language=en-GB}}</ref>
+
+==Teams==
+{{Location map+|England|AlternativeMap= England and Wales location map.svg |width=250|float=right|caption=Teams in The Hundred|places=
+ {{Location map~|England|AlternativeMap=England and Wales location map.svg|lat=52.455814|long=-1.902489|mark=black pog.svg|position=left|background=|label=[[Birmingham Phoenix]]}}
+ {{Location map~|England|AlternativeMap=England and Wales location map.svg|lat=51.487334|long=-3.191416|mark=red pog.svg|position=left|background=|label=[[Welsh Fire]]}}
+ {{Location map~|England|AlternativeMap=England and Wales location map.svg|lat=53.817686|long=-1.582070|mark=orange pog.svg|position=right|background=|label= [[Sunrisers Leeds]]}}
+ {{Location map~|England|AlternativeMap=England and Wales location map.svg|lat=53.003280|long=-1.144573|mark=yellow pog.svg|position=right|background=|label=[[Trent Rockets]]}}
+ {{Location map~|England|AlternativeMap=England and Wales location map.svg|lat=53.479251|long=-2.247926|mark=brown pog.svg|position=left|background=|label=[[Manchester Super Giants]]}}
+ {{Location map~|England|AlternativeMap=England and Wales location map.svg|lat=51.529831|long=-0.1747313|mark=blue pog.svg|position=left|background=|label='''London'''}}
+ {{Location map~|England|AlternativeMap=England and Wales location map.svg|lat=50.924000|long=-1.321900|mark=green pog.svg|position=bottom|background=|label= [[Southern Brave]]}}
+
+<!--DISPLAY OF LONDON TEAMS IN UPPER RIGHT CORNER-->
+{{location map~ |England |mark=TransparentPlaceholder.png |marksize=1 |lat=55.7 |long=-.7|label_size=80|label='''{{nowrap|London teams:}}'''<br />
+[[London Spirit]]<br />
+[[MI London]]
+}}
+|position=right}}
+
+{{Location map+|London|AlternativeMap=Greater London UK location map 2.svg |width=250|float=right|caption=London teams in The Hundred|places=
+ {{Location map~|London|AlternativeMap=Greater London UK location map 2.svg|lat=51.529831|long=-0.1747313|mark=blue pog.svg|position=left|background=|label=[[London Spirit]]}}
+ {{Location map~|London|AlternativeMap=Greater London UK location map 2.svg|lat=51.4837565|long=-0.1175486|mark=sky blue pog.svg|position=right|background=|label=[[MI London]]}}
+}}
+
+The naming process of the teams went through several reported changes; the tournament was described by the ECB as the City T20 into 2017,<ref name="ECB proposal" /> but by 2018 there were rumours the teams would not be named after cities, counties or venues.<ref>{{cite news | url=https://www.thetimes.com/world/europe/article/t20-teams-will-not-be-tied-to-cities-28zkj0v33 | title= T20 teams will not be tied to cities | last= Ammon | first=Elizabeth | date=2 January 2018 | work=[[The Times]]}}{{subscription required}}</ref>
+
+In May 2019, six team names were announced, revealing a mix of city and non-city names: Birmingham Phoenix, Leeds Superchargers, London Spirit, Southern Brave, Trent Rockets and Welsh Fire.<ref>{{cite news |last=Wigmore |first=Tim |date=29 May 2019 |title=ECB decide team names for the much-derided Hundred tournament: all hail the Trent Rockets |url=https://www.telegraph.co.uk/cricket/2019/05/29/ecb-decide-team-names-much-derided-hundred-tournament-hail-trent/ |work=The Telegraph}}</ref> During the summer, it was announced that the team based at Old Trafford would be the Manchester Originals,<ref>{{cite web |last=Ostick |first=Chris |date=2019-06-14 |title=Name for The Hundred team based at Manchester's Old Trafford revealed |url=https://www.manchestereveningnews.co.uk/sport/cricket/name-hundred-team-based-manchesters-16430806 |access-date=2025-12-04 |website=Manchester Evening News}}</ref> the second London team would be known as the Oval Invincibles and Leeds Superchargers had changed their name to Northern Superchargers.<ref>{{cite web |last=Macpherson |first=Will |date=2019-07-09 |title=The Hundred: Oval Invincibles confirmed plus Superchargers name change |url=https://www.standard.co.uk/sport/cricket/the-hundred-oval-invincibles-confirmed-leeds-superchargers-name-change-a4185746.html |access-date=2025-12-04 |website=The Standard}}</ref>
+
+In 2025, the investment from the IPL brought name changes. In August, it was reported that the Originals would become the Manchester Super Giants.<ref name="bbc.com">{{cite web |date=2025-11-04 |title=The Hundred: Northern Superchargers change name to Sunrisers Leeds |url=https://www.bbc.com/sport/cricket/articles/cddrgy54pp3o |access-date=2025-12-04 |publisher=BBC Sport |language=en-GB}}</ref> In November, it was formally announced that the Superchargers had changed their name to Sunrisers Leeds.<ref name="bbc.com"/> In December, the Invincibles became MI London.<ref>{{cite news |date=2025-12-03 |title=Oval Invincibles will be renamed as MI London for the Hundred in 2026 |url=https://www.theguardian.com/sport/2025/dec/03/oval-invincibles-rebrand-mi-london-hundred-2026-cricket-mumbai-indians |access-date=2025-12-04 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+{| class="wikitable"
+|- 
+! Team name
+! Home ground
+! Location
+! Linked counties
+! Men's captain
+! Women's captain
+|-
+| [[Birmingham Phoenix]]
+| [[Edgbaston Cricket Ground|Edgbaston]]
+| [[Birmingham]], [[West Midlands (county)|West Midlands]]
+| [[Warwickshire County Cricket Club|Warwickshire]],<br />[[Worcestershire County Cricket Club|Worcestershire]]
+| [[Donovan Ferreira]]
+| [[Ellyse Perry]]
+|-
+| [[London Spirit]]
+| [[Lord's cricket ground|Lord's]]
+| [[St John's Wood]], [[London]]
+| [[Essex County Cricket Club|Essex]], [[Middlesex County Cricket Club|Middlesex]],<br />[[Northamptonshire County Cricket Club|Northamptonshire]]
+| [[Liam Livingstone]]
+| [[Charlie Dean]]
+|-
+| [[Manchester Super Giants]]
+| [[Old Trafford Cricket Ground|Old Trafford]]
+| [[Stretford]], [[Greater Manchester]]
+| [[Lancashire County Cricket Club|Lancashire]]
+| [[Aiden Markram]]
+| [[Meg Lanning]]
+|-
+| [[MI London]]
+| [[The Oval]]
+| [[Kennington]], [[London]]
+| [[Kent County Cricket Club|Kent]],<br />[[Surrey County Cricket Club|Surrey]]
+| [[Sam Curran]]
+| [[Hollie Armitage]]
+|-
+| [[Southern Brave]]
+| [[Rose Bowl (cricket ground)|Rose Bowl]]
+| [[Southampton]], [[Hampshire]]
+| [[Hampshire County Cricket Club|Hampshire]],<br />[[Sussex County Cricket Club|Sussex]]
+| [[Chris Jordan (cricketer)|Chris Jordan]]
+| [[Sophie Molineux]]
+|-
+| [[Sunrisers Leeds]]
+| [[Headingley Cricket Ground|Headingley]]
+| [[Leeds]], [[West Yorkshire]]
+| [[Durham County Cricket Club|Durham]],<br />[[Yorkshire County Cricket Club|Yorkshire]]
+| [[Zak Crawley]]
+| [[Dani Gibson]]
+|-
+| [[Trent Rockets]]
+| [[Trent Bridge]]
+| [[West Bridgford]], [[Nottingham]]
+| [[Derbyshire County Cricket Club|Derbyshire]], [[Leicestershire County Cricket Club|Leicestershire]],<br />[[Nottinghamshire County Cricket Club|Nottinghamshire]]
+| [[Sam Billings]]
+| [[Ashleigh Gardner]]
+|-
+|[[Welsh Fire]]
+| [[Sophia Gardens (cricket ground)|Sophia Gardens]]
+| [[Cardiff]]
+| [[Glamorgan County Cricket Club|Glamorgan]],<br />[[Gloucestershire County Cricket Club|Gloucestershire]], [[Somerset County Cricket Club|Somerset]]
+| [[Phil Salt]]
+| [[Sophie Devine]]
+|}
+
+==Finals==
+{| class="wikitable"
+|+Women's finals
+|-
+! Season
+! Date
+! Winner
+! Winning margin
+! Runner-up
+! Venue
+|-
+| [[2021 season of The Hundred|2021]]
+| 21 August
+| rowspan="2" | [[Oval Invincibles]]
+| 48 runs<br />{{small|[https://www.espncricinfo.com/ci/engine/match/1252733.html Scorecard]}}
+| rowspan="2" | [[Southern Brave]]
+| rowspan="6" | [[Lord's]], [[London]]
+|-
+| [[2022 season of The Hundred|2022]]
+| {{nobr|3 September}}
+| 5 wickets<br />{{small|[https://www.espncricinfo.com/ci/engine/match/1299170.html Scorecard]}}
+|-
+| [[2023 season of The Hundred|2023]]
+| 27 August
+| [[Southern Brave]]
+| 34 runs<br />{{small|[https://www.espncricinfo.com/ci/engine/match/1355605.html Scorecard]}}
+| [[Northern Superchargers]]
+|-
+| [[2024 season of The Hundred|2024]]
+| 18 August 
+| [[London Spirit]]
+| 4 wickets<br />{{small|[https://www.espncricinfo.com/ci/engine/match/1417857.html Scorecard]}}
+| [[Welsh Fire]]
+|-
+| [[2025 The Hundred season|2025]]
+| 31 August 
+| [[Northern Superchargers]]
+| 7 wickets<br />{{small|[https://www.espncricinfo.com/ci/engine/match/1471069.html Scorecard]}}
+| [[Southern Brave]]
+|-
+| [[2026 The Hundred season|2026]]
+| 16 August 
+| {{cr-ENG|tr}}
+| 8 wickets <br />{{small|[https://www.espncricinfo.com/ci/engine/match/1521230.html Scorecard]}}
+| {{cr-ENG|sl}}
+|}
+
+{| class="wikitable"
+|+Men's finals
+|-
+! Season
+! Date
+! Winner
+! Winning margin
+! Runner-up
+! Venue
+|-
+| [[2021 season of The Hundred|2021]]
+| 21 August
+| [[Southern Brave]]
+| 32 runs<br />{{small|[https://www.espncricinfo.com/ci/engine/match/1252699.html Scorecard]}}
+| [[Birmingham Phoenix]]
+| rowspan="6" | [[Lord's]], [[London]]
+|-
+| [[2022 season of The Hundred|2022]]
+| {{nobr|3 September}}
+| [[Trent Rockets]]
+| 2 wickets<br />{{small|[https://www.espncricinfo.com/ci/engine/match/1299204.html Scorecard]}}
+| rowspan="2" | [[Manchester Originals]]
+|-
+| [[2023 season of The Hundred|2023]]
+| 27 August
+| rowspan="3" | [[Oval Invincibles]]
+| 14 runs<br />{{small|[https://www.espncricinfo.com/ci/engine/match/1355639.html Scorecard]}}
+|-
+| [[2024 season of The Hundred|2024]]
+| 18 August
+| 17 runs<br />{{small|[https://www.espncricinfo.com/ci/engine/match/1417823.html Scorecard]}}
+| [[Southern Brave]]
+|-
+| [[2025 The Hundred season|2025]]
+| 31 August 
+| 26 runs<br />{{small|[https://www.espncricinfo.com/ci/engine/match/1471035.html Scorecard]}}
+| [[Trent Rockets]]
+|-
+| [[2026 The Hundred season|2026]]
+| 16 August 
+| [[Manchester Super Giants]]
+| 5 wickets<br />{{small|[https://www.cricinfo.com/ci/engine/match/1521264.html Scorecard]}}
+| [[Trent Rockets]]
+|}
+
+==Broadcasting==
+All games are televised by [[Sky Sports]], with the [[BBC Sport|BBC]] also showing 10 men's and 8 women's games [[free-to-air]].<ref name="ECB proposal">{{cite web |url=https://www.ecb.co.uk/news/355689 |title=A new T20 competition proposed for 2020 |date=27 March 2017 |publisher=ECB}}</ref><ref name="BBC approval"/> In Germany, [[Sky Sport (Germany)|Sky Sport]] streamed the initial tournament on their website. They used the signal from Sky Sports UK.<ref>{{cite web |title="The Hundred" – das Cricket-Turnier der Extraklasse – live auf Sky |url=https://sport.sky.de/artikel/cricket-news-the-hundred-guide-mit-regelwerk-terminen-co/12355970/35311 |access-date=2021-07-25 |website=Sky Sport |language=de |archive-date=25 July 2021 |archive-url=https://web.archive.org/web/20210725102115/https://sport.sky.de/artikel/cricket-news-the-hundred-guide-mit-regelwerk-terminen-co/12355970/35311 |url-status=dead }}</ref>
+
+==Records and statistics==
+===Team records===
+====Highest totals====
+{{updated|4 August 2026}}
+{{col-begin}}
+{{col-break}}
+{| class="wikitable"
+|-
+|+Women's matches
+|-
+! Score !! Team !! Opponent !! Date
+|-
+! 214/5 (100 balls)
+| [[Northern Superchargers]] || [[London Spirit]] || {{dts|format=dmy|2025|08|30}}
+|-
+! 181/3 (100 balls)
+| [[Welsh Fire]] || [[Trent Rockets]] || {{dts|format=dmy|2023|08|14}}
+|-
+! 177/4 (100 balls)
+| [[Welsh Fire]] || [[MI London]] || {{dts|format=dmy|2026|07|25}}
+|-
+! 176/5 (100 balls)
+| [[London Spirit]] || [[Oval Invincibles]] || {{dts|format=dmy|2025|08|05}}
+|-
+! 174/5 (100 balls)
+| [[Oval Invincibles]] || [[Birmingham Phoenix]] || {{dts|format=dmy|2025|08|12}}
+|}
+*Source: CricInfo<ref>{{cite web |title=The Hundred Women's Competition, team highest scores |url=https://stats.espncricinfo.com/ci/engine/stats/index.html?class=23;filter=advanced;orderby=team_score;template=results;trophy=834;type=team;view=innings |access-date=2023-08-11 |website=ESPNcricinfo}}</ref>
+{{col-break}}
+
+{| class="wikitable"
+|-
+|+Men's matches
+|-
+! Score !! Team !! Opponent !! Date
+|-
+! 241/2 (100 balls)
+| [[Sunrisers Leeds]] || [[London Spirit]] || {{dts|format=dmy|2026|08|04}}
+|-
+! 226/4 (100 balls)
+| [[Oval Invincibles]] || [[Welsh Fire]] || {{dts|format=dmy|2025|08|16}}
+|-
+! 214/4 (100 balls)
+| [[Birmingham Phoenix]] || [[Trent Rockets]] || {{dts|format=dmy|2026|07|24}}
+|-
+! 208/5 (100 balls)
+| [[Manchester Originals]] || [[Northern Superchargers]] || {{dts|format=dmy|2022|08|21}}
+|-
+! 204/6 (100 balls)
+| [[London Spirit]] || [[Sunrisers Leeds]] || {{dts|format=dmy|2026|08|04}}
+|-
+! 204/7 (100 balls)
+| [[Trent Rockets]] || [[Birmingham Phoenix]] || {{dts|format=dmy|2026|07|24}}
+|-
+|}
+* Source: CricInfo<ref name="Men's results">{{cite web |title=The Hundred Men's Competition Trophy team match results |url=https://www.espncricinfo.com/records/trophy/team-highest-innings-totals/the-hundred-men-s-competition-826 |access-date=2023-08-11 |website=ESPNcricinfo}}</ref>
+{{col-end}}
+
+====Lowest totals====
+These totals only include completed [[innings]]. They also exclude innings where the number of balls to be bowled is reduced, usually because of rain. Successful low scoring [[run-chase]]s are also excluded.
+{{updated|4 August 2026}}
+{{col-begin}}
+{{col-break}}
+{| class="wikitable"
+|-
+|+Women's matches
+|-
+! Score !! Team !! Opponent !! Date
+|-
+! 54 (86 balls)
+| [[Birmingham Phoenix]] || [[Northern Superchargers]] || {{dts|format=dmy|2024|08|06}}
+|-
+! 64 (66 balls)
+| [[Oval Invincibles]] || [[Northern Superchargers]] || {{dts|format=dmy|2024|08|02}}
+|-
+! 64 (95 balls)
+| [[Birmingham Phoenix]] || [[Trent Rockets]] || {{dts|format=dmy|2026|07|24}}
+|-
+! 72 (83 balls)
+| [[Oval Invincibles]] || [[Southern Brave]] || {{dts|format=dmy|2025|08|18}}
+|-
+! 73 (98 balls)
+| [[Southern Brave]] || [[Oval Invincibles]] || {{dts|format=dmy|2021|08|21}}{{efn|Score made during the 2021 final}}
+|}
+* Source: CricInfo<ref>{{cite web |title=The Hundred Women's Competition, team lowest scores |url=https://stats.espncricinfo.com/ci/engine/stats/index.html?class=23;event=1;filter=advanced;orderby=team_score;orderbyad=reverse;template=results;trophy=834;type=team;view=innings |access-date=2023-08-11 |website=ESPNcricinfo}}</ref>
+{{notelist}}
+{{col-break}}
+
+{| class="wikitable"
+|-
+|+Men's matches
+|-
+! Score !! Team !! Opponent !! Date 
+|-
+! 75 (74 balls)
+| [[Birmingham Phoenix]] || [[Manchester Originals]] || {{dts|format=dmy|2022|08|28}}
+|-
+! 80 (94 balls)
+| [[London Spirit]] || [[Oval Invincibles]] || {{dts|format=dmy|2025|08|05}}
+|-
+! 83 (96 balls)
+| [[Northern Superchargers]] || [[Birmingham Phoenix]] || {{dts|format=dmy|2024|08|06}}
+|-
+! 83 (76 balls)
+| [[Northern Superchargers]] || [[Manchester Originals]] || {{dts|format=dmy|2023|08|20}}
+|-
+! 86/8 (100 balls)
+| [[Manchester Originals]] || [[Welsh Fire]] || {{dts|format=dmy|2024|07|25}}
+|}
+*Source: CricInfo<ref name="Men's results"/>
+{{notelist}}
+{{col-end}}
+
+=== Batting===
+====Most runs====
+{{col-begin}}
+{{col-break}}
+{| class="wikitable"
+|-
+|+Women
+|-
+! Runs 
+! Player !! Team
+|-
+! 1,324
+| [[Sophia Dunkley]] || {{ubl|[[Trent Rockets]] (2026) | [[Welsh Fire]] (2023–2025) | [[Southern Brave]] (2021–2022)}}
+|-
+! 1,317
+| [[Nat Sciver-Brunt]] || [[Trent Rockets]]
+|-
+! 1,239
+| [[Danni Wyatt-Hodge]] || {{ubl| [[MI London]] (2026) |[[Southern Brave]] (2021–2025)}}
+|-
+! 1,197
+| [[Laura Wolvaardt]] || {{ubl|[[Southern Brave]] (2025–2026)|[[Manchester Originals]] (2023–2024)|[[Northern Superchargers]] (2021–2022)}}
+|-
+! 893
+| [[Marizanne Kapp]] || {{ubl|[[London Spirit]] (2026)|[[Oval Invincibles]] (2021–2025)}}
+|}
+{{updated|5 August 2026}}
+*Source: CricInfo<ref>{{cite web |title=The Hundred Women's Competition, batting most runs career Records |url=https://stats.espncricinfo.com/ci/engine/stats/index.html?class=23;filter=advanced;orderby=runs;template=results;trophy=834;type=batting |access-date=2023-08-11 |website=ESPNcricinfo}}</ref><ref>{{cite web |title=The Home of CricketArchive |url=https://cricketarchive.com/Archive/Records/The_Womens_Hundred/Overall/Batting/Most_Career_Runs.html |access-date=2023-08-21 |website=cricketarchive.com |url-access=subscription}}</ref>
+{{col-break}}
+
+{| class="wikitable"
+|+Men
+|-
+! Runs 
+! Player !! Team
+|-
+! 1,294
+| [[Phil Salt]] || {{ubl|[[Welsh Fire]] (2026)|[[Manchester Originals]] (2021–2025)}}
+|-
+! 1,276
+| [[Ben Duckett]] || {{ubl|[[Trent Rockets]] (2026)|[[Birmingham Phoenix]] (2023–2025)|[[Welsh Fire]] (2021–2022)}}
+|-
+! 1,260
+| [[Will Jacks]] || [[Oval Invincibles]] / [[MI London]]
+|-
+! 1,221
+| [[James Vince]] || {{ubl|[[MI London]] (2026)|[[Southern Brave]] (2021–2025)}}
+|-
+! 1,192
+| [[Jos Buttler]] || [[Manchester Originals]] / [[Manchester Super Giants]]
+|}
+{{updated|5 August 2026}}
+* Source: CricInfo<ref>{{cite web |title=The Hundred Men's Competition Trophy batting most runs career |url=https://www.espncricinfo.com/records/trophy/batting-most-runs-career/the-hundred-men-s-competition-826 |access-date=2023-08-21 |website=ESPNcricinfo}}</ref>
+{{col-end}}
+
+====List of centuries====
+{| class="wikitable"
+|-
+! Score !! Player !! Team !! Opposition !! Venue !! Date !! Ref.
+|-
+! 101[[not out|*]]
+| [[Will Smeed]]
+| [[Birmingham Phoenix]] || [[Southern Brave]] || [[Edgbaston Cricket Ground|Edgbaston]] || {{dts|format=dmy|2022|08|10}} || <ref>{{cite web |title=BP-M vs SB-M, The Hundred Men's Competition 2022, 8th Match at Birmingham, August 10, 2022 – Full Scorecard |url=https://www.espncricinfo.com/series/the-hundred-men-s-competition-2022-1299141/birmingham-phoenix-men-vs-southern-brave-men-8th-match-1299178/full-scorecard |access-date=2023-08-11 |website=ESPNcricinfo}}</ref>
+|- 
+! 108[[not out|*]]
+| [[Will Jacks]]
+| [[Oval Invincibles]] || [[Southern Brave]] || [[The Oval]] || {{dts|format=dmy|2022|08|14}} || <ref>{{cite web |title=SB-M vs OI-M, The Hundred Men's Competition 2022, 14th Match at London, August 14, 2022 - Full Scorecard |url=https://www.espncricinfo.com/series/the-hundred-men-s-competition-2022-1299141/oval-invincibles-men-vs-southern-brave-men-14th-match-1299184/full-scorecard |access-date=2023-08-12 |website=ESPNcricinfo}}</ref>
+|-
+! 118
+| [[Tammy Beaumont]]
+| [[Welsh Fire]] || [[Trent Rockets]] || [[Sophia Gardens (cricket ground)|Sophia Gardens]] || {{dts|format=dmy|2023|08|14}} || <ref>{{cite web |title=WF-W vs TR-W, The Hundred Women's Competition 2023, 20th Match at Cardiff, August 14, 2023 – Full Scorecard |url=https://www.espncricinfo.com/series/the-hundred-women-s-competition-2023-1355568/trent-rockets-women-vs-welsh-fire-women-20th-match-1355591/full-scorecard |access-date=2023-08-14 |website=ESPNcricinfo}}</ref><ref>{{cite news |title=Beaumont hits first women's century in The Hundred |language=en-GB |publisher=BBC Sport |url=https://www.bbc.com/sport/cricket/66503534 |access-date=2023-08-14}}</ref><ref>{{cite news |title=The Hundred: Tammy Beaumont hits highest score in tournament history with 118 from 61 balls as Welsh Fire move top of table |language=en-GB |publisher=Sky Sports |url=https://www.skysports.com/cricket/news/12123/12940010/the-hundred-tammy-beaumont-hits-highest-score-in-tournament-history-with-118-from-61-balls-as-welsh-fire-move-top-of-table |access-date=2023-08-14}}</ref> 
+|-
+! 105[[Not out|*]]
+| [[Harry Brook]]
+| [[Northern Superchargers]] || [[Welsh Fire]] || [[Headingley Cricket Ground|Headingley]] || {{dts|format=dmy|2023|08|22}} || <ref>{{cite news |date=2023-08-21 |title=Brook hits sublime century for Superchargers against Fire |language=en-GB |publisher=BBC Sport |url=https://www.bbc.com/sport/live/cricket/66359829 |access-date=2023-08-22}}</ref><ref>{{cite web |title=NSC-M vs WF-M, The Hundred Men's Competition 2023, 30th Match at Leeds, August 22, 2023 - Full Scorecard |url=https://www.espncricinfo.com/series/the-hundred-men-s-competition-2023-1355567/northern-superchargers-men-vs-welsh-fire-men-30th-match-1355635/full-scorecard |access-date=2023-08-22 |website=ESPNcricinfo}}</ref>
+|-
+! 101
+| [[Davina Perrin]]
+| [[Northern Superchargers]] || [[London Spirit]] || [[The Oval]] || {{dts|format=dmy|2025|08|30}} || <ref>{{cite web |title=N S-Chargers vs Spirit, Eliminator at London, Women's Hundred, Aug 30 2025 - Full Scorecard |url=https://www.espncricinfo.com/series/the-hundred-women-s-competition-2025-1471001/london-spirit-women-vs-northern-superchargers-women-eliminator-1471068/full-scorecard |access-date=2025-08-30 |website=ESPNcricinfo}}</ref>
+|}
+*Source: CricInfo<ref>{{cite web |title=The Hundred Men's Competition Trophy batting list hundreds |url=https://www.espncricinfo.com/records/trophy/batting-list-hundreds/the-hundred-men-s-competition-826 |access-date=2023-08-11 |website=ESPNcricinfo}}</ref><ref>{{cite web |title=The Hundred Women's Competition Trophy batting list hundreds |url=https://stats.espncricinfo.com/ci/engine/stats/index.html?class=23;filter=advanced;orderby=batted_score;orderbyad=reverse;runsmin1=100;runsval1=runs;template=results;trophy=834;type=batting;view=innings |access-date=2023-08-11 |website=ESPNcricinfo}}</ref>
+
+===Bowling===
+====Most wickets====
+{{col-begin}}
+{{col-break}}
+{| class="wikitable"
+|-
+|+Women
+|-
+! Wickets
+! Player !! Team
+|-
+! 65
+| [[Lauren Bell (cricketer)|Lauren Bell]] || [[Southern Brave]]
+|-
+! 55
+| [[Marizanne Kapp]] || {{ubl|[[London Spirit]] (2026)|[[Oval Invincibles]] (2021–2025)}}
+|-
+! 52
+| [[Amanda-Jade Wellington]] || {{ubl|[[Oval Invincibles]] (2024-2025)|[[Manchester Originals]] (2023)|[[Southern Brave]] (2021–2022)}}
+|-
+! 50
+| [[Kate Cross]] || {{ubl|[[Northern Superchargers]] / [[Sunrisers Leeds]] (2023–2026)|[[Manchester Originals]] (2021–2022)}}
+|-
+! rowspan="2"|47
+| [[Emily Arlott]] || {{ubl|[[Welsh Fire]] (2026)|[[Birmingham Phoenix]] (2021–2025)}}
+|-
+| [[Hayley Matthews]] || {{ubl|[[MI London]] (2026)|[[Welsh Fire]] (2021–2025)}}
+|}
+{{updated|4 August 2026}}
+*Source: CricInfo<ref>{{Cite web |title=The Hundred Women's Competition, bowling most wickets career Records |url=https://stats.espncricinfo.com/ci/engine/stats/index.html?class=23;filter=advanced;orderby=wickets;template=results;trophy=834;type=bowling |access-date=2023-08-11 |website=ESPNcricinfo}}</ref><ref>{{Cite web |title=The Home of CricketArchive |url=https://cricketarchive.com/Archive/Records/The_Womens_Hundred/Overall/Bowling/Most_Wickets_in_Career.html |access-date=2023-08-21 |website=cricketarchive.com |url-access=subscription}}</ref>
+{{col-break}}
+
+{| class="wikitable"
+|+Men
+|-
+! Wickets
+! Player !! Team
+|-
+! 53
+| [[Adil Rashid]] || {{ubl|[[Southern Brave]] (2026)|[[Northern Superchargers]] (2021–2025)}}
+|-
+! 51
+| [[Tymal Mills]] || {{ubl|[[London Spirit]] (2026)|[[Southern Brave]] (2021–2025)}}
+|-
+! 49
+| [[Sam Curran]] || [[Oval Invincibles]] / [[MI London]]
+|-
+! 46
+| [[Tom Curran (cricketer)|Tom Curran]] || [[Oval Invincibles]] / [[MI London]]
+|-
+! 43
+| [[Rashid Khan]] || {{ubl|[[Oval Invincibles]] / [[MI London]] (2025–2026)|[[Trent Rockets]] (2021–2022, 2024)}}
+|}
+{{updated|4 August 2026}}
+*Source: CricInfo<ref>{{cite web |title=The Hundred Men's Competition Trophy bowling most wickets career |url=https://www.espncricinfo.com/records/trophy/bowling-most-wickets-career/the-hundred-men-s-competition-826 |access-date=2023-08-21 |website=ESPNcricinfo}}</ref>
+{{col-end}}
+
+==== List of hat-tricks ====
+{{Table alignment}}
+{| class="wikitable defaultleft col4center"
+|-
+! Bowler !! Team !! Opponent !! Figures !! Venue !! Date !! Ref.
+|-
+| [[Imran Tahir]]
+| [[Birmingham Phoenix]] || [[Welsh Fire]] || 5/25
+| [[Edgbaston Cricket Ground|Edgbaston]] || {{dts|format=dmy|2021|08|09}} || <ref>{{cite web |title=BP-M vs WF-M, The Hundred Men's Competition 2021, 23rd Match at Birmingham, August 09, 2021 – Full Scorecard |url=https://www.espncricinfo.com/series/the-hundred-men-s-competition-2021-1252040/birmingham-phoenix-men-vs-welsh-fire-men-23rd-match-1252688/full-scorecard |access-date=2023-08-11 |website=ESPNcricinfo}}</ref>
+|-
+| [[Alana King]]
+| [[Trent Rockets]] || [[Manchester Originals]] || 4/15
+| [[Old Trafford Cricket Ground|Old Trafford]] || {{dts|format=dmy|2022|08|13}} || <ref>{{cite web |title=TR-W vs MO-W, The Hundred Women's Competition 2022, 3rd Match at Manchester, August 13, 2022 – Full Scorecard |url=https://www.espncricinfo.com/series/the-hundred-women-s-competition-2022-1299144/manchester-originals-women-vs-trent-rockets-women-3rd-match-1299147/full-scorecard |access-date=2023-08-11 |website=ESPNcricinfo}}</ref>
+|-
+| [[Shabnim Ismail]]
+| [[Welsh Fire]] || [[Birmingham Phoenix]] || 3/31
+| [[Edgbaston Cricket Ground|Edgbaston]] || {{dts|format=dmy|2023|08|10}} || <ref>{{Cite web |title=Ismail hat-trick seals thrilling Fire win in last three balls |url=https://www.espncricinfo.com/series/the-hundred-women-s-competition-2023-1355568/birmingham-phoenix-women-vs-welsh-fire-women-14th-match-1355585/match-report |access-date=2023-08-11 |website=ESPNcricinfo}}</ref>
+|-
+| [[Tymal Mills]]
+| [[Southern Brave]] || [[Welsh Fire]] || 4/13
+| [[Sophia Gardens (cricket ground)|Sophia Gardens]] || {{dts|format=dmy|2023|08|12}} || <ref>{{Cite web |title=WF-M vs SB-M, The Hundred Men's Competition 2023, 17th Match at Cardiff, August 12, 2023 - Full Scorecard |url=https://www.espncricinfo.com/series/the-hundred-men-s-competition-2023-1355567/southern-brave-men-vs-welsh-fire-men-17th-match-1355622/full-scorecard |access-date=2023-08-13 |website=ESPNcricinfo}}</ref>
+|-
+| [[Sam Curran]]
+|[[Oval Invincibles]]
+|[[London Spirit]]
+|5/16
+|[[Lord’s]]
+|{{dts|format=dmy|2024|08|04}} || <ref>{{cite web |title=LS-M vs OI-M, The Hundred Men's Competition 2024, 15th Match at Lord's, August 04, 2024 - Full Scorecard
+|url=https://www.espncricinfo.com/series/the-hundred-men-s-competition-2024-1417778/london-spirit-men-vs-oval-invincibles-men-15th-match-1417804/full-scorecard|access-date=2024-08-06
+|website=ESPNcricinfo}}</ref>
+|-
+| [[Kathryn Bryce]]
+| [[Manchester Originals]] || [[Northern Superchargers]] || 5/12
+| [[Old Trafford Cricket Ground|Old Trafford]] || {{dts|format=dmy|2024|08|11}} || <ref>{{cite web |title=Originals vs N S-Chargers, 27th Match at Manchester, Women's Hundred, Aug 11 2024 - Full Scorecard|url=https://www.espncricinfo.com/series/the-hundred-women-s-competition-2024-1417780/manchester-originals-women-vs-northern-superchargers-women-27th-match-1417850/full-scorecard|access-date=2024-08-11|website=ESPNcricinfo}}</ref>
+|-
+| [[Sonny Baker]]
+| [[Manchester Originals]] || [[Northern Superchargers]] || 3/21
+| [[Old Trafford Cricket Ground|Old Trafford]] || {{dts|format=dmy|2025|08|17}} || <ref>{{Cite web |title=Originals vs N S-Chargers, 17th Match at Manchester, Men's Hundred, Aug 17 2025 - Full Scorecard|url=https://www.espncricinfo.com/series/the-hundred-men-s-competition-2025-1471000/manchester-originals-men-vs-northern-superchargers-men-17th-match-1471018/full-scorecard|access-date=2025-08-29|website=ESPNcricinfo}}</ref>
+|}
+
+==Salary cap==
+{| class="wikitable sortable" style="text-align: center;"
+|+Salary caps per side (2021–2026)
+|-
+! Year !! Men's salary cap !! Women's salary cap !! Notes & references
+|-
+| 2021 || £800,000 || £120,000 || {{efn|Inaugural season; salaries were reduced due to the COVID-19 pandemic.
+<ref>{{cite web
+ |url=https://www.thehundred.com/news/4393081/the-hundred-to-move-to-an-auction-and-increase-salaries
+ |title=The Hundred to move to an auction and increase salaries
+ |publisher=[[England and Wales Cricket Board]]
+ |date=31 October 2025
+}}</ref>}}
+|-
+| 2022 || £1,000,000 || £250,000 || {{efn|Women's salary cap increased significantly, more than doubling from the previous season.
+<ref>{{cite web
+ |url=https://www.espncricinfo.com/story/women-s-hundred-to-receive-800-000-salary-boost-from-ecb-1417077
+ |title=Women's Hundred to receive £800,000 salary boost from ECB
+ |publisher=[[ESPNcricinfo]]
+ |date=17 January 2024
+}}</ref>}}
+|-
+| 2023 || £1,000,000 || £250,000 || {{efn|Salary caps for both competitions remained unchanged from 2022.}}
+|-
+| 2024 || £1,000,000 || £350,000 || {{efn|Men's salary cap remained frozen; the women's competition received a league-wide pay rise.
+<ref>{{cite web
+ |url=https://www.thehundred.com/news/4183150/salaries-to-rise-in-the-hundred-in-2025
+ |title=Salaries to rise in The Hundred in 2025
+ |publisher=The Hundred
+ |date=11 December 2024
+}}</ref>}}
+|-
+| 2025 || £1,403,000 || £430,000 || {{efn|Transitional season ahead of the introduction of a full auction-based salary system.
+<ref name="auto1">{{cite web
+ |url=https://www.bbc.com/sport/cricket/articles/ce3x26y4nq6o
+ |title=The Hundred to hold auction and increase salaries in 2026
+ |publisher=[[BBC Sport]]
+ |date=31 October 2025
+}}</ref>}}
+|-
+| style="background:#f0f0f0;" | '''2026''' || style="background:#f0f0f0;" | '''£2,050,000''' || style="background:#f0f0f0;" | '''£880,000''' || {{efn|First full player auction; introduction of salary bands ("salary collars") regulating minimum and maximum contract values.
+<ref name="auto1"/>}}
+|}
+
+==Reaction==
+The decision to create an entirely new format of cricket, with teams based in just seven major cities, has split opinion amongst cricket fans.<ref>{{cite news |date=2021-07-21 |title=The Hundred: Cricket set for new fast-paced, opinion-splitting tournament |url=https://www.bbc.com/sport/cricket/57899712 |access-date=2025-02-07 |publisher=BBC Sport |language=en-GB}}</ref> England's [[test cricket|test]] [[captain (cricket)|captain]] at the time, [[Joe Root]], welcomed the ECB's plans, believing it would attract a completely new audience to the game.<ref>{{cite news |last=Dobell |first=George |date=19 April 2018 |title=The Hundred 'will bring new people to cricket' - Root|work=ESPN Cricinfo|publisher=ESPN|url=http://www.espncricinfo.com/story/_/id/23301571/the-hundred-bring-new-people-cricket-joe-root|access-date=24 April 2018}}</ref> ODI and T20 captain [[Eoin Morgan]] expressed a similar opinion.<ref>{{Cite news|author1=Andrew Miller|author2=Alan Gardner|date=19 April 2018|title=Eoin Morgan declares himself a 'big fan' of ECB's 100-ball plans|work=ESPN Cricinfo|publisher=ESPN|url=http://www.espncricinfo.com/story/_/id/23325329/eoin-morgan-declares-big-fan-ecb-100-ball-plans|access-date=26 April 2018}}</ref> Former T20 captain [[Stuart Broad]] was hugely optimistic about the new format.<ref>{{cite web|title=Mixed reaction to ECB's '100-ball' format|url=https://www.cricket.com.au/news/ecb-england-cricket-concept-100-balls-format-critic-player-reaction-poll-broad-atherton/2018-04-20|website=Cricket.com.au}}</ref> [[Michael Vaughan]] echoed Broad's comments, believing that it would be an appealing concept to broadcasters, and [[Michael Atherton]] stated that while a T20 match is rarely completed in a three-hour window, this can be achieved with The Hundred.<ref>{{cite web|title=Mixed reaction to ECB's '100-ball' format|url=https://www.cricket.com.au/news/ecb-england-cricket-concept-100-balls-format-critic-player-reaction-poll-broad-atherton/2018-04-20|website=cricket.com.au}}</ref>
+
+However, former [[Marylebone Cricket Club|MCC]] chief [[Keith Bradshaw (cricketer)|Keith Bradshaw]] said he hoped the 100-ball tournament would not be "innovation for innovation's sake",<ref>{{cite web|url=http://www.espncricinfo.com/story/_/id/23333334/former-mcc-chief-keith-bradshaw-queries-ecb-innovation-innovation-sake|access-date=19 July 2018|title=Former MCC Chief Keith Bradshaw Queries ECB Innovation For Innovation's Sake|website=Espncricinfo.com}}</ref> and voiced his concern that the new format would mean that the [[England and Wales Cricket Board|ECB]] could not exploit the T20 boom.<ref>{{cite news |last=Miller |first=Andrew |date=27 April 2018 |title=Former MCC chief Keith Bradshaw queries ECB innovation for innovation's sake |work=ESPN Cricinfo|publisher=ESPN|url=http://www.espncricinfo.com/story/_/id/23333334/former-mcc-chief-keith-bradshaw-queries-ecb-innovation-innovation-sake|access-date=19 July 2018}}</ref> The England and Wales [[Professional Cricketers' Association]] announced that overall players were "open-minded" about the tournament.<ref>{{cite news |last=Johnston |first=Rob |date=8 May 2018|title=Players remain open-minded about ECB's 100-ball proposal|publisher=Cricbuzz|url=http://www.cricbuzz.com/cricket-news/101934/players-remain-open-minded-about-ecbs-100-ball-proposal-professional-cricketers-association|access-date=17 May 2018}}</ref> Former [[India national cricket team|Indian]] captain [[Virat Kohli]] cited concerns about the commercialisation and was not entirely in favour of the new version.<ref>{{citation |url=https://www.hindustantimes.com/sports/virat-kohli-hits-out-at-100-ball-format-commercial-aspect-hurting-quality-of-cricket/story-2R9VIfBnP0t8zvAOz7ittN.htm |title=Virat Kohli hits out at 100-ball format: Commercial aspect hurting quality of cricket |access-date=31 May 2023 |publisher=[[Hindustan Times]] |year=2018 |author=Press Trust of India |archive-url=https://web.archive.org/web/20230531150748/https://www.hindustantimes.com/sports/virat-kohli-hits-out-at-100-ball-format-commercial-aspect-hurting-quality-of-cricket/story-2R9VIfBnP0t8zvAOz7ittN.htm |archive-date=31 May 2023}}</ref>
+
+After the teams and branding were announced, [[Obesity in the United Kingdom|anti-obesity]] groups criticised the sponsorship from snack food company [[KP Snacks]].<ref>{{cite web |date=4 October 2019 |title=Cricket tournament criticised over snack deal |url=https://www.bbc.com/news/uk-49932363 |publisher=[[BBC News]]}}</ref> Social media reaction has also been split. During the player draft on 20 October 2019, the [[Twitter]] hashtag "#OpposeThe100" began trending,<ref>{{cite web |date=23 October 2019 |title='Oppose The 100' Protestors Asked To Remove T-Shirts At ECB Hearing |url=https://www.wisden.com/cricket-news/oppose-100-protestors-asked-remove-shirts-ecb-parliamentary-hearing |website=Wisden}}</ref> with a vocal section of cricket fans dismayed at the format of the competition, particularly whose home grounds are not among the eight used by city franchises.<ref name="wisden.com"/> Women's cricketers have been particularly enthusiastic about the new format and the decision to run both competitions in parallel, with the same prize money, allowing many to turn professional for the first time.<ref>{{Cite web|date=2021-02-23|title='The Hundred is going to be massive, not just for women's cricket but women's sport in general'|url=https://inews.co.uk/sport/cricket/the-hundred-cricket-prize-money-women-sophie-ecclestone-manchester-originals-883918|access-date=2021-05-14|website=inews.co.uk}}</ref> At the conclusion of the inaugural season, it was revealed that 55% of tickets were bought by people who had never bought one before, and that several records were set with regards to television viewing and match attendance figures. Former England women's captain [[Charlotte Edwards]] said that the tournament had "single-handedly changed women's cricket in this country".<ref>{{cite web |date=2021-08-23 |title=ECB hoping to 'migrate' new audiences from The Hundred to other formats |url=https://www.cricket365.com/latest-news/ecb-hoping-to-migrate-new-audiences-from-the-hundred-to-other-formats/ |access-date=2021-08-23 |website=Cricket365 |language=en-US}}</ref> At the conclusion of the second season, it was announced that ticket sales had remained relatively stable at 500,000 but that viewing figures from broadcast had dropped from just over 16 million to 14 million.<ref>{{cite web |last=Dixon |first=Ed |date=2022-09-05 |title=The Hundred attendance tops 500k but TV is down 12% |url=https://www.sportspromedia.com/news/the-hundred-2022-attendance-ticket-sales-tv-figures-viewership-sky-bbc-ecb/ |access-date=2023-03-23 |website=SportsPro |language=en-GB}}</ref><ref>{{cite web |title=Lancashire chairman: The Hundred becoming a T20 tournament 'makes sense' |url=https://www.espncricinfo.com/story/lancashire-chairman-the-hundred-becoming-a-t20-tournament-makes-sense-1411077 |access-date=2024-02-15 |website=ESPNcricinfo}}</ref>
+
+==See also==
+{{Portal|Cricket}}
+* [[T20 Blast]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.thehundred.com Official website]
+
+{{The Hundred}}
+{{Cricket in England}}
+
+[[Category:English domestic cricket competitions]]
+[[Category:Professional sports leagues in England]]
+[[Category:Cricket events postponed due to the COVID-19 pandemic]]
+[[Category:Professional sports leagues in the United Kingdom]]
+[[Category:The Hundred (cricket)]]
+[[Category:Professional cricket leagues]]
+[[Category:Recurring sporting events established in 2021]]

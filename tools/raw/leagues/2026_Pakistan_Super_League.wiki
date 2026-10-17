@@ -1,0 +1,1582 @@
+{{Short description|11th edition of the Pakistan Super League}}
+{{Use dmy dates|date=March 2026}}
+{{Use Pakistani English|date=October 2025}}
+{{Infobox cricket tournament
+| name = 2026 Pakistan Super League
+| image = HBLPSL11.png
+| caption = Official logo of HBL PSL 11{{efn|name=nc}}
+| fromdate = 26 March
+| todate = 3 May 2026
+| administrator = [[Pakistan Cricket Board]]
+| cricket format = [[Twenty20]]
+| tournament format = Group [[Round-robin tournament|round-robin]] and [[Page playoff system|play-offs]]
+| host = Pakistan
+| champions = [[Peshawar Zalmi]] (2nd title)
+| runner up = [[Hyderabad Kingsmen]]
+| count = 
+| participants = 08
+| matches = 44
+| attendance = 
+| player of the series = [[Sufiyan Muqeem]] ([[Peshawar Zalmi|PZ]])
+| most runs = [[Babar Azam]] ([[Peshawar Zalmi|PZ]]) (588)
+| most wickets = [[Sufiyan Muqeem]] ([[Peshawar Zalmi|PZ]]) (22)
+| website = [https://psl-t20.com/ psl-t20.com]
+| previous_year = 2025
+| previous_tournament = 2025 Pakistan Super League
+| next_tournament = 
+| next_year = 2027
+}}
+{{2026 Pakistan Super League Teams|main=y}}
+
+The '''2026 Pakistan Super League''' (branded as '''HBL PSL 11''') was the eleventh edition of the [[Pakistan Super League]], a professional [[Twenty20]] [[cricket]] league organised by the [[Pakistan Cricket Board]] (PCB). This season marked the league's expansion from six to eight franchises, with [[Hyderabad Kingsmen]] and [[Rawalpindiz]] joining as new teams. It was played from 26 March to 3 May 2026, with 44 matches held in [[Karachi]] and [[Lahore]].
+
+[[Peshawar Zalmi]] won the tournament, defeating debutant [[Hyderabad Kingsmen]] by five wickets in the [[2026 Pakistan Super League final|final]] to win their second PSL title.<ref>{{cite web |access-date=4 May 2026 |title=Hardie owns big stage to help Zalmi lift second PSL title |url=https://www.espncricinfo.com/series/pakistan-super-league-2026-1515734/hyderabad-kingsmen-vs-peshawar-zalmi-final-1527595/match-report |website=[[Cricinfo|ESPNcricinfo]]}}</ref><ref>{{cite news |last=Ali |first=Akber |date=3 May 2026 |title=Peshawar Zalmi beat Hyderabad Kingsmen by 5 wickets, lift PSL trophy a second time |url=https://www.dawn.com/news/1997223 |access-date=4 May 2026 |work=[[Dawn (newspaper)|Dawn]]}}</ref>
+
+==Background ==
+After the conclusion of the tenth season in 2025, the initial ten-year franchise agreements for the six original teams expired. The Pakistan Cricket Board (PCB) engaged [[Ernst & Young]] to conduct a valuation of the league's assets to set new terms for the next decade (2026–2035).<ref>{{cite news |title=PSL initiates asset valuation process |author=Saleem Khaliq |url=https://tribune.com.pk/story/2563543/p |work=The Express Tribune |date=27 August 2025 |accessdate=5 March 2026}}</ref> In October 2025, [[HBL Pakistan]] renewed its title sponsorship for PSL for the next two years.<ref>{{cite news |title=Franchise owners will have right to match new team valuation or walk away, says PSL CEO Salman Naseer |url=https://www.dawn.com/news/1951973 |work=Dawn |date=29 October 2025 |accessdate=23 March 2026}}</ref>
+
+In November 2025, five of the then-existing six franchises successfully renewed their contracts under the new financial model except [[Multan Sultans]].<ref>{{cite news |title=Ali Tareen opts not to extend Multan Sultans' PSL contract |url=https://www.geo.tv/latest/635536 |access-date=6 March 2026 |publisher=Geo News |date=25 November 2025}}</ref> As part of the PCB's plan to expand the league from six to eight teams, an auction for two new franchises was held on 8 January 2026. Six cities were shortlisted for consideration: [[Faisalabad]], [[Gilgit]], [[Hyderabad, Sindh|Hyderabad]], [[Muzaffarabad]], [[Rawalpindi]] and [[Sialkot]]. Following the auction, [[Hyderabad Kingsmen]] and Sialkot were selected as the seventh and eighth teams, with ownership rights acquired by FKS Group and OZ Developers respectively.<ref>{{Cite news |author=Zulfiqar Baig |date=8 January 2026 |title=Sialkot, Hyderabad enter HBL PSL after Rs3.6b auction |url=https://tribune.com.pk/story/2585422/p |access-date=8 January 2026 |work=The Express Tribune}}</ref>
+
+[[Ali Tareen]], previous owner of Multan Sultans franchise, announced that he would not renew his agreement with the PCB, and cited financial losses and disagreements regarding the league's management.<ref>{{cite news |title=Ali Tareen bows out as Multan Sultans owner after franchise denied renewal |url=https://www.dawn.com/news/1957302 |work=[[Dawn (newspaper)|Dawn]] |date=25 November 2025 |access-date=26 November 2025}}</ref> Thus, PCB decided to resell the franchise through an auction on 9 February 2026,<ref>{{cite news |author=Mohammad Yaqoob |date=10 February 2026 |title=Multan Sultans sold for record price but owners opt for Rawalpindi rebrand |url=https://www.dawn.com/news/1972137 |work=Dawn |access-date=5 March 2026}}</ref> where Walee Technologies acquired it and rebranded the identity to [[Rawalpindiz]] after relocating. Later, Sialkot owners sold the franchise to CD Ventures, who rebranded and brought back the Multan Sultans.<ref>{{cite news |author=Mohammad Yaqoob |title=Multan Sultans return to PSL at Sialkot's expense |url=https://www.dawn.com/news/1978171 |work=Dawn |date=4 March 2026 |accessdate=5 March 2026 |archive-date=7 March 2026 |archive-url=https://web.archive.org/web/20260307145430/https://www.dawn.com/news/1978171 |url-status=live }}</ref><ref>{{cite news |url=https://jang.com.pk/news/1565670 |title={{Nq|ٹیم 'پنڈیز' نے سوشل میڈیا اکاؤنٹس پر نام 'راولپنڈیز' کردیا}} |date=17 March 2026 |accessdate=18 March 2026 |work=Daily Jang |author={{Nq|فیضان لاکھانی}}}}</ref>
+
+===Trophy===
+The trophy for the season was named "Infinity". Designed by Hanif Jewellers, it was handcrafted by 18 artisans. It featured a circular base with eight [[emerald]]-cut jewels representing eight teams. It had two golden curved arms rising to hold a crescent and a star along with hundreds of small crystals. It was revealed on 11 March at National Bank Stadium, Karachi, and toured across the country.<ref>{{cite news |title=PCB unveils 'Infinity Trophy' ahead of HBL PSL XI |url=https://tribune.com.pk/story/2597062/i |work=The Express Tribune |date=11 March 2026 |accessdate=23 March 2026}}</ref><ref>{{cite news |title=PSL 11 trophy unveiled as league enters new era |url=https://www.dawn.com/news/1981120 |work=Dawn |date=12 March 2026 |access-date=23 March 2026}}</ref><ref>{{cite news |author=Muhammad Saleem |title=HBL-PSL 'Infinity' Trophy tour reaches Lahore |url=https://www.brecorder.com/news/40412614 |work=Business Recorder |date=23 March 2026 |accessdate=23 March 2026}}</ref>
+
+===Prize money===
+The champions received {{US$|500,000}}, while the runner-up team received {{US$|300,000}}. Moreover, a {{US$|200,000}} reward was awarded to the "best franchise contributing towards cricket development".<ref>{{cite news |title=Mohsin Naqvi announces revised prize money for next PSL edition |url=https://www.geo.tv/latest/634720 |publisher=Geo News |date=21 November 2025 |accessdate=5 March 2025 |author=Sohail Imran}}</ref>
+
+==Teams and squads==
+{{Main|2026 Pakistan Super League personnel signings and auction}}
+
+The player auction for the eleventh season was held on 11 February 2026 in [[Lahore]], Pakistan. It was the first time in PSL history that players were selected through an [[Player auction|auction system]], replacing the [[Draft (sports)|draft method]] that had been used since the league began in [[2016 Pakistan Super League players draft|2016]]. Team purse was capped at {{PKR|45 crore}} and was allowed to be extended to {{PKR|50.5 crore}} to allow direct signing of one foreign player who had not featured in a previous season. Franchises were allowed to retain up to four players, one in each category before the auction; new franchises were allowed to sign four players to match the retentions of the other six franchises.<ref>{{Cite web |date=25 November 2025 |title=PCB announces HBL PSL XI players auction on Feb 11 |url=https://tribune.com.pk/story/2588987/p |work=The Express Tribune |access-date=28 January 2026}}</ref> 888 players, including local and foreign, registered for the auction at 4 different base prices.<ref>{{cite news |title=PSL 2026 Auction: Full List Of Players With Base Price For Pakistan Super League Auction |url=https://www.wisden.com/series/psl-2026/cricket-news/psl-2026-auction-full-list-of-players-with-base-price-for-pakistan-super-league-auction |work=[[Wisden]] |date=10 February 2026 |accessdate=5 March 2026}}</ref>
+
+Rawalpindiz signed Pakistani pacer [[Naseem Shah]] for {{PKR|8.65 crore}}, making him the most expensive player in the auction. Additionally, they secured New Zealand all-rounder [[Daryl Mitchell (New Zealand cricketer)|Daryl Mitchell]] for {{PKR|8 crore}}, the most expensive overseas signing.<ref>{{Cite news |author=Asher Butt |url=https://www.thenews.pk/print/1398690 |title=Steve Smith tops PSL 11 auction as Sialkot Stallionz secure record signing |work=[[thenews.com.pk|The News]] |date=12 February 2026 |access-date=5 March 2026}}</ref> Player transfer window was opened from 12 March to 18 March, allowing franchises to trade players. Multan Sultans' salary cap was increased by {{PKR|1.2 crore}} to allow two additional signings, making the full squad of 22 players.<ref>{{cite web |last1=Alam |first1=Sher |title=Multan Sultans Given Special Salary Cap Ahead of PSL 11 Transfer Window |url=https://propakistani.pk/2026/03/12/multan-sultans-given-special-salary-cap-ahead-of-psl-11-transfer-window/ |website=ProPakistani |date=12 March 2026}}</ref>
+
+On 26 March, the PCB introduced a new rule that each captain could submit two sets of [[first XI]] to the referee before beginning the match.<ref>{{cite news |url=https://jang.com.pk/news/1568132 |title={{Nq|پی ایس ایل 11 میں نیا قانون متعارف کرادیا گیا}} |author={{Nq|سہیل عمران}} |date=26 March 2026 |accessdate=30 March 2026 |work=Daily Jang}}</ref>
+{{collapsed top|Squads}} 
+{| class="wikitable" style="white-space:nowrap;margin:1em auto;"
+! [[Hyderabad Kingsmen]]
+! [[Islamabad United]]
+! [[Karachi Kings]]
+! [[Lahore Qalandars]]
+|-
+|valign=top|
+* [[Marnus Labuschagne]] {{cricon|AUS}} ([[Captain (cricket)|c]])
+* [[Saim Ayub]]
+* [[Hassan Khan (cricketer)|Hassan Khan]]
+* [[Usman Khan (cricketer)|Usman Khan]] ([[Wicket-keeper|wk]])
+* [[Glenn Maxwell]] {{cricon|AUS}}
+* [[Akif Javed]]
+* [[Maaz Sadaqat]]
+* [[Mohammad Ali (cricketer, born 1992)|Mohammad Ali]]
+* [[Kusal Perera]] {{cricon|SL}}
+* [[Irfan Khan Niazi]]
+* [[Shayan Jahangir]]
+* [[Hammad Azam]]
+* [[Asif Mehmood (cricketer)|Asif Mehmood]]
+* [[Hunain Shah]]
+* [[Riley Meredith]] {{cricon|AUS}}
+* [[Sharjeel Khan]]
+* Rizwan Mehmood
+* [[Saad Ali]]
+* Tayyab Arif
+* Ahmed Hussain
+* [[Maheesh Theekshana]] {{cricon|SL}}
+* [[Saad Khan (cricketer)|Saad Khan]]
+
+|valign=top|
+* [[Shadab Khan]] ([[Captain (cricket)|c]])
+* [[Andries Gous]] {{cricon|USA}}
+* [[Chris Green (cricketer)|Chris Green]] {{cricon|AUS}}
+* [[Devon Conway]] {{cricon|NZ}}
+* [[Faheem Ashraf]]
+* [[Mehran Mumtaz]]
+* [[Mark Chapman (cricketer)|Mark Chapman]] {{cricon|NZ}}
+* [[Imad Wasim]]
+* Mir Hamza Sajjad
+* [[Sameer Minhas]]
+* [[Sameen Gul]]
+* [[Haider Ali (cricketer, born 2000)|Haider Ali]]
+* [[Richard Gleeson]] {{cricon|ENG}}
+* [[Mohammad Hasnain]]
+* [[Dipendra Singh Airee]] {{cricon|NEP}}
+* Mohammad Faiq
+* [[Salman Irshad]]
+* [[Salman Mirza]]
+* [[Nisar Ahmad (cricketer)|Nisar Ahmad]]
+* Mohsin Riaz
+* [[Muhammad Jawadullah]] {{cricon|UAE}}
+* [[Mubasir Khan]]
+
+|valign=top|
+* [[David Warner (cricketer)|David Warner]] {{cricon|AUS}} ([[Captain (cricket)|c]])
+* [[Hasan Ali (cricketer)|Hassan Ali]]
+* [[Abbas Afridi (cricketer)|Abbas Afridi]]
+* [[Khushdil Shah]]
+* [[Saad Baig]]
+* [[Moeen Ali]] {{cricon|ENG}}
+* [[Azam Khan (cricketer, born 1998)|Azam Khan]]
+* [[Salman Ali Agha]]
+* [[Shahid Aziz (cricketer)|Shahid Aziz]]
+* [[Mir Hamza]]
+* [[Adam Zampa]] {{cricon|AUS}}
+* Mohammad Hamza Sohail
+* [[Aqib Ilyas]] {{cricon|OMA}}
+* [[Khuzaima Tanveer]]
+* [[Muhammad Waseem (cricketer)|Muhammad Waseem]] {{cricon|UAE}}
+* [[Ihsanullah (Pakistani cricketer)|Ihsanullah]]
+* Rizwan Ullah
+* [[Reeza Hendricks]] {{cricon|SA}}
+* [[Haroon Arshad]]
+* [[Faham-ul-Haq]]
+* [[Omair Yousuf]]
+* [[Jason Roy]] {{cricon|ENG}}
+|valign=top|
+* [[Shaheen Shah Afridi]] ([[Captain (cricket)|c]])
+* [[Abdullah Shafique]]
+* [[Sikandar Raza]] {{cricon|ZIM}}
+* [[Mohammad Naeem (cricketer, born 1999)|Muhammad Naeem]]
+* [[Mustafizur Rahman]] {{cricon|BAN}}
+* [[Haris Rauf]]
+* [[Usama Mir]]
+* [[Fakhar Zaman (cricketer)|Fakhar Zaman]]
+* [[Ubaid Shah]]
+* [[Haseebullah Khan]]
+* Mohammad Farooq
+* [[Parvez Hossain Emon]] {{cricon|BAN}}
+* [[Asif Ali (cricketer, born 1991)|Asif Ali]]
+* [[Tayyab Tahir]]
+* [[Rubin Hermann]] {{cricon|SA}}
+* [[Dunith Wellalage]] {{cricon|SL}}
+* [[Maaz Khan (cricketer)|Maaz Khan]]
+* Shahab Khan
+* [[Daniel Sams]] {{cricon|AUS}}
+* [[Ryan Burl]] {{cricon|ZIM}}
+* [[Hussain Talat]]
+* [[Charith Asalanka]] {{cricon|SL}}
+|-
+! [[Multan Sultans]]
+! [[Peshawar Zalmi]]
+! [[Quetta Gladiators]]
+! [[Rawalpindiz]]
+|-
+|valign=top|
+* [[Ashton Turner]] {{cricon|AUS}} ([[Captain (cricket)|c]])
+* [[Shan Masood]]
+* [[Steve Smith (cricketer)|Steve Smith]] {{cricon|AUS}}
+* [[Mohammad Nawaz (cricketer)|Mohammad Nawaz]]
+* [[Sahibzada Farhan]]
+* [[Mohammad Wasim Jr.]]
+* [[Peter Siddle]] {{cricon|AUS}}
+* [[Tabraiz Shamsi]] {{cricon|SA}}
+* [[Lachlan Shaw (cricketer)|Lachlan Shaw]] {{cricon|AUS}}
+* [[Delano Potgieter]] {{cricon|SA}}
+* [[Josh Philippe]] {{cricon|AUS}}
+* Momin Qamar
+* Mohammad Awais Zafar
+* [[Mohammad Shehzad]]
+* Mohammad Ismail
+* [[Arshad Iqbal]]
+* Atizaz Habib Khan
+* [[Faisal Akram]]
+* [[Arafat Minhas]]
+* [[Mohammad Imran (cricketer, born 1996)|Mohammad Imran Randhawa]]
+* Shehzad Gul
+* [[Mohammad Huraira]]
+
+|valign=top|
+* [[Babar Azam]] ([[Captain (cricket)|c]])
+* [[Sufiyan Muqeem]]
+* [[Abdul Samad (Pakistani cricketer)|Abdul Samad]]
+* [[Ali Raza (cricketer, born 2008)|Ali Raza]]
+* [[Aaron Hardie]] {{cricon|AUS}}
+* [[Aamir Jamal]]
+* [[Khurram Shahzad (Pakistani cricketer, born 1999)|Khurram Shahzad]]
+* [[Mohammad Haris]]
+* [[Khalid Usman]]
+* Abdul Subhan
+* [[James Vince]] {{cricon|ENG}}
+* [[Michael Bracewell (cricketer)|Michael Bracewell]] {{cricon|NZ}}
+* [[Kusal Mendis]] {{cricon|SL}}
+* [[Iftikhar Ahmed (cricketer)|Iftikhar Ahmed]]
+* [[Nahid Rana]] {{cricon|BAN}}
+* [[Mirza Tahir Baig]]
+* Kashif Ali
+* [[Shahnawaz Dahani]]
+* Farhan Yousaf
+* Mohammad Basit
+* [[Shoriful Islam]] {{cricon|BAN}}
+* [[Tanzid Hasan]] {{cricon|BAN}}
+* [[Brian Bennett (cricketer)|Brian Bennett]] {{cricon|ZIM}}
+* [[Umar Akmal]]
+* [[Mehran Mumtaz]]
+
+|valign=top|
+* [[Saud Shakeel]] ([[Captain (cricket)|c]])
+* [[Abrar Ahmed (Pakistani cricketer)|Abrar Ahmed]]
+* [[Hassan Nawaz (cricketer)|Hassan Nawaz]]
+* [[Usman Tariq]]
+* [[Shamyl Hussain]]
+* [[Rilee Rossouw]] {{cricon|SA}}
+* [[Jahandad Khan (cricketer)|Jahandad Khan]]
+* [[Khawaja Nafay]]
+* Wasim Akram Jr.
+* Khan Zaib
+* [[Bismillah Khan (cricketer)|Bismillah Khan]]
+* Saqib Khan
+* [[Brett Hampton]] {{cricon|NZ}}
+* [[Sam Harper (cricketer)|Sam Harper]] {{cricon|AUS}}
+* [[Bevon Jacobs]] {{cricon|NZ}}
+* [[Ben McDermott]] {{cricon|AUS}}
+* [[Tom Curran (cricketer)|Tom Curran]] {{cricon|ENG}}
+* Jahanzaib Sultan
+* [[Ahmed Daniyal]]
+* [[Alzarri Joseph]] {{cricon|WIN}}
+* [[Ahsan Ali (cricketer)|Ahsan Ali]]
+* [[Ali Khan (American cricketer)|Ali Khan]] {{cricon|USA}}
+* [[Abdul Bangalzai]]
+
+|valign=top|
+* [[Mohammad Rizwan]] ([[Captain (cricket)|c]], [[Wicket-keeper|wk]])
+* [[Sam Billings]] {{cricon|ENG}}
+* [[Yasir Khan]]
+* [[Naseem Shah]]
+* [[Rishad Hossain]] {{cricon|BAN}}
+* [[Daryl Mitchell (New Zealand cricketer)|Daryl Mitchell]] {{cricon|NZ}}
+* [[Mohammad Amir]]
+* Abdullah Fazal
+* [[Amad Butt]]
+* [[Dian Forrester]] {{cricon|SA}}
+* [[Kamran Ghulam]]
+* [[Fawad Ali]]
+* [[Mohammad Amir Khan (cricketer)|Mohammad Amir Khan]]
+* [[Asif Afridi]]
+* Shahzaib Khan
+* [[Saad Masood]]
+* [[Jalat Khan (cricketer, born 1999)|Jalat Khan]]
+* [[Cole McConchie]] {{cricon|NZ}}
+* [[Usman Khawaja]] {{cricon|AUS}}
+* [[Imam-ul-Haq]]
+* [[Sajid Khan (cricketer)|Sajid Khan]]
+* [[Abdul Faseeh]]
+* [[Ben Sears]] {{cricon|NZ}}
+|}
+{{collapsed bottom}}
+
+==Venues==
+{{See also|List of Pakistan Super League venues}}
+{{OSM Location map
+| width = 250
+| coord = {{coord|27|N|70|E}}
+| zoom = 4
+| mark-coord1 = {{coord|31|30|48|N|74|20|0|E}}
+| mark-coord2 = {{Coord|24|53|46|N|67|4|53|E}}
+}}
+
+The PCB revealed the venue details on 10 March 2026. Lahore hosted the opening match as well as the final.<ref>{{cite news |url=https://www.geonewsurdu.tv/latest/429611- |title={{Nq|پاکستان سپر لیگ 11 کے شیڈول کا اعلان کردیا گیا}} |date=10 March 2026 |access-date=11 March 2026 |author={{Nq|سہیل عمران}} |work=[[Geo News]] |language=ur}}</ref>
+
+Initially the tournament was scheduled to be held across six cities, but due to the [[economic impact of the 2026 Iran war]], the [[Government of Pakistan]] (GoP) and [[Pakistan Cricket Board]] (PCB) announced on 22 March that the tournament would be played in only two cities, Lahore and Karachi, temporarily [[Behind closed doors (sport)|behind closed doors]] to reduce movement to save fuel. The opening ceremony was also cancelled.<ref>{{cite news |author=Ammara Khan |title=PSL to commence without spectators, matches limited to Karachi, Lahore |url=https://tribune.com.pk/story/2598704/p |work=[[The Express Tribune]] |date=22 March 2026 |access-date=23 March 2026}}</ref><ref name=revsc>{{cite news |author=Jai Rai |title=Pakistan Super League to be held without spectators |url=https://gulfnews.com/1.500482645 |work=[[Gulf News]] |date=22 March 2026 |access-date=23 March 2026}}</ref> Later, on the request of franchise owners, Prime Minister [[Shehbaz Sharif]] allowed the fans to attend the [[#Playoffs|playoffs]] and the [[2026 Pakistan Super League final|final]].<ref>{{cite news |title=Cricket fans allowed to attend playoff matches in Pakistan Super League |url=https://www.gulftoday.ae/sport/2026/04/27/cricket-fans-allowed-to-attend-playoff-matches-in-pakistan-super-league |work=[[Gulf Today]] |access-date=29 April 2026}}</ref><ref>{{cite news |date=28 April 2026 |title=Spectators allowed to witness all PSL playoffs |url=https://www.dawn.com/news/1995630 |work=[[Dawn (newspaper)|Dawn]] |access-date=29 April 2026}}</ref><ref>{{cite news |last1=Mohammed |first1=Shamseer |date=25 April 2026 |title=Good news for fans: PSL 11 final to be played with full crowd |url=https://gulfnews.com/sport/cricket/good-news-for-fans-psl-11-final-to-be-played-with-full-crowd-1.500518951 |work=[[Gulf News]] |access-date=27 April 2026}}</ref><ref>{{cite news |author=Danyal Rasool |date=25 April 2026 |title=PSL 2026 final to be played in front of fans in Lahore |url=https://www.espncricinfo.com/story/psl-2026-final-to-be-played-in-front-of-fans-in-lahore-1533568 |work=[[Cricinfo|ESPNcricinfo]] |access-date=28 April 2026}}</ref>
+
+'''Venues:'''
+*[[Gaddafi Stadium]], [[Lahore]]
+*[[National Bank Stadium]], [[Karachi]]
+
+==Match officials==
+On 23 March 2026, the PCB announced the list of fifteen [[Umpire (cricket)|umpires]] and eight [[match referee]]s for the league stage.<ref>{{cite news |title=پی ایس ایل 11 کے میچ آفیشلز کا اعلان |url=https://jang.com.pk/news/1567070 |work=jang.com.pk |language=ur}}</ref> They included four members of the [[Elite Panel of ICC Umpires]] and nine of the PCB domestic umpires. [[Roshan Mahanama]] returned to extend his record of 71 matches as a match referee in the PSL. [[Richie Richardson]], [[Allahudien Paleker]], and [[Sharfuddoula]] made their first appearances as match officials in PSL. [[Alex Wharf]] and [[Ahsan Raza]] were named as on-field umpires for the opening match with [[Asif Yaqoob]] as television umpire and Tariq Rasheed as fourth umpire.<ref>{{cite news |title=Richardson set for PSL debut as PCB unveils match officials for season 11 |url=https://www.nation.com.pk/24-Mar-2026/richardson-set-psl-debut-pcb-unveils-match-officials-season-11 |work=The Nation |date=24 March 2026}}</ref><ref>{{cite web |title=Richie Richardson to make debut as PSL 11 match officials confirmed |url=https://www.geosuper.tv/latest/54503-richie-richardson-to-make-debut-as-psl-11-match-officials-confirmed |website=www.geosuper.tv}}</ref>
+
+===Match referees===
+{{div col}}
+* [[Richie Richardson]]
+* [[Roshan Mahanama]]
+* [[Ali Naqvi (cricketer)|Ali Naqvi]]
+* Kamran Chaudhary
+* Bilal Khilji
+* Aleem Moosa
+* Iftikhar Ahmed 
+* Sohail Idrees
+{{div col end}}
+
+===Umpires===
+{{div col}}
+* [[Ahsan Raza]]
+* [[Chris Gaffaney]]
+* [[Sharfuddoula Saikat]]
+* [[Allahudien Paleker]]
+* [[Alex Wharf]]
+* [[Chris Brown (umpire)|Chris Brown]]
+* [[Asif Yaqoob]]
+* [[Rashid Riaz]]
+* [[Faisal Afridi]]
+* [[Zulfiqar Jan]]
+* Nasir Hussain 
+* Abdul Muqeet
+* Alay Haider
+* Tariq Rasheed 
+* Imran Javed
+{{div col end}}
+
+==Marketing==
+{{Further|Khelenge Beat Pe}}
+The season's logo variant was revealed on 4 March,<ref>{{cite news |url=https://a-sports.tv/psl-11-logo-unveiled-ahead-historic-eight-team-season |title=WATCH: PSL 11 logo unveiled ahead historic eight-team season |date=4 March 2026 |accessdate=25 March 2026 |publisher=A Sports}}</ref><ref>{{cite news |url=https://www.geosuper.tv/latest/53978 |title=WATCH: PSL 11 official logo released |date=4 March 2026 |accessdate=25 March 2026 |publisher=Geo Super}}</ref> with an official nomenclature, HBL PSL 11,{{efn|name=nc|1=[https://www.pcb.com.pk/press-release-detail/pcb-announces-revised-schedule-for-hbl-psl-11.html Official nomenclature]}} and the official anthem was released on 24 March, titled "Khelenge Beat Pe".<ref>{{cite news |url=https://a-sports.tv/psl-11-official-anthem-khelenge-beat-pe-released |title=PSL 11 official anthem 'Khelenge Beat Pe' released |date=24 March 2026 |accessdate=25 March 2026 |publisher=A Sports |author=Huzaifa Gaba}}</ref>
+
+===Broadcast===
+In February 2026, PCB held three bids for [[broadcasting rights]]; however, the rights for India were withheld. Walee Technologies, who were also the owners of the Rawalpindiz franchise, won all bids, including the international rights, with a 149 percent increase in value as compared to the previous rights cycle, although the official financial figures were not disclosed. Also, the local broadcasting and streaming rights were sold for {{PKR|2611 [[crore]]}} for a four-year period.<ref>{{cite news |title=PCB withholds PSL 11 broadcast rights in India |url=https://www.geo.tv/latest/648835 |publisher=Geo News |date=3 February 2026 |accessdate=5 March 2026}}</ref><ref>{{cite news |date=4 February 2026 |title=Sale of media rights for PSL 11 fetches massive increase |url=https://www.dawn.com/news/1970889 |access-date=23 March 2026 |work=Dawn}}</ref><ref>{{cite news |author=Saleem Khaliq |date=28 February 2026 |title=PCB secures biggest media rights deal for HBL PSL |url=https://tribune.com.pk/story/2595043/p |access-date=5 March 2026 |work=The Express Tribune}}</ref><ref>{{cite news |date=1 March 2026 |title=PSL broadcast rights sold for Rs26.11 bn |url=https://www.dawn.com/news/1976772 |access-date=23 March 2026 |work=Dawn}}</ref>
+
+The names for the commentary panel and presenters were revealed on 23 March. Notably, [[Shoaib Malik]] made his debut in Urdu commentary after retiring from the game, as he had played in the previous ten seasons.<ref>{{cite news |date=23 March 2026 |title=Commentary panel announced for PSL 11 |url=https://www.24newshd.tv/23-Mar-2026/commentary-panel-announced-psl-11 |access-date=23 March 2026 |publisher=24 Digital |author=Rana Azhar}}</ref> Due to no on-field spectators, this edition was a watch-from-home event, having a dedicated Urdu feed along with a match analysis talk show which was introduced for the first time.<ref>{{cite news |date=26 March 2026 |title=PSL 11 broadcast overhaul promises immersive cricket experience for fans |url=https://www.pakistantoday.com.pk/2026/03/26/psl-11-broadcast-overhaul-promises-immersive-cricket-experience-for-fans |access-date=27 March 2026 |work=Pakistan Today}}</ref><ref>{{cite news |date=22 March 2026 |title=Fuel crisis forces PCB to announce revised PSL 2026 schedule, Lahore & Karachi only venues |url=https://www.insidesport.in/cricket/fuel-crisis-forces-pcb-to-announce-revised-psl-2026-schedule-lahore-karachi-only-venues |access-date=27 March 2026 |work=Inside Sport |author=Krishnendu Banerjee}}</ref><ref>{{cite news |date=23 March 2026 |title=Stay Home And Watch PSL 2026 Matches On Television: Mohsin Naqvi Orders Cricket Fans To Save Fuel Amid Iran War |url=https://www.thedailyjagran.com/cricket/pakistan-super-league-2026-to-be-played-behind-closed-doors-amid-west-asia-conflict-10304639 |access-date=27 March 2026 |work=The Daily Jagran |author=Gurmeet Batra}}</ref>
+
+==League stage==
+===Format===
+Due to the expansion to eight teams, this edition was played under a revised format with a total of 44 matches, replacing the [[double round-robin]] format used in previous editions. The teams were divided into two virtual groups of four; each team played twice against the other teams in its group and once against each team in the opposite group, resulting in a total of ten league-stage matches per team. The top four teams in the overall standings qualified for the [[#Playoffs|playoffs]], which were played under the [[page playoff system]] to determine the champion.<ref>{{cite news |url=https://jang.com.pk/en/54993-psl-2026-schedule-how-many-matches-will-be-played-in-11th-edition-news |title=PSL 2026 schedule: How many matches will be played in 11th edition? |date=16 December 2025 |accessdate=5 March 2026 |author=Bushra Saleem |work=[[Daily Jang]]}}</ref><ref>{{cite web |last1=Alam |first1=Sher |title=All You Need to Know About PSL 11 Format |url=https://propakistani.pk/2026/03/11/all-you-need-to-know-about-psl-11-format/ |website=ProPakistani |access-date=29 March 2026 |date=11 March 2026}}</ref>
+
+===Points table===
+{{2026 Pakistan Super League points table}}
+===League progression===
+{{2026 Pakistan Super League Group stage|mode=progression}}
+
+===League summary===
+{{2026 Pakistan Super League Group stage|mode=summary}}
+
+==Fixtures==
+{{hatnote|All times are in [[Pakistan Standard Time]] ([[UTC+05:00]])}}
+The schedule was planned following the completion of the [[2026 Men's T20 World Cup]], which was held during February and March, and the league also coincided with the [[2026 Indian Premier League]].<ref>{{cite news |title=Pakistan Super League 2026 to start on March 26 |url=https://www.olympics.com/en/news/psl-2026-pakistan-super-league-dates |work=[[Olympic Games|Olympics]] |date=15 December 2025 |accessdate=10 March 2026 |author=Andre Pitts}}</ref> The PCB announced a revised schedule on 22 March 2026.<ref name=revsc/>
+
+<section begin="match1" />{{Single-innings cricket match
+| round = {{anchor|match1}} '''Match 1'''
+| date = {{Start date|2026|03|26|df=y}}
+| time = 19:00
+| night = n
+| team1 = [[Lahore Qalandars]]
+| team2 = [[Hyderabad Kingsmen]]
+| score1 = 199/6 (20 overs)
+| runs1 = [[Fakhar Zaman (cricketer)|Fakhar Zaman]] 53 (39)
+| wickets1 = [[Hassan Khan (cricketer)|Hassan Khan]] 2/30 (4 overs)
+| score2 = 130 (20 overs)
+| runs2 = [[Marnus Labuschagne]] 26 (22)
+| wickets2 = [[Haris Rauf]] 2/22 (4 overs)
+| result = Lahore Qalandars won by 69 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1527552.html Scorecard]
+| venue = [[Gaddafi Stadium]], [[Lahore]]
+| umpires = [[Ahsan Raza]] (Pak) and [[Alex Wharf]] (Eng)
+| motm = [[Fakhar Zaman (cricketer)|Fakhar Zaman]] (Lahore Qalandars)
+| toss = Lahore Qalandars won the toss and elected to bat.
+}}<section end="match1" />
+----
+<section begin="match2" />{{Single-innings cricket match
+| round = {{anchor|match2}} '''Match 2'''
+| date = {{Start date|2026|03|27|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Karachi Kings]]
+| team2 = [[Quetta Gladiators]]
+| score1 = 181/7 (20 overs)
+| runs1 = [[Moeen Ali]] 48[[Not out|*]] (29)
+| wickets1 = [[Ahmed Daniyal]] 3/36 (4 overs)
+| score2 = 167/7 (20 overs)
+| runs2 = [[Shamyl Hussain]] 52 (24)
+| wickets2 = [[Hasan Ali (cricketer)|Hassan Ali]] 4/27 (4 overs)
+| result = Karachi Kings won by 14 runs.
+| report = [https://www.espncricinfo.com/ci/engine/match/1527553.html Scorecard]
+| venue = [[Gaddafi Stadium]], [[Lahore]]
+| umpires = [[Sharfuddoula]] (Ban) and [[Tariq Rasheed]] (Pak)
+| motm = [[Moeen Ali]] (Karachi Kings)
+| toss = Quetta Gladiators won the toss and elected to field.
+}}<section end="match2" />
+----
+<section begin="match3" />{{Single-innings cricket match
+| round = {{anchor|match3}} '''Match 3'''
+| date = {{Start date|2026|03|28|df=y}}
+| time = 14:30
+| day = y
+| team1 = [[Rawalpindiz]]
+| team2 = [[Peshawar Zalmi]]
+| score1 = 214/4 (20 overs)
+| runs1 = [[Yasir Khan]] 83 (46)
+| wickets1 = [[Ali Raza (cricketer, born 2008)|Ali Raza]] 2/42 (3 overs)
+| score2 = 218/5 (19.1 overs)
+| runs2 = [[Mohammad Haris]] 47 (28)
+| wickets2 = [[Amad Butt]] 2/45 (4 overs)
+| result = Peshawar Zalmi won by 5 wickets.
+| report = [https://www.espncricinfo.com/ci/engine/match/1527554.html Scorecard]
+| venue = [[Gaddafi Stadium]], [[Lahore]]
+| umpires = [[Alex Wharf]] (Eng) and [[Faisal Afridi]] (Pak)
+| motm = [[Michael Bracewell (cricketer)|Michael Bracewell]] (Peshawar Zalmi)
+| toss = Rawalpindiz won the toss and elected to bat.
+}}<section end="match3" />
+----
+<section begin="match4" />{{Single-innings cricket match
+| round = {{anchor|match4}} '''Match 4'''
+| date = {{Start date|2026|03|28|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Islamabad United]]
+| team2 = [[Multan Sultans]]
+| score1 = 171/8 (20 overs)
+| runs1 = [[Mark Chapman (cricketer)|Mark Chapman]] 40 (21)
+| wickets1 = Momin Qamar 3/24 (3 overs)
+| score2 = 175/5 (18.4 overs)
+| runs2 =  [[Josh Philippe]] 55 (35)
+| wickets2 = [[Salman Irshad]] 2/28 (4 overs)
+| result = Multan Sultans won by 5 wickets.
+| report = [https://www.espncricinfo.com/ci/engine/match/1527555.html Scorecard]
+| venue = [[Gaddafi Stadium]], [[Lahore]]
+| umpires = [[Sharfuddoula]] (Ban) and [[Ahsan Raza]] (Pak)
+| motm = Momin Qamar (Multan Sultans)
+| toss = Multan Sultans won the toss and elected to field.
+}}<section end="match4" />
+----
+<section begin="match5" />{{Single-innings cricket match
+| round = {{anchor|match5}} '''Match 5'''
+| date = {{Start date|2026|03|29|df=y}}
+| time = 14:30
+| day = y
+| team1 = [[Quetta Gladiators]]
+| team2 = [[Hyderabad Kingsmen]]
+| score1 = 174/8 (20 overs)
+| runs1 = [[Shamyl Hussain]] 54 (41)
+| wickets1 = [[Riley Meredith]] 3/38 (4 overs)
+| score2 = 134/8 (20 overs)
+| runs2 = [[Irfan Khan Niazi]] 33 (25)
+| wickets2 = [[Abrar Ahmed]] 3/23 (4 overs)
+| result = Quetta Gladiators won by 40 runs.
+| report = [https://www.espncricinfo.com/ci/engine/match/1527556.html Scorecard]
+| venue = [[Gaddafi Stadium]], [[Lahore]]
+| umpires = [[Ahsan Raza]] (Pak) and [[Alex Wharf]] (Eng)
+| motm = [[Shamyl Hussain]] (Quetta Gladiators)
+| toss = Quetta Gladiators won the toss and elected to bat.
+}}<section end="match5" />
+----
+<section begin="match6" />{{Single-innings cricket match
+| round = {{anchor|match6}} '''Match 6'''
+| date = {{Start date|2026|03|29|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Lahore Qalandars]]
+| team2 = [[Karachi Kings]]
+| score1 = 128/9 (20 overs)
+| runs1 = [[Abdullah Shafique]] 33 (24)
+| wickets1 = [[Adam Zampa]] 2/11 (4 overs)
+| score2 = 131/6 (19.3 overs)
+| runs2 = [[Muhammad Waseem]] 38 (37)
+| wickets2 = [[Shaheen Afridi]] 4/18 (4 overs)
+| result = Karachi Kings won by 4 wickets.
+| report = [https://www.espncricinfo.com/ci/engine/match/1527557.html Scorecard]
+| venue = [[Gaddafi Stadium]], [[Lahore]]
+| umpires = [[Faisal Afridi]] (Pak) and [[Sharfuddoula]] (Ban)
+| motm = [[Adam Zampa]] (Karachi Kings)
+| toss = Lahore Qalandars won the toss and elected to bat.
+| notes = [[Karachi Kings]] were awarded 5 penalty runs for [[#Ball tampering controversy|Lahore Qalandars' ball tampering]].<ref name=tamp/>
+}}<section end="match6" />
+----
+<section begin="match7" />{{Single-innings cricket match
+| round = {{anchor|match7}} '''Match 7'''
+| date = {{Start date|2026|03|31|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Islamabad United]]
+| team2 = [[Peshawar Zalmi]]
+| score1 = 
+| runs1 = 
+| wickets1 = 
+| score2 = 
+| runs2 = 
+| wickets2 = 
+| result = Match abandoned
+| report = [https://www.espncricinfo.com/ci/engine/match/1527558.html Scorecard]
+| venue = [[Gaddafi Stadium]], [[Lahore]]
+| umpires = [[Ahsan Raza]] (Pak) and [[Asif Yaqoob]] (Pak)
+| motm = 
+| toss = No toss.
+| rain = No play was possible due to rain.<ref>{{cite news |title=PSL match abandoned as heavy downpour cripples life in Lahore |author=Imran Adnan |url=https://tribune.com.pk/story/2600352/p |work=[[The Express Tribune]] |date=31 March 2026 |access-date=3 April 2026}}</ref>
+}}<section end="match7" />
+----
+<section begin="match8" />{{Single-innings cricket match
+| round = {{anchor|match8}} '''Match 8'''
+| date = {{Start date|2026|04|01|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Hyderabad Kingsmen]]
+| team2 = [[Multan Sultans]]
+| score1 = 225/5 (20 overs)
+| runs1 = [[Maaz Sadaqat]] 62 (26)
+| wickets1 = [[Mohammad Wasim Jr.]] 2/37 (4 overs)
+| score2 = 227/4 (18.4 overs)
+| runs2 = [[Sahibzada Farhan]] 106[[Not Out|*]] (57)
+| wickets2 = [[Saim Ayub]] 2/43 (3 overs)
+| result = Multan Sultans won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527559.html Scorecard]
+| venue = [[Gaddafi Stadium]], [[Lahore]]
+| umpires = [[Asif Yaqoob]] (Pak) and [[Chris Gaffaney]] (NZ)
+| motm = [[Sahibzada Farhan]] (Multan Sultans)
+| toss = Hyderabad Kingsmen won the toss and elected to bat.
+}}<section end="match8" />
+----
+<section begin="match9" />{{Single-innings cricket match
+| round = {{anchor|match9}} '''Match 9'''
+| date = {{Start date|2026|04|02|df=y}}
+| time = 14:30
+| day = y
+| team1 = [[Quetta Gladiators]]
+| team2 = [[Islamabad United]]
+| score1 = 183/5 (20 overs)
+| runs1 = Hasan Nawaz 66 (36)
+| wickets1 = [[Shadab Khan]] 3/23 (4 overs)
+| score2 = 189/2 (18.2 overs)
+| runs2 = [[Sameer Minhas]] 82[[Not Out|*]] (48)
+| wickets2 = [[Abrar Ahmed]] 2/29 (4 overs)
+| result = Islamabad United won by 8 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527560.html Scorecard]
+| venue = [[Gaddafi Stadium]], [[Lahore]]
+| umpires = [[Alex Wharf]] (Eng) and [[Rashid Riaz]] (Pak)
+| motm = [[Shadab Khan]] (Islamabad United)
+| toss = Quetta Gladiators won the toss and elected to bat.
+}}<section end="match9" />
+----
+<section begin="match10" />{{Single-innings cricket match
+| round = {{anchor|match10}} '''Match 10'''
+| date = {{Start date|2026|04|02|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Rawalpindiz]]
+| team2 = [[Karachi Kings]]
+| score1 = 197/6 (20 overs)
+| runs1 = [[Daryl Mitchell (New Zealand cricketer)|Daryl Mitchell]] 65 (41)
+| wickets1 = [[Hasan Ali (cricketer)|Hasan Ali]] 3/24 (4 overs)
+| score2 = 199/5 (19.2 overs)
+| runs2 = [[Azam Khan (cricketer, born 1998)|Azam Khan]] 74 (34)
+| wickets2 = [[Daryl Mitchell (New Zealand cricketer)|Daryl Mitchell]] 3/32 (3.2 overs)
+| result = Karachi Kings won by 5 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527561.html Scorecard]
+| venue = [[Gaddafi Stadium]], [[Lahore]]
+| umpires = [[Ahsan Raza]] (Pak) and [[Asif Yaqoob]] (Pak)
+| motm = [[Azam Khan (cricketer, born 1998)|Azam Khan]] (Karachi Kings)
+| toss = Karachi Kings won the toss and elected to field.
+}}<section end="match10" />
+----
+<section begin="match11" />{{Single-innings cricket match
+| round = {{anchor|match11}} '''Match 11'''
+| date = {{Start date|2026|04|03|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Lahore Qalandars]]
+| team2 = [[Multan Sultans]]
+| score1 = 185/5 (13 overs)
+| runs1 = [[Mohammad Naeem (cricketer, born 1999)|Mohammad Naeem]] 60 (28)
+| wickets1 = Muhammad Ismail 2/47 (3 overs)
+| score2 = 165/5 (13 overs)
+| runs2 = [[Ashton Turner]] 52[[Not out|*]] (22)
+| wickets2 = [[Mustafizur Rahman]] 2/37 (3 overs)
+| result = Lahore Qalandars won by 20 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1527562.html Scorecard]
+| venue = [[Gaddafi Stadium]], [[Lahore]]
+| umpires = [[Chris Gaffaney]] (NZ) and [[Tariq Rasheed]] (Pak)
+| motm = [[Mohammad Naeem (cricketer, born 1999)|Mohammad Naeem]] (Lahore Qalandars)
+| toss = Multan Sultans won the toss and elected to field.
+| notes = The match was reduced to 13 overs per side due to rain.<ref>{{cite news |title=Qalandars outclass Sultans in rain shortened clash |url=https://www.thenews.pk/print/1408105-qalandars-outclass-sultans-in-rain-shortened-clash |work=[[The News International]] |date=4 April 2026 |access-date=4 April 2026 |author=Asher Butt}}</ref>
+}}<section end="match11" />
+----
+<section begin="match12" />{{Single-innings cricket match
+| round = {{anchor|match12}} '''Match 12'''
+| date = {{Start date|2026|04|04|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Rawalpindiz]]
+| team2 = [[Islamabad United]]
+| score1 = 156/7 (20 overs)
+| runs1 = [[Kamran Ghulam]] 50 (39)
+| wickets1 = [[Richard Gleeson]] 2/21 (4 overs)
+| score2 = 157/3 (14.2 overs)
+| runs2 = [[Sameer Minhas]] 70 (36)
+| wickets2 = [[Mohammad Amir]] 1/18 (3 overs)
+| result = Islamabad United won by 7 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527563.html Scorecard]
+| venue = [[Gaddafi Stadium]], [[Lahore]]
+| umpires = Abdul Muqeet (Pak) and [[Alex Wharf]] (Eng)
+| motm = [[Sameer Minhas]] (Islamabad United)
+| toss = Islamabad United won the toss and elected to field.
+| notes = Mohammad Faiq (Islamabad United) made his debut in  PSL.
+}}<section end="match12" />
+----
+<section begin="match13" />{{Single-innings cricket match
+| round = {{anchor|match13}} '''Match 13'''
+| date = {{Start date|2026|04|05|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Quetta Gladiators]]
+| team2 = [[Multan Sultans]]
+| score1 = 166/7 (20 overs)
+| runs1 = [[Saud Shakeel]] 56 (41)
+| wickets1 = [[Mohammad Nawaz (cricketer)|Mohammad Nawaz]] 3/30 (4 overs)
+| score2 = 167/4 (17.3 overs)
+| runs2 = [[Steve Smith (cricketer)|Steve Smith]] 53 (35)
+| wickets2 = [[Hassan Nawaz (cricketer)|Hassan Nawaz]] 2/17 (2 overs)
+| result = Multan Sultans won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527564.html Scorecard]
+| venue = [[Gaddafi Stadium]], [[Lahore]]
+| umpires = [[Chris Gaffaney]] (NZ) and [[Faisal Afridi]] (Pak)
+| motm = [[Mohammad Nawaz (cricketer)|Mohammad Nawaz]] (Multan Sultans)
+| toss = Multan Sultans won the toss and elected to field.
+}}<section end="match13" />
+----
+<section begin="match14" />{{Single-innings cricket match
+| round = {{anchor|match14}} '''Match 14'''
+| date = {{Start date|2026|04|06|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Rawalpindiz]]
+| team2 = [[Multan Sultans]]
+| score1 = 182/8 (20 overs)
+| runs1 = [[Sam Billings]] 56[[Not out|*]] (41)
+| wickets1 = [[Faisal Akram]] 4/31 (4 overs)
+| score2 = 186/3 (16.2 overs)
+| runs2 = [[Sahibzada Farhan]] 68 (38)
+| wickets2 = [[Mohammad Amir]] 2/32 (3 overs)
+| result = Multan Sultans won by 7 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527565.html Scorecard]
+| venue = [[Gaddafi Stadium]], [[Lahore]]
+| umpires = Abdul Muqeet (Pak) and [[Sharfuddoula]] (Ban)
+| motm = [[Faisal Akram]] (Multan Sultans)
+| toss = Multan Sultans won the toss and elected to field.
+}}<section end="match14" />
+----
+<section begin="match15" />{{Single-innings cricket match
+| round = {{anchor|match15}} '''Match 15'''
+| date = {{Start date|2026|04|08|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Hyderabad Kingsmen]]
+| team2 = [[Peshawar Zalmi]]
+| score1 = 145 (18.2 overs)
+| runs1 = [[Kusal Perera]] 58 (35)
+| wickets1 = [[Iftikhar Ahmed (cricketer)|Iftikhar Ahmed]] 4/21 (4 overs)
+| score2 = 146/6 (20 overs)
+| runs2 = [[Babar Azam]] 43 (37)
+| wickets2 = [[Saim Ayub]] 2/19 (4 overs)
+| result = Peshawar Zalmi won by 4 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527566.html Scorecard]
+| venue = [[National Bank Stadium]], [[Karachi]]
+| umpires = [[Aaley Haider]] (Pak) and [[Sharfuddoula]] (Ban)
+| motm = [[Iftikhar Ahmed (cricketer)|Iftikhar Ahmed]] (Peshawar Zalmi)
+| toss = Peshawar Zalmi won the toss and elected to field.
+}}<section end="match15" />
+----
+<section begin="match16" />{{Single-innings cricket match
+| round = {{anchor|match16}} '''Match 16'''
+| date = {{Start date|2026|04|09|df=y}}
+| time = 14:30
+| day = y
+| team1 = [[Lahore Qalandars]]
+| team2 = [[Islamabad United]]
+| score1 = 100 (18.3 overs)
+| runs1 = [[Sikandar Raza]] 25 (19)
+| wickets1 = [[Chris Green (cricketer)|Chris Green]] 3/19 (4 overs)
+| score2 = 104/1 (10.2 overs)
+| runs2 = [[Devon Conway]] 59[[Not out|*]] (35)
+| wickets2 = [[Shaheen Shah Afridi]] 1/22 (3 overs)
+| result = Islamabad United won by 9 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527567.html Scorecard]
+| venue = [[National Bank Stadium]], [[Karachi]]
+| umpires = [[Chris Brown (umpire)|Chris Brown]] (NZ) and [[Faisal Afridi]] (Pak)
+| motm = [[Chris Green (cricketer)|Chris Green]] (Islamabad United)
+| toss = Islamabad United won the toss and elected to field.
+}}<section end="match16" />
+----
+<section begin="match17" />{{Single-innings cricket match
+| round = {{anchor|match17}} '''Match 17'''
+| date = {{Start date|2026|04|09|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Peshawar Zalmi]]
+| team2 = [[Karachi Kings]]
+| score1 = 246/3 (20 overs)
+| runs1 = [[Kusal Mendis]] 109 (52)
+| wickets1 = [[Abbas Afridi (cricketer)|Abbas Afridi]] 2/55 (4 overs)
+| score2 = 87 (16.1 overs)
+| runs2 = [[Azam Khan (cricketer, born 1998)|Azam Khan]] 25 (27)
+| wickets2 = [[Nahid Rana]] 3/7 (4 overs)
+| result = Peshawar Zalmi won by 159 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1527568.html Scorecard]
+| venue = [[National Bank Stadium]], [[Karachi]]
+| umpires = [[Chris Gaffaney]] (NZ) and [[Rashid Riaz]] (Pak)
+| motm = [[Kusal Mendis]] (Peshawar Zalmi)
+| toss = Karachi Kings won the toss and elected to field.
+| notes = [[Babar Azam]] (Peshawar Zalmi) became the fastest batter to score 12,000 runs in T20s.<ref>{{cite news |title=Babar Azam Breaks Chris Gayle's World Record, Becomes Fastest Batter To Score 12,000 Runs In T20s |url=https://www.news18.com/cricket/babar-azam-breaks-chris-gayles-world-record-becomes-fastest-batter-to-score-12000-runs-in-t20s-10024774.html |work=[[News18]] |date=9 April 2026 |access-date=10 April 2026}}</ref>
+* [[Kusal Mendis]] (Peshawar Zalmi) scored his maiden century in Pakistan Super League and became the first player from [[Sri Lanka]] to score a century in Pakistan Super League.<ref>{{cite news |url=https://sundayguardianlive.com/sports/kusal-mendis-fires-historic-century-as-peshawar-zalmi-crush-karachi-kings-in-psl-2026-182850/ |title=Kusal Mendis Fires Historic Century as Peshawar Zalmi Crush Karachi Kings in PSL 2026 |access-date=11 April 2026 |work=[[The Sunday Guardian]] |date=10 April 2026}}</ref>
+* The 191-run partnership between [[Kusal Mendis]] and [[Babar Azam]] (Peshawar Zalmi) became the [[List of Pakistan Super League records and statistics#Highest Partnership by wicket|highest partnership for any wicket in the Pakistan Super League]].<ref>{{cite news |url=https://www.sportstiger.com/cricket/kusal-mendis-and-babar-azams-191-stand-guides-peshawar-zalmi-to-record-159-run-win-over-karachi-kings |title=Kusal Mendis and Babar Azam’s 191 stand guides Peshawar Zalmi to record 159-run win over Karachi Kings |date=11 April 2026 |access-date=12 April 2026 |work=Sports Tiger}}</ref>
+* [[Peshawar Zalmi]] scored their highest total in Pakistan Super League.<ref>{{cite news |url=https://www.bbc.com/sport/cricket/articles/c5yvj878r5lo |title=Kusal & Babar share stand of 191 in record PSL win |date=9 April 2026 |access-date=12 April 2026 |work=[[BBC Sport]]}}</ref>
+* [[Karachi Kings]] scored their lowest total in Pakistan Super League.
+* [[Peshawar Zalmi]] recorded the largest win by runs in Pakistan Super League.<ref>{{cite news |url=https://www.thedailystar.net/sports/cricket/news/rana-rips-through-karachi-peshawar-seal-record-win-4148126 |title=Rana rips through Karachi as Peshawar seal record win |work=[[The Daily Star (Bangladesh)|The Daily Star]] |date=10 April 2026 |access-date=16 April 2026}}</ref>
+}}<section end="match17" />
+----
+<section begin="match18" />{{Single-innings cricket match
+| round = {{anchor|match18}} '''Match 18'''
+| date = {{Start date|2026|04|10|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Quetta Gladiators]]
+| team2 = [[Rawalpindiz]]
+| score1 = 182/6 (20 overs)
+| runs1 = [[Rilee Rossouw]] 53 (42)
+| wickets1 = [[Ben Sears]] 3/41 (4 overs)
+| score2 = 121 (17.3 overs)
+| runs2 = [[Saad Masood]] 31 (19)
+| wickets2 = [[Saud Shakeel]] 2/4 (1 over)
+| result = Quetta Gladiators won by 61 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1527569.html Scorecard]
+| venue = [[National Bank Stadium]], [[Karachi]]
+| umpires = Imran Javed (Pak) and [[Sharfuddoula]] (Ban)
+| motm = [[Rilee Rossouw]] (Quetta Gladiators)
+| toss = Rawalpindiz won the toss and elected to field.
+}}<section end="match18" />
+----
+<section begin="match19" />{{Single-innings cricket match
+| round = {{anchor|match19}} '''Match 19'''
+| date = {{Start date|2026|04|11|df=y}}
+| time = 14:30
+| day = y
+| team1 = [[Peshawar Zalmi]]
+| team2 = [[Lahore Qalandars]]
+| score1 = 173/7 (20 overs)
+| runs1 = [[Kusal Mendis]] 74 (48)
+| wickets1 = [[Shaheen Shah Afridi]] 3/22 (4 overs)
+| score2 = 97 (17 overs)
+| runs2 = [[Abdullah Shafique]] 21 (15)
+| wickets2 = [[Michael Bracewell (cricketer)|Michael Bracewell]] 3/18 (4 overs)
+| result = Peshawar Zalmi won by 76 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1527570.html Scorecard]
+| venue = [[National Bank Stadium]], [[Karachi]]
+| umpires = [[Alex Wharf]] (Eng) and [[Asif Yaqoob]] (Pak)
+| motm = [[Kusal Mendis]] (Peshawar Zalmi)
+| notes = [[Dunith Wellalage]] (Islamabad United) made his debut in PSL.
+* [[Babar Azam]] (Peshawar Zalmi) scored his 4,000th run in Pakistan Super League.<ref>{{cite news |date=11 April 2026 |access-date=11 April 2026 |work=[[Geo Super]] |title=Babar Azam reaches historic PSL milestone during Qalandars clash |url=https://www.geosuper.tv/latest/55121-babar-azam-reaches-historic-psl-milestone-during-qalandars-clash}}</ref>
+| toss = Lahore Qalandars won the toss and elected to field.
+}}<section end="match19" />
+----
+<section begin="match20" />{{Single-innings cricket match
+| round = {{anchor|match20}} '''Match 20'''
+| date = {{Start date|2026|04|11|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Karachi Kings]]
+| team2 = [[Hyderabad Kingsmen]]
+| score1 = 188/8 (20 overs)
+| runs1 = [[Saad Baig]] 53 (37)
+| wickets1 = [[Hunain Shah]] 3/19 (4 overs)
+| score2 = 189/6 (19.1 overs)
+| runs2 = [[Maaz Sadaqat]] 37 (29)
+| wickets2 = [[Abbas Afridi (cricketer)|Abbas Afridi]] 2/30 (4 overs)
+| result = Hyderabad Kingsmen won by 4 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527571.html Scorecard]
+| venue = [[National Bank Stadium]], [[Karachi]]
+| umpires = [[Sharfuddoula]] (Ban) and [[Zulfiqar Jan]] (Pak)
+| motm = [[Hassan Khan (cricketer)|Hassan Khan]] (Hyderabad Kingsmen)
+| toss = Hyderabad Kingsmen won the toss and elected to field.
+| notes = [[Hyderabad Kingsmen]] recorded their first win in Pakistan Super League.<ref>{{cite news |date=11 April 2026 |access-date=21 April 2026 |work=[[Cricinfo|ESPNcricinfo]] |title=Hassan and Irfan take Kingsmen to first win in five attempts |url=https://www.espncricinfo.com/series/pakistan-super-league-2026-1515734/karachi-kings-vs-hyderabad-kingsmen-20th-match-1527571/match-report}}</ref>
+}}<section end="match20" />
+----
+<section begin="match21" />{{Single-innings cricket match
+| round = {{anchor|match21}} '''Match 21'''
+| date = {{Start date|2026|04|12|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Islamabad United]]
+| team2 = [[Hyderabad Kingsmen]]
+| score1 = 153/9 (20 overs)
+| runs1 = [[Devon Conway]] 45 (31)
+| wickets1 = [[Asif Mehmood (cricketer)|Asif Mehmood]] 4/18 (2 overs)
+| score2 = 157/4 (18.1 overs)
+| runs2 = [[Marnus Labuschagne]] 61[[Not out|*]] (53)
+| wickets2 = [[Chris Green (cricketer)|Chris Green]] 2/19 (4 overs)
+| result = Hyderabad Kingsmen won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527572.html Scorecard]
+| venue = [[National Bank Stadium]], [[Karachi]]
+| umpires = [[Chris Gaffaney]] (NZ) and Nasir Hussain (Pak)
+| motm = [[Marnus Labuschagne]] (Hyderabad Kingsmen)
+| toss = Hyderabad Kingsmen won the toss and elected to field.
+}}<section end="match21" />
+----
+<section begin="match22" />{{Single-innings cricket match
+| round = {{anchor|match22}} '''Match 22'''
+| date = {{Start date|2026|04|13|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Peshawar Zalmi]]
+| team2 = [[Multan Sultans]]
+| score1 = 196/6 (20 overs)
+| runs1 = [[Kusal Mendis]] 68 (40)
+| wickets1 = [[Mohammad Ismail (cricketer)|Muhammad Ismail]] 2/22 (3 overs)
+| score2 = 172/8 (20 overs)
+| runs2 = [[Shan Masood]] 35 (19)
+| wickets2 = [[Sufiyan Muqeem]] 3/30 (4 overs)
+| result = Peshawar Zalmi won by 24 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1527573.html Scorecard]
+| venue = [[National Bank Stadium]], [[Karachi]]
+| umpires = [[Alex Wharf]] (Eng) and [[Rashid Riaz]] (Pak)
+| motm = [[Sufiyan Muqeem]] (Peshawar Zalmi)
+| toss = Multan Sultans won the toss and elected to field.
+}}<section end="match22" />
+----
+<section begin="match23" />{{Single-innings cricket match
+| round = {{anchor|match23}} '''Match 23'''
+| date = {{Start date|2026|04|15|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Quetta Gladiators]]
+| team2 = [[Peshawar Zalmi]]
+| score1 = 154 (20 overs)
+| runs1 = [[Hassan Nawaz (cricketer)|Hasan Nawaz]] 37 (35)
+| wickets1 = [[Sufiyan Muqeem]] 3/25 (4 overs)
+| score2 = 156/2 (18.3 overs)
+| runs2 = [[Babar Azam]] 71[[Not out|*]] (51)
+| wickets2 = [[Saud Shakeel]] 1/23 (3 overs)
+| result = Peshawar Zalmi won by 8 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527574.html Scorecard]
+| venue = [[National Bank Stadium]], [[Karachi]]
+| umpires = [[Chris Brown (umpire)|Chris Brown]] (NZ) and [[Rashid Riaz]] (Pak)
+| motm = [[Sufiyan Muqeem]] (Peshawar Zalmi)
+| toss = Peshawar Zalmi won the toss and elected to field.
+| notes = Mohammad Basit (Peshawar Zalmi) made his debut in PSL.
+* [[Rilee Rossouw]] (Quetta Gladiators) became the first overseas player to play 100 matches in the PSL.<ref>{{cite news |title=Rilee Rossouw becomes first overseas player to reach 100 PSL matches |url=https://www.24newshd.tv/15-Apr-2026/rilee-rossouw-becomes-first-overseas-player-reach-100-psl-matches |work=[[24 News HD]] |date=15 April 2026 |access-date=16 April 2026}}</ref>
+* [[Babar Azam]] (Peshawar Zalmi) scored his 100th half-century in T20s.<ref>{{cite news |title=Century of T20 half-centuries for Babar Azam, closes in on Kohli |url=https://gulfnews.com/sport/cricket/century-of-t20-half-centuries-for-babar-azam-closes-in-on-kohli-1.500508316-1.500508316 |work=[[Gulf News]] |access-date=16 April 2026}}</ref>
+}}<section end="match23" />
+----
+<section begin="match24" />{{Single-innings cricket match
+| round = {{anchor|match24}} '''Match 24'''
+| date = {{Start date|2026|04|16|df=y}}
+| time = 14:30
+| day = y
+| team1 = [[Rawalpindiz]]
+| team2 = [[Hyderabad Kingsmen]]
+| score1 = 121/9 (20 overs)
+| runs1 = [[Sam Billings]] 26 (22)
+| wickets1 = [[Hunain Shah]] 3/18 (4 overs)
+| score2 = 123/5 (16.3 overs)
+| runs2 = [[Irfan Khan Niazi]] 34[[Not out|*]] (29)
+| wickets2 = [[Asif Afridi]] 2/20 (4 overs)
+| result = Hyderabad Kingsmen won by 5 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527575.html Scorecard]
+| venue = [[National Bank Stadium]], [[Karachi]]
+| umpires = [[Chris Brown (umpire)|Chris Brown]] (NZ) and [[Tariq Rasheed]] (Pak)
+| motm = [[Hunain Shah]] (Hyderabad Kingsmen)
+| notes = [[Glenn Maxwell]] (Hyderabad Kingsmen) took his 200th wicket in T20s.<ref>{{cite news |first=Muhammad | last= Bilal | title=آسٹریلیا کے کھلاڑی گلین میکسویل نے پی ایس ایل 11 میں تاریخ رقم کردی |url=https://www.sbs.com.au/language/urdu/ur/podcast-episode/urdu-sports-report-17-apr/2m0ksrfdi |access-date=18 April 2026 |work=SBS Language |language=ur}}</ref>
+| toss = Hyderabad Kingsmen won the toss and elected to field.
+}}<section end="match24" />
+----
+<section begin="match25" />{{Single-innings cricket match
+| round = {{anchor|match25}} '''Match 25'''
+| date = {{Start date|2026|04|16|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Karachi Kings]]
+| team2 = [[Islamabad United]]
+| score1 = 150/6 (20 overs)
+| runs1 = [[Reeza Hendricks]] 51[[Not out|*]] (44)
+| wickets1 = [[Richard Gleeson]] 2/22 (4 overs)
+| score2 = 123/5 (16.3 overs)
+| runs2 = [[Sameer Minhas]] 58 (36)
+| wickets2 = [[Moeen Ali]] 1/14 (2 overs)
+| result = Islamabad United won by 8 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527576.html Scorecard]
+| venue = [[National Bank Stadium]], [[Karachi]]
+| umpires = [[Asif Yaqoob]] (Pak) and [[Chris Gaffaney]] (NZ)
+| motm = [[Sameer Minhas]] (Islamabad United)
+| toss = Islamabad United won the toss and elected to field.
+| notes = [[Dipendra Singh Airee]] (Islamabad United) made his debut in PSL as a substitute player.
+}}<section end="match25" />
+----
+<section begin="match26" />{{Single-innings cricket match
+| round = {{anchor|match26}} '''Match 26'''
+| date = {{Start date|2026|04|17|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Lahore Qalandars]]
+| team2 = [[Quetta Gladiators]]
+| score1 = 134 (19.5 overs)
+| runs1 = [[Haseebullah Khan]] 33 (37)
+| wickets1 = [[Usman Tariq]] 3/18 (4 overs)
+| score2 = 138/4 (16.2 overs)
+| runs2 = [[Rilee Rossouw]] 60[[not out|*]] (49)
+| wickets2 = [[Sikandar Raza]] 1/17 (2 overs)
+| result = Quetta Gladiators won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527577.html Scorecard]
+| venue = [[National Bank Stadium]], [[Karachi]]
+| umpires = [[Allahudien Paleker]] (SA) and [[Chris Brown (umpire)|Chris Brown]] (NZ)
+| motm = [[Usman Tariq]] (Quetta Gladiators)
+| notes = [[Charith Asalanka]] (Lahore Qalandars) made his debut in PSL.
+* Peshawar Zalmi qualified for the [[#Playoffs|play-offs]] as a result of this match.
+| toss = Lahore Qalandars won the toss and elected to bat.
+}}<section end="match26" />
+----
+<section begin="match27" />{{Single-innings cricket match
+| round = {{anchor|match27}} '''Match 27'''
+| date = {{Start date|2026|04|18|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Lahore Qalandars]]
+| team2 = [[Rawalpindiz]]
+| score1 = 210/4 (20 overs)
+| runs1 = [[Fakhar Zaman (cricketer)|Fakhar Zaman]] 84 (54)
+| wickets1 = [[Mohammad Amir]] 2/25 (4 overs)
+| score2 = 178/9 (20 overs)
+| runs2 = Yasir Khan 58 (29)
+| wickets2 = [[Haris Rauf]] 3/43 (4 overs)
+| result = Lahore Qalandars won by 32 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1527578.html Scorecard]
+| venue = [[National Bank Stadium]], [[Karachi]]
+| umpires = [[Allahudien Paleker]] (SA) and Nasir Hussain (Pak)
+| motm = [[Fakhar Zaman (cricketer)|Fakhar Zaman]] (Lahore Qalandars)
+| toss = Lahore Qalandars won the toss and elected to bat.
+* Rawalpindiz eliminated as a result of this match.
+}}<section end="match27" />
+----
+<section begin="match28" />{{Single-innings cricket match
+| round = {{anchor|match28}} '''Match 28'''
+| date = {{Start date|2026|04|19|df=y}}
+| time = 14:30
+| day = y
+| team1 = [[Karachi Kings]]
+| team2 = [[Multan Sultans]]
+| score1 = 207/7 (20 overs)
+| runs1 = [[Shan Masood]] 46 (25)
+| wickets1 = [[Khushdil Shah]] 3/35 (4 overs)
+| score2 = 196 (19.4 overs)
+| runs2 = [[Reeza Hendricks]] 49 (32)
+| wickets2 = [[Arafat Minhas]] 3/32 (3 overs)
+| result = Multan Sultans won by 11 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1527579.html Scorecard]
+| venue = [[National Bank Stadium]], [[Karachi]]
+| umpires = [[Asif Yaqoob]] (Pak) and [[Chris Gaffaney]] (NZ)
+| motm = [[Arafat Minhas]] (Multan Sultans)
+| toss = Karachi Kings won the toss and elected to field.
+}}<section end="match28" />
+----
+<section begin="match29" />{{Single-innings cricket match
+| round = {{anchor|match29}} '''Match 29'''
+| date = {{Start date|2026|04|19|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Peshawar Zalmi]]
+| team2 = [[Quetta Gladiators]]
+| score1 = 255/3 (20 overs)
+| runs1 = [[Babar Azam]] 100[[not out|*]] (52)
+| wickets1 = [[Abrar Ahmed]] 1/44 (4 overs)
+| score2 = 137 (18.1 overs)
+| runs2 = [[Bevon Jacobs]] 34 (27)
+| wickets2 = [[Ali Raza (cricketer, born 2008)|Ali Raza]] 3/9 (3.1 overs)
+| result = Peshawar Zalmi won by 118 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1527580.html Scorecard]
+| venue = [[National Bank Stadium]], [[Karachi]]
+| umpires = [[Chris Brown (umpire)|Chris Brown]] (NZ) and [[Faisal Afridi]] (Pak)
+| motm = [[Babar Azam]] (Peshawar Zalmi)
+| toss = Quetta Gladiators won the toss and elected to field.
+| notes = [[Peshawar Zalmi]] scored their highest total in Pakistan Super League, surpassing 246/3 which scored earlier in this season.{{cn|date=April 2026}}
+}}<section end="match29" />
+----
+<section begin="match30" />{{Single-innings cricket match
+| round = {{anchor|match30}} '''Match 30'''
+| date = {{Start date|2026|04|21|df=y}}
+| time =14:30
+| day = y
+| team1 = [[Lahore Qalandars]]
+| team2 = [[Quetta Gladiators]]
+| score1 = 197/6 (20 overs)
+| runs1 = [[Fakhar Zaman (cricketer)|Fakhar Zaman]] 103 (51)
+| wickets1 = Khalil Ahmed 2/38 (4 overs)
+| score2 = 188/7 (20 overs)
+| runs2 = [[Rilee Rossouw]] 62 (29)
+| wickets2 = [[Haris Rauf]] 2/28 (4 overs)
+| result = Lahore Qalandars won by 9 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1527581.html Scorecard]
+| venue = [[Gaddafi Stadium]], [[Lahore]]
+| umpires = [[Ahsan Raza]] (Pak) and [[Allahudien Paleker]] (SA)
+| motm = [[Fakhar Zaman (cricketer)|Fakhar Zaman]] (Lahore Qalandars)
+| toss = Lahore Qalandars won the toss and elected to bat.
+}}<section end="match30" />
+----
+<section begin="match31" />{{Single-innings cricket match
+| round = {{anchor|match31}} '''Match 31'''
+| date = {{Start date|2026|04|21|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Rawalpindiz]]
+| team2 = [[Multan Sultans]]
+| score1 = 166/4 (20 overs)
+| runs1 = [[Daryl Mitchell (New Zealand cricketer)|Daryl Mitchell]] 58 (46)
+| wickets1 = [[Mohammad Imran (cricketer, born 1996)|Mohammad Imran]] 1/9 (3 overs)
+| score2 = 167/4 (18.4 overs)
+| runs2 = [[Steve Smith (cricketer)|Steve Smith]] 56 (31)
+| wickets2 = [[Asif Afridi]] 2/28 (4 overs)
+| result = Multan Sultans won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527582.html Scorecard]
+| venue = [[National Bank Stadium]], [[Karachi]]
+| umpires = [[Rashid Riaz]] (Pak) and [[Sharfuddoula]] (Ban)
+| motm = [[Steve Smith (cricketer)|Steve Smith]] (Multan Sultans)
+| toss = Rawalpindiz won the toss and elected to bat.
+}}<section end="match31" />
+----
+<section begin="match32" />{{Single-innings cricket match
+| round = {{anchor|match32}} '''Match 32'''
+| date = {{Start date|2026|04|22|df=y}}
+| time = 14:30
+| day = y
+| team1 = [[Karachi Kings]]
+| team2 = [[Peshawar Zalmi]]
+| score1 = 182/9 (20 overs)
+| runs1 = [[Jason Roy]] 85 (51)
+| wickets1 = [[Ali Raza (cricketer, born 2008)|Ali Raza]] 4/41 (4 overs)
+| score2 = 186/3 (18.5 overs)
+| runs2 = [[Kusal Mendis]] 80[[Not out|*]] (43)
+| wickets2 = [[Khushdil Shah]] 1/40 (4 overs)
+| result = Peshawar Zalmi won by 7 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527583.html Scorecard]
+| venue = [[Gaddafi Stadium]], [[Lahore]]
+| umpires = [[Ahsan Raza]] (Pak) and [[Allahudien Paleker]] (SA)
+| motm = [[Kusal Mendis]] (Peshawar Zalmi)
+| toss = Karachi Kings won the toss and elected to bat.
+| notes = [[Kusal Mendis]] (Peshawar Zalmi) scored his 6,000th run in T20s.
+* [[Kusal Mendis]] (Peshawar Zalmi) surpassed [[Rilee Rossouw]] for the record of most runs by an overseas batsman in a single PSL edition, reaching a total of 493 runs.
+}}<section end="match32" />
+----
+<section begin="match33" />{{Single-innings cricket match
+| round = {{anchor|match33}} '''Match 33'''
+| date = {{Start date|2026|04|22|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Multan Sultans]]
+| team2 = [[Hyderabad Kingsmen]]
+| score1 = 213/7 (20 overs)
+| runs1 = [[Steve Smith (cricketer)|Steve Smith]] 106 (50)
+| wickets1 = [[Akif Javed]] 3/30 (4 overs)
+| score2 = 214/6 (19.3 overs)
+| runs2 = [[Usman Khan (cricketer)|Usman Khan]] 101 (47)
+| wickets2 = [[Peter Siddle]] 3/39 (4 overs)
+| result = Hyderabad Kingsmen won by 4 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527584.html Scorecard]
+| venue = [[National Bank Stadium]], [[Karachi]]
+| umpires = [[Chris Gaffaney]] (NZ) and [[Zulfiqar Jan]] (Pak)
+| motm = [[Usman Khan (cricketer)|Usman Khan]] (Hyderabad Kingsmen)
+| toss = Hyderabad Kingsmen won the toss and elected to field.
+| notes = [[Steve Smith (cricketer)|Steve Smith]] (Multan Sultans) scored his maiden century in Pakistan Super League.
+* [[Usman Khan (cricketer)|Usman Khan]] (Hyderabad Kingsmen)  scored his fourth century in Pakistan Super League, the most by any batter.
+}}<section end="match33" />
+----
+<section begin="match34" />{{Single-innings cricket match
+| round = {{anchor|match34}} '''Match 34'''
+| date = {{Start date|2026|04|23|df=y}}
+| time = 14:30
+| day = y
+| team1 = [[Islamabad United]]
+| team2 = [[Rawalpindiz]]
+| score1 = 137 (20 overs)
+| runs1 = [[Devon Conway]] 40 (33)
+| wickets1 = [[Dian Forrester]] 2/9 (1 over)
+| score2 = 140/4 (18.1 overs)
+| runs2 = [[Mohammad Rizwan]] 45 (38)
+| wickets2 = [[Shadab Khan]] 1/18 (4 overs)
+| result = Rawalpindiz won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527585.html Scorecard]
+| venue = [[National Bank Stadium]], [[Karachi]]
+| umpires = [[Alex Wharf]] (Eng) and [[Faisal Afridi]] (Pak)
+| motm = [[Mohammad Rizwan]] (Rawalpindiz)
+| toss = Rawalpindiz won the toss and elected to field.
+| notes = [[Rawalpindiz]] recorded their first win in Pakistan Super League.<ref>{{cite news |title=Rawalpindiz secure maiden PSL win with victory over Islamabad United |url=https://www.geo.tv/latest/661270-psl-11-rawalpindiz-win-toss-elect-to-bowl-first-against-islamabad-united |date=23 April 2026 |access-date=24 April 2026 |work=[[Geo News]]}}</ref>
+}}<section end="match34" />
+----
+<section begin="match35" />{{Single-innings cricket match
+| round = {{anchor|match35}} '''Match 35'''
+| date = {{Start date|2026|04|23|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Lahore Qalandars]]
+| team2 = [[Karachi Kings]]
+| score1 = 199/6 (20 overs)
+| runs1 = [[Abdullah Shafique]] 63 (36)
+| wickets1 = [[Moeen Ali]] 2/26 (4 overs)
+| score2 = 203/5 (18.4 overs)
+| runs2 = [[David Warner (cricketer)|David Warner]] 63* (44)
+| wickets2 = [[Ubaid Shah]] 3/41 (4 overs)
+| result = Karachi Kings won by 5 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527586.html Scorecard]
+| venue = [[Gaddafi Stadium]], [[Lahore]]
+| umpires = [[Allahudien Paleker]] (SA) and Nasir Hussain (Pak)
+| motm =[[Khushdil Shah]] (Karachi Kings)
+| toss = Karachi Kings won the toss and elected to field.
+}}<section end="match35" />
+----
+<section begin="match36" />{{Single-innings cricket match
+| round = {{anchor|match36}} '''Match 36'''
+| date ={{Start date|2026|04|24|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Hyderabad Kingsmen]]
+| team2 = [[Islamabad United]]
+| score1 = 80 (15.5 overs)
+| runs1 = [[Usman Khan (cricketer)|Usman Khan]] 25[[not out|*]] (35)
+| wickets1 = [[Richard Gleeson]] 3/9 (3 overs)
+| score2 = 83/2 (6.4 overs)
+| runs2 = Mohsin Riaz 42 (18)
+| wickets2 = [[Mohammad Ali (cricketer, born 1992)|Mohammad Ali]] 2/29 (3.4 overs)
+| result = Islamabad United won by 8 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527587.html Scorecard]
+| venue = [[National Bank Stadium]], [[Karachi]]
+| umpires = [[Chris Gaffaney]] (NZ) and [[Rashid Riaz]] (Pak)
+| motm = [[Richard Gleeson]] (Islamabad United)
+| toss = Islamabad United won the toss and elected to field.
+| notes = [[Islamabad United]] and [[Multan Sultan]] qualified for the [[#Playoffs|play-offs]] as a result of this match.}}<section end="match36" />
+----
+<section begin="match37" />{{Single-innings cricket match
+| round = {{anchor|match37}}'''Match 37'''
+| date = {{Start date|2026|04|25|df=y}}
+| time = 14:30
+| day = y
+| team1 = [[Quetta Gladiators]]
+| team2 = [[Karachi Kings]]
+| score1 = 195/6 (20 overs)
+| runs1 = [[Rilee Rossouw]] 90 (54)
+| wickets1 = [[Abbas Afridi (cricketer)|Abbas Afridi]] 2/22 (2.2 overs)
+| score2 = 199/1 (18.3 overs)
+| runs2 = [[David Warner (cricketer)|David Warner]] 89[[not out|*]] (48)
+| wickets2 = [[Jahandad Khan (cricketer)|Jahandad Khan]] 1/38 (3.3 overs)
+| result = Karachi Kings won by 9 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527588.html Scorecard]
+| venue = [[Gaddafi Stadium]], [[Lahore]]
+| umpires = [[Chris Brown (umpire)|Chris Brown]] (NZ) and Nasir Hussain (Pak)
+| motm = [[David Warner (cricketer)|David Warner]] (Karachi Kings)
+| toss = Karachi Kings won the toss and elected to field.
+| notes = [[Quetta Gladiators]] were eliminated as a result of this match.}}<section end="match37" />
+----
+<section begin="match38" />{{Single-innings cricket match
+| round = {{anchor|match38}} '''Match 38'''
+| date = {{Start date|2026|04|25|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Peshawar Zalmi]]
+| team2 = [[Lahore Qalandars]]
+| score1 = 199/4 (20 overs)
+| runs1 = [[Michael Bracewell (cricketer)|Michael Bracewell]] 83(45)
+| wickets1 = [[Shaheen Shah Afridi|Shaheen Afridi]] 2/36 (4 overs)
+| score2 = 200/4 (19.3 overs)
+| runs2 = [[Fakhar Zaman (cricketer)|Fakhar Zaman]] 58[[not out|*]] (47)
+| wickets2 = [[Khurram Shahzad (Pakistani cricketer, born 1999)|Khurram Shahzad]] 1/22 (3 overs)
+| result =Lahore Qalandars won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527589.html Scorecard]
+| venue = [[Gaddafi Stadium]], [[Lahore]]
+| umpires = Abdul Muqeet (Pak) and [[Allahudien Paleker]] (SA)
+| motm = [[Fakhar Zaman (cricketer)|Fakhar Zaman]] (Lahore Qalandars)
+| toss = Lahore Qalandars won the toss and elected to field.
+| notes = [[Karachi Kings]] were eliminated as a result of this match.
+* [[Lahore Qalandars]] broke [[Peshawar Zalmi]]'s record of 8-match win streak in Pakistan Super League.}}<section end="match38" />
+----
+<section begin="match39" />{{Single-innings cricket match
+| round = {{anchor|match39}} '''Match 39'''
+| date = {{Start date|2026|04|26|df=y}}
+| time = 14:30
+| day = y
+| team1 = [[Hyderabad Kingsmen]]
+| team2 = [[Rawalpindiz]]
+| score1 = 244/5 (20 overs)
+| runs1 = [[Glenn Maxwell]] 70 (37)
+| wickets1 = [[Saad Masood]] 2/34 (4 overs)
+| score2 = 136 (17.1 overs)
+| runs2 = [[Usman Khawaja]] 66[[not out|*]] (43)
+| wickets2 = [[Hunain Shah]] 4/22 (3.1 overs)
+| result = Hyderabad Kingsmen won by 108 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1527590.html Scorecard]
+| venue = [[National Bank Stadium]], [[Karachi]]
+| umpires = [[Alex Wharf]] (Eng) and [[Zulfiqar Jan]] (Pak)
+| motm = [[Glenn Maxwell]] (Hyderabad Kingsmen)
+| toss = Rawalpindiz won the toss and elected to field.
+| notes = [[Hyderabad Kingsmen]] qualified for the [[#Playoffs|play-offs]] while [[Lahore Qalandars]] were eliminated as a result of this match.
+}}<section end="match39" />
+----
+<section begin="match40" />{{Single-innings cricket match
+| round = {{anchor|match40}} '''Match 40'''
+| date = {{Start date|2026|04|26|df=y}}
+| time = 19:00
+| night = y
+| team1 = [[Multan Sultans]]
+| team2 = [[Islamabad United]]
+| score1 = 192/7 (20 overs)
+| runs1 = [[Shan Masood]] 44 (33)
+| wickets1 = [[Faheem Ashraf]] 1/23 (3 overs)
+| score2 =193/6 (20 overs)
+| runs2 =[[Mark Chapman (cricketer)|Mark Chapman]] 69[[Not out|*]] (33)
+| wickets2 =[[Faisal Akram]] 2/41 (4 overs)
+| result = Islamabad United won by 4 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527591.html Scorecard]
+| venue = [[National Bank Stadium]], [[Karachi]]
+| umpires = [[Rashid Riaz]] (Pak) and [[Sharfuddoula]] (Ban)
+| motm =[[Mark Chapman (cricketer)|Mark Chapman]] (Islamabad United)
+| toss = Islamabad United won the toss and elected to field.
+}}<section end="match40" />
+
+==Playoffs==
+
+===Bracket===
+<section begin="bracket" />{{4TeamBracket-PagePlayoff
+| team-width = 150px | score-width = 150px
+
+| RD1 = '''[[2026 Pakistan Super League#Qualifier|Qualifier]]'''
+| RD1-text1 = 28 April 2026
+| RD1-seed1 = '''1'''
+| RD1-team1 = '''[[Peshawar Zalmi]]'''
+| RD1-score1 = '''221/7 (20 overs)'''
+| RD1-seed2 = 2
+| RD1-team2 = [[Islamabad United]]
+| RD1-score2 = 151 (18.4 overs)
+
+| RD1b = '''[[2026 Pakistan Super League#Eliminator 1|Eliminator 1]]'''
+| RD1b-text1 = 29 April 2026
+| RD1b-seed1 = 3
+| RD1b-team1 = [[Multan Sultans]]
+| RD1b-score1 = 159/9 (20 overs)
+| RD1b-seed2 = '''4'''
+| RD1b-team2 = '''[[Hyderabad Kingsmen]]'''
+| RD1b-score2 = '''162/2 (15.2 overs)'''
+
+| RD2 = '''[[2026 Pakistan Super League#Eliminator 2|Eliminator 2]]'''
+| RD2-text1 = 01 May 2026
+| RD2-seed1 = QL
+| RD2-team1 = [[Islamabad United]]
+| RD2-score1 = 184/7 (20 overs)
+| RD2-seed2 = '''E1W'''
+| RD2-team2 = '''[[Hyderabad Kingsmen]]'''
+| RD2-score2 = '''186/5 (20 overs)'''
+
+| RD3 = '''[[2026 Pakistan Super League final|Final]]'''
+| RD3-text1 = 03 May 2026
+| RD3-seed1 = '''QW'''
+| RD3-team1 = '''[[Peshawar Zalmi]]'''
+| RD3-score1 = '''130/5 (15.2 overs)'''
+| RD3-seed2 = E2W
+| RD3-team2 = [[Hyderabad Kingsmen]]
+| RD3-score2 = 129 (18 overs)
+}}
+<section end="bracket"/>
+
+===Qualifier===
+<section begin="match41" />{{Single-innings cricket match
+| round = {{anchor|match41}} '''Qualifier'''
+| date = 28 April 2026
+| time = 19:00
+| night = y
+| team1 = [[Peshawar Zalmi]]
+| team2 = [[Islamabad United]]
+| score1 = 221/7 (20 overs)
+| runs1 = [[Babar Azam]] 103 (59)
+| wickets1 = [[Shadab Khan]] 3/42 (4 overs)
+| score2 = 151 (18.4 overs)
+| runs2 = [[Sameer Minhas]] 44 (23)
+| wickets2 = [[Aaron Hardie]] 3/24 (4 overs)
+| result = Peshawar Zalmi won by 70 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1527592.html Scorecard]
+| venue = [[National Bank Stadium]], [[Karachi]]
+| umpires = [[Alex Wharf]] (Eng) and [[Chris Gaffaney]] (NZ)
+| motm = [[Babar Azam]] (Peshawar Zalmi)
+| toss = Islamabad United won the toss and elected to field.
+}}<section end="match41" />
+
+===Eliminator 1===
+<section begin="match42" />{{Single-innings cricket match
+| round = {{anchor|match42}} '''Eliminator 1'''
+| date = 29 April 2026
+| time = 19:00
+| night = y
+| team1 = [[Multan Sultans]]
+| team2 = [[Hyderabad Kingsmen]]
+| score1 = 159/9 (20 overs)
+| runs1 = [[Shan Masood]] 69[[not out|*]] (46)
+| wickets1 = [[Akif Javed]] 2/30 (4 overs)
+| score2 = 162/2 (15.2 overs)
+| runs2 = [[Maaz Sadaqat]] 64[[not out|*]] (33)
+| wickets2 = [[Steve Smith (cricketer)|Steve Smith]] 1/14 (1 over)
+| result = Hyderabad Kingsmen won by 8 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527593.html Scorecard]
+| venue = [[Gaddafi Stadium]], [[Lahore]]
+| umpires = [[Asif Yaqoob]] (Pak) and [[Sharfuddoula]] (Ban)
+| motm = [[Maaz Sadaqat]] (Hyderabad Kingsmen)
+| toss = Hyderabad Kingsmen won the toss and elected to field.
+}}<section end="match42" />
+
+===Eliminator 2===
+<section begin="match43" />{{Single-innings cricket match
+| round = {{anchor|match43}} '''Eliminator 2'''
+| date = 01 May 2026
+| time = 19:00
+| night = y
+| team1 = [[Hyderabad Kingsmen]]
+| team2 = [[Islamabad United]]
+| score1 = 186/5 (20 overs)
+| runs1 = [[Usman Khan (cricketer)|Usman Khan]] 61[[not out|*]] (30)
+| wickets1 = [[Imad Wasim]] 2/16 (2 overs)
+| score2 = 184/7 (20 overs)
+| runs2 = [[Mark Chapman (cricketer)|Mark Chapman]] 43 (26)
+| wickets2 = [[Hunain Shah]] 2/37 (4 overs)
+| result = Hyderabad Kingsmen won by 2 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1527594.html Scorecard]
+| venue = [[Gaddafi Stadium]], [[Lahore]]
+| umpires = [[Ahsan Raza]] (Pak) and [[Sharfuddoula]] (Ban)
+| motm = [[Hunain Shah]] (Hyderabad Kingsmen)
+| toss = Islamabad United won the toss and elected to field.
+}}<section end="match43" />
+
+===Final===
+{{Main|2026 Pakistan Super League final}}
+
+<section begin="match44" />{{Single-innings cricket match
+| round = {{anchor|match44}} '''Final'''
+| date = 3 May 2026
+| time = 19:00
+| night = y
+| team1 = [[Hyderabad Kingsmen]]
+| team2 = [[Peshawar Zalmi]]
+| score1 = 129 (18 overs)
+| runs1 = [[Saim Ayub]] 54 (50)
+| wickets1 = [[Aaron Hardie]] 4/27 (4 overs)
+| score2 = 130/5 (15.2 overs)
+| runs2 = [[Aaron Hardie]] 56[[not out|*]] (39)
+| wickets2 = [[Mohammad Ali (cricketer, born 1992)|Mohammad Ali]] 3/38 (4 overs)
+| result = Peshawar Zalmi won by 5 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1527595.html Scorecard]
+| venue = [[Gaddafi Stadium]], [[Lahore]]
+| umpires = [[Ahsan Raza]] (Pak) and [[Chris Gaffaney]] (NZ)
+| motm = [[Aaron Hardie]] (Peshawar Zalmi)
+| toss = Peshawar Zalmi won the toss and elected to field.
+}}<section end="match44" />
+
+==Awards and statistics==
+
+===Most runs===
+{| class="wikitable sortable"
+! Runs
+! class="unsortable" | Player
+! class="unsortable" | Team
+! {{Tooltip|Inns|Innings}}
+! {{Tooltip|HS|Highest Score}}
+! {{Tooltip|Ave|Average}}
+|-
+!588
+|[[Babar Azam]]
+|[[Peshawar Zalmi]]
+|11
+|103
+|73.50
+|-
+!550
+|[[Kusal Mendis]]
+|[[Peshawar Zalmi]]
+|11
+|109
+|55.00
+|-
+!401
+|[[Fakhar Zaman (cricketer)|Fakhar Zaman]]
+|[[Lahore Qalandars]]
+|8
+|103
+|57.28
+|-
+!389
+|[[Usman Khan (cricketer)|Usman Khan]]
+|[[Hyderabad Kingsmen]]
+|13
+|101
+|35.36
+|-
+!rowspan=2|380
+|[[Sahibzada Farhan]]
+|[[Multan Sultans]]
+|10
+|106[[Not out|*]]
+|42.22
+|-
+|[[Steve Smith (cricketer)|Steve Smith]]
+|[[Multan Sultans]]
+|11
+|106
+|34.54
+|-
+|}
+* Source: [https://www.espncricinfo.com/records/tournament/batting-most-runs-career/pakistan-super-league-17816 ESPNcricinfo]
+
+===Most wickets===
+{| class="wikitable sortable"
+! {{Tooltip|Wkts|Wickets}}
+! class="unsortable" | Player
+! class="unsortable" | Team
+! {{Tooltip|Inns|Innings}}
+! {{Tooltip|BBI|Best innings bowling}}
+! {{Tooltip|Ave|Average}}
+|-
+!22
+|[[Sufiyan Muqeem]]
+|[[Peshawar Zalmi]]
+|11
+|{{ntsh|4}}4/32
+|14.40
+|-
+!20
+|[[Mohammad Ali (cricketer, born 1992)|Mohammad Ali]]
+|[[Hyderabad Kingsmen]]
+|12
+|3/21
+|18.95
+|-
+! rowspan="2" |17
+|[[Shadab Khan]]
+|[[Islamabad United]]
+|10
+|3/13
+|14.47
+|-
+|[[Hunain Shah]]
+|[[Hyderabad Kingsmen]]
+|10
+|{{ntsh|2}}4/22
+|18.41
+|-
+!16
+|[[Shaheen Afridi]]
+|[[Lahore Qalandars]]
+|10
+|{{ntsh|1}}4/18
+|18.18
+|-
+|}
+* Source: [https://www.espncricinfo.com/records/tournament/bowling-most-wickets-career/pakistan-super-league-17816 ESPNcricinfo]
+
+=== End of season awards ===
+
+{| class="wikitable"
+! Name
+! Team
+! Award
+|-
+| [[Sufiyan Muqeem]]
+| [[Peshawar Zalmi]]
+| Player of the Tournament
+|-
+| [[Babar Azam]]
+| [[Peshawar Zalmi]]
+| Batsman of the tournament
+|-
+| [[Sufiyan Muqeem]]
+| [[Peshawar Zalmi]]
+| Bowler of the tournament
+|-
+| [[Shadab Khan]]
+| [[Islamabad United]]
+| All-rounder of the tournament
+|-
+| [[Kusal Mendis]]
+| [[Peshawar Zalmi]]
+| Wicket-keeper of the tournament
+|-
+| Farhan Yousaf
+| [[Peshawar Zalmi]]
+| Fielder of the tournament
+|-
+| [[Hunain Shah]]
+| [[Hyderabad Kingsmen]]
+| Emerging player of the tournament
+|-
+| [[Asif Yaqoob]]
+| {{N/A}}
+| Umpire of the tournament
+|-
+| {{N/A}}
+| [[Hyderabad Kingsmen]]
+| Spirit of cricket
+|}
+
+*Source: Geo Super<ref>{{cite web |date=4 May 2026 |title=Sufiyan Muqeem headlines PSL 11 individual awards |url=https://www.geosuper.tv/latest/55712-sufiyan-muqeem-headlines-psl-11-individual-awards |access-date=6 May 2026 |website=[[Geo Super]]}}</ref>
+
+=== Team of the tournament ===
+{| class="wikitable"
+! Name
+! Team
+!Role
+|-
+| [[Babar Azam]]
+| [[Peshawar Zalmi]]
+| Batter (Captain)
+|-
+| [[Fakhar Zaman (cricketer)|Fakhar Zaman]]
+| [[Lahore Qalandars]]
+| Batter
+|-
+| [[Kusal Mendis]]
+| [[Peshawar Zalmi]]
+| [[Wicket-keeper]]
+|-
+| [[Shan Masood]]
+| [[Multan Sultans]]
+| Batter
+|-
+| [[Usman Khan (cricketer)|Usman Khan]]
+| [[Hyderabad Kingsmen]]
+| Batter
+|-
+| [[Shadab Khan]]
+| [[Islamabad United]]
+| [[All-rounder]]
+|-
+| [[Hassan Khan (cricketer)|Hassan Khan]]
+| [[Hyderabad Kingsmen]]
+| [[All-rounder]]
+|-
+| [[Shaheen Afridi]]
+| [[Lahore Qalandars]]
+| Bowler
+|-
+| [[Hunain Shah]]
+| [[Hyderabad Kingsmen]]
+|Bowler
+|-
+| [[Sufiyan Muqeem]]
+| [[Peshawar Zalmi]]
+| Bowler
+|-
+| [[Richard Gleeson]]
+| [[Islamabad United]]
+| Bowler
+|-
+| [[Hassan Nawaz (cricketer)|Hassan Nawaz]]
+| [[Quetta Gladiators]]
+| 12th man
+|-
+|}
+
+*Source: BBC Sport<ref>{{cite web |date=4 May 2026 |title=Babar leads PSL team of the tournament |url=https://www.bbc.com/sport/cricket/articles/c74d529lee8o |access-date=6 May 2026 |website=[[BBC Sport]]}}</ref>
+
+==Controversies==
+
+===Naseem Shah tweet===
+[[Maryam Nawaz]], the [[Chief Minister of Punjab (Pakistan)|Chief Minister of Punjab]] and niece of Prime Minister [[Shehbaz Sharif]], attended the opening match along with several political figures,<ref>{{cite news |title=Maryam Nawaz attends simple opening ceremony of HBL PSL 11 |url=https://www.nation.com.pk/26-Mar-2026/maryam-nawaz-attends-simple-opening-ceremony-hbl-psl-11 |work=The Nation |author=Azhar Khan |date=26 March 2026 |accessdate=30 March 2026}}</ref> despite the [[Pakistan Cricket Board|PCB]] having restricted the general public at the stadiums.<ref name=revsc/> A controversy emerged with a tweet from the official [[X (social network)|X]] account of [[Rawalpindiz]]'s fast bowler [[Naseem Shah]], criticizing Nawaz's reception. Although the tweet was later deleted and Shah issued a clarification claiming his account had been compromised, the PCB issued him a show-cause notice, asserting that the incident breached the terms of his central contract and the board's media regulations regarding public criticism of officials.<ref>{{cite news |title={{Nq|سینٹرل کنٹریکٹ کی خلاف ورزی پر نسیم شاہ کو شوکاز نوٹس جاری}} |url=https://jang.com.pk/news/1568475 |work=Daily Jang |author={{Nq|سہیل عمران}} |date=27 March 2026 |accessdate=30 March 2026}}</ref> Shah was fined {{PKR|2 [[crore]]}} and his social media manager was blacklisted from managing any player under a PCB contract.<ref>{{cite news |author=Suramya Kaushik |title=PCB fines Naseem Shah over social media post |url=https://www.reuters.com/sports/cricket/pcb-fines-naseem-shah-over-social-media-post-2026-03-30/ |access-date=2 April 2026 |work=Reuters |date=30 March 2026}}</ref>
+
+===Security protocol breach===
+[[Punjab Police (Pakistan)|Punjab Police]] wrote a formal letter to the PSL CEO, stating that on 28 March, [[Lahore Qalandars]]' captain [[Shaheen Shah Afridi]] and teammate [[Sikandar Raza]] breached a security protocol at the team hotel by bringing four visitors to a hotel room, despite the permission request by Qalandars team owner Sameen Rana being denied by PSL officials. Police requested a review of the incident and demanded necessary action to prevent future violations.<ref>{{cite news |title=In letter to PSL CEO, police detail alleged security protocol breach |url=https://www.dawn.com/news/1986590 |work=Dawn |author=Asif Chaudhry |date=30 March 2026 |accessdate=30 March 2026}}</ref> Raza later stated he was unaware of the updated protocols, noting that meeting family members at the hotel had been allowed in previous seasons.<ref>{{cite news |url=https://urdu.arynews.tv/sikandar-raza-truth-last-over-umpires-will-tell |title={{Nq|آخری اوور کی حقیقت امپائرز بتائیں گے، میں نے کچھ نہیں کیا، سکندر رضا}} |date=29 March 2026 |accessdate=30 March 2026 |publisher=ARY News}}</ref> Lahore Qalandars fined Afridi {{PKR|10 lakh}} after an inquiry, and the PCB issued new, stricter regulations regarding team accommodation.<ref>{{cite news |title=PCB tightens hotel security after Afridi incident |url=https://tribune.com.pk/story/2600481/p |work=The Express Tribune |date=1 April 2026 |accessdate=2 April 2026 |author=Saleem Khaliq}}</ref>
+
+===Ball tampering controversy===
+On 29 March, on-field umpires found that [[Lahore Qalandars]] had violated [[Laws of Cricket#Unfair play|Law 41.3.2]], which deals with [[ball tampering]]. As a result, they were penalized five runs, which were awarded to [[Karachi Kings]] during the match. The match referee conducted an investigation immediately after the match, where Lahore Qalandars player [[Fakhar Zaman (cricketer)|Fakhar Zaman]] denied the allegations of tampering.<ref name=tamp>{{cite news |title=Lahore punished for ball tampering in PSL defeat |url=https://www.bbc.com/sport/cricket/articles/cx2475glyjwo |publisher=[[BBC Sport]] |author=Matthew Henry |date=30 March 2026 |accessdate=30 March 2026}}</ref><ref>{{cite news |title={{Nq|گیند سے چھیڑ چھاڑ: لاہور قلندرز کے فخر زمان کو لیول تھری جرم پر چارج کردیا گیا}} |url=https://jang.com.pk/news/1569053 |work=[[Daily Jang]] |author={{Nq|سہیل عمران}} |date=30 March 2026 |accessdate=30 March 2026}}</ref> A second investigation held on 31 March 2026 resulted in Zaman receiving a two-match ban.<ref>{{cite news |author=Timothy Abraham |title=Fakhar gets two-match ban for ball tampering in PSL |url=https://www.bbc.com/sport/cricket/articles/cy81n47yxndo |publisher=[[BBC Sport]] |date=31 March 2026 |accessdate=2 April 2026}}</ref>
+
+===Inappropriate gesture===
+On 29 March, the PCB fined [[Hasan Ali (cricketer)|Hasan Ali]] of Karachi Kings 10% of his match fee for violating [[Laws of Cricket#Setting up the game|Law 2.5]], which deals with inappropriate language or gestures against a dismissed batsman. He was found to have made such a gesture toward [[Haseebullah Khan]] of Lahore Qalandars.<ref>{{cite news |title={{Nq|کوڈ آف کنڈکٹ کی خلاف ورزی: کراچی کنگز کے حسن علی پر جرمانہ عائد}} |url=https://jang.com.pk/news/1569075 |work=Daily Jang |author={{Nq|سہیل عمران}} |date=30 March 2026 |accessdate=30 March 2026}}</ref>
+
+==Footnotes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.espncricinfo.com/series/pakistan-super-league-2026-1515734 2026 Pakistan Super League] on [[Cricinfo|ESPNcricinfo]]
+
+{{Pakistan Super League}}
+
+{{DEFAULTSORT:Pakistan Super League}}
+[[Category:2026 Pakistan Super League| ]]
+[[Category:2026 in Pakistani cricket|P]]
+[[Category:Domestic cricket competitions in 2026|P]]
+[[Category:March 2026 sports events in Pakistan]]
+[[Category:April 2026 sports events in Pakistan]]
+[[Category:May 2026 sports events in Pakistan]]

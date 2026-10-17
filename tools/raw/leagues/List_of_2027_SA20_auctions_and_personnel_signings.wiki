@@ -1,0 +1,530 @@
+{{short description|none}}
+{{Infobox sports draft
+| name     = 2027 SA20 players auctions
+| sport    = [[Cricket]]
+| date     = 7 October 2026
+| time     = 14:00 [[South African Standard Time|SAST]]
+| location = [[Johannesburg]], South Africa
+| league   = [[SA20]]
+| team     = 6
+| overall  = 19
+| rounds   =
+| prev     = [[List of 2026 SA20 auctions and personnel signings|2026]]
+| next     = [[List of 2028 SA20 auctions and personnel signings|2028]]
+}}
+
+This is a list of auction and personnel signings for the [[2027 SA20]] cricket tournament.<ref>{{Cite web|url=https://www.espncricinfo.com/story/sa20-2027-sunrisers-eastern-cape-sign-mitchell-marsh-for-next-season-1548744|title=SA20: Sunrisers Eastern Cape sign Mitch Marsh; Joburg leave out du Plessis, Tahir|access-date=5 August 2026|work=ESPNcricinfo}}</ref><ref>{{Cite web
+|url=https://www.sa20.co.za/news/mitchell-marsh-joins-root-curran-salt-in-star-studded-season-5-squad-reveal
+|title=Mitchell Marsh joins Root, Curran & Salt in star-studded Season 5 squad reveal
+|website=Betway SA20
+|access-date=5 August 2026
+}}</ref><ref>{{Cite web|url=https://www.sa20.co.za/news/big-names-on-show-at-betway-sa20-season-5-player-auction|title=Big names on show at Betway SA20 Season 5 Player Auction|access-date=1 October 2026|work=SA20}}</ref><ref>{{Cite web|url=https://www.cricbuzz.com/cricket-news/140427/sa20-auction-pollard-rowles-headline-super-kings-buys|title=SA20 Auction: Pollard, Rowles headline Super Kings buys|access-date=7 October 2026|work=Cricbuzz}}</ref><ref>{{Cite web|url=https://www.cricinfo.com/story/sa20-auction-jsk-sign-kieron-pollard-jason-rowles-mict-pick-shimron-hetmyer-and-trent-boult-1557573|title=SA20 auction: JSK sign Pollard, Rowles; MICT pick Hetmyer and Boult|access-date=8 October 2026|work=Cricinfo}}</ref>
+
+==Background==
+A total of 789 players registered for the auction, with 156 shortlisted for the [[2027 SA20|SA20 Season 5]] auction, which will take place on 7 October.<ref>{{Cite web|url=https://www.thehawk.in/news/sports/sa20-season-5-du-plessis-van-der-dussen-mulder-headline-player-auctions-shortlist|title=SA20 Season 5: Du Plessis, Van der Dussen, Mulder headline Player Auctions shortlist|access-date=1 October 2026|work=The Hawks}}</ref> The shortlist comprises 95 South African players and 61 overseas players. However, only 19 slots remain to be filled across the four teams participating in the auction, with [[Durban's Super Giants]] and [[Paarl Royals]] having already completed their 19-player squads.<ref>{{Cite web|url=https://m.cricbuzz.com/cricket-news/140353/du-plessis-van-der-dussen-among-156-players-shortlisted-for-sa20-auction|title=Du Plessis, van der Dussen among 156 players shortlisted for SA20 auction|access-date=1 October 2026|work=Cricbuzz}}</ref>
+
+==Pre-auction squad arrangements==
+=== Retained, pre-signed players and wildcard signings===
+Following the conclusion of the retention and pre-signing window ahead of the [[2027 SA20]], franchises announced their retained and pre-signed players before the auction.<ref>{{Cite web
+|url=https://m.cricbuzz.com/cricket-news/139750/marsh-root-among-marquee-sa20-additions-du-plessis-released-by-jsk
+|title=Marsh, Root among marquee SA20 additions; du Plessis released by JSK
+|website=Cricbuzz
+|access-date=5 August 2026
+}}</ref><ref>{{Cite web|url=https://www.sa20.co.za/news/season-5-squads|title=All the Season 5 squads as they stand|website=Betway SA20|access-date=5 August 2026}}</ref>
+
+{| class="wikitable" width="75%" style="text-align:left ;white-space:nowrap ; font-size:100%"
+|-
+!style="background:#147fd9; color: white; text-align:center;"|[[Durban's Super Giants|<span style="color:white;">Durban's Super Giants</span>]]
+!style="background:yellow; color:#00733C; text-align:center;"|[[Joburg Super Kings|<span style="color:#00733C;">Joburg Super Kings</span>]]
+!style="background:blue; color:white; text-align:center;"|[[MI Cape Town|<span style="color:white;">MI Cape Town</span>]]
+!style="background:#ff348a; color:white; text-align:center;"|[[Paarl Royals|<span style="color:white;">Paarl Royals</span>]]
+!style="background:#459fe7; color:white; text-align:center;"|[[Pretoria Capitals|<span style="color:white;">Pretoria Capitals</span>]]
+!style="background:#eb5604; color:white; text-align:center;"|[[Sunrisers Eastern Cape|<span style="color:white;">Sunrisers Eastern Cape</span>]]
+|-
+!Retained
+!Retained
+!Retained
+!Retained
+!Retained
+!Retained
+|-
+| valign=top|
+* [[Aiden Markram]]
+* {{cricon|ENG}} [[Jos Buttler]]
+* {{cricon|NZ}} [[Kane Williamson]]
+* {{cricon|WIN}} [[Sunil Narine]]
+* [[Gerald Coetzee]]
+* {{cricon|ENG}} [[Liam Livingstone]]
+* [[Evan Jones (cricketer)|Evan Jones]]
+* {{cricon|NZ}} [[Devon Conway]]
+* [[Simon Harmer]]
+* [[Marques Ackerman]]
+* [[Eathan Bosch]]
+* [[Tony de Zorzi]]
+* [[David Bedingham]]
+* [[Daryn Dupavillon]]
+* [[Kwena Maphaka]] {{small|(U23)}}
+* [[Andile Simelane]] {{small|(U23)}}
+* [[Kyle Simmonds]]
+| valign=top|
+* [[Donovan Ferreira]]
+* {{cricon|WIN}} [[Akeal Hosein]]
+* {{cricon|ENG}} [[James Vince]]
+* [[Dian Forrester]]
+* [[Leus Du Plooy]]
+* [[Prenelan Subrayen]]
+* [[Jarren Bacher]] {{small|(U23)}}
+* [[Janco Smit]]
+* [[Duan Jansen]]
+* [[Matthew de Villiers]]
+* [[Rilee Rossouw]]
+| valign=top|
+* {{cricon|AFG}} [[Rashid Khan]]
+* [[Corbin Bosch]]
+* [[Ryan Rickelton]]
+* {{cricon|WIN}} [[Nicholas Pooran]]
+* [[George Linde]]
+* [[Jason Smith (cricketer)|Jason Smith]]
+* [[Tristan Luus]] {{small|(U23)}}
+* [[Dane Piedt]]
+* [[Thomas Kaber]]
+* [[Reeza Hendricks]]
+* [[Tiaan van Vuuren]]
+| valign=top|
+* [[David Miller (South African cricketer)|David Miller]]
+* {{cricon|ZIM}} [[Sikandar Raza]]
+* [[Lhuan-dre Pretorius]] {{small|(U23)}}
+* [[Hardus Viljoen]]
+* {{cricon|ENG}} [[Dan Lawrence]]
+* [[J. J. Basson]] {{small|(U23)}}
+* [[Kyle Verreyenne]]
+* [[Ottniel Baartman]]
+* [[Bjorn Fortuin]]
+* {{cricon|WIN}} [[Gudakesh Motie]]
+* {{cricon|AFG}} [[Mujeeb Ur Rahman]]
+* [[Keagan Lion-Cachet]]
+* [[Delano Potgieter]]
+* [[Nqobani Mokoena]] {{small|(U23)}}
+* [[Rubin Hermann]]
+* {{cricon|ENG}} [[Thomas Rew (cricketer)|Thomas Rew]]
+* {{cricon|Jersey}} [[Asa Tribe]]
+| valign=top|
+* [[Keshav Maharaj]]
+* [[Lungi Ngidi]]
+* [[Dewald Brevis]] {{small|(U23)}}
+* [[Connor Esterhuizen]]
+* [[Wihan Lubbe]]
+* [[Lizaad Williams]]
+* [[Bayanda Majola]] {{small|(U23)}}
+* {{cricon|WIN}} [[Sherfane Rutherford]]
+* [[Bryce Parsons]]
+* [[Gideon Peters]]
+* [[Codi Yusuf]]
+| valign=top|
+* [[Tristan Stubbs]]
+* [[Quinton de Kock]]
+* [[Matthew Breetzke]]
+* [[Jordan Hermann]]
+* [[Anrich Nortje]]
+* {{cricon|NZ}} [[Adam Milne]]
+* [[Senuran Muthusamy]]
+* [[Lutho Sipamla]]
+* {{cricon|ENG}} [[James Coles]]
+* [[Patrick Kruger]]
+* [[Mitchell van Buuren]]
+* {{cricon|ENG}} [[Lewis Gregory]]
+* [[JP King]] {{small|(U23)}}
+* [[CJ King]] {{small|(U23)}}
+|-
+!Pre-signed
+!Pre-signed
+!Pre-signed
+!Pre-signed
+!Pre-signed
+!Pre-signed
+|-
+| valign=top|
+* {{cricon|ENG}} [[Sam Curran]]
+| valign=top|
+* {{cricon|WIN}} [[Jason Holder]]
+| valign=top|
+* {{cricon|ENG}} [[Will Jacks]]
+| valign=top|
+* {{cricon|AFG}} [[Azmatullah Omarzai]]
+| valign=top|
+* {{cricon|ENG}} [[Phil Salt]]
+* {{cricon|AUS}} [[Matthew Short]]
+| valign=top|
+* {{cricon|AUS}} [[Mitchell Marsh]]
+* {{cricon|BAN}} [[Rishad Hossain]]
+|- 
+!Wildcard 
+!Wildcard
+!Wildcard 
+!Wildcard 
+!Wildcard
+!Wildcard 
+|-
+| valign=top|
+* [[Henrich Klaasen]]
+| valign=top|
+* {{cricon|ENG}} [[Jamie Overton]]
+| valign=top|
+* [[Kagiso Rabada]]
+| valign=top|
+* {{cricon|ENG}} [[Joe Root]]
+| valign=top|
+* {{cricon|WIN}} [[Andre Russell]]
+| valign=top|
+* [[Marco Jansen]]
+|-
+|}
+
+===Released players===
+{| class="wikitable" width="75%" style="text-align:left ;white-space:nowrap ; font-size:100%"
+|-
+!style="background:#147fd9; color: white; text-align:center;"|[[Durban's Super Giants|<span style="color:white;">Durban's Super Giants</span>]]
+!style="background:yellow; color:#00733C; text-align:center;"|[[Joburg Super Kings|<span style="color:#00733C;">Joburg Super Kings</span>]]
+!style="background:blue; color:white; text-align:center;"|[[MI Cape Town|<span style="color:white;">MI Cape Town</span>]]
+!style="background:#ff348a; color:white; text-align:center;"|[[Paarl Royals|<span style="color:white;">Paarl Royals</span>]]
+!style="background:#459fe7; color:white; text-align:center;"|[[Pretoria Capitals|<span style="color:white;">Pretoria Capitals</span>]]
+!style="background:#eb5604; color:white; text-align:center;"|[[Sunrisers Eastern Cape|<span style="color:white;">Sunrisers Eastern Cape</span>]]
+|-
+| valign=top|
+* {{cricon|AFG}} [[Noor Ahmad]]
+* [[Dayyaan Galiem]]
+* {{cricon|BAN}} [[Taijul Islam]]
+* [[Gysbert Wege]] {{small|(U23)}}
+* [[David Wiese]]
+| valign=top|
+* [[Faf du Plessis]]
+* [[Wiaan Mulder]]
+* [[Nandre Burger]]
+* {{cricon|ENG}} [[Richard Gleeson]]
+* {{cricon|WIN}} [[Brandon King (cricketer)|Brandon King]]
+* [[Rivaldo Moonsamy]]
+* {{cricon|ENG}} [[Michael Pepper]]
+* {{cricon|USA}} [[Shubham Ranjane]]
+* [[Steve Stolk]] {{small|(U23)}}
+* [[Imran Tahir]]
+* [[Neil Timmers]] {{small|(U23)}}
+* {{cricon|ENG}} [[Reece Topley]]
+* [[Jorich van Schalkwyk]] {{small|(U23)}}
+* {{cricon|ENG}} [[Dan Worrall]]
+| valign=top|
+* {{cricon|NZ}} [[Trent Boult]]
+* {{cricon|AFG}} [[Karim Janat]]
+* [[Dan Lategan]] {{small|(U23)}}
+* {{cricon|ENG}} [[Tom Moores]]
+* {{cricon|WIN}} [[Kieron Pollard]]
+* [[Dwaine Pretorius]]
+* [[Tabraiz Shamsi]]
+* [[Jacques Snyman]]
+* [[Rassie van der Dussen]]
+| valign=top|
+* [[Okuhle Cele]]
+* {{cricon|SRI}} [[Vishen Halambage]]
+* {{cricon|SRI}} [[Eshan Malinga]] 
+* [[Nqaba Peter]]
+* {{cricon|WIN}} [[Rovman Powell]]
+* {{cricon|AFG}} [[Waqar Salamkheil]]
+| valign=top|
+* {{cricon|WIN}} [[Roston Chase]]
+* {{cricon|ENG}} [[Jordan Cox (cricketer)|Jordan Cox]]
+* [[Junaid Dawood]]
+* [[Keith Dudgeon (South African cricketer)|Keith Dudgeon]]
+* {{cricon|WIN}} [[Shai Hope]]
+* {{cricon|ENG}} [[Will Jacks]]
+* {{cricon|ENG}} [[Saqib Mahmood]]
+* [[Sibonelo Makhanya]]
+* {{cricon|ENG}} [[Tymal Mills]]
+* {{cricon|ENG}} [[Craig Overton]]
+* [[Meeka-eel Prince]] {{small|(U23)}}
+* {{cricon|ENG}} [[Will Smeed]]
+* [[Daniel Smith (South African cricketer)|Daniel Smith]]
+| valign=top|
+* {{cricon|ENG}} [[Jonny Bairstow]]
+* {{cricon|AFG}} [[AM Ghazanfar]]
+* [[Beyers Swanepoel]]
+* {{cricon|ENG}} [[Chris Wood (cricketer)|Chris Wood]]
+|-
+|}
+
+==Summary==
+{| class="wikitable" style="text-align:center;"
+|+Pre-auction summary
+! rowspan="2" |Team
+! colspan="2" |Retained
+! colspan="2" |Pre-signed
+! rowspan="2" |Wildcard 
+! rowspan="2" |Total
+! rowspan="2" |Slots to fill in auction
+! rowspan="2" |Funds remaining<br />(in {{ZAR|iso=Yes}} millions)
+|-
+!Domestic
+!Overseas
+!Domestic
+!Overseas
+|-
+| style="text-align:left" |[[Durban's Super Giants]]
+|12
+|5
+|–
+|1
+|1
+|19
+|0
+|N/A
+|-
+| style="text-align:left" |[[Joburg Super Kings]]
+|9
+|2
+|–
+|1
+|1
+|12
+|6
+|20.6
+|-
+| style="text-align:left" |[[MI Cape Town]]
+|9
+|2
+|–
+|1
+|1
+|13
+|6
+|9.35
+|-
+| style="text-align:left" |[[Paarl Royals]]
+|8
+|6
+| -
+|1
+|1
+|19
+|0
+|N/A
+|-
+| style="text-align:left" |[[Pretoria Capitals]]
+|10
+|1
+|–
+|2
+|1
+|14
+|5
+|1.475
+|-
+| style="text-align:left" |[[Sunrisers Eastern Cape]]
+|11
+|3
+|–
+|2
+|1
+|17
+|2
+|3.6
+|}
+
+== Player auction ==
+A total of 156 players (95 South Africa and 61 overseas) entered the auction pool, with only 19 open places (5 South Africa and  14 overseas slot).<ref>{{Cite web|url=https://www.cricinfo.com/story/faf-du-plessis-trent-boult-and-kieron-pollard-in-sa20-mini-auction-shortlist-1556754|title=Faf du Plessis, Trent Boult and Kieron Pollard in SA20 mini-auction shortlist|access-date=1 October 2026|work=Cricinfo}}</ref><ref>{{Cite web|url=https://www.cricinfo.com/live-blog/sa20-2027-auction-live-faf-du-plessis-kieron-pollard-imran-tahir-rassie-van-der-dussen-among-156-players-1557477|title=SA20 auction |access-date=7 October 2026|work=Cricinfo}}</ref><ref>{{Cite web|url=https://www.sa20.co.za/news/legends-and-young-guns-light-up-betway-sa20-season-5-player-auction|title=Legends and young guns light up Betway SA20 Season 5 Player Auction |access-date=7 October 2026|work=SA20}}</ref><ref>{{Cite web|url=https://www.clubcricket.co.za/latestnews/sa20-player-auction-updates/|title=SA20 player auction recap > who joined, where, for how much?|access-date=7 October 2026|work=Cricinfo}}</ref>
+
+{| class="wikitable sortable" style="text-align:center;"
+!Name
+!National team
+!Playing role
+!Price (in {{ZAR|iso=Yes}})
+!Team
+!Notes
+|-
+| [[Shimron Hetmyer]]
+| {{cr|WIN}}
+| Batsman
+| 1,500,000
+| [[MI Cape Town]]
+|
+|-
+| [[Wiaan Mulder]]
+| {{cr|RSA}}
+| All-rounder
+| 2,600,000
+| [[MI Cape Town]]
+|
+|-
+| [[Faf du Plessis]]
+| {{cr|RSA}}
+| Batsman
+| 2,700,000
+| [[Joburg Super Kings]]
+|
+|-
+| [[Jason Rowles]]
+| {{cr|RSA}}
+| All-rounder
+| 2,900,000
+| [[Joburg Super Kings]]
+|
+|-
+| [[Trent Boult]]
+| {{cr|NZ}}
+| Fast-bowler
+| 1,500,000
+| [[MI Cape Town]]
+|
+|-
+| [[Nandre Burger]]
+| {{cr|RSA}}
+| Fast-bowler
+| 500,000
+| [[Sunrisers Eastern Cape]]
+|
+|-
+| [[Dayyaan Galiem]]
+| {{cr|RSA}}
+| All-rounder
+| 375,000
+| [[Joburg Super Kings]]
+|
+|-
+| [[Kieron Pollard]]
+| {{cr|WIN}}
+| All-rounder
+| 1,500,000
+| [[Joburg Super Kings]]
+|
+|-
+| [[Craig Overton]]
+| {{cr|ENG}}
+| All-rounder 
+| 1,500,000
+| [[Sunrisers Eastern Cape]]
+|
+|-
+| [[Blessing Muzarabani]]
+| {{cr|ZIM}}
+| Fast-bowler
+| 500,000
+| [[Joburg Super Kings]]
+|
+|-
+| [[Daniel Smith (South African cricketer)|Daniel Smith]]
+| {{cr|RSA}}
+| Wicket-keeper
+| 200,000
+| [[MI Cape Town]]
+|
+|-
+| [[Rassie van der Dussen]]
+| {{cr|RSA}}
+| Batsman
+| 500,000
+| [[Pretoria Capitals]]
+|
+|-
+| [[Andries Gous]]
+| {{cr|USA}}
+| Wicket-keeper
+| 1,000,000
+| [[Joburg Super Kings]]
+|
+|-
+| [[Lehan Botha]]
+| {{cr|RSA}}
+| All-rounder
+| 200,000
+| [[MI Cape Town]]
+|
+|-
+| [[Keemo Paul]]
+| {{cr|WIN}}
+| All-rounder
+| 200,000
+| [[Pretoria Capitals]]
+|
+|-
+| [[Oliver Whitehead (cricketer)|Oliver Whitehead]]
+| {{cr|RSA}}
+| All-rounder
+| 200,000
+| [[MI Cape Town]]
+|
+|-
+| [[Ackeem Auguste]]
+| {{cr|WIN}}
+| Batsman
+| 200,000
+| [[Pretoria Capitals]]
+|
+|-
+| [[Josh Breed]]
+| {{cr|RSA}}
+| All-rounder
+| 200,000
+| [[Pretoria Capitals]]
+|
+|-
+| [[Temba Bavuma]]
+| {{cr|RSA}}
+| Batsman
+| 200,000
+| [[Pretoria Capitals]]
+|
+|}
+
+== Support staff changes ==
+<!-- only noteworthy staff changes should be included here; not everything needs to be mentioned here -->
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|+ Support staff changes for the 2027 SA20
+! scope="col" | Team
+! scope="col" | Position
+! scope="col" | Outgoing
+! scope="col" | Incoming
+! scope="col" class="unsortable" | {{Ref.}}
+|-
+!rowspan="8" style="background:yellow; color:#00733C; text-align:center;"|[[Joburg Super Kings|<span style="color:#00733C;">Joburg Super Kings</span>]]
+|Head Coach 
+|[[Stephen Fleming]]
+|[[Albie Morkel]] 
+|<ref>{{cite web|url=https://www.espncricinfo.com/story/sa20-albie-morkel-named-head-coach-of-joburg-super-kings-1548113|title=Albie Morkel named head coach of Joburg Super Kings|work=Cricinfo|access-date=30 July 2026}}</ref>
+|-
+|Assistant Coach
+|[[Wandile Gwavu]]
+|[[Wandile Gwavu]]<br>[[Rivash Gobind]]
+|-
+|Batting Coach
+|[[Albie Morkel]]
+|TBA
+|
+|-
+|Bowling Coach
+|[[Eric Simons]]
+|[[Allan Donald]]
+|
+|-
+|Fielding Coach
+|Wandile Gwavu
+|[[Pierre de Bruyn]]
+|
+|-
+|Physiotherapist
+|Tommy Simsek
+|Evan Speechly
+|
+|-
+|Strength and Conditioning Coach
+|Gregory King
+|Drikus Saaiman
+|
+|-
+|Analyst
+|A. R. Srikkanth
+|Matthew Reuben
+|
+|-
+|}
+
+== References ==
+{{Reflist}}
+
+[[Category:SA20]]

@@ -1,6 +1,9 @@
 # IPL Auction Simulator
 
-A free, mobile-first website: run one IPL franchise through a real IPL auction against nine AI teams, review the result, then play the season match by match. Keep going in dynasty mode through the IPL's cycle of two mini auctions and a mega auction.
+A free, mobile-first website with two games:
+
+- **Career:** coach across four leagues (IPL, PSL, SA20 and The Hundred) on one calendar with one shared set of players. Run retentions, auctions, trade windows and seasons; win and clubs in any league offer you jobs; lose and the board sacks you.
+- **Single auction:** run one IPL franchise through a real IPL auction against nine AI teams, review the result, then play the season match by match. Keep going in dynasty mode through the IPL's cycle of two mini auctions and a mega auction.
 
 No build step and no dependencies. Plain HTML, CSS and JavaScript modules.
 
@@ -19,13 +22,37 @@ Tests run in the browser: open http://localhost:8765/tests/ (add `?only=systems`
 | Milestone | Status |
 |---|---|
 | 1. Data | Done. IPL 2026 (369 players, 173 retentions, 77 real sales) and IPL 2025 (575 players, 46 retentions, RTM cards, 180 real sales). |
-| 2. Auction engine | Done. Pure logic in `js/engine/`, 78 browser tests. |
+| 2. Auction engine | Done. Pure logic in `js/engine/`, 89 browser tests. |
 | 3. Auction room | Done. Full and quick rules, three speeds, pause, "Skip to last two" fast forward, sim shortcuts, nominations, right-to-match prompts. Squads listed by batting position. |
 | 4. After the auction | Done. Grades, value analysis against real prices, share card, season prediction, trade window. |
 | 5. Season | Done. Fixtures, XI with two impact players, XI carry-over, batting bands, pitch conditions, form, fitness, chemistry, injuries and replacements, table, playoffs, awards. |
 | 6. Dynasty mode | Done. Ageing, development, retirements, prospects, mini and mega retentions, new auction every year. |
 | 7. More scenarios | Done. IPL 2025 mega auction replay, IPL 2027 auction (projected until real retentions are published), custom mega auction. |
-| 8. Scheduled data updates | Built. `.github/workflows/update-data.yml` runs weekly; see below. Not yet run on GitHub, because this project is not in a repository yet. |
+| 8. Scheduled data updates | Built. `.github/workflows/update-data.yml` runs weekly; see below. |
+| 9. Career mode | Done. PSL, SA20 and The Hundred with real squads, fees and coaches; one calendar; coach jobs, offers and sackings; loyalty; AI trades and trade offers. |
+
+## Career mode
+
+**Leagues and rules** (`js/engine/league.js`). `activateLeague()` switches every engine to one league before it runs.
+
+| League | Teams | Squad | Overseas (squad / XI) | Format | Playoffs | Signing cycle |
+|---|---|---|---|---|---|---|
+| IPL | 10 | 18–25 | 8 / 4, two impact players | T20, 14 games each | Q1, Eliminator, Q2, Final | Auction every December, mega every third year (last 2025) |
+| PSL | 8 | 16–20 | 7 / 4 | T20, two groups, 10 games each | Q1, Eliminator, Q2, Final | Two-year contracts; retain up to 4 in an auction year (last 2026) |
+| SA20 | 6 | 17–19 | 7 / 4 | T20, double round robin | Q1, Eliminator, Q2, Final | Retentions in August, auction in October; full reset every third year (last 2025) |
+| The Hundred | 8 | 16–18 | 4 / 3 | 100 balls (sets of five, 20 a bowler), 8 games each incl. a regional rival | 2nd v 3rd, winner meets 1st | Retain up to 4, auction every March |
+
+Money: every engine works in lakh of the IPL scale. Each league converts with a fixed rate chosen so its real cap equals the IPL's ₹125 Cr (PSL 50.5 crore PKR, SA20 R41m, The Hundred £2.05m); caps grow 4% a year. Player values are scaled per league to its real fees (PSL 2.0×, SA20 1.5×, Hundred 1.3× the IPL curve), because smaller squads share the same cap.
+
+**One world.** One player database. Indian players are not released for overseas leagues and Pakistani players are not picked in the IPL; the IPL and PSL seasons overlap, so nobody holds both contracts. Fitness carries between leagues (it recovers with rest, and a third league in twelve months starts players a little short); form carries over in part; ratings develop once a year (1 October) from age and the year's numbers in every league. New prospects register each year for each league's home country.
+
+**Data** (`tools/build_leagues.py` → `data/career/world.json`). Squads, fees and coaches from Wikipedia: PSL 2026 (first PSL auction, 8 teams), SA20 2027 (after the 7 Oct 2026 auction), The Hundred 2026 (men's), IPL 2026 squads and coaches. Players already in the IPL data keep their curated ratings; the rest are rated from their Wikipedia T20 career numbers with a fit against the curated players. Fees Wikipedia doesn't list are estimated so each squad spends about 92% of its cap. Coach reputations and the list of coaches available for hire are the game's judgement.
+
+**Coaches.** You start as head coach of the club you pick (its coach becomes available). Each coach has a reputation and, per job, the board's confidence. After each season the board compares the finish with where the squad was rated: overachieve and confidence rises; fall well short and you're sacked. Vacancies go to the best available coach. In *offers on merit* mode you're offered jobs whose reputation bar you clear (bigger clubs and leagues ask more), and strong seasons bring approaches from other leagues. You can hold one job per league. In *free choice* mode you can take any job outside its season.
+
+**Loyalty.** Every player has a loyalty leaning, years at his club, and a bond with each coach he has played under. A settled player is reluctant to move (the selling side asks more) or refuses outright; a player who knows the buying side's coach is keener. In auctions, coaches bid harder for players they've worked with.
+
+**Trades.** Each league has a trade window before its retentions. AI teams trade among themselves, send you offers (accept or decline from the inbox), and your analysts suggest deals other teams would accept that make your XI stronger.
 
 ## Scenarios
 

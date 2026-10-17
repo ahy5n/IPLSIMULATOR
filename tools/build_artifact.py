@@ -8,6 +8,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 src = open(os.path.join(ROOT, 'index.html')).read()
 body = re.sub(r'<!doctype html>\s*|</?html[^>]*>\s*|</?head>\s*|</?body>\s*', '', src, flags=re.I)
 body = re.sub(r'<meta charset[^>]*>\s*|<meta name="viewport"[^>]*>\s*', '', body)
+# Vercel's analytics scripts only exist on Vercel; drop them from this copy.
+body = re.sub(r'<script>\s*// Vercel Web Analytics.*?</script>\s*', '', body, flags=re.S)
 # The title must come first so hosts that scan the top of the file find it.
 title = re.search(r'<title>.*?</title>', body).group(0)
 body = title + '\n' + body.replace(title, '', 1).lstrip()

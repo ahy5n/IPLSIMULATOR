@@ -1,12 +1,20 @@
-// IPL auction rules as used for the 2026 mini auction. All money is in lakh (₹1 crore = 100 lakh).
+// Auction and squad rules. Defaults are the IPL's, as used for the 2026 mini auction; career mode
+// switches them per league with configureRules() (see js/engine/league.js).
+// All money is in lakh of the IPL scale (₹1 crore = 100 lakh); other leagues convert for display.
+import { money } from '../format.js';
 
-export const SQUAD_MIN = 18;
-export const SQUAD_MAX = 25;
-export const OVERSEAS_MAX = 8;
-export const MIN_PRICE = 30;            // lowest reserve price, used to keep enough purse to reach SQUAD_MIN
+export let SQUAD_MIN = 18;
+export let SQUAD_MAX = 25;
+export let OVERSEAS_MAX = 8;
+export let MIN_PRICE = 30;            // lowest reserve price, used to keep enough purse to reach SQUAD_MIN
 // Mini-auction rule: an overseas player's fee is capped at the top retention slab (₹18 Cr).
 // The franchise pays the full bid from its purse; anything above the cap goes to the BCCI's player welfare fund.
-export const OVERSEAS_FEE_CAP = 1800;
+export let OVERSEAS_FEE_CAP = 1800;
+
+export function configureRules({ squadMin, squadMax, overseasMax, minPrice, overseasFeeCap }) {
+  SQUAD_MIN = squadMin; SQUAD_MAX = squadMax; OVERSEAS_MAX = overseasMax; MIN_PRICE = minPrice;
+  OVERSEAS_FEE_CAP = overseasFeeCap ?? Infinity;
+}
 
 // Bid increments by current price band.
 export function increment(price) {
@@ -29,7 +37,7 @@ export function openSlots(team) { return SQUAD_MAX - team.squad.length; }
 
 export function overseasSlots(team, players) { return OVERSEAS_MAX - overseasCount(team, players); }
 
-// Highest bid a team may make while keeping ₹30 L for every slot it still must fill to reach 18 players.
+// Highest bid a team may make while keeping the minimum fee for every slot it still must fill.
 export function maxAllowedBid(team) {
   const stillNeeded = Math.max(0, SQUAD_MIN - (team.squad.length + 1));
   return team.purse - stillNeeded * MIN_PRICE;
@@ -37,10 +45,10 @@ export function maxAllowedBid(team) {
 
 // Returns null if the team can bid `amount` for `player`, else a reason the UI can show.
 export function bidBlocker(team, player, amount, players) {
-  if (team.squad.length >= SQUAD_MAX) return 'Squad is full (25 players)';
-  if (player.overseas && overseasCount(team, players) >= OVERSEAS_MAX) return 'All 8 overseas slots are filled';
+  if (team.squad.length >= SQUAD_MAX) return `Squad is full (${SQUAD_MAX} players)`;
+  if (player.overseas && overseasCount(team, players) >= OVERSEAS_MAX) return `All ${OVERSEAS_MAX} overseas slots are filled`;
   if (amount > team.purse) return 'Not enough purse left';
-  if (amount > maxAllowedBid(team)) return `Must keep ₹30 L for each slot needed to reach ${SQUAD_MIN} players`;
+  if (amount > maxAllowedBid(team)) return `Must keep ${money(MIN_PRICE)} for each slot needed to reach ${SQUAD_MIN} players`;
   return null;
 }
 

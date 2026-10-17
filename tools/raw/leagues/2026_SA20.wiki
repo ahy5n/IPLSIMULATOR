@@ -1,0 +1,1221 @@
+{{short description|Fourth season of the South African T20 League}}
+{{Use dmy dates|date=January 2025}}
+{{Use South African English|date=January 2025}}
+{{Infobox cricket tournament
+| name                = 2026 SA20 season
+| image               = File:SA20Logo.png
+| caption             = 
+| fromdate            = 26 December 2025
+| todate              = 25 January 2026
+| administrator       = [[Cricket South Africa]] 
+| cricket format      = [[Twenty20]]
+| tournament format   = [[Round-robin tournament|Double round-robin]] and [[Playoffs]]
+| host                = [[South Africa]]
+| champions           = [[Sunrisers Eastern Cape]]
+| runner up           = [[Pretoria Capitals]]
+| count               = 3
+| participants        = 6
+| matches             = 34
+| player of the series = [[Quinton de Kock]] (Sunrisers Eastern Cape)
+| most runs           = Quinton de Kock (390) (Sunrisers Eastern Cape)
+| most wickets        = [[Ottniel Baartman]] (20) (Paarl Royals)
+| attendance          = 
+| website             = {{URL|sa20.co.za}}
+| previous_year       = 2025
+| previous_tournament = 2025 SA20
+| next_year           = 2027
+| next_tournament     = 2027 SA20
+}}
+
+The '''2026 SA20 season''' was the fourth season of the [[SA20]], a franchise [[Twenty20]] cricket league in South Africa.<ref>{{cite web |title=Betway SA20 confirms competition window for the next three years |url=https://www.sa20.co.za/news/betway-sa20-confirms-competition-window-for-the-next-three-years |access-date=4 February 2025 |website=SA20.co.za |language=en}}</ref> The competition, organised by [[Cricket South Africa]], featured six teams.<ref>{{cite web |title=Next season's SA20 likely to begin on Boxing Day |url=https://www.espncricinfo.com/story/next-season-s-sa20-likely-to-begin-on-boxing-day-1471733 |date=7 June 2024 |access-date=9 June 2024 |website=ESPNcricinfo |language=en}}</ref> The tournament took place from 26 December 2025 to 25 January 2026, with the final held in [[Cape Town]].<ref>{{cite web |title=Cape Town to host SA20 final; playoffs in Durban, Centurion and Johannesburg |url=https://www.espncricinfo.com/story/cape-town-to-host-sa20-final-playoffs-in-durban-centurion-and-johannesburg-1500081 |access-date=23 August 2025 |website=ESPNcricinfo}}</ref><ref>{{cite web |title=SA20 confirms competition window for the next three years |url=https://www.hindustantimes.com/cricket/sa20-confirms-competition-window-for-the-next-three-years-101738594116615-amp.html |access-date=8 February 2025 |website=Hindustan Times}}</ref> [[SuperSport (South African broadcaster)|SuperSport]] secured the official broadcasting rights for the SA20, 2025–26 in Sub Saharan Africa regions.<ref>{{Cite web |date=10 December 2025 |title=SA20 Live Streaming |url=https://crictimetv.com/sa20-league/ |website=crictimetv.com}}</ref> [[Betway]] returns as the league sponsor this season.
+
+[[MI Cape Town]] entered the tournament as the defending champions, having won their maiden title in the previous season.<ref>{{cite web |title=MI Cape Town crush Sunrisers to claim maiden SA20 title |url=https://www.espncricinfo.com/series/sa20-2024-25-1437327/mi-cape-town-vs-sunrisers-eastern-cape-final-1449667/match-report |website=ESPNcricinfo}}</ref> In the final, [[Sunrisers Eastern Cape]] defeated [[Pretoria Capitals]] by 6 wickets to win their third title.<ref>{{cite web |access-date=25 January 2026 |title=Breetzke, Stubbs bring Sunrisers back from dead to seal third SA20 title|url=https://www.cricinfo.com/series/sa20-2025-26-1494252/pretoria-capitals-vs-sunrisers-eastern-cape-final-1494286/match-report|website=Cricinfo}}</ref>
+
+==Background==
+In January 2025, [[Cricket South Africa]] announced the windows of [[SA20]] for the next three seasons.<ref>{{Cite web|url=https://www.indiatvnews.com/sports/cricket/sa20-window-for-next-three-seasons-revealed-next-edition-likely-to-begin-on-boxing-day-2025-02-04-974558 |title=SA20: Window for next three seasons revealed, next edition likely to begin on Boxing day |work=IndiaTV|access-date=4 February 2025}}</ref><ref>{{Cite web|url=https://www.espn.in/cricket/story/_/id/43677199/next-season-sa20-likely-begin-boxing-day |title=Next season's SA20 likely to begin on Boxing Day |work=ESPN|access-date=4 February 2025}}</ref> The league was sponsored by [[Betway]]. [[Star Sports Network]] retained the broadcasting rights for the 2026 SA20 season in [[Indian subcontinent]].<ref>{{Cite web |date=23 November 2025 |title=Star Sports to broadcast SA20 2026 in India |url=https://touchcrictv.com/sa20-t20-league/ |website=touchcrictv.com}}</ref>
+
+==Squads==
+{{main|List of 2026 SA20 auctions and personnel signings}}
+The player auction took place on 9 September 2025.<ref>{{Cite web|url=https://www.espncricinfo.com/story/sa20-2025-26-how-the-squads-stack-up-after-the-auction-1502211|title=How the SA20 squads stack up after the auction|author=Sagar Singh (@thesagar75)|access-date=10 September 2025|work=ESPN cricinfo}}</ref><ref>{{Cite web|url=https://www.espncricinfo.com/story/dewald-brevis-aiden-markram-earn-record-sums-at-sa20-2025-26-auction-1502213|title=Brevis, Markram earn record sums at SA20 2025-26 auction|author=Sagar Singh (@thesagar75)|access-date=10 September 2025}}</ref>
+{| class="wikitable" style="text-align:left;"
+|-
+![[Durban's Super Giants]]<br><small>Coach: [[Lance Klusener]]</small>
+![[Joburg Super Kings]]<br><small>Coach: [[Stephen Fleming]]</small>
+![[MI Cape Town]]<br><small>Coach: [[Robin Peterson]]</small>
+![[Paarl Royals]]<br><small>Coach: [[Trevor Penney]]</small>
+![[Pretoria Capitals]]<br><small>Coach: [[Sourav Ganguly]]</small>
+![[Sunrisers Eastern Cape]]<br><small>Coach: [[Adrian Birrell]]</small>
+|-
+|valign=top|
+* [[Noor Ahmad]] ([[Afghanistan cricket team|AFG]]){{efn|name=R|Retained}}
+* [[Sunil Narine]] ([[West Indies cricket team|WI]]){{efn|name=P|Pre-signed}}
+* [[Jos Buttler]] ([[England cricket team|ENG]]){{efn|name=P}}
+* [[Heinrich Klaasen]]{{efn|name=W|Wild Card}}
+* [[Aiden Markram]] (C)
+* [[Kwena Maphaka]]
+* [[Devon Conway]] ([[New Zealand cricket team|NZ]])
+* [[Gerald Coetzee]]
+* [[David Bedingham]]
+* [[Marques Ackerman]]
+* [[Eathan Bosch]]
+* [[Andile Simelane]]
+* [[Tony de Zorzi]]
+* [[Dayyaan Galiem]]
+* [[Taijul Islam]] ([[Bangladesh cricket team|BAN]])
+* [[Evan Jones (cricketer)|Evan Jones]] ([[England cricket team|ENG]])
+* [[Gysbert Wege]]
+* [[David Wiese]] ([[Namibia cricket team|NAM]])
+* [[Daryn Dupavillon]]
+|valign=top|
+* [[Faf du Plessis]]{{efn|name=R}} (C)
+* [[Richard Gleeson]] ([[England cricket team|ENG]]){{efn|name=P}}
+* [[Akeal Hosein]] ([[West Indies cricket team|WI]]){{efn|name=P}}
+* [[James Vince]] ([[England cricket team|ENG]]){{efn|name=P}}
+* [[Donovan Ferreira]]{{efn|name=W}}
+* [[Wiaan Mulder]]
+* [[Nandre Burger]]{{efn|Retained using RTM Card}}
+* [[Prenelan Subrayen]]
+* [[Dian Forrester]]
+* [[Steve Stolk]]
+* [[Janco Smit]]
+* [[Neil Timmers]]
+* [[Shubham Ranjane]] ([[United States national cricket team|USA]])
+* [[Brandon King (cricketer)|Brandon King]] ([[West Indies cricket team|WI]])
+* [[Rilee Rossouw]]
+* [[Rivaldo Moonsamy]]
+* [[Imran Tahir]]
+* [[Reece Topley]] ([[England cricket team|ENG]])
+|valign=top|
+* [[Nicholas Pooran]] ([[West Indies cricket team|WI]])
+* [[Corbin Bosch]]
+* [[Trent Boult]] ([[New Zealand cricket team|NZ]])
+* [[Rashid Khan]] ([[Afghanistan cricket team|AFG]]) (C)
+* [[George Linde]]
+* [[Kagiso Rabada]]
+* [[Rassie van der Dussen]]
+* [[Ryan Rickelton]]
+* [[Reeza Hendricks]]
+* [[Dwaine Pretorius]]
+* [[Tristan Luus]]
+* [[Jason Smith (cricketer)|Jason Smith]]
+* [[Tom Moores]] ([[England cricket team|ENG]])
+* [[Dane Piedt]]
+* [[Tiaan van Vuuren]]
+* [[Dan Lategan]]
+* [[Tabraiz Shamsi]]
+* [[Karim Janat]] ([[Afghanistan cricket team|AFG]])
+* [[Jacques Snyman]]
+|valign=top|
+* [[Lhuan-dre Pretorius]]{{efn|name=R}}
+* [[Bjorn Fortuin]]{{efn|name=R}}
+* [[David Miller (South African cricketer)|David Miller]]{{efn|name=R}} (C)
+* [[Sikandar Raza]] ([[Zimbabwe national cricket team|ZIM]]){{efn|name=P}}
+* [[Mujeeb Ur Rahman]] ([[Afghanistan cricket team|AFG]]){{efn|name=P}}
+* [[Rubin Hermann]]{{efn|name=W}}
+* [[Ottniel Baartman]]
+* [[Gudakesh Motie]] ([[West Indies cricket team|WI]])
+* [[Delano Potgieter]]
+* [[Kyle Verreynne]]
+* [[Keagan Lion-Cachet]]
+* [[Asa Tribe]]
+* [[Hardus Viljoen]]
+* [[Jacob Johannes Basson]]
+* [[Dan Lawrence]] ([[England cricket team|ENG]])
+* [[Eshan Malinga]] ([[Sri Lanka national cricket team|SL]])
+* [[Nqobani Mokoena]]
+* [[Vishen Halambage]]
+* [[Nqaba Peter]]
+* [[Thomas Rew (cricketer)|Thomas Rew]] ([[England cricket team|ENG]])
+|valign=top|
+* [[Will Jacks]] ([[England cricket team|ENG]]){{efn|name=P}}
+* [[Sherfane Rutherford]] ([[West Indies cricket team|WI]]){{efn|name=P}}
+* [[Andre Russell]] ([[West Indies cricket team|WI]]){{efn|name=W}}
+* [[Keshav Maharaj]] (C)
+* [[Lungi Ngidi]]
+* [[Dewald Brevis]]
+* [[Lizaad Williams]]
+* [[Craig Overton]] ([[England cricket team|ENG]])
+* [[Saqib Mahmood]] ([[England cricket team|ENG]])
+* [[Codi Yusuf]]
+* [[Connor Esterhuizen]]
+* [[Bryce Parsons]]
+* [[Gideon Peters]]
+* [[Junaid Dawood]]
+* [[Will Smeed]] ([[England cricket team|ENG]])
+* [[Meeka-eel Prince]]
+* [[Bayanda Majola]]
+* [[Wihan Lubbe]]
+* [[Sibonelo Makhanya]]
+|valign=top|
+* [[Tristan Stubbs]]{{efn|name=R}} (C)
+* [[Jonny Bairstow]] ([[England cricket team|ENG]]){{efn|name=P}}
+* [[Adam Milne]] ([[New Zealand national cricket team|NZ]]){{efn|name=P}}
+* [[Allah Ghazanfar]] ([[Afghanistan national cricket team|AFG]]){{efn|name=P}}
+* [[Tharindu Rathnayake]] ([[Sri Lanka national cricket team|SL]])
+* [[Marco Jansen]]{{efn|name=W}}
+* [[Quinton de Kock]]
+* [[Matthew Breetzke]]
+* [[Anrich Nortje]]
+* [[Senuran Muthusamy]]
+* [[Patrick Kruger]]
+* [[Lutho Sipamla]]
+* [[Mitchell Van Buuren]]
+* [[Jordan Hermann]]
+* [[Beyers Swanepoel]]
+* [[James Coles]] ([[England cricket team|ENG]])
+* [[Chris Wood (cricketer)|Chris Wood]] ([[England cricket team|ENG]])
+* [[Lewis Gregory]] ([[England cricket team|ENG]])
+* [[CJ King]]
+* [[JP King]]
+|}
+
+==Venues==
+
+{| class="wikitable" style="text-align:center;margin:auto"
+|-
+! [[Cape Town]]
+! [[Centurion, Gauteng|Centurion]]
+! [[Durban]]
+|-
+| [[MI Cape Town]]
+| [[Pretoria Capitals]]
+| [[Durban's Super Giants]]
+|-
+| [[Newlands Cricket Ground]]
+| [[Centurion Park]]
+| [[Kingsmead Cricket Ground]]
+|-
+| Capacity: 25,000
+| Capacity: 22,000
+| Capacity: 25,000
+|-
+| [[File:Newlandsoverview.jpg|150px]]
+| [[File:SS park.jpg|150px]]
+| [[File:Kingsmead2009.jpg|150px]]
+|-
+! style="text-align:center;" colspan="3"|{{Location map+|South Africa|width=600|float=right|places=
+{{Location map~|South Africa|coordinates={{coord|26|7|S|28|3|E}}|position=left|label=[[Johannesburg]]}}
+{{Location map~|South Africa|coordinates={{coord|29|51|S|31|1|E}}|position=right|label=[[Durban]]}}
+{{Location map~|South Africa|coordinates={{coord|33|58|S|18|28|E}}|position=bottom|label=[[Cape Town]]}}
+{{Location map~|South Africa|coordinates={{coord|25|51|S|28|11|E}}|position=right|label=[[Centurion, Gauteng|Centurion]]}}
+{{Location map~|South Africa|coordinates={{coord|33|58|S|25|36|E}}|position=right|label=[[Gqeberha]]}}
+{{Location map~|South Africa|coordinates={{coord|33|44|S|18|59|E}}|position=right|background=|label=[[Paarl]]}}
+}}
+|-
+! [[Gqeberha]]
+! [[Johannesburg]]
+! [[Paarl]]
+|-
+| [[Sunrisers Eastern Cape]]
+| [[Joburg Super Kings]]
+| [[Paarl Royals]]
+|-
+| [[St George's Park Cricket Ground]]
+| [[Wanderers Stadium]]
+| [[Boland Park]]
+|-
+| Capacity: 19,000
+| Capacity: 34,000
+| Capacity: 10,000
+|-
+| [[File:Sahara Oval St George's, uploaded 2005.jpg|150px]]
+| [[File:The Wanderers 2.jpg|150px]]
+| [[File:Boland Park Cricket Ground.jpg|150px]]
+|}
+
+==Teams and standings==
+===Points table===
+{{2026 SA20 table}}
+
+===Points Summary ===
+Below is a summary of points for each team's ten regular season matches, plus finals where applicable, in chronological order.
+{{#{{Twenty20 League results summary|mode=progression}}|create
+
+<!-- DSG -->|W1, N4, L6, L9, N12, L16, N18, W21, L23, W27+1|E,E,E,E
+<!-- JSK -->|W2, W6+1, W9, N11, L15, N17, L20, L24, L28, W30+1|,L32,E,E
+<!-- MICT -->|L1, N4, L8, L10, L13, W15, W20, L22, W26, L29|E,E,E,E
+<!-- PR -->|L3, W7, W10, W13+1, N17, L19, W23, W25+1, L27, L30|,W32,L33,E
+<!-- PC -->|L2, L5, W8+1, N12, L14, W16, W19,  W22+1, L25, W28, W31|W31,,,L34
+<!-- SEC -->|W3+1, W5+1, L7, N11, W14+1, N18, L21, W24+1, L26, W29|L31,W33,,W34
+
+|teams= {{nobr|[[Durban's Super Giants]]}}, [[Joburg Super Kings]], [[MI Cape Town]], [[Paarl Royals]], [[Pretoria Capitals]], {{nobr|[[Sunrisers Eastern Cape]]}}
+| matchesPerTeam = 10
+| playoffLabels = {{Abbr|Q1|Qualifier1}}, {{Abbr|E|Eliminator}}, {{Abbr|Q2|Qualifier2}}, {{Abbr|F|Final}}
+}}
+
+===Match summary===
+{{#invoke: CricketLeagueGroupStageSummary|SA20
+<!-- home | away  | result | margin | DL -->
+|MICT|DSG|A|15R|
+|PC|JSK|A|22R|
+|PR|SEC|A|137R|
+|DSG|MICT|N||
+|SEC|PC|H|48R|
+
+|DSG|JSK|A|6W|
+|SEC|PR|A|5W|
+|MICT|PC|A|85R|
+|JSK|DSG|H|SO|
+|PR|MICT|H|1R|
+
+|JSK|SEC|N||
+|PC|DSG|N||
+|MICT|PR|A|7W|
+|PC|SEC|A|10W|
+|MICT|JSK|H|6W|Y
+
+|DSG|PC|A|15R|
+|JSK|PR|N||
+|DSG|SEC|N||
+|PR|PC|A|21R|
+|JSK|MICT|A|36R|
+
+|SEC|DSG|A|2W|
+|PC|MICT|H|53R|
+|PR|DSG|H|6W|
+|SEC|JSK|H|61R|
+|PC|PR|A|6W|
+
+|MICT|SEC|H|3W|
+|DSG|PR|H|58R|
+|JSK|PC|A|21R|
+|SEC|MICT|H|7W|
+|PR|JSK|A|44R|
+}}
+
+==League stage==
+The full fixture list was released on 9 July 2025.<ref>{{cite web|url=https://www.sa20.co.za/news/sa20-to-bring-festive-cheer-as-season-4-fixtures-are-announced |title=Betway SA20 to bring festive cheer as season 4 fixtures are announced |work=[[SA20]] |access-date=23 August 2025}}</ref>
+{{hatnote|All times listed below are [[South African Standard Time]] ([[UTC+2]]).}}
+
+{{Single-innings cricket match
+| round = {{anchor|match1}} '''Match 1'''
+| date = 26 December 2025
+| time = 17:30
+| daynight = y
+| team1 = [[Durban's Super Giants]]
+| team2 = [[MI Cape Town]]
+| score1 = 232/5 (20 overs)
+| runs1 = [[Devon Conway]] 64 (33)
+| wickets1 = [[George Linde]] 2/46 (4 overs)
+| score2 = 217/7 (20 overs)
+| runs2 = [[Ryan Rickelton]] 113 (63)
+| wickets2 = [[Eathan Bosch]] 4/46 (4 overs)
+| result = Durban's Super Giants won by 15 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1494253.html Scorecard]
+| venue = [[Newlands Cricket Ground]], [[Cape Town]]
+| umpires = [[Lubabalo Gcuma]] (SA) and [[Arno Jacobs]] (SA)
+| motm = [[Ryan Rickelton]] (MI Cape Town)
+| toss = Durban's Super Giants won the toss and elected to bat.
+| rain = 
+| notes = 
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match2}} '''Match 2'''
+| date = 27 December 2025
+| time = 13:00
+| daynight = 
+| team1 = [[Joburg Super Kings]]
+| team2 = [[Pretoria Capitals]]
+| score1 = 168/6 (20 overs)
+| runs1 = [[Rilee Rossouw]] 48 (33)
+| wickets1 = [[Tymal Mills]] 2/17 (4 overs)
+| score2 = 146/9 (20 overs)
+| runs2 = [[Bryce Parsons]] 41 (30)
+| wickets2 = [[Duan Jansen]] 4/23 (4 overs)
+| result = Joburg Super Kings won by 22 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1494254.html Scorecard]
+| venue = [[Centurion Park]], [[Centurion, South Africa|Centurion]]
+| umpires = [[Stephen Harris (umpire)|Stephen Harris]] (SA) and [[Bongani Jele]] (SA)
+| motm = [[Duan Jansen]] (Joburg Super Kings)
+| toss = Pretoria Capitals won the toss and elected to field.
+| rain = 
+| notes = 
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match3}} '''Match 3'''
+| date = 27 December 2025
+| time = 17:30
+| daynight = y
+| team1 = [[Sunrisers Eastern Cape]]
+| team2 = [[Paarl Royals]]
+| score1 = 186/4 (20 overs)
+| runs1 = [[Jordan Hermann]] 62[[not out|*]] (28)
+| wickets1 = [[Ottniel Baartman]] 2/40 (4 overs)
+| score2 = 49 (11.5 overs)
+| runs2 = [[Asa Tribe]] 14 (10)
+| wickets2 = [[Anrich Nortje]] 4/13 (3 overs)
+| result = Sunrisers Eastern Cape won by 137 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1494255.html Scorecard]
+| venue = [[Boland Park]], [[Paarl]]
+| umpires = [[Arno Jacobs]] (SA) and [[Abdoellah Steenkamp]] (SA)
+| motm = [[Anrich Nortje]] (Sunrisers Eastern Cape)
+| toss = Sunrisers Eastern Cape won the toss and elected to bat.
+| rain = 
+| notes = Sunrisers Eastern Cape were awarded a bonus point for a win with a run rate difference greater than 1.25.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match4}} '''Match 4'''
+| date = 28 December 2025
+| time = 17:30
+| daynight = y
+| team1 = [[Durban's Super Giants]]
+| team2 = [[MI Cape Town]]
+| score1 = 37/0 (4 overs)
+| runs1 = [[Devon Conway]] 24[[not out|*]] (13)
+| wickets1 = 
+| score2 = 
+| runs2 = 
+| wickets2 = 
+| result = No result
+| report = [https://www.espncricinfo.com/ci/engine/match/1494256.html Scorecard]
+| venue = [[Kingsmead Cricket Ground]], [[Durban]]
+| umpires = [[Siphelele Gasa]] (SA) and [[Dennis Smith (South African cricketer)|Dennis Smith]] (SA)
+| motm = 
+| toss = MI Cape Town won the toss and elected to field.
+| rain = Rain prevented any further play.
+| notes = 
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match5}} '''Match 5'''
+| date = 29 December 2025
+| time = 17:30
+| daynight = y
+| team1 = [[Sunrisers Eastern Cape]]
+| team2 = [[Pretoria Capitals]]
+| score1 = 188/6 (20 overs)
+| runs1 = [[Quinton de Kock]] 77 (47)
+| wickets1 = [[Tymal Mills]] 2/31 (4 overs)
+| score2 = 140 (18 overs)
+| runs2 = [[Shai Hope]] 36 (19)
+| wickets2 = [[Adam Milne]] 4/25 (4 overs)
+| result = Sunrisers Eastern Cape won by 48 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1494257.html Scorecard]
+| venue = [[St George's Park Cricket Ground]], [[Gqeberha]]
+| umpires = [[Bongani Jele]] (SA) and [[Brad White (cricketer)|Brad White]] (SA)
+| motm = [[Quinton de Kock]] (Sunrisers Eastern Cape)
+| toss = Sunrisers Eastern Cape won the toss and elected to bat.
+| rain = 
+| notes = Sunrisers Eastern Cape were awarded a bonus point for a win with a run rate difference greater than 1.25.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match6}} '''Match 6'''
+| date = 30 December 2025
+| time = 17:30
+| daynight = y
+| team1 = [[Durban's Super Giants]]
+| team2 = [[Joburg Super Kings]]
+| score1 = 86 (17.1 overs)
+| runs1 = [[Aiden Markram]] 22 (27)
+| wickets1 = [[Richard Gleeson]] 3/2 (2.1 overs)
+| score2 = 88/4 (12.2 overs)
+| runs2 = [[Rilee Rossouw]] 43 (32)
+| wickets2 = [[David Wiese]] 1/11 (2 overs)
+| result = Joburg Super Kings won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1494258.html Scorecard]
+| venue = [[Kingsmead Cricket Ground]], [[Durban]]
+| umpires = [[Lubabalo Gcuma]] (SA) and [[Dennis Smith (South African cricketer)|Dennis Smith]] (SA)
+| motm = [[Prenelan Subrayen]] (Joburg Super Kings)
+| toss = Durban's Super Giants won the toss and elected to bat.
+| rain = 
+| notes = Joburg Super Kings were awarded a bonus point for a win with a run rate difference greater than 1.25.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match7}} '''Match 7'''
+| date = 31 December 2025
+| time = 13:00
+| daynight = 
+| team1 = [[Sunrisers Eastern Cape]]
+| team2 = [[Paarl Royals]]
+| score1 = 149 (20 overs)
+| runs1 = [[Jordan Hermann]] 47 (35)
+| wickets1 = Nqobani Mokoena 4/34 (4 overs)
+| score2 = 150/5 (19.4 overs)
+| runs2 = [[David Miller (South African cricketer)|David Miller]] 71[[not out|*]] (38)
+| wickets2 = [[Anrich Nortje]] 2/21 (4 overs)
+| result = Paarl Royals won by 5 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1494259.html Scorecard]
+| venue = [[St George's Park Cricket Ground]], [[Gqeberha]]
+| umpires = [[Thomas Mokorosi]] (SA) and [[Brad White (cricketer)|Brad White]] (SA)
+| motm = [[David Miller (South African cricketer)|David Miller]] (Paarl Royals)
+| toss = Sunrisers Eastern Cape won the toss and elected to bat.
+| rain = 
+| notes = 
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match8}} '''Match 8'''
+| date = 31 December 2025
+| time = 17:30
+| daynight = y
+| team1 = [[Pretoria Capitals]]
+| team2 = [[MI Cape Town]]
+| score1 = 220/5 (20 overs)
+| runs1 = [[Wihan Lubbe]] 60 (36)
+| wickets1 = [[Kagiso Rabada]] 2/48 (4 overs)
+| score2 = 135 (14.2 overs)
+| runs2 = [[Ryan Rickelton]] 33 (17)
+| wickets2 = [[Sherfane Rutherford]] 4/24 (3 overs)
+| result = Pretoria Capitals won by 85 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1494260.html Scorecard]
+| venue = [[Newlands Cricket Ground]], [[Cape Town]]
+| umpires = [[Allahuddien Paleker]] (SA) and [[Abdoellah Steenkamp]] (SA)
+| motm = [[Sherfane Rutherford]] (Pretoria Capitals)
+| toss = Pretoria Capitals won the toss and elected to bat.
+| rain = 
+| notes = Pretoria Capitals were awarded a bonus point for a win with a run rate difference greater than 1.25.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match9}} '''Match 9'''
+| date = 1 January 2026
+| time = 17:30
+| daynight = y
+| team1 = [[Joburg Super Kings]]
+| team2 = [[Durban's Super Giants]]
+| score1 = 205/4 (20 overs)
+| runs1 = [[Shubham Ranjane]] 50[[not out|*]] (31)
+| wickets1 = [[Noor Ahmad]] 3/12 (4 overs)
+| score2 = 205/8 (20 overs)
+| runs2 = [[Evan Jones (cricketer)|Evan Jones]] 43 (17)
+| wickets2 = [[Richard Gleeson]] 3/41 (4 overs)
+| result = Match tied (Joburg Super Kings won the [[Super Over]])
+| report = [https://www.espncricinfo.com/ci/engine/match/1494261.html Scorecard]
+| venue = [[Wanderers Stadium]], [[Johannesburg]]
+| umpires = [[Lauren Agenbag]] (SA) and [[Stephen Harris (umpire)|Stephen Harris]] (SA)
+| motm = [[Donovan Ferreira]] (Joburg Super Kings)
+| toss = Durban's Super Giants won the toss and elected to field.
+| rain = 
+| notes = Super Over: Durban's Super Giants 5/1 (1 over), Joburg Super Kings 8/0 (0.3 over).
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match10}} '''Match 10'''
+| date = 2 January 2026
+| time = 17:30
+| daynight = y
+| team1 = [[Paarl Royals]]
+| team2 = [[MI Cape Town]]
+| score1 = 181/3 (20 overs)
+| runs1 = [[Lhuan-dre Pretorius]] 98[[not out|*]] (65)
+| wickets1 = [[Rashid Khan]] 2/31 (4 overs)
+| score2 = 180/8 (20 overs)
+| runs2 = [[Rassie van der Dussen]] 59 (42)
+| wickets2 = [[Ottniel Baartman]] 4/51 (4 overs)
+| result = Paarl Royals won by 1 run
+| report = [https://www.espncricinfo.com/ci/engine/match/1494262.html Scorecard]
+| venue = [[Boland Park]], [[Paarl]]
+| umpires =  [[Allahuddien Paleker]] (SA) and [[Abongile Sodumo]] (SA)
+| motm = [[Lhuan-dre Pretorius]] (Paarl Royals)
+| toss = Paarl Royals won the toss and elected to bat.
+| rain = 
+| notes = 
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match11}} '''Match 11'''
+| date = 3 January 2026
+| time = 13:00
+| daynight = 
+| team2 = [[Joburg Super Kings]]
+| team1 = [[Sunrisers Eastern Cape]]
+| score1 = 
+| runs1 = 
+| wickets1 = 
+| score2 = 
+| runs2 = 
+| wickets2 = 
+| result = No result
+| report = [https://www.espncricinfo.com/ci/engine/match/1494263.html Scorecard]
+| venue = [[Wanderers Stadium]], [[Johannesburg]]
+| umpires = [[Abdoellah Steenkamp]] (SA) and [[Brad White (cricketer)|Brad White]] (SA)
+| motm = 
+| toss = Joburg Super Kings won the toss and elected to field.
+| rain = The match was reduced to 5 overs per side due to rain.
+| notes = No play was possible due to rain.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match12}} '''Match 12'''
+| date = 3 January 2026
+| time = 17:30
+| daynight = y
+| team1 = [[Durban's Super Giants]]
+| team2 = [[Pretoria Capitals]]
+| score1 = 
+| runs1 = 
+| wickets1 = 
+| score2 = 
+| runs2 = 
+| wickets2 = 
+| result = No result
+| report = [https://www.espncricinfo.com/ci/engine/match/1494264.html Scorecard]
+| venue = [[Centurion Park]], [[Centurion, South Africa|Centurion]]
+| umpires = Mazizi Gampu (SA) and [[Stephen Harris (umpire)|Stephen Harris]] (SA)
+| motm = 
+| toss = Pretoria Capitals won the toss and elected to field.
+| rain = The match was reduced to 16 overs per side due to rain.
+| notes = No play was possible due to rain.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match13}} '''Match 13'''
+| date = 4 January 2026
+| time = 17:30
+| daynight = y
+| team1 = [[MI Cape Town]]
+| team2 = [[Paarl Royals]]
+| score1 = 88 (18.4 overs) 
+| runs1 = [[Reeza Hendricks]] 18 (24)
+| wickets1 = [[Sikandar Raza]] 4/13 (4 overs)
+| score2 = 90/3 (13 overs)
+| runs2 = [[Asa Tribe]] 34 (28)
+| wickets2 = [[Corbin Bosch]] 1/9 (2 overs)
+| result = Paarl Royals won by 7 wickets 
+| report = [https://www.espncricinfo.com/ci/engine/match/1494265.html Scorecard]
+| venue = [[Newlands Cricket Ground]], [[Cape Town]]
+| umpires = [[Siphelele Gasa]] (SA) and [[Allahuddien Paleker]] (SA)
+| motm = [[Sikandar Raza]] (Paarl Royals)
+| toss = MI Cape Town won the toss and elected to bat.
+| rain = 
+| notes = Paarl Royals were awarded a bonus point for a win with a run rate difference greater than 1.25.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match14}} '''Match 14'''
+| date = 5 January 2026
+| time = 17:30
+| daynight = y
+| team1 = [[Pretoria Capitals]]
+| team2 = [[Sunrisers Eastern Cape]]
+| score1 = 176/7 (20 overs)
+| runs1 = [[Connor Esterhuizen]] 52 (33)
+| wickets1 = [[Anrich Nortje]] 3/32 (4 overs)
+| score2 = 177/0 (14.2 overs)
+| runs2 = [[Jonny Bairstow]] 85[[not out|*]] (45)
+| wickets2 = 
+| result = Sunrisers Eastern Cape won by 10 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1494266.html Scorecard]
+| venue = [[Centurion Park]], [[Centurion, South Africa|Centurion]]
+| umpires = [[Dennis Smith (South African cricketer)|Dennis Smith]] (SA) and [[Abdoellah Steenkamp]] (SA)
+| motm = [[Quinton de Kock]] (Sunrisers Eastern Cape)
+| toss = Pretoria Capitals won the toss and elected to bat.
+| rain = 
+| notes = Sunrisers Eastern Cape were awarded a bonus point for a win with a run rate difference greater than 1.25.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match15}} '''Match 15'''
+| date = 6 January 2026
+| time = 17:30
+| daynight = y
+| team1 = [[Joburg Super Kings]]
+| team2 = [[MI Cape Town]]
+| score1 = 123/7 (12 overs)
+| runs1 = [[Faf du Plessis]] 44 (21)
+| wickets1 = [[Corbin Bosch]] 3/24 (3 overs)
+| score2 = 128/6 (11.2 overs)
+| runs2 = [[Rassie van der Dussen]] 35 (24)
+| wickets2 = [[Nandre Burger]] 2/23 (3 overs)
+| result = MI Emirates won by 4 wickets ([[Duckworth-Lewis-Stern method|DLS]] method)
+| report = [https://www.espncricinfo.com/ci/engine/match/1494267.html Scorecard]
+| venue = [[Newlands Cricket Ground]], [[Cape Town]]
+| umpires = [[Adrian Holdstock]] (SA) and [[Arno Jacobs]] (SA)
+| motm = [[Nicholas Pooran]] (MI Emirates)
+| toss = MI Cape Town won the toss and elected to field.
+| rain = The match was reduced to 12 overs per side due to rain.
+| notes = MI Emirates were set a revised target of 128 runs from 12 overs due to rain.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match16}} '''Match 16'''
+| date = 7 January 2026
+| time = 17:30
+| daynight = y
+| team1 = [[Pretoria Capitals]]
+| team2 = [[Durban's Super Giants]]
+| score1 = 201/4 (20 overs)
+| runs1 = [[Shai Hope]] 118[[not out|*]] (69)
+| wickets1 = [[David Wiese]] 1/34 (3 overs)
+| score2 = 186 (19.4 overs)
+| runs2 = [[Jos Buttler]] 97[[not out|*]] (52)
+| wickets2 = [[Gideon Peters]] 3/35 (4 overs)
+| result = Pretoria Capitals won by 15 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1494268.html Scorecard]
+| venue = [[Kingsmead Cricket Ground]], [[Durban]]
+| umpires = Mazizi Gampu (SA) and  [[Bongani Jele]] (SA)
+| motm = [[Shai Hope]] (Pretoria Capitals)
+| toss = Durban's Super Giants won the toss and elected to field.
+| rain = 
+| notes = 
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match17}} '''Match 17'''
+| date = 8 January 2026
+| time = 17:30
+| daynight = y
+| team1 = [[Joburg Super Kings]]
+| team2 = [[Paarl Royals]]
+| score1 = 187/6 (20 overs)
+| runs1 = [[James Vince]] 75 (43)
+| wickets1 = [[Sikandar Raza]] 2/26 (4 overs)
+| score2 = 
+| runs2 = 
+| wickets2 = 
+| result = No result 
+| report = [https://www.espncricinfo.com/ci/engine/match/1494269.html Scorecard]
+| venue = [[Wanderers Stadium]], [[Johannesburg]]
+| umpires = [[Ian Blackwell]] (Eng) and [[Adrian Holdstock]] (SA)
+| motm = 
+| toss = Paarl Royals won the toss and elected to field.
+| rain = Rain prevented any further play.
+| notes = 
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match18}} '''Match 18'''
+| date = 9 January 2026
+| time = 17:30
+| daynight = y
+| team1 = [[Durban's Super Giants]]
+| team2 = [[Sunrisers Eastern Cape]]
+| score1 =
+| runs1 =
+| wickets1 =
+| score2 =
+| runs2 =
+| wickets2 =
+| result = Match abandoned
+| report = [https://www.espncricinfo.com/ci/engine/match/1494270.html Scorecard]
+| venue = [[Kingsmead Cricket Ground]], [[Durban]]
+| umpires = [[Stephen Harris (umpire)|Stephen Harris]] (SA) and [[Thomas Mokorosi]] (SA)
+| motm =
+| toss = No toss.
+| rain = No play was possible due to rain.
+| notes = 
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match19}} '''Match 19'''
+| date = 10 January 2026
+| time = 13:00
+| daynight = 
+| team2 = [[Paarl Royals]]
+| team1 = [[Pretoria Capitals]]
+| score1 = 138/9 (20 overs)
+| runs1 = [[Sherfane Rutherford]] 42[[not out|*]] (35)
+| wickets1 = [[Sikandar Raza]] 2/13 (4 overs)
+| score2 = 117/6 (20 overs)
+| runs2 = [[David Miller (South African cricketer)|David Miller]] 45 (36)
+| wickets2 = [[Keshav Maharaj]] 2/14 (4 overs)
+| result = Pretoria Capitals won by 21 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1494271.html Scorecard]
+| venue = [[Boland Park]], [[Paarl]]
+| umpires = [[Ian Blackwell]] (Eng) and [[Arno Jacobs]] (SA)
+| motm = [[Sherfane Rutherford]] (Pretoria Capitals)
+| toss = Pretoria Capitals won the toss and elected to bat.
+| rain = 
+| notes = 
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match20}} '''Match 20'''
+| date = 10 January 2026
+| time = 17:30
+| daynight = y
+| team1 = [[MI Cape Town]]
+| team2 = [[Joburg Super Kings]]
+| score1 = 234/3 (20 overs)
+| runs1 = [[Ryan Rickelton]] 113[[not out|*]] (60)
+| wickets1 = [[Daniel Worrall]] 2/37 (4 overs)
+| score2 = 198/5 (20 overs)
+| runs2 = [[Dian Forrester]] 80[[not out|*]] (42)
+| wickets2 = [[George Linde]] 2/30 (4 overs)
+| result = MI Cape Town won by 36 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1494272.html Scorecard]
+| venue = [[Wanderers Stadium]], [[Johannesburg]]
+| umpires = [[Adrian Holdstock]] (SA) and [[Allahuddien Paleker]] (SA)
+| motm = [[Ryan Rickelton]] (MI Cape Town)
+| toss = MI Cape Town won the toss and elected to bat.
+| rain = 
+| notes = 
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match21}} '''Match 21'''
+| date = 11 January 2026
+| time = 17:30
+| daynight = y
+| team1 = [[Sunrisers Eastern Cape]]
+| team2 = [[Durban's Super Giants]]
+| score1 = 158/5 (20 overs)
+| runs1 = [[Tristan Stubbs]] 47[[not out|*]] (30)
+| wickets1 = [[Noor Ahmad]] 1/20 (4 overs)
+| score2 = 162/8 (19.3 overs)
+| runs2 = [[Marques Ackerman]] 45 (26)
+| wickets2 = [[Senuran Muthusamy]] 2/20 (4 overs)
+| result = Durban's Super Giants won by 2 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1494273.html Scorecard]
+| venue = [[St George's Park Cricket Ground]], [[Gqeberha]]
+| umpires = [[Stephen Harris (umpire)|Stephen Harris]] (SA) and Andre Olivier (SA)
+| motm = [[Tristan Stubbs]] (Sunrisers Eastern Cape)
+| toss = Sunrisers Eastern Cape won the toss and elected to bat.
+| rain = 
+| notes = 
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match22}} '''Match 22'''
+| date = 12 January 2026
+| time = 17:30
+| daynight = y
+| team1 = [[Pretoria Capitals]]
+| team2 = [[MI Cape Town]]
+| score1 = 185/6 (20 overs)
+| runs1 = [[Sherfane Rutherford]] 53 (27)
+| wickets1 = [[Kagiso Rabada]] 2/33 (4 overs)
+| score2 = 132/7 (20 overs)
+| runs2 = [[Reeza Hendricks]] 68[[not out|*]] (50)
+| wickets2 = [[Gideon Peters]] 3/32 (4 overs)
+| result = Pretoria Capitals won by 53 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1494274.html Scorecard]
+| venue = [[Centurion Park]], [[Centurion, South Africa|Centurion]]
+| umpires = [[Ian Blackwell]] (Eng) and [[Allahuddien Paleker]] (SA)
+| motm = [[Sherfane Rutherford]] (Pretoria Capitals)
+| toss = MI Cape Town won the toss and elected to field.
+| rain = 
+| notes = Pretoria Capitals were awarded a bonus point for a win with a run rate difference greater than 1.25.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match23}} '''Match 23'''
+| date = 13 January 2026
+| time = 17:30
+| daynight = y
+| team1 = [[Durban's Super Giants]]
+| team2 = [[Paarl Royals]]
+| score1 = 186/5 (20 overs)
+| runs1 = [[Aiden Markram]] 66 (46)
+| wickets1 = [[Mujeeb Ur Rahman]] 2/22 (4 overs)
+| score2 = 191/4 (20 overs)
+| runs2 = [[Rubin Hermann]] 65[[not out|*]] (45)
+| wickets2 = [[Eathan Bosch]] 2/29 (4 overs)
+| result = Paarl Royals won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1494275.html Scorecard]
+| venue = [[Boland Park]], [[Paarl]]
+| umpires = [[Bongani Jele]] (SA) and Warren Wyngaard (SA)
+| motm = [[Rubin Hermann]] (Paarl Royals)
+| toss = Paarl Royals won the toss and elected to field.
+| rain = 
+| notes = 
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match24}} '''Match 24'''
+| date = 14 January 2026
+| time = 17:30
+| daynight = y
+| team1 = [[Sunrisers Eastern Cape]]
+| team2 = [[Joburg Super Kings]]
+| score1 = 178/5 (20 overs)
+| runs1 = [[James Coles]] 61 (34)
+| wickets1 = [[Donovan Ferreira]] 2/25 (4 overs)
+| score2 = 117 (18.1 overs)
+| runs2 = [[James Vince]] 30 (23)
+| wickets2 = [[Senuran Muthusamy]] 3/26 (4 overs)
+| result = Sunrisers Eastern Cape won by 61 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1494276.html Scorecard]
+| venue = [[St George's Park Cricket Ground]], [[Gqeberha]]
+| umpires = [[Stephen Harris (umpire)|Stephen Harris]] (SA) and [[Arno Jacobs]] (SA)
+| motm = [[James Coles]] (Sunrisers Eastern Cape)
+| toss = Joburg Super Kings won the toss and elected to field.
+| rain = 
+| notes = Sunrisers Eastern Cape were awarded a bonus point for a win with a run rate difference greater than 1.25.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match25}} '''Match 25'''
+| date = 15 January 2026
+| time = 17:30
+| daynight = y
+| team1 = [[Pretoria Capitals]]
+| team2 = [[Paarl Royals]]
+| score1 = 127 (19.1 overs)
+| runs1 = [[Sherfane Rutherford]] 29 (20)
+| wickets1 = [[Ottniel Baartman]] 5/16 (4 overs)
+| score2 = 128/4 (15.1 overs)
+| runs2 = [[Rubin Hermann]] 46 (29)
+| wickets2 = [[Lizaad Williams]] 2/28 (3 overs)
+| result = Paarl Royals won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1494277.html Scorecard]
+| venue = [[Centurion Park]], [[Centurion, South Africa|Centurion]]
+| umpires = [[Siphelele Gasa]] (SA) and [[Dennis Smith (South African cricketer)|Dennis Smith]] (SA)
+| motm = [[Ottniel Baartman]] (Paarl Royals)
+| toss = Pretoria Capitals won the toss and elected to bat.
+| rain = 
+| notes = Paarl Royals were awarded a bonus point for a win with a run rate difference greater than 1.25.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match26}} '''Match 26'''
+| date = 16 January 2026
+| time = 17:30
+| daynight = y
+| team1 = [[Sunrisers Eastern Cape]]
+| team2 = [[MI Cape Town]]
+| score1 = 139/9 (20 overs)
+| runs1 = [[Marco Jansen]] 42 (23)
+| wickets1 = [[Corbin Bosch]] 4/34 (4 overs)
+| score2 = 140/7 (19.2 overs)
+| runs2 = [[Reeza Hendricks]] 41 (43)
+| wickets2 = [[Marco Jansen]] 2/23 (4 overs)
+| result = MI Cape Town won by 3 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1494278.html Scorecard]
+| venue = [[Newlands Cricket Ground]], [[Cape Town]]
+| umpires = [[Arno Jacobs]] (SA) and [[Brad White (cricketer)|Brad White]] (SA)
+| motm = [[Corbin Bosch]] (MI Cape Town)
+| toss = Sunrisers Eastern Cape won the toss and elected to bat.
+| rain = 
+| notes = 
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match27}} '''Match 27'''
+| date = 17 January 2026
+| time = 13:00
+| daynight = 
+| team1 = [[Durban's Super Giants]]
+| team2 = [[Paarl Royals]]
+| score1 = 189/7 (20 overs)
+| runs1 = [[Aiden Markram]] 108 (58)
+| wickets1 = [[Hardus Viljoen]] 4/21 (4 overs)
+| score2 = 131/9 (20 overs)
+| runs2 = [[Bjorn Fortuin]] 35[[not out|*]] (24)
+| wickets2 = [[Sunil Narine]] 2/18 (4 overs)
+| result = Durban's Super Giants won by 58 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1494279.html Scorecard]
+| venue = [[Kingsmead Cricket Ground]], [[Durban]]
+| umpires = [[Lauren Agenbag]] (SA) and [[Allahuddien Paleker]] (SA) 
+| motm = [[Aiden Markram]] (Durban's Super Giants)
+| toss = Paarl Royals won the toss and elected to field.
+| rain = 
+| notes = Durban's Super Giants were awarded a bonus point for a win with a run rate difference greater than 1.25.
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match28}} '''Match 28'''
+| date = 17 January 2026
+| time = 17:30
+| daynight = y
+| team1 = [[Pretoria Capitals]]
+| team2 = [[Joburg Super Kings]]
+| score1 = 143/6 (20 overs)
+| runs1 = [[Sherfane Rutherford]] 74[[not out|*]] (50)
+| wickets1 = [[Daniel Worrall]] 2/12 (4 overs)
+| score2 = 122/8 (20 overs)
+| runs2 = [[Dian Forrester]] 44[[not out|*]] (33)
+| wickets2 = [[Keshav Maharaj]] 3/15 (4 overs)
+| result = Pretoria Capitals won by 21 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1494280.html Scorecard]
+| venue = [[Wanderers Stadium]], [[Johannesburg]]
+| umpires = [[Siphelele Gasa]] (SA) and [[Bongani Jele]] (SA)
+| motm = [[Sherfane Rutherford]] (Pretoria Capitals)
+| toss = Joburg Super Kings won the toss and elected to field.
+| rain = 
+| notes = 
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match29}} '''Match 29'''
+| date = 18 January 2026
+| time = 17:30
+| daynight = y
+| team1 = [[MI Cape Town]]
+| team2 = [[Sunrisers Eastern Cape]]
+| score1 = 148/6 (20 overs)
+| runs1 = [[Reeza Hendricks]] 70[[not out|*]] (44)
+| wickets1 = [[Chris Green (cricketer)|Chris Green]] 3/29 (4 overs)
+| score2 = 149/3 (19.5 overs)
+| runs2 = [[Matthew Breetzke]] 66 (55)
+| wickets2 = [[Corbin Bosch]] 2/29 (2.5 overs)
+| result = Sunrisers Eastern Cape won by 7 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1494281.html Scorecard]
+| venue = [[St George's Park Cricket Ground]], [[Gqeberha]]
+| umpires = [[Arno Jacobs]] (SA) and [[Thomas Mokorosi]] (SA)
+| motm = [[Matthew Breetzke]] (Sunrisers Eastern Cape)
+| toss = Sunrisers Eastern Cape won the toss and elected to field.
+| rain = 
+| notes = 
+}}
+----
+{{Single-innings cricket match
+| round = {{anchor|match30}} '''Match 30'''
+| date = 19 January 2026
+| time = 17:30
+| daynight = y
+| team1 = [[Joburg Super Kings]]
+| team2 = [[Paarl Royals]]
+| score1 = 166/5 (20 overs)
+| runs1 = [[Leus du Plooy]] 54[[not out|*]] (27)
+| wickets1 = [[Waqar Salamkheil]] 2/42 (4 overs)
+| score2 = 122 (18.1 overs)
+| runs2 = [[Dan Lawrence]] 45 (29)
+| wickets2 = [[Prenelan Subrayen]] 3/14 (3.1 overs)
+| result = Joburg Super Kings won by 44 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1494282.html Scorecard]
+| venue = [[Boland Park]], [[Paarl]]
+| umpires = [[Abongile Sodumo]] (SA) and [[Brad White (cricketer)|Brad White]] (SA)
+| motm = [[Leus du Plooy]] (Joburg Super Kings)
+| toss = Joburg Super Kings won the toss and elected to bat.
+| rain = 
+| notes = Joburg Super Kings were awarded a bonus point for a win with a run rate difference greater than 1.25.
+}}
+
+==Playoffs ==
+=== Bracket ===
+<section begin=bracket />
+{{4TeamBracket-PagePlayoff
+| team-width=150px
+| score-width=150px
+
+| RD1 = '''[[#match31|Qualifier 1]]'''
+| RD1-text1= 21 January 2026 — [[Kingsmead Cricket Ground|Durban]]
+| RD1-seed1= 1
+| RD1-team1= [[Sunrisers Eastern Cape]]
+| RD1-score1= 170/7 (20 overs)
+| RD1-seed2= '''2'''
+| RD1-team2= '''[[Pretoria Capitals]]'''
+| RD1-score2= '''172/3 (18.3 overs)'''
+| P1Winner= Pretoria Capitals
+| P1Margin= 7 wickets
+| P1Matchno= 31
+
+| RD1b= '''[[#match32|Eliminator]]'''
+| RD1b-text1= 22 January 2026 — [[Centurion Park|Centurion]]
+| RD1b-seed1= '''3'''
+| RD1b-team1= '''[[Paarl Royals]]'''
+| RD1b-score1= '''210/5 (20 overs)'''
+| RD1b-seed2= 4
+| RD1b-team2= [[Joburg Super Kings]]
+| RD1b-score2= 174/8 (20 overs)
+| P2Winner= Paarl Royals
+| P2Margin= 36 runs
+| P2Matchno= 32
+
+| RD2= '''[[#match33|Qualifier 2]]'''
+| RD2-text1= 23 January 2026 — [[Wanderers Stadium|Johannesburg]]
+| RD2-seed1= '''Q1L'''
+| RD2-team1= '''[[Sunrisers Eastern Cape]]'''
+| RD2-score1= ''' 117/3 (11.4 overs)'''
+| RD2-seed2= EW
+| RD2-team2= [[Paarl Royals]]
+| RD2-score2= 114/7 (20 overs)
+| P3Winner= Sunrisers Eastern Cape
+| P3Margin= 7 wickets
+| P3Matchno= 33
+
+| RD3 = '''[[#match34|Final]]'''
+| RD3-text1= 25 January 2026 — [[Newlands Cricket Ground|Cape Town]]
+| RD3-seed1= Q1W
+| RD3-team1= [[Pretoria Capitals]]
+| RD3-score1= 158/7 (20 overs)
+| RD3-seed2= '''Q2W'''
+| RD3-team2= '''[[Sunrisers Eastern Cape]]'''
+| RD3-score2= '''162/4 (19.2 overs)'''
+| FinalWinner= Sunrisers Eastern Cape
+| FinalMargin= 6 wickets
+| FinalMatchno= 34
+}}
+<section end=bracket />
+
+===Qualifier 1===
+{{Single-innings cricket match
+| round = {{anchor|match31}} '''Qualifier 1'''
+| date = 21 January 2026
+| time = 17:30
+| daynight = y
+| team1 = [[Sunrisers Eastern Cape]]
+| team2 = [[Pretoria Capitals]]
+| score1 = 170/7 (20 overs)
+| runs1 = [[Jonny Bairstow]] 50 (36)
+| wickets1 = [[Bryce Parsons]] 3/10 (3 overs)
+| score2 = 172/3 (18.3 overs)
+| runs2 = [[Dewald Brevis]] 75[[not out|*]] (38)
+| wickets2 = [[Chris Green (cricketer)|Chris Green]] 1/31 (3 overs)
+| result = Pretoria Capitals won by 7 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1494283.html Scorecard]
+| venue = [[Kingsmead Cricket Ground]], [[Durban]]
+| umpires = [[Arno Jacobs]] (SA) and [[Allahudien Paleker]] (SA)
+| motm = [[Bryce Parsons]] (Pretoria Capitals)
+| toss = Sunrisers Eastern Cape won the toss elected to bat.
+| rain =
+| notes =
+}}
+
+===Eliminator===
+{{Single-innings cricket match
+| round = {{anchor|match32}} '''Eliminator'''
+| date = 22 January 2026
+| time = 17:30
+| daynight = y
+| team1 = [[Paarl Royals]]
+| team2 = [[Joburg Super Kings]]
+| score1 = 210/5 (20 overs)
+| runs1 = [[Lhuan-dre Pretorius]] 51 (34)
+| wickets1 = [[Wiaan Mulder]] 2/45 (4 overs)
+| score2 = 174/8 (20 overs)
+| runs2 = [[James Vince]] 47 (29)
+| wickets2 = [[Hardus Viljoen]] 3/24 (4 overs)
+| result = Paarl Royals won by 36 runs
+| report = [https://www.espncricinfo.com/ci/engine/match/1494284.html Scorecard]
+| venue = [[Centurion Park]], [[Centurion, South Africa|Centurion]]
+| umpires = [[Stephen Harris (umpire)|Stephen Harris]] (SA) and [[Bongani Jele]] (SA)
+| motm = [[Lhuan-dre Pretorius]] (Paarl Royals)
+| toss = Joburg Super Kings won the toss and elected to field.
+| rain =
+| notes =
+}}
+
+===Qualifier 2===
+{{Single-innings cricket match
+| round = {{anchor|match33}} '''Qualifier 2'''
+| date = 23 January 2026
+| time = 17:30
+| daynight = y
+| team1 = [[Paarl Royals]]
+| team2 = [[Sunrisers Eastern Cape]]
+| score1 = 114/7 (20 overs)
+| runs1 = [[Kyle Verreynne]] 52[[not out|*]] (46)
+| wickets1 = [[Senuran Muthusamy]] 3/15 (4 overs)
+| score2 = 117/3 (11.4 overs)
+| runs2 = [[James Coles]] 45[[not out|*]] (19)
+| wickets2 = [[Bjorn Fortuin]] 4/26 (4 overs)
+| result = Sunrisers Eastern Cape won by 7 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1494285.html Scorecard]
+| venue = [[Wanderers Stadium]], [[Johannesburg]]
+| umpires = [[Stephen Harris (umpire)|Stephen Harris]] (SA) and [[Bongani Jele]] (SA)
+| motm = [[James Coles]] (Sunrisers Eastern Cape)
+| toss = Paarl Royals won the toss and elected to bat.
+| rain =
+| notes = 
+}}
+
+===Final===
+<section begin="match34" />{{Single-innings cricket match
+| round = {{anchor|match34}} '''Final'''
+| date = 25 January 2026
+| time = 17:30
+| daynight = y
+| team1 = [[Pretoria Capitals]]
+| team2 = [[Sunrisers Eastern Cape]]
+| score1 = 158/7 (20 overs)
+| runs1 = [[Dewald Brevis]] 101 (56)
+| wickets1 = [[Marco Jansen]] 3/10 (4 overs)
+| score2 = 162/4 (19.2 overs)
+| runs2 = [[Matthew Breetzke]] 68[[not out|*]] (49)
+| wickets2 = [[Keshav Maharaj]] 1/23 (4 overs)
+| result = Sunrisers Eastern Cape won by 6 wickets
+| report = [https://www.espncricinfo.com/ci/engine/match/1494286.html Scorecard]
+| venue = [[Newlands Cricket Ground]], [[Cape Town]]
+| umpires = [[Arno Jacobs]] (SA) and [[Allahuddien Paleker]] (SA)
+| motm = [[Dewald Brevis]] (Pretoria Capitals)
+| toss = Sunrisers Eastern Cape won the toss and elected to field.
+| rain =
+| notes = [[Dewald Brevis]] (Pretoria Capitals) became the first player to score a century in the final of SA20.<ref>{{cite web |access-date=25 January 2026 |title=Sunrisers win SA20 title despite Brevis century |url=https://www.bbc.com/sport/cricket/articles/cg4e01z09w1o#:~:text=Sunrisers%20Eastern%20Cape%20clinched%20their,56%20balls%2C%20including%20seven%20sixes |website=[[BBC]]}}</ref>
+}}<section end="match34" />
+
+== Awards ==
+On 25 January 2026, the list of end of season awards was announced, to be handed out after the final match.
+ 
+{| class="wikitable"
+!Team
+!Award
+!Prize money
+|-
+|[[Sunrisers Eastern Cape]]
+|Champions
+|{{ZARConvert|32500000}}
+|-
+|[[Pretoria Capitals]]
+|Runners-up
+|{{ZARConvert|16250000}}
+|-
+|[[Sunrisers Eastern Cape]]
+|Spirit of the season
+|{{ZARConvert|100000}}
+|}
+{| class="wikitable"
+!Name
+!Team
+!Award
+!Prize money
+|-
+|[[Quinton de Kock]]
+|[[Sunrisers Eastern Cape]]
+|Player of the season
+|{{ZARConvert|350000}}
+|-
+|[[Quinton de Kock]]
+|[[Sunrisers Eastern Cape]]
+|Batter of the season
+|{{ZARConvert|200000}}
+|-
+|[[Ottniel Baartman]]
+|[[Paarl Royals]]
+|Bowler of the season
+|{{ZARConvert|200000}}
+|-
+|[[Jordan Hermann]]
+|[[Sunrisers Eastern Cape]]
+|Rising star
+|{{ZARConvert|100000}}
+|-
+|[[Sherfane Rutherford]]
+|[[Pretoria Capitals]]
+|Dispatch of the Season
+|{{ZARConvert|100000}}
+|-
+|[[Dewald Brevis]]
+|[[Pretoria Capitals]]
+|Most sixes
+|{{ZARConvert|100000}}
+|-
+|[[Marco Jansen]]
+|[[Sunrisers Eastern Cape]]
+|Most dot balls
+|{{ZARConvert|100000}}
+|-
+|[[Adrian Birrell]]
+|[[Sunrisers Eastern Cape]]
+|Best Coach of the Season
+|
+|}
+Sources:
+
+==References==
+{{Reflist}}
+
+==Notes==
+{{notelist}}
+
+==External links==
+*{{Official website|https://www.sa20.co.za/}}
+* [https://www.espncricinfo.com/series/sa20-2025-26-1494252 Series home at ESPNcricinfo]
+
+{{SA20}}
+{{Cricket in South Africa}}
+{{Domestic cricket in 2025–26}}
+
+{{DEFAULTSORT:SA20, 2026}}
+[[Category:SA20]]
+[[Category:Domestic cricket competitions in 2025–26|SA20]]
+[[Category:2025 in South African cricket|SA20]]
+[[Category:2026 in South African cricket|SA20]]
+[[Category:December 2025 sports events in South Africa|SA20]]
+[[Category:January 2026 sports events in South Africa|SA20]]

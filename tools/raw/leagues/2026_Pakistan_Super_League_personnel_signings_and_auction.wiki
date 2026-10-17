@@ -1,0 +1,435 @@
+{{Short description|Personnel signings for 2026 Pakistan Super League}}
+{{Use Pakistani English|date=January 2026}}
+{{Use dmy dates|date=March 2026}}
+{{Infobox sports draft
+| name = 2026 Pakistan Super League players auction
+| sport = [[Cricket]]
+| dates = 11 February 2026
+| time = 
+| location = 
+| network = 
+| overall = 
+| rounds = 
+| league = [[2026 Pakistan Super League]]
+| teams = 8
+| fewest = 
+| most = 
+| prev = [[2025 Pakistan Super League players draft|2025]]
+| next = 2027
+}}
+The player auction for the [[2026 Pakistan Super League]] was held on 11 February 2026 in [[Lahore]]. It was the first time in PSL history that selection was done through a [[player auction]] system for the eleventh season, replacing the [[Draft (sports)|draft method]] that had been used since the league began in [[2016 Pakistan Super League players draft|2016]].<ref name="tribune1">{{Cite news |date=25 November 2025 |title=PCB announces HBL PSL XI players auction on Feb 11 |url=https://tribune.com.pk/story/2588987/p |work=The Express Tribune |access-date=28 January 2026}}</ref><ref name="Dawn2" />
+
+==Background==
+Ahead of the 2026 season, the PSL expanded from six to eight teams following the auction of two new franchises [[Hyderabad Kingsmen]] and [[Rawalpindiz]].<ref name=schedule>{{cite news |url=https://www.geonewsurdu.tv/latest/429611 |title={{Nq|پاکستان سپر لیگ 11 کے شیڈول کا اعلان کردیا گیا}} |date=10 March 2026 |accessdate=10 March 2026 |author={{Nq|سہیل عمران}} |publisher=Geo News |language=ur}}</ref><ref>{{cite news |url=https://jang.com.pk/news/1565670 |title={{Nq|ٹیم 'پنڈیز' نے سوشل میڈیا اکاؤنٹس پر نام 'راولپنڈیز' کردیا}} |date=17 March 2026 |accessdate=18 March 2026 |work=Daily Jang |author={{Nq|فیضان لاکھانی}}}}</ref> The [[Pakistan Cricket Board]], along with all eight franchises, agreed to replace the draft system with a player auction starting from the 11th season, allowing franchises to bid openly for players for the first time in PSL history.<ref name="tribune1" /><ref name="BR1">{{Cite news |title=HBL PSL announces major structural reforms |url=https://www.brecorder.com/news/40403015 |website=[[Business Recorder]] |author=Muhammad Saleem |date=20 January 2026 |access-date=28 January 2026}}</ref>
+
+Previously, since its inaugural season in 2016, the PSL had been using a player draft system to form team squads till the ten seasons. Under this system, players were grouped into fixed categories (Platinum, Gold, Silver etc), and franchises selected players in a set order rather than through open bidding.<ref>{{cite news |title=Ramiz Raja wants PSL to move from draft to auction |url=https://www.espncricinfo.com/story/pcb-chairman-ramiz-raja-wants-psl-to-move-from-draft-to-auction-1305561 |author=Danyal Rasool |website=ESPNcricinfo |date=14 March 2022 |accessdate=18 March 2026}}</ref>
+
+==Signing and auction rules==
+Team purse was capped at {{PKR|45.0 crore}} and allowed be extended to {{PKR|50.5 crore}} to allow direct signing of one foreign player who has not featured in previous season. All eight PSL franchises bid openly for players with all bids and minimum incremental increases in [[Pakistani rupee]]s. Players entered the auction with set base prices at four tiers:<ref name="DawnRules" /><ref name="ESPNRules" />
+* {{PKR|4.2 crore}}
+* {{PKR|2.2 crore}}
+* {{PKR|1.1 crore}}
+* {{PKR|0.6 crore}}
+Minimum bid increments vary by price level, with franchises free to bid above the prescribed minimum amounts. Franchises were allowed to select 16 to 20 players, including five to seven overseas players depending on squad size, and must include at least two uncapped Under‑23 players, with one featured in the playing XI. Players selected at the auction enter two‑year contracts with their franchises. Franchises may also directly sign one foreign player who did not play in the previous season outside of the auction process. These signings would be outside of team purse which can be extended to accommodate such direct signings.<ref name="DawnRules">{{Cite news |title=PCB announces player auctions for upcoming Pakistan Super League on Feb 11 |url=https://www.dawn.com/news/1969005 |website=[[Dawn (newspaper)|Dawn]] |date=25 January 2026 |access-date=28 January 2026}}</ref><ref name="ESPNRules">{{Cite news |title=PSL 2026 auction to take place on February 11 |url=https://www.espncricinfo.com/story/pakistan-news-psl-2026-auction-to-take-place-february-11-1520921 |author=Danyal Rasool |website=[[Cricinfo|ESPNcricinfo]] |access-date=28 January 2026 |date=25 January 2026}}</ref>
+
+Each franchise was allowed to retain a maximum of four players from its existing squad, limited to one player per category, if mutual agreements were reached before the auction. Previously, teams could retain up to eight players and had additional mechanisms such as the right‑to‑match (RTM) option, mentor roles, and brand ambassador places under the draft system. The PCB abolished the RTM option, mentor and brand ambassador provisions for PSL 11.<ref name="Dawn2">{{Cite news |title=Player auction model to replace draft system for PSL XI |url=https://www.dawn.com/news/1967839 |website=[[Dawn (newspaper)|Dawn]] |date=19 January 2026 |access-date=28 January 2026}}</ref>
+
+The two newly inducted franchises were permitted to pre‑select and retain up to four players each from the available pool before the main auction, to match the retention numbers of the existing six franchises.<ref name="Dawn2" /><ref name="DawnRules"/>
+
+==Retentions==
+Franchise were allowed to retain upto four players, one in each category before the auction, new franchises were allowed to sign four players to match the retentions of other six franchises.<ref name="Dawn2" /><ref name="DawnRules" />
+{| class="wikitable sortable"
+! Player Name
+! Category
+! Salary
+! Team{{efn|name=ms}}
+|-
+| [[Saim Ayub]] || Platinum || {{PKR|12.6 crore}} || [[Hyderabad Kingsmen]]
+|-
+| [[Shadab Khan]] || Platinum || {{PKR|7 crore}} || [[Islamabad United]]
+|-
+| [[Shaheen Shah Afridi]] || Platinum || {{PKR|7 crore}} || [[Lahore Qalandars]]
+|-
+| [[Babar Azam]] || Platinum || {{PKR|7 crore}} || [[Peshawar Zalmi]]
+|-
+| [[Abrar Ahmed (Pakistani cricketer)|Abrar Ahmed]] || Platinum || {{PKR|7 crore}} || [[Quetta Gladiators]]
+|-
+| [[Mohammad Nawaz (cricketer)|Mohammad Nawaz]] || Platinum || {{PKR|6.16 crore}} || [[Multan Sultans]]
+|-
+| [[Usman Tariq]] || Diamond || {{PKR|5.6 crore}} || [[Quetta Gladiators]]
+|-
+| [[Mohammad Rizwan]] || Platinum || {{PKR|5.6 crore}} || [[Rawalpindiz]]
+|-
+| [[Hasan Ali (cricketer)|Hassan Ali]] || Platinum || {{PKR|4.76 crore}} || [[Karachi Kings]]
+|-
+| [[Usman Khan (cricketer)|Usman Khan]] || Diamond || {{PKR|4.62 crore}} || [[Hyderabad Kingsmen]]
+|-
+| [[Sufiyan Muqeem]] || Diamond || {{PKR|4.4 crore}} || [[Peshawar Zalmi]]
+|-
+| [[Hassan Nawaz (cricketer)|Hassan Nawaz]] || Gold || {{PKR|3.92 crore}} || [[Quetta Gladiators]]
+|-
+| [[Salman Mirza]] || Diamond || {{PKR|3.92 crore}} || [[Multan Sultans]]
+|-
+| [[Khushdil Shah]] || Gold || {{PKR|3.36 crore}} || [[Karachi Kings]]
+|-
+| [[Abbas Afridi (cricketer)|Abbas Afridi]] || Diamond || {{PKR|3.08 crore}} || [[Karachi Kings]]
+|-
+| [[Sam Billings]] || Diamond || {{PKR|3.08 crore}} || [[Rawalpindiz]]
+|-
+| [[Sikandar Raza]] || Gold || {{PKR|2.8 crore}} || [[Lahore Qalandars]]
+|-
+| [[Abdul Samad (Pakistani cricketer)|Abdul Samad]] || Gold || {{PKR|2.8 crore}} || [[Peshawar Zalmi]]
+|-
+| [[Ahmed Daniyal]] || Gold || {{PKR|2.24 crore}} || [[Multan Sultans]]
+|-
+| [[Abdullah Shafique]] || Diamond || {{PKR|2.2 crore}} || [[Lahore Qalandars]]
+|-
+| [[Akif Javed]] || Gold || {{PKR|1.96 crore}} || [[Hyderabad Kingsmen]]
+|-
+| [[Ali Raza (cricketer, born 2008)|Ali Raza]] || Emerging || {{PKR|1.96 crore}} || [[Peshawar Zalmi]]
+|-
+| [[Andries Gous]] || Silver || {{PKR|1.4 crore}} || [[Islamabad United]]
+|-
+| [[Salman Irshad]] || Gold || {{PKR|1.2 crore}} || [[Islamabad United]]
+|-
+| [[Zaman Khan]] || Gold || {{PKR|1.12 crore}} || [[Rawalpindiz]]
+|-
+| [[Shamyl Hussain]] || Emerging || {{PKR|84 lakh}} || [[Quetta Gladiators]]
+|-
+| [[Saad Masood]] || Emerging || {{PKR|84 lakh}} || [[Multan Sultans]]
+|-
+| [[Mohammad Naeem (cricketer, born 1999)|Mohammad Naeem]] || Silver || {{PKR|70 lakh}} || [[Lahore Qalandars]]
+|-
+| [[Saad Baig]] || Emerging || {{PKR|60 lakh}} || [[Karachi Kings]]
+|-
+| [[Yasir Khan]] || Emerging || {{PKR|60 lakh}} || [[Rawalpindiz]]
+|}
+
+Sources:<ref name="LQ + QG">{{cite news |author=Sher Alam |title=Lahore Qalandars Announce Retentions for PSL 11 |url=https://propakistani.pk/2026/02/03/lahore-qalandars-announce-retentions-for-psl-11/ |website=ProPakistani |date=3 February 2026 |accessdate=18 March 2026}}</ref>
+
+==Direct signings==
+Teams were allowed to directly sign one foreign player before the auction who has not played in the previous season on PSL.<ref name="ESPNRules" /> These signings were outside of the team purse and were up to PKR 55m.<ref name="DawnRules" /><ref name="Ret55m">{{cite news |title=Peshawar Zalmi confirm Babar Azam's retention price |url=https://a-sports.tv/peshawar-zalmi-confirm-babar-azam-retention-price |publisher=[[A Sports]] |date=4 February 2026 |accessdate=18 March 2026}}</ref>
+{| class="wikitable sortable"
+! Player Name
+! Salary
+! Team{{efn|name=ms}}
+|-
+| [[Steve Smith (cricketer)|Steve Smith]] || {{PKR|14 crore}} || [[Multan Sultans]]
+|-
+| [[Moeen Ali]] || {{PKR|6.44 crore}} || [[Karachi Kings]]
+|-
+| [[Mustafizur Rahman]] || {{PKR|6.44 crore}} || [[Lahore Qalandars]]
+|-
+| [[Devon Conway]] || {{PKR|6.3 crore}} || [[Islamabad United]]
+|-
+| [[Aaron Hardie]] || {{PKR|6.3 crore}} || [[Peshawar Zalmi]]
+|-
+| [[Marnus Labuschagne]] || {{PKR|5.88 crore}} || [[Hyderabad Kingsmen]]
+|-
+| [[Alzarri Joseph]] || {{PKR|5.6 crore}} || [[Quetta Gladiators]]
+|}
+
+Sources:<ref name="SS"/>
+
+==Auction==
+The auction for the full squad was held on 11 February 2026 at [[Lahore]].<ref name="tribune1" /> 888 players including local and foreign registered for the auction at 4 different base prices.<ref name="Wisden1">{{cite news |title=PSL 2026 Auction: Full List Of Players With Base Price For Pakistan Super League Auction |url=https://www.wisden.com/series/psl-2026/cricket-news/psl-2026-auction-full-list-of-players-with-base-price-for-pakistan-super-league-auction |work=Wisden |date=10 February 2026 |accessdate=18 March 2026}}</ref>
+{| class="wikitable sortable"
+! Player Name
+! Base price (PKR)
+! Sold price (PKR)
+! Team{{efn|name=ms|The franchise [[Multan Sultans]] lost their previous owners, thus new owners signed-in who had initially named the team after [[Sialkot]] city before rebranding to [[Multan]] city.<ref>{{cite news |author=Mohammad Yaqoob |title=Multan Sultans return to PSL at Sialkot's expense |url=https://www.dawn.com/news/1978171 |work=Dawn |date=4 March 2026 |accessdate=5 March 2026 |archive-date=7 March 2026 |archive-url=https://web.archive.org/web/20260307145430/https://www.dawn.com/news/1978171 |url-status=live }}</ref> Their salary cap was also increased by {{PKR|1.2 crore}} to allow a squad of 22 players, as compared to the other squads with only 20 players.<ref>{{cite news |author=Sher Alam |title=Multan Sultans Given Special Salary Cap Ahead of PSL 11 Transfer Window |url=https://propakistani.pk/2026/03/12/multan-sultans-given-special-salary-cap-ahead-of-psl-11-transfer-window/ |website=ProPakistani |date=12 March 2026 |accessdate=18 March 2026}}</ref>}}
+|-
+| [[Faheem Ashraf]] || {{PKR|4.2 crore}} || {{PKR|8.5 crore}} ||[[Islamabad United]] 
+|-
+| [[David Warner (cricketer)|David Warner]] || {{PKR|4.2 crore}} || {{PKR|7.9 crore}} ||[[Karachi Kings]]
+|-
+| [[Rilee Rossouw]] || {{PKR|4.2 crore}} || {{PKR|5.5 crore}}||[[Quetta Gladiators]] 
+|-
+| [[Mohammad Ali (cricketer, born 1992)|Mohammad Ali]] || {{PKR|1.1 crore}} || {{PKR|2.15 crore}} ||[[Hyderabad Kingsmen]]
+|-
+| [[Haris Rauf]] || {{PKR|4.2 crore}} || {{PKR|7.6 crore}} ||[[Lahore Qalandars]] 
+|-
+| [[Naseem Shah]] || {{PKR|4.2 crore}} || {{PKR|8.65 crore}} ||[[Rawalpindiz]] 
+|-
+| [[Azam Khan (cricketer, born 1998)|Azam Khan]] || {{PKR|1.1 crore}} || {{PKR|3.65 crore}} ||[[Karachi Kings]] 
+|-
+| [[Sahibzada Farhan]] || {{PKR|4.2 crore}} || {{PKR|5.7 crore}} ||[[Multan Sultans]] 
+|-
+| [[Rishad Hossain]] || {{PKR|1.1 crore}} || {{PKR|1.1 crore}} ||[[Rawalpindiz]] 
+|-
+| [[Mehran Mumtaz]] || {{PKR|60 lakh}} || {{PKR|1.2 crore}} || [[Islamabad United]] 
+|-
+| [[Faisal Akram]] || {{PKR|1.1 crore}} || {{PKR|1.25 crore}} ||[[Quetta Gladiators]] 
+|-
+| [[Aamir Jamal]] || {{PKR|1.1 crore}} || {{PKR|1.9 crore}} ||[[Peshawar Zalmi]] 
+|-
+| [[Arafat Minhas]] || {{PKR|1.1 crore}} || {{PKR|1.1 crore}} ||[[Quetta Gladiators]] 
+|-
+| [[Usama Mir]] || {{PKR|2.2 crore}} || {{PKR|3.5 crore}} ||[[Lahore Qalandars]] 
+|-
+| [[Jahandad Khan (cricketer)|Jahandad Khan]] || {{PKR|1.1 crore}} || {{PKR|2.5 crore}} ||[[Quetta Gladiators]] 
+|-
+| [[Salman Ali Agha]] || {{PKR|4.2 crore}} || {{PKR|5.85 crore}} ||[[Karachi Kings]] 
+|-
+| [[Fakhar Zaman (cricketer)|Fakhar Zaman]] || {{PKR|4.2 crore}} || {{PKR|7.95 crore}} ||[[Lahore Qalandars]] 
+|-
+| [[Daryl Mitchell (New Zealand cricketer)|Daryl Mitchell]] || {{PKR|4.2 crore}} || {{PKR|8.05 crore}} ||[[Rawalpindiz]] 
+|-
+| [[Max Bryant]] || {{PKR|60 lakh}} || {{PKR|1.95 crore}} ||[[Islamabad United]] 
+|-
+| [[Khurram Shahzad (Pakistani cricketer, born 1999)|Khurram Shahzad]] || {{PKR|1.1 crore}} || {{PKR|2.7 crore}} ||[[Peshawar Zalmi]] 
+|-
+| [[Mohammad Amir]] || {{PKR|4.2 crore}} || {{PKR|5.4 crore}} ||[[Rawalpindiz]] 
+|-
+| [[Ubaid Shah]] || {{PKR|60 lakh}} || {{PKR|2.7 crore}} ||[[Lahore Qalandars]] 
+|-
+| [[Kusal Perera]] || {{PKR|2.2 crore}} || {{PKR|3.1 crore}} ||[[Hyderabad Kingsmen]] 
+|-
+| [[Mohammad Haris]] || {{PKR|1.1 crore}} || {{PKR|2.2 crore}} ||[[Peshawar Zalmi]] 
+|-
+| [[Khawaja Nafay]] || {{PKR|1.1 crore}} || {{PKR|6.5 crore}} ||[[Quetta Gladiators]] 
+|-
+| [[Haseebullah Khan]] || {{PKR|1.1 crore}} || {{PKR|1.1 crore}} ||[[Lahore Qalandars]] 
+|-
+| [[Shahid Aziz]] || {{PKR|60 lakh}} || {{PKR|92.5 lakh}} ||[[Karachi Kings]] 
+|-
+| [[Irfan Khan Niazi]] || {{PKR|1.1 crore}} || {{PKR|2.9 crore}} ||[[Hyderabad Kingsmen]] 
+|-
+| [[Abdullah Fazal]] || {{PKR|60 lakh}} || {{PKR|67.5 lakh}} ||[[Rawalpindiz]] 
+|-
+| [[Mark Chapman (cricketer)|Mark Chapman]] || {{PKR|4.2 crore}} || {{PKR|7 crore}} ||[[Islamabad United]] 
+|-
+| [[Ashton Turner]] || {{PKR|4.2 crore}} || {{PKR|4.2 crore}} ||[[Multan Sultans]] 
+|-
+| [[Mohammad Wasim Jr.]] || {{PKR|2.2 crore}} || {{PKR|4.1 crore}} ||[[Islamabad United]] 
+|-
+| [[Mir Hamza]] || {{PKR|1.1 crore}} || {{PKR|2.4 crore}} ||[[Karachi Kings]] 
+|-
+| [[Adam Zampa]] || {{PKR|4.2 crore}} || {{PKR|4.5 crore}} ||[[Karachi Kings]] 
+|-
+| [[Peter Siddle]] || {{PKR|2.2 crore}} || {{PKR|2.5 crore}} ||[[Multan Sultans]] 
+|-
+| [[Tabraiz Shamsi]] || {{PKR|2.2 crore}} || {{PKR|2.2 crore}} ||[[Multan Sultans]] 
+|-
+| [[Amad Butt]] || {{PKR|60 lakh}} || {{PKR|80 lakh}} ||[[Rawalpindiz]] 
+|-
+| [[Wasim Akram Jr.]] || {{PKR|60 lakh}} || {{PKR|62 lakh}} ||[[Quetta Gladiators]] 
+|-
+| [[Khan Zaib]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Quetta Gladiators]] 
+|-
+| [[Mir Hamza Sajjad]] || {{PKR|60 lakh}} || {{PKR|70 lakh}} ||[[Islamabad United]] 
+|-
+| [[Mohammad Hamza Sohail]] || {{PKR|60 lakh}} || {{PKR|62.5 lakh}} ||[[Karachi Kings]] 
+|-
+| [[Bismillah Khan]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Quetta Gladiators]] 
+|-
+| [[Khalid Usman]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Peshawar Zalmi]] 
+|-
+| [[Aqib Ilyas]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Karachi Kings]] 
+|-
+| [[Mohammad Farooq (cricketer)|Mohammad Farooq]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Lahore Qalandars]] 
+|-
+| [[Sameer Minhas]] || {{PKR|60 lakh}} || {{PKR|1.9 crore}} ||[[Islamabad United]] 
+|-
+| [[Saqib Khan]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Quetta Gladiators]] 
+|-
+| [[Sameen Gul]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Islamabad United]] 
+|-
+| [[Abdul Subhan]] || {{PKR|60 lakh}} || {{PKR|62.5 lakh}} ||[[Peshawar Zalmi]] 
+|-
+| [[Brett Hampton]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Quetta Gladiators]] 
+|-
+| [[Hassan Khan (cricketer)|Hassan Khan]] || {{PKR|1.1 crore}} || {{PKR|1.85 crore}} ||[[Hyderabad Kingsmen]] 
+|-
+| [[Shayan Jahangir]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Hyderabad Kingsmen]] 
+|-
+| [[Samuel Sharpe (cricketer)|Samuel Harper]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Quetta Gladiators]] 
+|-
+| [[Shamar Joseph]] || {{PKR|1.1 crore}} || {{PKR|1.1 crore}} ||[[Islamabad United]] 
+|-
+| [[Bevon Jacobs]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Quetta Gladiators]] 
+|-
+| [[Lachlan Shaw (cricketer)|Lachlan Shaw]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Multan Sultans]] 
+|-
+| [[Delano Potgieter]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Multan Sultans]] 
+|-
+| [[Khuzaima Bin Tanveer]] || {{PKR|60 lakh}} || {{PKR|90 lakh}} ||[[Karachi Kings]] 
+|-
+| [[Ottniel Baartman]] || {{PKR|1.1 crore}} || {{PKR|1.1 crore}} ||[[Hyderabad Kingsmen]] 
+|-
+| [[Hammad Azam]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Hyderabad Kingsmen]]
+ |-
+| [[James Vince]] || {{PKR|2.2 crore}} || {{PKR|3 crore}} ||[[Peshawar Zalmi]] 
+|-
+| [[Riley Meredith]] || {{PKR|4.2 crore}} || {{PKR|4.2 crore}} ||[[Hyderabad Kingsmen]] 
+|-
+| [[Michael Bracewell (cricketer)|Michael Bracewell]] || {{PKR|4.2 crore}} || {{PKR|4.2 crore}} ||[[Peshawar Zalmi]] 
+|-
+| [[Dasun Shanaka]] || {{PKR|60 lakh}} || {{PKR|75 lakh}} ||[[Lahore Qalandars]] 
+|-
+| [[Kusal Mendis]] || {{PKR|2.2 crore}} || {{PKR|4.2 crore}} ||[[Peshawar Zalmi]] 
+|-
+| [[Imad Wasim]] || {{PKR|2.2 crore}} || {{PKR|2.2 crore}} ||[[Islamabad United]] 
+|-
+| [[Richard Gleeson]] || {{PKR|1.1 crore}} || {{PKR|1.1 crore}} ||[[Islamabad United]] 
+|-
+| [[Johnson Charles]] || {{PKR|1.1 crore}} || {{PKR|2 crore}} ||[[Karachi Kings]] 
+|-
+| [[Iftikhar Ahmed (cricketer)|Iftikhar Ahmed]] || {{PKR|60 lakh}} || {{PKR|1.8 crore}} ||[[Peshawar Zalmi]] 
+|-
+| [[Josh Philippe]] || {{PKR|1.1 crore}} || {{PKR|2.3 crore}} ||[[Multan Sultans]] 
+|-
+| [[Saud Shakeel]] || {{PKR|60 lakh}} || {{PKR|65 lakh}} ||[[Quetta Gladiators]] 
+|-
+| [[Shan Masood]] || {{PKR|60 lakh}} || {{PKR|65 lakh}} ||[[Multan Sultans]] 
+|-
+| [[Dian Forrester]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Rawalpindiz]] 
+|-
+| [[Ben McDermott]] || {{PKR|1.1 crore}} || {{PKR|1.1 crore}} ||[[Quetta Gladiators]] 
+|-
+| [[Muhammad Waseem (cricketer)|Muhammad Waseem]] || {{PKR|1.1 crore}} || {{PKR|1.1 crore}} ||[[Karachi Kings]] 
+|-
+| [[Laurie Evans]] || {{PKR|1.1 crore}} || {{PKR|1.1 crore}} ||[[Rawalpindiz]] 
+|-
+| [[Nahid Rana]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Peshawar Zalmi]] 
+|-
+| [[Parvez Hossain]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Lahore Qalandars]] 
+|-
+| [[Asif Afridi]] || {{PKR|60 lakh}} || {{PKR|2.4 crore}} ||[[Rawalpindiz]]
+|-
+| [[Asif Ali (cricketer, born 1991)|Asif Ali]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Lahore Qalandars]]
+|-
+| [[Haider Ali (cricketer, born 2000)|Haider Ali]] || {{PKR|60 lakh}} || {{PKR|1.5 crore}} ||[[Islamabad United]]
+|-
+| [[Hussain Talat]] || {{PKR|60 lakh}} || {{PKR|77.5 lakh}} ||[[Lahore Qalandars]]
+|-
+| [[Ihsanullah]] || {{PKR|60 lakh}} || {{PKR|1.05 crore}} ||[[Karachi Kings]]
+|-
+| [[Kamran Ghulam]] || {{PKR|60 lakh}} || {{PKR|65 lakh}} ||[[Rawalpindiz]]
+|-
+| [[Mohammad Hasnain]] || {{PKR|60 lakh}} || {{PKR|77.5 lakh}} ||[[Lahore Qalandars]]
+|-
+| [[Sharjeel Khan]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Hyderabad Kingsmen]]
+|-
+| [[Tayyab Tahir]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Lahore Qalandars]]
+|-
+| [[Dipendra Singh Airee]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Islamabad United]] 
+|-
+| [[Asif Mehmood (cricketer)|Asif Mehmood]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Hyderabad Kingsmen]]
+|-
+| [[Fawad Ali]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Rawalpindiz]]
+|-
+| [[Hunain Shah]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Hyderabad Kingsmen]]
+|-
+| [[Mohammad Amir Khan (cricketer)|Mohammad Amir Khan]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Rawalpindiz]]
+|-
+| [[Momin Qamar]] || {{PKR|60 lakh}} || {{PKR|1.075 crore}} ||[[Multan Sultans]]
+|-
+| [[Muhammad Awais Zafar]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Multan Sultans]]
+|-
+| [[Rizwan Mehmood]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Hyderabad Kingsmen]]
+|-
+| [[Shahzaib Khan]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Rawalpindiz]]
+|-
+| [[Tom Curran (cricketer)|Tom Curran]] || {{PKR|4.2 crore}} || {{PKR|4.2 crore}} ||[[Quetta Gladiators]]
+|-
+| [[Gudakesh Motie]] || {{PKR|1.1 crore}} || {{PKR|1.1 crore}} ||[[Lahore Qalandars]]
+|-
+| [[Mirza Tahir Baig]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Peshawar Zalmi]]
+|-
+| [[Saad Ali]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Hyderabad Kingsmen]]
+|-
+| [[Rizwanullah]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Karachi Kings]]
+|-
+| [[Tayyab Arif]] || {{PKR|60 lakh}} || {{PKR|60 lakh}} ||[[Hyderabad Kingsmen]]
+|}
+
+Sources:<ref>{{cite news |title=PSL Auction 2026 Live Updates: Karachi sign David Warner, Rawalpindi get Naseem Shah |url=https://www.espncricinfo.com/live-blog/psl-auction-live-updates-new-franchises-retained-players-purses-and-everything-else-1523384 |access-date=11 February 2026 |date=11 February 2026 |website=ESPNcricinfo |author=Danyal Rasool}}</ref><ref>{{cite news |title=PSL 2026 auction, live updates: Players sold, unsold, latest purse and complete Pakistan Super League squads |url=https://www.wisden.com/series/psl-2026/cricket-news/psl-2026-auction-live-updates-players-sold-unsold-latest-purse-and-complete-pakistan-super-league-squads |website=Wisden |accessdate=18 March 2026 |date=11 February 2026}}</ref>
+
+==Transfer and Trade==
+
+==Coaching staff==
+{| class="wikitable sortable"
+! Role
+! Islamabad United
+! Karachi Kings
+! Kingsmen Hyderabad
+! Lahore Qalandars
+! Peshawar Zalmi
+! Quetta Gladiators
+! Multan Sultans{{efn|name=ms}}
+! Rawalpindi Pindiz
+|-
+| Team Manager
+| Rehan ul Haq || Haider Azhar || || Sameen Rana || Ahad Khan || [[Azam Khan (cricketer, born 1998)|Azam Khan]] || || Hassan Cheema 
+|-
+| Head coach
+| [[Luke Ronchi]] || [[Ravi Bopara]] || [[Jason Gillespie]] || [[Russell Domingo]] ||[[Ottis Gibson]] || [[Moin Khan]] || [[Tim Paine]]<ref name="SS">{{cite news |last1= |first1= |title=Sialkot Stallionz sign Australia's Steve Smith for PSL 11 |url=https://www.geo.tv/latest/648769 |publisher=Geo News |date=3 February 2026 |accessdate=18 March 2026}}</ref>
+|
+|-
+| Assistant coach
+| [[Jacob Oram]] || || [[Craig White]] || ||[[Azhar Mahmood]]|| || ||
+|-
+| Batting coach
+| || || || ||[[Misbah-ul-Haq]]||[[Iqbal Imam]] || ||
+|-
+| Bowling coach
+| || || || ||[[Azhar Mehmood]] || [[Wahab Riaz]]|| || 
+|-
+| Fielding coach
+| || || [[Grant Bradburn]] || || || || ||
+|-
+| Analyst
+| || || Freddie Wilde || || || || ||
+|}
+
+Sources:<ref>{{cite news |title=Gillespie named head coach of Hyderabad franchise in PSL 2026 |url=https://www.espncricinfo.com/story/psl-2026-jason-gillespie-named-head-coach-of-hyderabad-franchise-1521361 |website=ESPNcricinfo |author=Danyal Rasool |date=28 January 2026 |accessdate=18 March 2026}}</ref><ref>{{cite news |title=Grant Bradburn joins Hyderabad coaching staff |publisher=ARY News |url=https://arynews.tv/grant-bradburn-joins-hyderabad-coaching-staff |date=29 January 2026 |accessdate=18 March 2026}}</ref>{{clarify|date=March 2026}}
+
+==Withdrawn players==
+{| class="wikitable sortable"
+! Player
+! Team
+! class=unsortable|Reason
+! Replaced by
+! Ref.
+|-
+|{{flagicon|AFG|2013}} [[Rahmanullah Gurbaz]] || [[Peshawar Zalmi]] || Personal commitment ||{{flagicon|AUS}} [[Aaron Hardie]] ||align=center|<ref>{{cite news |title=PSL 11: Peshawar Zalmi Rope in Aaron Hardie as Gurbaz Replacement |work=Tapmad TV |url=https://www.tapmad.com/blog/peshawar-zalmi-sign-aaron-hardie-for-psl-2026-season/3526-5-0 |date=10 February 2026 |access-date=16 April 2026}}</ref>
+|-
+|{{flagicon|WIN}} [[Shamar Joseph]] || [[Islamabad United]] || Under mutual consent ||{{flagicon|ZIM}} [[Blessing Muzarabani]] ||align=center|<ref>{{cite news |author=Danyal Rasool |date=14 February 2026 |title=Islamabad United replace Shamar Joseph with Blessing Muzarabani |website=[[Cricinfo|ESPNcricinfo]] |url=https://www.espncricinfo.com/story/psl-2026-islamabad-united-replace-shamar-joseph-with-blessing-muzarabani-1524072 |access-date=16 April 2026}}</ref>
+|-
+|{{flagicon|WIN}} [[Gudakesh Motie]] || [[Lahore Qalandars]] || Travel Issues & Fatigue ||{{flagicon|SRI}} [[Dunith Wellalage]] ||align=center|<ref>{{cite news |title=Lahore Qalandars sign Wellalage |work=[[List of newspapers in Sri Lanka|The Morning]] |date=16 March 2026 |url=https://www.themorning.lk/articles/VChMPhEE5dWmA5k3lqZ8 |access-date=16 April 2026}}</ref>
+|-
+|{{flagicon|ZIM}} [[Blessing Muzarabani]] || [[Islamabad United]] || To play [[2026 IPL]] ||{{flagicon|UAE}} [[Muhammad Jawadullah]] ||align=center|
+|-
+|{{flagicon|AUS}} [[Spencer Johnson (cricketer)|Spencer Johnson]] || [[Quetta Gladiators]] || To play [[2026 IPL]] ||{{flagicon|USA}} [[Ali Khan (American cricketer)|Ali Khan]] ||align=center|
+|-
+|{{flagicon|SRI}} [[Dasun Shanaka]] || [[Lahore Qalandars]] || To play [[2026 IPL]] ||{{flagicon|AUS}} [[Daniel Sams]] ||align=center|<ref>{{cite news |title=Qalandars secure Daniel Sams as replacement for Shanaka |work=[[The News (Pakistan)|The News Pakistan]] |date=23 March 2026 |url=https://www.thenews.pk/print/1405678-qalandars-secure-daniel-sams-as-replacement-for-shanaka |access-date=16 April 2026}}</ref>
+|-
+|{{flagicon|RSA}} [[Ottniel Baartman]] || [[Hyderabad Kingsmen]] ||  ||{{flagicon|SRI}} [[Maheesh Theekshana]] ||align=center|<ref>{{cite news |title=Hyderabad Kingsmen sign star Sri Lanka spinner for PSL 11 |work=[[A Sports]] |date=25 March 2026 |url=https://a-sports.tv/hyderabad-kingsmen-sign-star-sri-lanka-spinner-for-psl-11 |access-date=16 April 2026}}</ref>
+|-
+|{{flagicon|AUS}} [[Jake Fraser-McGurk]] || [[Rawalpindiz]] || Personal commitments ||{{flagicon|NZL}} [[Cole McConchie]] ||align=center|<ref>{{cite news |title=Rawalpindiz announce Jake Fraser-McGurk's replacement for PSL 11 |work=[[Geo Super]] |date=23 March 2026 |url=https://www.geosuper.tv/latest/54506-rawalpindiz-announce-jake-fraser-mcgurks-replacement-for-psl-11 |access-date=16 April 2026}}</ref>
+|-
+|{{flagicon|BAN}} [[Parvez Hossain Emon]] || [[Lahore Qalandars]] || Shoulder injury || {{flagicon|SRI}} [[Charith Asalanka]] ||align=center|<ref>{{cite news |title=Lahore Qalandars sign Charith Asalanka to replace injured Parvez Hossain in PSL 11 |work=[[Pakistan Today]] |url=https://www.pakistantoday.com.pk/2026/04/12/lahore-qalandars-sign-charith-asalanka-to-replace-injured-parvez-hossain-in-psl-11 |date=12 April 2026 |access-date=16 April 2026}}</ref>
+|-
+|{{flagicon|NZL}} [[Bevon Jacobs]] || [[Quetta Gladiators]] || National duty ||{{flagicon|SRI}} [[Dinesh Chandimal]] ||align=center|<ref>{{cite news |title=Dinesh Chandimal Joins Quetta Gladiators as Replacement for Bevon Jacobs in PSL Boost |work=Sri Lankan Sports TV |url=https://srilankansportstv.com/dinesh-chandimal-joins-quetta-gladiators-as-replacement-in-psl-2026/ |access-date=16 April 2026}}</ref>
+|-
+|{{flagicon|UAE}} [[Muhammad Waseem (cricketer)|Muhammad Waseem]] || [[Karachi Kings]] || National duty ||{{flagicon|ENG}} [[Jason Roy]] ||align=center|<ref>{{cite news |title=Karachi Kings sign Jason Roy as replacement for Muhammad Waseem |work=[[ESPN]] |url=https://www.espn.in/cricket/story/_/id/48495519/psl-2026-karachi-kings-sign-jason-roy-replacement-muhammad-waseem |date=15 April 2026 |access-date=16 April 2026}}</ref>
+|-
+|{{flagicon|NEP}} [[Dipendra Singh Airee]] || [[Islamabad United]] || National duty ||{{flagicon|SRI}} [[Pavan Rathnayake]] ||align=center|<ref>{{cite news |title=Islamabad United Bring In Sri Lankan Star as Replacement for PSL 11 |work=Pro Pakistani |url=https://propakistani.pk/2026/04/18/islamabad-united-bring-in-sri-lankan-star-as-replacement-for-psl-11/ |date=18 April 2026 |access-date=20 April 2026}}</ref>
+|}
+
+==Footnotes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{YouTube|jv-Ymg6kISY|LIVE - HBL PSL 11 Player Auction 2026 in Lahore}}
+
+{{Pakistan Super League}}
+{{DEFAULTSORT:2026 Pakistan Super League players auction}}
+[[Category:February 2026 sports events in Asia]]
+[[Category:Cricket in Pakistan]]
+[[Category:Pakistan Super League player drafts]]
+[[Category:2026 Pakistan Super League|Auction]]

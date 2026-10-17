@@ -1,5 +1,5 @@
 // How much players are worth: a market price for everyone, and each AI franchise's private ceiling.
-import { maxAllowedBid, openSlots, overseasSlots, increment, SQUAD_MIN } from './rules.js';
+import { maxAllowedBid, openSlots, overseasSlots, increment, SQUAD_MIN, SQUAD_MAX, MIN_PRICE } from './rules.js';
 import { composition, teamStrength } from './squad.js';
 import { createRng, hash32 } from './rng.js';
 
@@ -7,10 +7,15 @@ import { createRng, hash32 } from './rng.js';
 // because auctions pay a premium for match-winners (70 is worth about ₹1.65 Cr, 75 about ₹3.5 Cr,
 // 80 about ₹7.7 Cr), then ₹1.8 Cr a point (85 about ₹16.7 Cr, 90 about ₹25.7 Cr).
 // Age matters too: franchises pay less for players past 33 and a little more for those 22 and under.
+// Leagues with smaller squads under the same cap pay more per player: career mode scales values to
+// each league's real fees (see js/engine/league.js).
+let VALUE_SCALE = 1;
+export function configureValuation({ valueScale = 1 }) { VALUE_SCALE = valueScale; }
+
 export function marketValue(p) {
   const age = p.age == null ? 1 : p.age >= 34 ? Math.max(0.45, 1 - (p.age - 33) * 0.1) : p.age <= 22 ? 1.1 : 1;
   const raw = p.ovr <= 80 ? 24.7 * Math.exp(0.17 * (p.ovr - 60)) : 740 + (p.ovr - 80) * 180;
-  return Math.max(p.base ?? 30, Math.round(30 + raw * age));
+  return Math.max(p.base ?? MIN_PRICE, Math.round(MIN_PRICE + raw * age * VALUE_SCALE));
 }
 
 export const DIFFICULTY = {
@@ -23,7 +28,8 @@ export const DIFFICULTY = {
 
 const ROLE_TARGET = { WK: 2, BAT: 6, AR: 6, BOWL: 8 };
 const TYPE_TARGET = { pace: 6, spin: 3 };
-export const AI_TARGET_SIZE = 25;
+// AI teams aim to fill the squad (the live binding follows the league's squad maximum).
+export { SQUAD_MAX as AI_TARGET_SIZE };
 
 // How much the team's strength rises if it adds this player.
 export function upgradeValue(team, p, players, baseStrength) {
@@ -50,16 +56,17 @@ export function needMultiplier(team, p, players, baseStrength, upgrade) {
 // More money chasing each open slot pushes every valuation up, as real auctions show.
 export function marketInflation(teams, openSlotsTotal) {
   const perSlot = teams.reduce((n, t) => n + t.purse, 0) / Math.max(1, openSlotsTotal);
-  return Math.pow(Math.min(2.5, Math.max(1, perSlot / 310)), 0.7);
+  // (Leagues whose slots are worth more already carry that in VALUE_SCALE.)
+  return Math.pow(Math.min(2.5, Math.max(1, perSlot / (310 * VALUE_SCALE))), 0.7);
 }
 
-export function aiCeiling(team, p, players, { seed, difficulty, baseStrength, phase = 'main', inflation = 1 }) {
+export function aiCeiling(team, p, players, { seed, difficulty, baseStrength, phase = 'main', inflation = 1, affinity = false }) {
   const d = DIFFICULTY[difficulty];
   if (openSlots(team) <= 0) return 0;
   if (p.overseas && overseasSlots(team, players) <= 0) return 0;
   const spendable = maxAllowedBid(team);
   if (spendable < p.base) return 0;
-  const toFill = Math.max(1, AI_TARGET_SIZE - team.squad.length);
+  const toFill = Math.max(1, SQUAD_MAX - team.squad.length);
   const rng = createRng(hash32(`${seed}:${team.id}:${p.id}`));
   const up = upgradeValue(team, p, players, baseStrength);
   // Squad depth: a player who would not make the XI is only worth about his reserve price.
@@ -74,7 +81,8 @@ export function aiCeiling(team, p, players, { seed, difficulty, baseStrength, ph
   const heat = Math.min(1.6, Math.max(0.85, 1 + (richness - 100) / 400));
   const noise = Math.max(0.3, 1 + rng.normal(0, d.noise));
   const shareCap = toFill <= 1 ? 1 : Math.min(1, Math.max(0.08, (p.ovr - 58) / 50) + d.pacing);
-  const value = marketValue(p) * inflation * need * heat * noise;
+  // affinity: the team's head coach has worked with this player before and wants him back.
+  const value = marketValue(p) * inflation * need * heat * noise * (affinity ? 1.15 : 1);
   // Franchises budget per slot: nobody spends more than about 5.5 times the money they have per open
   // slot on one player (KKR's ₹25.2 Cr for Green in 2026, Pant's ₹27 Cr record in 2025).
   const perSlotCap = toFill <= 1 ? spendable : (spendable / toFill) * 5.5 * (0.9 + noise * 0.1);
