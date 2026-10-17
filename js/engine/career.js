@@ -178,7 +178,10 @@ export function leaguePlayers(career, lg) {
     const c = career.contracts[lg][id];
     if (!c && !eligible(career, lg, id)) continue;
     const country = p.country === 'Wales' ? 'England' : p.country;
-    out[id] = { ...p, overseas: country !== L.home, team: c ? c.team : null, price: c ? c.price : null, releasedBy: p.releasedBy?.[lg] || null };
+    // Ratings on this league's scale (see league.js).
+    const off = L.ratingOffset || 0;
+    const bat = Math.min(99, Math.round(p.bat + off)), bowl = Math.min(99, Math.round(p.bowl + off));
+    out[id] = { ...p, bat, bowl, ovr: off ? D.overall(p.role, bat, bowl) : p.ovr, overseas: country !== L.home, team: c ? c.team : null, price: c ? c.price : null, releasedBy: p.releasedBy?.[lg] || null };
   }
   return out;
 }
@@ -306,6 +309,7 @@ export function finishAuction(career, ev, state) {
       C[id] = { team: t.id, price: fee[id] ?? before?.price ?? LEAGUES[ev.lg].minPrice, since: before && before.team === t.id ? before.since : ev.year };
     }
   }
+  fillShortSquads(career, ev.lg, ev.year);
   const top = state.sold.slice().sort((a, b) => b.price - a.price).slice(0, 3);
   if (top.length) news(career, { lg: ev.lg, text: `${LEAGUES[ev.lg].short} auction: ${top.map((s) => `${career.players[s.id].name} to ${s.team}`).join(', ')} were the biggest buys.`, money: top.map((s) => s.price) });
   career.pending = null;
@@ -801,31 +805,49 @@ const NAMES = {
   England: [['Rehan', 'Josh', 'Tom', 'Ollie', 'Ben', 'Harry', 'Archie', 'Freddie', 'Jamie', 'Will'], ['Haynes', 'Price', 'Kohler', 'Aldridge', 'Moore', 'Hughes', 'Pepper', 'Lavelle', 'Abbott', 'Crane']],
   India: [['Aarav', 'Vihaan', 'Arjun', 'Kabir', 'Reyansh', 'Ishaan', 'Advik', 'Rudra', 'Atharv', 'Krish', 'Dhruv', 'Yuvraj'], ['Sharma', 'Patel', 'Yadav', 'Singh', 'Reddy', 'Nair', 'Iyer', 'Chauhan', 'Desai', 'Kulkarni', 'Rawat', 'Thakur']],
 };
-const PROSPECTS_PER_YEAR = { India: 28, Pakistan: 12, 'South Africa': 10, England: 12 };
+// Each league's home country needs a steady supply: overseas limits mean most of every squad is local.
+const PROSPECTS_PER_YEAR = { India: 28, Pakistan: 18, 'South Africa': 20, England: 20 };
+
+// A fictional young (or, for domestic fill-ins, journeyman) player from `country`.
+function makePlayer(career, rng, country, { level = clamp(rng.normal(54, 6), 42, 72), age = rng.int(18, 21), role = null } = {}) {
+  const [first, last] = NAMES[country];
+  role = role || rng.weighted(['BAT', 'WK', 'AR', 'BOWL'], (r) => ({ BAT: 3, WK: 1, AR: 3, BOWL: 4 }[r]));
+  const bowlType = role === 'BOWL' || role === 'AR' ? (rng.next() < 0.4 ? 'spin' : 'pace') : null;
+  let bat, bowl;
+  if (role === 'BAT' || role === 'WK') { bat = level; bowl = 5; }
+  else if (role === 'BOWL') { bat = 12 + rng.next() * 10; bowl = level; }
+  else if (rng.next() < 0.5) { bat = level; bowl = level - 12; } else { bat = level - 12; bowl = level; }
+  bat = Math.round(bat); bowl = Math.round(bowl);
+  const bt = bowlType === 'pace' ? rng.pick(['RF', 'RFM', 'RFM', 'RM', 'LF', 'LFM']) : bowlType === 'spin' ? rng.pick(['OB', 'LB', 'SLA', 'LWS']) : null;
+  const pos = role === 'BOWL' ? ['tail'] : role === 'AR' ? (bat >= bowl ? ['middle', 'lower'] : ['lower']) : rng.pick([['top'], ['top', 'middle'], ['middle']]);
+  const id = `prospect-${career.date[0]}-${career.nextProspect++}`;
+  const p = { id, name: `${rng.pick(first)} ${rng.pick(last)}`, country, role, bowlType, bt, bs: null, br: [], bat, bowl, ovr: D.overall(role, bat, bowl), pos, age, capped: false, prospect: true, tenure: {}, bonds: {} };
+  p.loyal = personality(p);
+  career.players[id] = p;
+  return id;
+}
 
 function addProspects(career, rng) {
   const made = [];
-  for (const [country, n] of Object.entries(PROSPECTS_PER_YEAR)) {
-    const [first, last] = NAMES[country];
-    for (let i = 0; i < n; i++) {
-      const role = rng.weighted(['BAT', 'WK', 'AR', 'BOWL'], (r) => ({ BAT: 3, WK: 1, AR: 3, BOWL: 4 }[r]));
-      const level = clamp(rng.normal(54, 6), 42, 72);
-      const bowlType = role === 'BOWL' || role === 'AR' ? (rng.next() < 0.4 ? 'spin' : 'pace') : null;
-      let bat, bowl;
-      if (role === 'BAT' || role === 'WK') { bat = level; bowl = 5; }
-      else if (role === 'BOWL') { bat = 12 + rng.next() * 10; bowl = level; }
-      else if (rng.next() < 0.5) { bat = level; bowl = level - 12; } else { bat = level - 12; bowl = level; }
-      bat = Math.round(bat); bowl = Math.round(bowl);
-      const bt = bowlType === 'pace' ? rng.pick(['RF', 'RFM', 'RFM', 'RM', 'LF', 'LFM']) : bowlType === 'spin' ? rng.pick(['OB', 'LB', 'SLA', 'LWS']) : null;
-      const pos = role === 'BOWL' ? ['tail'] : role === 'AR' ? (bat >= bowl ? ['middle', 'lower'] : ['lower']) : rng.pick([['top'], ['top', 'middle'], ['middle']]);
-      const id = `prospect-${career.date[0]}-${career.nextProspect++}`;
-      const p = { id, name: `${rng.pick(first)} ${rng.pick(last)}`, country, role, bowlType, bt, bs: null, br: [], bat, bowl, ovr: D.overall(role, bat, bowl), pos, age: rng.int(18, 21), capped: false, prospect: true, tenure: {}, bonds: {} };
-      p.loyal = personality(p);
-      career.players[id] = p;
-      made.push(id);
-    }
-  }
+  for (const [country, n] of Object.entries(PROSPECTS_PER_YEAR)) for (let i = 0; i < n; i++) made.push(makePlayer(career, rng, country));
   return made;
+}
+
+// A squad still short of the league minimum after its auction signs local domestic players at the
+// minimum fee (real clubs do the same from their domestic system).
+function fillShortSquads(career, lg, year) {
+  const L = LEAGUES[lg];
+  withRng(career, (rng) => {
+    for (const t of career.teams[lg]) {
+      let n = teamSquad(career, lg, t.id).length;
+      while (n < L.squad.min) {
+        const id = makePlayer(career, rng, L.home === 'England' ? 'England' : L.home, { level: clamp(rng.normal(50, 4), 42, 58), age: rng.int(22, 30) });
+        career.players[id].prospect = false;
+        career.contracts[lg][id] = { team: t.id, price: L.minPrice, since: year };
+        n++;
+      }
+    }
+  });
 }
 
 function formBonus(st) {

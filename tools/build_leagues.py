@@ -184,12 +184,21 @@ def team_lookup(league):
     return m
 
 
+PSL_AUCTION = set()
+
+
 def parse_psl():
     text = raw_page('psl')
     squads = squad_table(text, '{{collapsed top|Squads}}', team_lookup('psl'), '{{collapsed bottom}}')
     # Fees in PKR crore → stored in PKR lakh (1 crore = 100 lakh).
     sig = raw_page('psl-signings')
     fees = {}
+    # Retention and direct-signing fees are flat by category; only auction prices say how good a player is.
+    auction = sig[sig.index('==Auction=='):sig.index('==Transfer')]
+    PSL_AUCTION.clear()
+    for row in re.split(r'\n\|-', auction):
+        m = LINK.search(row)
+        if m: PSL_AUCTION.add(norm(m.group(2) or m.group(1)))
     for row in re.split(r'\n\|-', sig):
         cells = [c.strip() for c in re.split(r'\n\||\|\|', row) if c.strip()]
         pk = re.findall(r'\{\{PKR\|([\d.]+) (crore|lakh)\}\}', row)
@@ -275,22 +284,26 @@ def ib_field(ib, key):
     return re.sub(r'<[^>]+>|\'\'+', '', v).strip()
 
 
+# Infoboxes show at most four formats. Test regulars (Rizwan, Root, Smith) often have no T20 column,
+# so their one-day numbers stand in for it, adjusted for the format (see features()).
+STATS_PREF = {'T20': 0, 'T20S': 0, 'T20I': 1, 'ODI': 2, 'LIST A': 3, 'LA': 3}
+
+
 def ib_stats(ib):
-    """T20 career line: prefer the 'T20' column, else T20I."""
-    best = None
+    """Best available limited-overs career line: T20, then T20I, then ODI, then List A."""
+    best, rank = None, 99
     for k in range(1, 5):
-        col = ib_field(ib, f'column{k}')
-        if col.upper() in ('T20', 'T20S') or (col.upper() == 'T20I' and best is None):
-            def num(f):
-                v = ib_field(ib, f'{f}{k}').replace(',', '').replace('*', '')
-                try:
-                    return float(v)
-                except ValueError:
-                    return None
-            rec = dict(col=col.upper(), m=num('matches'), runs=num('runs'), avg=num('bat avg'), wk=num('wickets'), bavg=num('bowl avg'))
-            if col.upper() in ('T20', 'T20S'):
-                return rec
-            best = rec
+        col = ib_field(ib, f'column{k}').upper().replace('ONE DAY INTERNATIONALS', 'ODI').replace('LIST A CRICKET', 'LIST A')
+        r = STATS_PREF.get(col)
+        if r is None or r >= rank:
+            continue
+        def num(f):
+            v = ib_field(ib, f'{f}{k}').replace(',', '').replace('*', '')
+            try:
+                return float(v)
+            except ValueError:
+                return None
+        best, rank = dict(col=col, m=num('matches'), runs=num('runs'), avg=num('bat avg'), wk=num('wickets'), bavg=num('bowl avg')), r
     return best
 
 
@@ -359,9 +372,11 @@ def features(stats):
     if not stats or not stats.get('m'):
         return [0, 0, 0, 0, 0]
     m = stats['m']
-    avg = stats.get('avg') or 0
-    wk = stats.get('wk') or 0
-    bavg = stats.get('bavg') or 40
+    oneday = stats['col'] in ('ODI', 'LIST A', 'LA')
+    # One-day averages run higher than T20 ones (more time to bat); bowling averages a little lower.
+    avg = (stats.get('avg') or 0) * (0.68 if oneday else 1)
+    wk = (stats.get('wk') or 0) * (0.85 if oneday else 1)
+    bavg = (stats.get('bavg') or 40) * (1.1 if oneday else 1)
     return [math.log1p(m), min(avg, 45), min(wk / m, 1.8), max(0, 36 - min(bavg, 60)) if wk >= 5 else 0, 1]
 
 
@@ -391,6 +406,23 @@ def fit(rows):
     for i in reversed(range(n)):
         w[i] = (b[i] - sum(A[i][c] * w[c] for c in range(i + 1, n))) / A[i][i]
     return w
+
+
+# Each league's fees, converted to the IPL scale, its value scale and its rating offset
+# (see js/engine/league.js: rate, valueScale, ratingOffset).
+FEE_SCALE = {'psl': (5050 / 12500, 1.75, 6.5), 'sa20': (41000 / 12500, 1.5, 4)}
+
+
+def fee_rating(lg, fee):
+    """The rating a fee implies, by inverting the game's value curve (js/engine/valuation.js)."""
+    if fee is None or lg not in FEE_SCALE:
+        return None
+    rate, scale, offset = FEE_SCALE[lg]
+    raw = (fee / rate - 30) / scale
+    if raw <= 5:
+        return None   # minimum fee: says nothing
+    r = 60 + math.log(raw / 24.7) / 0.17 if raw <= 740 else 80 + (raw - 740) / 180
+    return max(48, min(90, r - offset))   # back to the underlying (IPL-scale) rating
 
 
 def overall(role, bat, bowl):
@@ -430,6 +462,7 @@ def main():
                                               ('Fazalhaq Farooqi', 'Fazalhaq Farooqi'), ('Will Jacks', 'Will Jacks')]}
 
     leagues = {'psl': parse_psl(), 'sa20': parse_sa20(), 'hundred': parse_hundred()}
+    known_ids = {k['id'] for k in known.values()}
     titles = sorted({e['title'] for sq, _ in leagues.values() for es in sq.values() for e in es if e['title']})
     ib = fetch_infoboxes(titles) if '--fetch' in sys.argv or not os.path.exists(os.path.join(RAW, 'infoboxes.json')) else json.load(open(os.path.join(RAW, 'infoboxes.json')))
     if [t for t in titles if t not in ib] or '--refetch-empty' in sys.argv:
@@ -479,6 +512,17 @@ def main():
                     base = 50 + jitter(e['name'], 3)
                     bat = sum(a * b for a, b in zip(wbat, x)) if st and st.get('m') else base
                     bowl = sum(a * b for a, b in zip(wbowl, x)) if st and st.get('m') else base
+                    # One-day numbers flatter accumulators who score slowly in T20: cap what they can imply.
+                    if st and st['col'] in ('ODI', 'LIST A', 'LA'):
+                        bat = min(bat, 72)
+                    # What the club pays is a second opinion on the player's level (PSL and SA20 list fees).
+                    implied = fee_rating(lg, fee) if lg != 'psl' or norm(e['name']) in PSL_AUCTION else None
+                    if implied is not None:
+                        main = 'bat' if role in ('BAT', 'WK') or (role == 'AR' and bat >= bowl) else 'bowl'
+                        cur = bat if main == 'bat' else bowl
+                        new = 0.55 * cur + 0.45 * implied if st and st.get('m') else implied
+                        if main == 'bat': bat = new
+                        else: bowl = new
                     if role in ('BAT', 'WK'):
                         bowl = 8 + jitter(e['name'] + 'b', 6) if not bt else min(bowl, 30)
                     elif role == 'BOWL':
@@ -511,6 +555,16 @@ def main():
             k = max(0, target) / sum(shape.values())
             for c in unknown:
                 c['price'] = int(round((m['min'] + k * shape[c['id']]) / 5) * 5)
+
+    # Hand-checked ratings override the formula (tools/league_ratings.txt).
+    for line in open(os.path.join(ROOT, 'tools', 'league_ratings.txt')):
+        line = line.strip()
+        if not line or line.startswith('#'):
+            continue
+        name, role, bat, bowl = line.split('|')
+        for p in players.values():
+            if norm(p['name']) == norm(name) and p['id'] not in known_ids:
+                p.update(role=role, bat=int(bat), bowl=int(bowl), ovr=overall(role, int(bat), int(bowl)), pos=default_bands(role, int(bat), int(bowl)))
 
     # IPL: the real 2026 squads (retained + bought at the 2026 auction).
     ipl_players = {p['id']: p for p in json.load(open(os.path.join(ROOT, 'data', 'scenarios', 'ipl-2026', 'players.json')))}

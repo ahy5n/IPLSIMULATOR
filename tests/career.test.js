@@ -156,3 +156,22 @@ test('trade ideas: suggestions are deals the other side accepts and that help yo
   }
   activateLeague('ipl');
 });
+
+test('ratings: each league reads on its own scale, and Babar Azam is the PSL\'s top-rated player', () => {
+  const c = fresh();
+  activateLeague('psl');
+  const P = leaguePlayers(c, 'psl');
+  const top = Object.keys(c.contracts.psl).sort((a, b) => P[b].ovr - P[a].ovr)[0];
+  assert.equal(top, 'babar-azam', `top PSL player is ${P[top].name}`);
+  assert.equal(P['babar-azam'].bat, Math.round(c.players['babar-azam'].bat + LEAGUES.psl.ratingOffset));
+  activateLeague('ipl');
+  const I = leaguePlayers(c, 'ipl');
+  assert.equal(I['virat-kohli'].bat, c.players['virat-kohli'].bat, 'IPL ratings are the underlying scale');
+});
+
+test('calendar: the IPL\'s retentions, auction and season come before the PSL\'s; the SA20 off-season follows The Hundred', () => {
+  const key = (d) => d[0] * 10000 + d[1] * 100 + d[2];
+  for (const kind of ['retain', 'auction', 'season']) assert.ok(key(eventDate('ipl', kind, 2028)) < key(eventDate('psl', kind, 2028)), `IPL ${kind} first`);
+  const hundredEnd = [2027, ...LEAGUES.hundred.calendar.seasonEnd];
+  for (const kind of ['trade', 'retain', 'auction']) assert.ok(key(eventDate('sa20', kind, 2028)) > key(hundredEnd), `SA20 ${kind} after The Hundred`);
+});

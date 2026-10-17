@@ -23,7 +23,7 @@ export const LEAGUES = {
     cycle: { every: 3, last: 2025, megaMax: 6 },
     // Calendar (month, day). Retentions and the auction belong to next year's season.
     calendar: { retain: [11, 15], auction: [12, 16], season: [3, 28], seasonEnd: [5, 31], trade: [11, 1] },
-    prestige: 100, valueScale: 1,
+    prestige: 100, valueScale: 1, ratingOffset: 0,
   },
   psl: {
     id: 'psl', short: 'PSL', name: 'Pakistan Super League', home: 'Pakistan', nationality: 'Pakistani',
@@ -32,8 +32,9 @@ export const LEAGUES = {
     minPrice: Math.round(60 / (5050 / IPL_CAP)), overseasFeeCap: null, fixtures: 'psl', playoffs: 'page', ruledOut: 5, games: 10,
     // Two-year contracts since the first PSL auction (2026): retain up to four in an auction year.
     cycle: { every: 2, last: 2026, megaMax: 4 },
-    calendar: { retain: [1, 20], auction: [2, 11], season: [3, 26], seasonEnd: [5, 3], trade: [3, 12] },
-    prestige: 70, valueScale: 2.0,   // real 2026 fees run about 2x the IPL value curve
+    // After the IPL's: retentions and auction follow the IPL auction, and the season follows the IPL's start.
+    calendar: { retain: [1, 20], auction: [2, 11], season: [3, 29], seasonEnd: [5, 6], trade: [3, 12] },
+    prestige: 70, valueScale: 1.75, ratingOffset: 6.5,
   },
   sa20: {
     id: 'sa20', short: 'SA20', name: 'SA20', home: 'South Africa', nationality: 'South African',
@@ -41,9 +42,10 @@ export const LEAGUES = {
     squad: { min: 17, max: 19, overseas: 7 }, xiOverseas: 4, format: 't20', impact: false,
     minPrice: Math.round(200 / (41000 / IPL_CAP)), overseasFeeCap: null, fixtures: 'double', playoffs: 'page', ruledOut: 5, games: 10,
     cycle: { every: 3, last: 2025, megaMax: 6 },
-    // The season starts in January: its retentions and auction fall in the previous calendar year.
-    calendar: { retain: [8, 5], auction: [10, 7], season: [1, 17], seasonEnd: [2, 21], trade: [7, 20] },
-    prestige: 72, valueScale: 1.5,
+    // The season starts in January: its trade window, retentions and auction fall in the previous calendar
+    // year, all after The Hundred has finished (mid-August).
+    calendar: { retain: [9, 1], auction: [10, 7], season: [1, 17], seasonEnd: [2, 21], trade: [8, 25] },
+    prestige: 72, valueScale: 1.5, ratingOffset: 4,
   },
   hundred: {
     id: 'hundred', short: 'Hundred', name: 'The Hundred', home: 'England', nationality: 'English',
@@ -53,10 +55,17 @@ export const LEAGUES = {
     // Up to four pre-auction signings or retentions; a full auction every year since 2026.
     cycle: { every: 1, last: 2026, megaMax: 4 },
     calendar: { retain: [1, 31], auction: [3, 11], season: [7, 21], seasonEnd: [8, 16], trade: [11, 20] },
-    prestige: 68, valueScale: 1.3,
+    prestige: 68, valueScale: 1.25, ratingOffset: 4.5,
   },
 };
 export const LEAGUE_IDS = Object.keys(LEAGUES);
+
+// Ratings are on each league's own scale. Players carry one underlying rating (the IPL's scale); in a
+// league whose average XI player is rated lower, everyone reads higher by the gap, so a league's stars
+// look like stars. Measured Oct 2026 as the average best-XI player per league: IPL 79.6, SA20 75.5,
+// The Hundred 75.0, PSL 73.1. Because every player in a league moves by the same amount, match
+// results don't change; only the numbers you see (and the value curve, rescaled below) do.
+// valueScale: real fees in each league against the value curve on that league's scale.
 
 // Groups and regional rivals the fixture lists use.
 export const GROUPS = {

@@ -1,0 +1,23 @@
+# Hand-checked ratings for leading players outside the IPL data, on the underlying (IPL) scale.
+# Format: Name|role|bat|bowl   (role: BAT, WK, AR, BOWL). These override the formula in build_leagues.py.
+# In each league the game adds that league's rating offset (PSL +6.5), so Babar Azam reads 88 in the PSL.
+Babar Azam|BAT|82|10
+Mohammad Rizwan|WK|77|5
+Fakhar Zaman|BAT|76|8
+Sahibzada Farhan|BAT|76|8
+Saim Ayub|AR|74|55
+Salman Ali Agha|AR|68|58
+Shadab Khan|AR|64|75
+Mohammad Nawaz|AR|62|74
+Faheem Ashraf|AR|62|70
+Shaheen Shah Afridi|BOWL|25|80
+Haris Rauf|BOWL|20|78
+Naseem Shah|BOWL|22|76
+Abrar Ahmed|BOWL|12|77
+Usman Tariq|BOWL|10|74
+Abbas Afridi|BOWL|25|74
+Hasan Ali|BOWL|28|72
+Usman Khan|WK|72|5
+Hassan Nawaz|BAT|71|8
+Khushdil Shah|AR|68|50
+Iftikhar Ahmed|AR|68|52
