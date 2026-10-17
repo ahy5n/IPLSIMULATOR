@@ -1,0 +1,317 @@
+{{Short description|2026 season Quetta Gladiators}}
+{{Use dmy dates|date=March 2026}}
+{{Infobox cricket club season
+| club = Quetta Gladiators 
+| season = [[2026 Pakistan Super League|2026]]
+| coach = [[Sarfraz Ahmed]]
+| captain = [[Saud Shakeel]]
+| ground = 
+| comp1 = [[2026 Pakistan Super League#League stage|League stage]]
+| comp1 result = 7th place
+| most runs = 
+| most wickets = 
+| prevseason = [[2025 Quetta Gladiators season|2025]]
+| nextseason = 2027
+}}
+{{Season sidebar
+| title = Seasons
+| list  = 
+* [[2016 Quetta Gladiators season|2016]]
+* [[2017 Quetta Gladiators season|2017]]
+* [[2018 Quetta Gladiators season|2018]]
+* [[2019 Quetta Gladiators season|2019]]
+* [[2020 Quetta Gladiators season|2020]]
+* [[2021 Quetta Gladiators season|2021]]
+* [[2022 Quetta Gladiators season|2022]]
+* [[2023 Quetta Gladiators season|2023]]
+* [[2024 Quetta Gladiators season|2024]]
+* [[2025 Quetta Gladiators season|2025]]
+* [[2026 Quetta Gladiators season|2026]]
+}}
+
+'''Quetta Gladiators''' is a [[Pakistani]] professional [[Twenty20]] franchise [[cricket]] team that will compete in [[2026 Pakistan Super League]]. The team is based in the [[Quetta]] city of [[Pakistan]]. This will be the eleventh consecutive season of the [[Quetta Gladiators|Gladiators]] in the [[Pakistan Super League]] after renewing their franchise agreement for another decade in December 2025.
+
+Quetta finished 2nd in the [[2025 Pakistan Super League]] losing final to [[Lahore Qalandars]]. They are currently coached by [[Sarfraz Ahmed]] and [[Captain (cricket)|captained]] by [[Saud Shakeel]].
+
+==Squad==
+[[Pakistan Super League]] introduced [[Player auction|an auction model]] for the first time in the [[2026 Pakistan Super League|2026]] season, allowing teams to select players by bidding in [[Pakistani rupees]].<ref name="D1">{{cite news |title=Player auction model to replace draft system for PSL XI |url=https://www.dawn.com/news/1967839 |work=Dawn |date=19 January 2026 |language=en}}</ref> Teams were also allowed to directly sign one foreign player who was not part of [[2025 Pakistan Super League|previous season]].<ref name="D1" /> Gladiators signed [[Spencer Johnson (cricketer)|Spencer Johnson]] as their directly signed player. Teams were also allowed to retain up to 4 players who were part of their squads in previous seasons, while new teams were allowed to sign 4 players before the auction to match with other franchises.<ref>{{cite web |title=PSL auction to take place on 11 February |url=https://www.espncricinfo.com/story/pakistan-news-psl-2026-auction-to-take-place-february-11-1520921 |access-date=10 February 2026}}</ref> Quetta retained [[Abrar Ahmed]], [[Usman Tariq]], [[Hassan Nawaz (cricketer)|Hassan Nawaz]] and Shamyl Hussain from their squad.<ref name="ret">{{cite news |title=PSL 2026 players list: Full squads for all teams and latest updates from Pakistan Super League auction {{!}} Cricket News |url=https://www.cricketnews.com/en/cricket/news/psl-2026-players-list-full-squads-all-teams-pakistan-super-league/3bbd393a06776bf26546351b#:~:text=Players%20who%20were%20not%20retained%20entered%20the,to%20four%20players%20from%20the%20unpicked%20pool. |work=www.cricketnews.com |date=11 February 2026 |language=en}}</ref>
+
+[[2026 Pakistan Super League personnel signings and auction|Player auction]] for the PSL 11 was held on 11 February 2026.<ref name="ret" /> Following is the full squad of [[Quetta Gladiators]] after the player auction and retentions.<ref name="WisdenAuction">{{cite web |title=PSL 2026 Auction: Direct overseas signings revealed |url=https://www.wisden.com/series/psl-2026/cricket-news/psl-2026-auction-full-list-of-players-with-base-price |work=Wisden |date=2026-02-10}}</ref>
+
+{| class="wikitable"
+|+Key
+|-
+|
+* Players with international caps are listed in '''bold'''.
+* {{color box|border=darkgray|#FFCCCC|<nowiki>*</nowiki>}} denotes a player who is fully unavailable
+* {{color box|border=darkgray|#EEE8AA|<nowiki>*</nowiki>}} denotes a player who will be partially unavailable
+|}
+
+{| class="wikitable"
+|-
+!No.
+!Name
+!Nationality
+!Birth date
+!Salary
+!Batting style
+!Bowling style
+!Year signed
+!Notes
+|-
+! colspan="9"|Batsmen
+|-
+!07
+|'''[[Hassan Nawaz (cricketer)|Hassan Nawaz]]'''
+|{{cr|PAK}}
+|{{Birth date and age|2002|8|21|df=y}}
+|PKR 3.92 crore
+|Right-handed
+|Right-arm [[Off spin|off break]]
+|2025
+|
+|-
+!18
+|Shamyl Hussain
+|{{cr|PAK}}
+|{{Birth date and age|2004|10|10|df=y}}
+|PKR 84 lakh
+|Left-handed
+|—
+|2026
+|
+|-
+!32
+|'''[[Rilee Rossouw]]'''
+|{{cr|RSA}}
+|{{Birth date and age|1989|10|09|df=y}}
+|PKR 5.55 crore
+|Left-handed
+|Right-arm [[Off spin|off break]]
+|2026
+|
+|-
+!70
+|'''[[Bevon Jacobs]]'''
+|{{cr|NZ}}
+|{{Birth date and age|2002|05|06|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[Fast bowling|medium]]
+|2026
+|
+|-
+!59
+|'''[[Saud Shakeel]]'''
+|{{cr|PAK}}
+|{{Birth date and age|1995|09|05|df=y}}
+|PKR 65 lakh
+|Left-handed
+|[[Left-arm orthodox spin|Slow left arm orthodox]]
+|2026
+|
+|-
+!47
+|'''[[Ben McDermott]]'''
+|{{cr|AUS}}
+|{{Birth date and age|1994|12|12|df=y}}
+|PKR 1.10 crore
+|Right-handed
+|Right-arm [[Fast bowling|medium]]
+|2026
+|
+|-
+! colspan="9"|Wicket-keepers
+|-
+!36
+|'''[[Khawaja Nafay]]'''
+|{{cr|PAK}}
+|{{Birth date and age|2002|02|13|df=y}}
+|PKR 6.50 crore
+|Right-handed
+|—
+|2026
+|
+|-
+!44
+|[[Bismillah Khan (cricketer)|Bismillah Khan]]
+|{{cr|PAK}}
+|{{Birth date and age|1990|03|01|df=y}}
+|PKR 60 lakh
+|Right-handed
+|—
+|2026
+|
+|-
+!6
+|[[Sam Harper (cricketer)|Sam Harper]]
+|{{cr|AUS}}
+|{{Birth date and age|1996|12|10|df=y}}
+|PKR 60 lakh
+|Right-handed
+|—
+|2026
+|
+|-
+! colspan="9"|All-rounders
+|-
+!23
+|'''[[Arafat Minhas]]'''
+|{{cr|PAK}}
+|{{Birth date and age|2005|01|02|df=y}}
+|PKR 1.10 crore
+|Left-handed
+|[[Left-arm orthodox spin|Slow left arm orthodox]]
+|2026
+|
+|-
+!58
+|'''[[Jahandad Khan (cricketer)|Jahandad Khan]]'''
+|{{cr|PAK}}
+|{{Birth date and age|2003|06|16|df=y}}
+|PKR 2.50 crore
+|Left-handed
+|Left-arm [[Fast bowling|fast-medium]]
+|2026
+|
+|-
+!30
+|[[Brett Hampton]]
+|{{cr|NZ}}
+|{{Birth date and age|1991|04|30|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[Fast bowling|medium]]
+|2026
+|
+|-
+!59
+|'''[[Tom Curran (cricketer)|Tom Curran]]'''
+|{{cr|ENG}}
+|{{Birth date and age|1995|03|12|df=y}}
+|PKR 4.20 crore
+|Right-handed
+|Right-arm [[Fast bowling|medium]]
+|2026
+|
+|-
+! colspan="9"|Bowlers
+|-
+!7
+|'''[[Usman Tariq]]'''
+|{{cr|PAK}}
+|{{Birth date and age|1995|6|7|df=y}}
+|PKR 5.6 crore
+|Right-handed
+|Right-arm [[Off spin|off break]]
+|2024
+|
+|-
+!40
+|'''[[Abrar Ahmed (Pakistani cricketer)|Abrar Ahmed]]'''
+|{{cr|PAK}}
+|{{Birth date and age|df=y|1998|10|16}}
+|PKR 7.0 crore
+|Right-handed
+|Right-arm [[leg break]]
+|2024
+|
+|-
+!45
+|'''[[Spencer Johnson (cricketer)|Spencer Johnson]]'''
+|{{cr|AUS}}
+|{{Birth date and age|df=y|1995|12|16}}
+|PKR 5.6 crore
+|Left-handed
+|Left-arm [[Fast bowling|fast]]
+|2026
+|
+|-
+!37
+|'''[[Faisal Akram]]'''
+|{{cr|PAK}}
+|{{Birth date and age|2003|8|20|df=y}}
+|PKR 1.25 crore
+|Left-handed
+|Left-arm [[wrist spin]]
+|2026
+|
+|-
+!14
+|Waseem Akram Jr
+|{{cr|PAK}}
+|{{Birth date and age|2002|06|01|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[Fast bowling|fast-medium]]
+|2026
+|
+|-
+!18
+|Khan Zeb
+|{{cr|PAK}}
+|N/A
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[Fast bowling|fast-medium]]
+|2026
+|
+|-
+|}
+*Source: [https://www.espncricinfo.com/series/pakistan-super-league-2023-24-1412744/quetta-gladiators-squad-1412806/series-squads Cricinfo]
+
+
+== Coaching and Management Staff ==
+{| class="wikitable"
+|-
+!Name
+!Position
+|-
+| [[Moin Khan]]
+| Director
+|-
+| [[Sarfaraz Ahmed]]
+| Head coach
+|-
+| [[Krishmar Santokie]]
+| Bowling coach
+|-
+| [[Viv Richards]]
+| Mentor
+|-
+|}
+
+== Season standings ==
+{{2026 Pakistan Super League points table}}
+
+== Fixtures ==
+{{hatnote|All times are in [[Pakistan Standard Time]] ([[UTC+05:00]])}}
+{{#section:2026 Pakistan Super League|match2}}
+----
+{{#section:2026 Pakistan Super League|match5}}
+----
+{{#section:2026 Pakistan Super League|match9}}
+----
+{{#section:2026 Pakistan Super League|match13}}
+----
+{{#section:2026 Pakistan Super League|match18}}
+----
+{{#section:2026 Pakistan Super League|match23}}
+----
+{{#section:2026 Pakistan Super League|match26}}
+----
+{{#section:2026 Pakistan Super League|match29}}
+----
+{{#section:2026 Pakistan Super League|match30}}
+----
+{{#section:2026 Pakistan Super League|match37}}
+----
+
+== References ==
+{{Reflist}}
+
+{{Quetta Gladiators}}
+
+{{DEFAULTSORT:2026 Quetta Gladiators season}}
+[[Category:2026 Pakistan Super League|Quetta]]
+[[Category:Quetta Gladiators seasons]]

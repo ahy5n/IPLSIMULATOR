@@ -1,0 +1,302 @@
+{{AI-generated |reason= [[Wikipedia:AI noticeboard#User:Abdulrehmann92]] |date=September 2026}}
+{{Short description|Inaugural season of Pindiz}}
+{{Use dmy dates|date=February 2026}}
+{{Infobox cricket club season
+| club = Pindiz
+| image = 
+| season = [[2026 Pakistan Super League|2026]]
+| coach = TBD
+| captain = [[Mohammad Rizwan]]
+| ground = [[Rawalpindi Cricket Stadium]]
+| comp1 = [[2026 Pakistan Super League#League stage|League stage]]
+| comp1 result = 8th place
+| most runs = 
+| most wickets = 
+| prevseason = —
+| nextseason = 2027
+}}
+
+The '''2026 season''' is the inaugural season for the [[Rawalpindiz]] franchise in the [[Pakistan Super League]] (PSL), following its relocation and rebranding from the [[Multan Sultans]]. The franchise is owned by '''Walee Technologies''', which acquired the rights in February 2026 for a record-breaking PKR 2.45 billion.<ref name="DawnAcquisition">{{cite news |last=Staff |first=Report |date=2026-02-09 |title=PSL franchise Multan Sultans sold for record Rs2.45bn; new owner says name will be changed to Rawalpindi |url=https://www.dawn.com/news/1972074 |work=[[Dawn (newspaper)|Dawn]] |access-date=2026-02-11}}</ref>
+
+== Background ==
+Following the expiration of the previous ownership agreement for the Multan Sultans, the [[Pakistan Cricket Board]] (PCB) conducted a fresh auction on 9 February 2026. Walee Technologies, a Pakistani AdTech firm, secured the franchise with a bid of '''PKR 245 Crore''', making it the most expensive team in the league's history.<ref name="ProPak">{{cite news |title=Walee technologies acquires former Multan PSL franchise for record Rs2.45 billion |url=https://propakistani.pk/2026/02/10/psl-11-player-auction-timings-revealed/ |work=ProPakistani |date=2026-02-10 |access-date=2026-02-11}}</ref> Immediately after the sale, CEO Ahsan Tahir announced the team would move to Rawalpindi.
+
+The 2026 season also marks the expansion of the PSL from six to eight teams, with the addition of franchises from [[Sialkot]] and [[Hyderabad, Pakistan|Hyderabad]].<ref name="Expansion">{{cite web |title=PSL 2026 to feature eight teams |url=https://www.geosuper.tv/latest/53237-walee-technologies-change-sixth-psl-franchises-name-to-rawalpindi-after-record-bid |publisher=Geo Super |date=2026-02-09 |access-date=2026-02-11}}</ref>
+
+== Personnel ==
+=== Coaching and Management Staff ===
+{| class="wikitable"
+|-
+!Position
+!Name
+|-
+| President Cricket Affairs 
+| {{flagicon|Pakistan}} [[Inzamam-ul-Haq]]<ref>{{Cite web |title=We are honored to welcome the legendary Inzamam-ul-Haq as our President Cricket Affairs. |url=https://www.facebook.com/share/p/18EQ7z4YJP/ |via=[[Facebook]] |work=Pindiz |access-date=2026-03-01}}</ref>
+|-
+| '''Head coach'''
+| —
+|-
+| '''Assistant coach'''
+| —
+|-
+| '''Batting coach'''
+| —
+|-
+| '''Bowling coach'''
+| {{flagicon|Pakistan}} [[Sohail Tanvir]]
+|-  
+|-
+| '''General Manager'''
+| {{flagicon|Pakistan}} Harris Jalil Mir <ref>{{Cite web |title=Harris Jalil Mir joins Team Rawalpindi as General Manager |url=https://www.facebook.com/share/p/1HnPds8xuw/ |via=[[Facebook]] |work=Pindiz |access-date=2026-03-01}}</ref>
+|-
+| '''Director Player Pathway & Game Development'''
+| {{flagicon|Pakistan}} [[Rashid Latif]]<ref>{{Cite web |title=Rashid Latif joins Team Rawalpindi as Director Player Pathway & Game Development! |url=https://www.facebook.com/share/p/19jbowp7Yu/ |via=[[Facebook]] |work=Pindiz |access-date=2026-03-01}}</ref>
+|-
+| '''Owner'''
+| Walee Technologies<ref>{{cite web |title=Multan Sultans set to become Rawalpindi franchise after record high sale |url=https://www.espncricinfo.com/story/psl-2026-multan-sultans-set-to-become-rawalpindi-after-pkr-2-45-billion-sale-1523150 |website=[[Cricinfo|ESPNcricinfo]] |publisher=Danyal Rasool |access-date=9 February 2026}}</ref>
+|}
+
+=== Squad ===
+{| class="wikitable"
+|+ Key
+|-
+|
+* Players with international caps are listed in '''bold'''.
+* {{color box|border=darkgray|#FFCCCC|<nowiki>*</nowiki>}} denotes a player who is fully unavailable
+* {{color box|border=darkgray|#EEE8AA|<nowiki>*</nowiki>}} denotes a player who will be partially unavailable
+|}
+
+{| class="wikitable"
+|-
+!No.
+!Name
+!Nationality
+!Birth date
+!Salary
+!Batting style
+!Bowling style
+!Year signed
+!Notes
+|-
+! colspan="9"|Batsmen
+|-
+!88
+|[[Yasir Khan]]
+|{{cr|PAK}}
+|{{birth date and age|1998|3|3|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm medium
+|2026
+|
+|-
+! 
+|Abdullah Fazal
+|{{cr|PAK}}
+|{{birth date and age|2003|01|16|df=y}}
+|PKR 67.50 lakh
+|Left-handed
+|—
+|2026
+|
+|-
+! 23
+|'''[[Jake Fraser-McGurk]]'''
+|{{cr|AUS}}
+|{{birth date and age|2002|04|11|df=y}}
+|PKR 
+|Right-handed
+|
+|2026
+|
+|-
+! colspan="9"|Wicket-Keepers
+|-
+!16
+|'''[[Mohammad Rizwan]]'''
+|{{cr|PAK}}
+|{{birth date and age|1992|6|1|df=y}}
+|PKR 5.60 crore
+|Right-handed
+|—
+|2026
+|Captain
+|-
+!77
+|'''[[Sam Billings]]'''
+|{{cr|ENG}}
+|{{birth date and age|1991|6|15|df=y}}
+|PKR 3.08 crore
+|Right-handed
+|—
+|2026
+|
+|-
+! colspan="9"|All-rounders
+|-
+!75
+|'''[[Daryl Mitchell (New Zealand cricketer)|Daryl Mitchell]]'''
+|{{cr|NZ}}
+|{{birth date and age|1991|05|20|df=y}}
+|PKR 8.05 crore
+|Right-handed
+|Right-arm [[Fast bowling|fast-medium]]
+|2026
+|
+|-
+!32
+|[[Laurie Evans]]
+|{{cr|ENG}}
+|{{birth date and age|1987|10|12|df=y}}
+|PKR 1.1 crore
+|Right-handed
+|Right-arm [[Fast bowling|medium]]
+|2026
+|
+|-
+!33 
+|'''[[Asif Afridi]]'''
+|{{cr|PAK}}
+|{{birth date and age|1986|12|25|df=y}}
+|PKR 2.4 crore
+|Left-handed
+|[[Left-arm orthodox spin|Slow left-arm orthodox]]
+|2026
+|
+|-
+!37
+|[[Amad Butt]]
+|{{cr|PAK}}
+|{{birth date and age|1995|05|10|df=y}}
+|PKR 80 lakh
+|Right-handed
+|Right arm [[Fast bowling|fast-medium]]
+|2026
+|
+|-
+!82
+|'''[[Kamran Ghulam]]'''
+|{{cr|PAK}}
+|{{birth date and age|1995|10|10|df=y}}
+|PKR 65 lakh
+|Right-handed
+|[[Left-arm orthodox spin|Slow left-arm orthodox]]
+|2026
+|
+|-
+!
+|[[Dian Forrester]]
+|{{cr|RSA}}
+|{{birth date and age|1995|10|10|df=y}}
+|PKR 65 lakh
+|Left-handed
+|Right-handed [[Fast bowling|fasr]]
+|2026
+|
+|-
+! colspan="9"|Bowlers
+|-
+!71 
+|'''[[Naseem Shah]]'''
+|{{cr|PAK}}
+|{{birth date and age|2003|02|15|df=y}}
+|PKR 8.65 crore
+|Right-handed
+|Right-arm [[Fast bowling|fast]]
+|2026
+|
+|-
+!5 
+|'''[[Mohammad Amir]]'''
+|{{cr|PAK}}
+|{{birth date and age|1992|4|13|df=y}}
+|PKR 5.40 crore
+|Left-handed
+|Left-arm [[Fast bowling|fast]]
+|2026
+|
+|-
+!22
+|'''[[Rishad Hossain]]'''
+|{{cr|BAN}}
+|{{birth date and age|2002|07|15|df=y}}
+|PKR 3.0 crore
+|Right-handed
+|Right-arm [[Leg spin|leg break]]
+|2026
+|
+|-
+!27
+|'''[[Zaman Khan]]'''
+|{{cr|PAK}}
+|{{birth date and age|2001|09|10|df=y}}
+|PKR 1.12 crore
+|Right-handed
+|Right-arm [[Fast bowling|fast-medium]]
+|2026
+|
+|-
+! 
+|[[Fawad Ali]]
+|{{cr|PAK}}
+|{{birth date and age|2004|6|6|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[Fast bowling|fast-medium]]
+|2026
+|
+|-
+! 
+|[[Mohammad Amir Khan (cricketer)|Mohammad Amir Khan]]
+|{{cr|PAK}}
+|{{birth date and age|2001|09|09|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[Fast bowling|medium-fast]] 
+|2026
+|
+|-
+! 
+|Shahzaib Khan
+|{{cr|PAK}}
+|{{birth date and age|1995|2|28|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm off break
+|2026
+|
+|}
+
+== Season standings ==
+{{2026 Pakistan Super League points table}}
+
+== Fixtures ==
+{{hatnote|All times are in [[Pakistan Standard Time]] ([[UTC+05:00]])}}
+{{#section:2026 Pakistan Super League|match3}}
+----
+{{#section:2026 Pakistan Super League|match10}}
+----
+{{#section:2026 Pakistan Super League|match12}}
+----
+{{#section:2026 Pakistan Super League|match14}}
+----
+{{#section:2026 Pakistan Super League|match18}}
+----
+{{#section:2026 Pakistan Super League|match24}}
+----
+{{#section:2026 Pakistan Super League|match27}}
+----
+{{#section:2026 Pakistan Super League|match31}}
+----
+{{#section:2026 Pakistan Super League|match34}}
+----
+{{#section:2026 Pakistan Super League|match39}}
+----
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Official website|https://www.psl-t20.com}}
+
+[[Category:Rawalpindiz seasons]]

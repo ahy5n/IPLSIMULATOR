@@ -177,11 +177,13 @@ export function leaguePlayers(career, lg) {
   for (const [id, p] of Object.entries(career.players)) {
     const c = career.contracts[lg][id];
     if (!c && !eligible(career, lg, id)) continue;
-    const country = p.country === 'Wales' ? 'England' : p.country;
+    // Overseas as the league registers him (from the squad lists: UK passport holders are local in The
+    // Hundred, Pakistani-origin players can be local in the PSL); otherwise by country.
+    const overseas = p.status?.[lg] ? p.status[lg] === 'overseas' : !L.homes.includes(p.country);
     // Ratings on this league's scale (see league.js).
     const off = L.ratingOffset || 0;
     const bat = Math.min(99, Math.round(p.bat + off)), bowl = Math.min(99, Math.round(p.bowl + off));
-    out[id] = { ...p, bat, bowl, ovr: off ? D.overall(p.role, bat, bowl) : p.ovr, overseas: country !== L.home, team: c ? c.team : null, price: c ? c.price : null, releasedBy: p.releasedBy?.[lg] || null };
+    out[id] = { ...p, bat, bowl, ovr: off ? D.overall(p.role, bat, bowl) : p.ovr, overseas, team: c ? c.team : null, price: c ? c.price : null, releasedBy: p.releasedBy?.[lg] || null };
   }
   return out;
 }

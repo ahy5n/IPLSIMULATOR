@@ -1,0 +1,200 @@
+{{Draft article|nomove=yes}}
+{{Short description|Paarl Royals season}}
+{{Infobox Twenty20 club season
+|club=[[Paarl Royals]]
+|season=[[2027 SA20|2027]]
+|image= 
+|caption=
+|president=
+|coach=[[Trevor Penney]]
+|captain=[[David Miller (South African cricketer)|David Miller]]
+|home ground=[[Boland Park]]
+|preseason comp=League
+|preseason result=[[SA20]]
+|regularseason comp=[[2027 SA20#League stage|League Stage]]
+|regularseason result= –
+|finals series=[[2027 SA20 season#Playoffs|Playoffs]]
+|finals result= –
+|leading runscorer=
+|leading wicket taker=
+|player of the season=
+|highest attendance=
+|lowest attendance=
+|average attendance=
+|club membership=
+|prevseason=[[2026 Paarl Royals season|2026]]
+|nextseason=[[2028 Paarl Royals season|2028]]
+}}
+The '''2027 Paarl Royals season''' is the fifth season of the franchise in the [[SA20]].<ref>{{cite web |title=BETWAY SA20 SEASON 5 FIXTURES ANNOUNCED |url=https://www.sa20.co.za/news/betway-sa20-season-5-fixtures-announced |date=23 July 2026 |access-date=24 July 2026 |website=SA20.co.za |language=en}}</ref> The team is captained by [[David Miller (South African cricketer)|David Miller]] and coached by [[Trevor Penney]].<ref>{{cite web |title=Trevor Penney appointed Head Coach of Paarl Royals ahead of 2025 SA20 season |url=https://www.paarlroyals.com/press-releases/trevor-penney-appointed-head-coach-of-paarl-royals-ahead-of-2025-sa20-season |access-date=3 August 2026 |website=Paarl Royals}}</ref><ref>{{cite web |title=SA20 FRANCHISE PAARL ROYALS ANNOUNCE DAVID MILLER AS CAPTAIN |url=https://www.paarlroyals.com/press-releases/sa20-franchise-paarl-royals-announce-david-miller-as-captain-for-inaugural-season |access-date=3 August 2026 |website=Paarl Royals}}</ref>
+
+==Current squads==
+* Players with international caps are listed in '''bold'''.
+
+{|class="wikitable" style="font-size:85%"
+|+ Paarl Royals roster<ref>{{Cite web|url=https://www.espncricinfo.com/story/sa20-2027-sunrisers-eastern-cape-sign-mitchell-marsh-for-next-season-1548744|title=SA20: Sunrisers Eastern Cape sign Mitch Marsh; Joburg leave out du Plessis, Tahir|access-date=5 August 2026|work=ESPNcricinfo}}</ref><ref>{{Cite web
+|url=https://www.sa20.co.za/news/mitchell-marsh-joins-root-curran-salt-in-star-studded-season-5-squad-reveal
+|title=Mitchell Marsh joins Root, Curran & Salt in star-studded Season 5 squad reveal
+|website=Betway SA20
+|access-date=5 August 2026
+}}</ref><ref>{{Cite web
+|url=https://m.cricbuzz.com/cricket-news/139750/marsh-root-among-marquee-sa20-additions-du-plessis-released-by-jsk
+|title=Marsh, Root among marquee SA20 additions; du Plessis released by JSK
+|website=Cricbuzz
+|access-date=5 August 2026
+}}</ref><ref>{{Cite web|url=https://www.sa20.co.za/news/season-5-squads|title=All the Season 5 squads as they stand|website=Betway SA20|access-date=5 August 2026}}</ref><ref>{{Cite web
+  |url=https://www.clubcricket.co.za/latestnews/jsk-players-sa20/
+  |title=Joburg Super Kings sign Jason Holder, retain Dian Forrester, release Rivaldo Moonsamy for SA20
+  |website=Club Cricket
+  |access-date=5 August 2026
+  }}</ref><ref>{{Cite web|url=https://www.clubcricket.co.za/latestnews/sa20-season-five-updates/|title=SA20 squads for season 5 – who has been signed for 2027 tournament?|access-date=7 October 2026|work=Cricinfo}}</ref>
+|-
+! style="background:deeppink; color:white; text-align:center;"| No.
+! style="background:deeppink; color:white; text-align:center;"| Name
+! style="background:deeppink; color:white; text-align:center;"| Nat.
+! style="background:deeppink; color:white; text-align:center;"| Birth date
+! style="background:deeppink; color:white; text-align:center;"| Batting style
+! style="background:deeppink; color:white; text-align:center;"| Bowling style
+! style="background:deeppink; color:white; text-align:center;"| Year signed
+! style="background:deeppink; color:white; text-align:center;"| Notes
+|-
+! colspan="9" style="background:#dcdcdc; text-align:center;"| Batters
+|-
+| 1 || '''[[David Miller (South African cricketer)|David Miller]]''' || {{cr|RSA}} || 10 June 1989 || Left-handed || Right-arm off break || 2023 || Captain
+|-
+| 66 || '''[[Joe Root]]''' || {{cr|ENG}} || 30 December 1990 || Right-handed || Right-arm off break || 2027 || Wildcard; returned to Paarl Royals
+|-
+| 3 || '''[[Asa Tribe]]''' || {{cr|JER}} || 29 March 2004 || Right-handed || Right-arm off break || 2026 ||
+|-
+! colspan="9" style="background:#dcdcdc; text-align:center;"| Wicket-keepers
+|-
+| 4 || '''[[Rubin Hermann]]''' || {{cr|RSA}} || 26 January 1997 || Left-handed || — || 2025 ||
+|-
+| 5 || [[Keagan Lion-Cachet]] || {{cr|RSA}} || 19 March 2002 || Right-handed || — || 2026 ||
+|-
+| 6 || '''[[Kyle Verreynne]]''' || {{cr|RSA}} || 12 May 1997 || Right-handed || — || 2026 ||
+|-
+| 7 || '''[[Lhuan-dre Pretorius]]''' || {{cr|RSA}} || 27 March 2006 || Left-handed || — || 2025 || U23
+|-
+| 8 || [[Thomas Rew (cricketer)|Thomas Rew]] || {{cr|ENG}} || 29 November 2007 || Right-handed || — || 2027 ||
+|-
+! colspan="9" style="background:#dcdcdc; text-align:center;"| All-rounders
+|-
+| 9 || '''[[Dan Lawrence (cricketer)|Dan Lawrence]]''' || {{cr|ENG}} || 12 July 1997 || Right-handed || Right-arm off break || 2026 ||
+|-
+| 10 || '''[[Azmatullah Omarzai]]''' || {{cr|AFG}} || 24 March 2000 || Right-handed || Right-arm medium || 2027 ||
+|-
+| 11 || '''[[Sikandar Raza]]''' || {{cr|ZIM}} || 24 April 1986 || Right-handed || Right-arm off break || 2026 ||
+|-
+| 12 || [[Delano Potgieter]] || {{cr|RSA}} || 5 August 1996 || Left-handed || Right-arm medium || 2026 ||
+|-
+| 13 || [[JJ Basson]] || {{cr|RSA}} || 7 April 2008 || Left-handed || Left-arm medium || 2026 || U23
+|-
+! colspan="9" style="background:#dcdcdc; text-align:center;"| Bowlers
+|-
+| 14 || '''[[Ottniel Baartman]]''' || {{cr|RSA}} || 18 March 1993 || Right-handed || Right-arm fast || 2026 ||
+|-
+| 15 || '''[[Bjorn Fortuin]]''' || {{cr|RSA}} || 21 October 1994 || Right-handed || Slow left-arm orthodox || 2023 ||
+|-
+| 16 || '''[[Gudakesh Motie]]''' || {{cr|WIN}} || 29 March 1995 || Left-handed || Slow left-arm orthodox || 2026 ||
+|-
+| 17 || '''[[Mujeeb Ur Rahman]]''' || {{cr|AFG}} || 28 March 2001 || Right-handed || Right-arm off break || 2025 ||
+|-
+| 18 || '''[[Nqobani Mokoena]]''' || {{cr|RSA}} || 5 May 2006 || Right-handed || Right-arm fast-medium || 2025 || U23
+|-
+| 19 || '''[[Hardus Viljoen]]''' || {{cr|RSA}} || 6 March 1989 || Right-handed || Right-arm fast || 2026 ||
+|-
+|}
+
+==League stage==
+{{hatnote|All times listed below are [[South African Standard Time]] ([[UTC+2]]).}}
+The full fixture list was released on 23 July 2026.<ref>{{cite web
+|url=https://www.espncricinfo.com/series/sa20-2026-27-1547229/match-schedule-fixtures-and-results
+|title=SA20 2027 Fixtures and Results
+|website=ESPNcricinfo
+|publisher=ESPNcricinfo
+|access-date=3 August 2026
+}}</ref><ref>{{cite web
+|url=https://supersport.com/cricket/news/578a7b1a-0b98-43dd-a1f4-02bf3cbac5ff/repeat-of-2026-final-opens-the-2027-sa20-season
+|title=Repeat of 2026 final opens the 2027 SA20 season
+|website=SuperSport
+|date=24 July 2026
+|access-date=3 August 2026
+}}</ref><ref>{{cite web
+|url=https://www.clubcricket.co.za/latestnews/sa20-fixtures-schedule/
+|title=SA20 Fixtures & Schedule
+|website=Club Cricket SA
+|publisher=Club Cricket South Africa
+|date=23 July 2026
+|access-date=3 August 2026
+}}</ref>
+
+{{#section:2027 SA20|match2}}
+----
+{{#section:2027 SA20|match6}}
+----
+{{#section:2027 SA20|match9}}
+----
+{{#section:2027 SA20|match11}}
+----
+{{#section:2027 SA20|match13}}
+----
+{{#section:2027 SA20|match16}}
+----
+{{#section:2027 SA20|match18}}
+----
+{{#section:2027 SA20|match22}}
+----
+{{#section:2027 SA20|match26}}
+----
+{{#section:2027 SA20|match29}}
+----
+
+==Standing==
+===Points table===
+{{#section:2027 SA20|table}}
+===Match summary===
+{| class="wikitable"
+|+
+! rowspan="2" style="border-right:3px solid #454545;" | Team
+! colspan="10" | League matches
+! colspan="3" | Finals
+|-
+!1 !!2 !!3 !!4 !!5 !!6 !!7 !!8 !!9 !!10
+!QF/KO
+!Ch
+!F
+|-
+| style="border-right:3px solid #454545;" align="left" | [[Paarl Royals]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|}
+
+{| class="wikitable" style="text-align:center; font-size:90%;"
+| style="background-color:#99FF99;" | Win
+| style="background-color:#FFDDDD;" | Loss
+| style="background-color:#FFFDD0;" | Tie
+| style="background-color:#DFDFFF;" | No result
+|}
+
+== References ==
+{{reflist}}
+
+{{DEFAULTSORT:SA20, 2027}}
+{{Template:SA20 2027 team's seasons}}
+
+[[Category:SA20]]
+[[Category:Domestic cricket competitions in 2026–27|SA20]]
+[[Category:2027 in South African cricket|SA20]]
+[[Category:January 2027 sports events in South Africa|SA20]]
+[[Category:February 2027 sports events in South Africa|SA20]]

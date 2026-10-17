@@ -1,0 +1,245 @@
+{{Short description|Season of the 100-ball cricket tournament}}
+{{Use dmy dates|date=April 2026}}
+{{Infobox cricket club season
+| club         = Manchester Super Giants
+| season       = [[2026 The Hundred season|2026]]
+|captain= {{ubl|[[Meg Lanning]] (women)|[[Aiden Markram]] (men)}}
+|coach= {{ubl|[[Matthew Mott]] (women)|[[Justin Langer]] (men)}}
+|overseas= {{ubl|[[Maitlan Brown]]|[[Richa Ghosh]]|[[Meg Lanning]]|[[Smriti Mandhana]]|(women)||[[Michael Bracewell (cricketer)|Michael Bracewell]]|[[Heinrich Klaasen]]|[[Aiden Markram]]|[[Noor Ahmad]]|[[Tim Seifert]]|(men)}}
+| comp1        = [[The Hundred (cricket)|The Hundred]] (Men's)
+| comp1 result = Champions 
+| comp2        = [[The Hundred (cricket)|The Hundred]] (Women's)
+| comp2 result = 4th
+| most runs    = 
+| most wickets = 
+|ground=[[Old Trafford Cricket Ground|Old Trafford]]
+}}
+
+The '''2026 season''' was the [[Manchester Super Giants]]'s sixth season of the 100 ball franchise cricket, [[The Hundred (cricket)|The Hundred]].<ref>{{cite web |url=https://www.skysports.com/cricket/news/12123/13493919/the-hundred-mens-and-womens-squads-for-2026-season-which-runs-from-july-21-august-16-live-on-sky-sports |title=The Hundred: Men's and women's squads for 2026 season which runs from July 21-August 16 live on Sky Sports |work=[[Sky Sports]] |access-date=15 January 2026}}</ref><ref>{{cite web |url=https://www.bbc.com/sport/cricket/articles/c3r4rdq8523o |title=What will The Hundred look like in 2026? |work=[[BBC Sport]] |access-date=15 January 2026}}</ref>
+
+==Fixtures (Women)==
+{{hatnote|All times are in [[British Summer Time]] ([[UTC+01:00]])}}
+==Fixtures (Men)==
+{{hatnote|All times are in [[British Summer Time]] ([[UTC+01:00]])}}
+==Standings==
+=== Women ===
+{{#invoke:Sports table|main|style=CricketTH
+|source=[https://www.cricinfo.com/series/the-hundred-women-s-competition-2026-1521193/points-table-standings Cricinfo]
+|update=complete
+|show_tie=yes
+
+|team_order=TR, SL, SB, MSG, WF, LS, BP, MIL
+
+|win_BP=2 |loss_BP=5 |nr_BP=1 |nrr_BP=-1.602
+|win_LS=2 |loss_LS=5 |tie_LS=1 |nr_LS= |nrr_LS=-0.363
+|win_MSG=4 |loss_MSG=3 |nr_MSG=1 |nrr_MSG=0.344
+|win_MIL=1 |loss_MIL=6 |tie_MIL=1 |nr_MIL= |nrr_MIL=-1.165
+|win_SB=5 |loss_SB=3 |nr_SB= |nrr_SB=0.107
+|win_SL=5 |loss_SL=3 |nr_SL= |nrr_SL=1.031
+|win_TR=7 |loss_TR=1 |nr_TR= |nrr_TR=1.391
+|win_WF=4 |loss_WF=4 |nr_WF= |nrr_WF=0.133
+
+
+|result1=Q|result2=A|result3=A|result4=E|result5=E|result6=E|result7=E|result8=E
+
+|name_BP={{cr-ENG|bp}}
+|name_LS={{cr-ENG|ls}}
+|name_MSG={{cr-ENG|msg}}
+|name_MIL={{cr-ENG|mil}}
+|name_SB={{cr-ENG|sb}}
+|name_SL={{cr-ENG|sl}}
+|status_SL=R
+|name_TR={{cr-ENG|tr}} |status_TR=C
+|name_WF={{cr-ENG|wf}}
+
+|col_Q=#cfc
+|col_A=#ffc
+|res_col_header=Q
+|text_Q=Advanced to the [[#match34w|Final]]
+|text_A={{nobr|Advanced to the [[#match33w|Eliminator]]}}
+|text_E=Eliminated
+}}
+
+===Point summary Women===
+{{#{{Twenty20 League results summary|mode=progression}}|create
+<!--SINCE THERE ARE MEN'S AND WOMEN'S FIXTURES HERE WHILE UPDATING WOMEN'S POINTS SUMMARY, USE (w1w or l1w or t1w or n1w) TO GET THE RESULT.--> 
+<!-- BP -->|l4w, n7w, l13w, w15w, l22w, l24w, l28w, w30w|E,E
+<!-- LS -->|l3w, w8w, t12w, l16w, l20w, l23w, w28w, l31w|E,E
+<!-- MSG -->|w3w, n7w, w10w, l14w, w18w, l21w, w26w, l30w|E,E
+<!-- MIL -->|l1w, l6w, l9w, t12w, l18w, w23w, l25w, l30w|E,E
+<!-- SB -->|w2w, w5w, w9w, w13w, w16w, l19w, l26w, l29w|L33w,E
+<!-- SL -->|w1w, l5w, l10w, l17w, w20w, w24w, w27w, w30w|W33w,L34w
+<!-- TR -->|w4w, l8w, w11w, w14w, w17w, w22w, w25w, w29w|,W34w
+<!-- WF -->|l2w, w6w, l11w, l15w, w19w, w21w, l27w, w31w|E,E
+
+|teams= [[2026 Birmingham Phoenix season|Birmingham Phoenix]], [[2026 London Spirit season|London Spirit]], {{nowrap|[[2026 Manchester Originals season|Manchester Super Giants]]}}, [[2026 MI London season|MI London]], [[2026 Southern Brave season|Southern Brave]], [[2026 Sunrisers Leeds season|Sunrisers Leeds]], [[2026 Trent Rockets season|Trent Rockets]], [[2026 Welsh Fire season|Welsh Fire]]
+|matchesPerTeam= 8
+|playoffLabels= {{Abbr|E|Eliminator}}, {{Abbr|F|Final}}
+}}
+
+===Men===
+{{#invoke:Sports table|main|style=CricketTH
+|source=[https://www.cricinfo.com/series/the-hundred-men-s-competition-2026-1521176/points-table-standings Cricinfo]
+|update=complete
+|show_tie=yes
+
+|team_order=TR, MSG, SL, MIL, WF, SB, LS, BP
+
+|win_BP=1 |loss_BP=7 |nr_BP= |nrr_BP=-1.318
+|win_LS=3 |loss_LS=5 |nr_LS= |nrr_LS=-0.098
+|win_MSG=5 |loss_MSG=3 |nr_MSG= |nrr_MSG=0.791
+|win_MIL=5 |loss_MIL=3 |nr_MIL= |nrr_MIL=0.241
+|win_SB=3 |loss_SB=5 |nr_SB= |nrr_SB=-0.015
+|win_SL=5 |loss_SL=3 |nr_SL= |nrr_SL=0.603
+|win_TR=6 |loss_TR=2 |nr_TR= |nrr_TR=0.740
+|win_WF=4 |loss_WF=4 |nr_WF= |nrr_WF=-0.900
+
+
+|result1=Q|result2=A|result3=A|result4=E|result5=E|result6=E|result7=E|result8=E
+
+|name_BP={{cr-ENG|bp}}
+|name_LS={{cr-ENG|ls}}
+|name_MSG={{cr-ENG|msg}}
+|name_MIL={{cr-ENG|mil}}
+|name_SB={{cr-ENG|sb}}
+|name_SL={{cr-ENG|sl}}
+|name_TR={{cr-ENG|tr}}
+|name_WF={{cr-ENG|wf}}
+|status_MSG=C
+|status_TR=R
+
+|col_Q=#cfc
+|col_A=#ffc
+|res_col_header=Q
+|text_Q=Advanced to the [[#match34|Final]]
+|text_A={{nobr|Advanced to the [[#match33|Eliminator]]}}
+|text_E=Eliminated
+}}
+
+===Point summary Men===
+{{#{{Twenty20 League results summary|mode=progression}}|create
+
+<!-- BP -->|W4, L7, L13, L15, L22, L24, L28, L32|E,E
+<!-- LS -->|L3, L8, W12, L16, L20, L23, W28, W31|E,E
+<!-- MSG -->|W3, W7, L10, L14, L18, W21, W26, W30|W33, W34
+<!-- MIL -->|W1, L6, W9, L12, W18, W23, L25, W32|E,E
+<!-- SB -->|L2, L5, L9, W13, W16, L19, L26, W29|E,E
+<!-- SL -->|L1, W5, W10, L17, W20, W24, W27, L30|L33,E
+<!-- TR -->|L4, W8, W11, W14, W17, W22, W25, L29|, L34
+<!-- WF -->|W2, W6, L11, W15, W19, L21, L27, L31|E, E
+
+|teams= [[2026 Birmingham Phoenix season|Birmingham Phoenix]], [[2026 London Spirit season|London Spirit]], {{nowrap|[[2026 Manchester Originals season|Manchester Super Giants]]}}, [[2026 MI London season|MI London]], [[2026 Southern Brave season|Southern Brave]], [[2026 Sunrisers Leeds season|Sunrisers Leeds]], [[2026 Trent Rockets season|Trent Rockets]], [[2026 Welsh Fire season|Welsh Fire]]
+|matchesPerTeam= 8
+| playoffLabels = {{Abbr|E|Eliminator}}, {{Abbr|F|Final}}
+}}
+
+=== Combined ===
+{{#invoke:Sports table|main|style=CricketTH
+|show_tie=yes
+|source=[https://www.thehundred.com/standings The Hundred]
+|update=16 August 2026
+
+|team_order=TR, SL, MSG, SB, WF, MIL, LS, BP
+
+|win_BP=3 |loss_BP=12 |nr_BP=1 |nrr_BP=-1.482
+|win_LS=5 |loss_LS=10 |tie_LS=1 |nr_LS= |nrr_LS=-0.261
+|win_MSG=10 |loss_MSG=6 |nr_MSG=1 |nrr_MSG=0.636
+|win_MIL=6 |loss_MIL=9 |tie_MIL=1 |nr_MIL= |nrr_MIL=-0.488
+|win_SB=8 |loss_SB=9 |nr_SB= |nrr_SB=-0.003
+|win_SL=11 |loss_SL=8 |nr_SL= |nrr_SL=0.778
+|win_TR=14 |loss_TR=3 |nr_TR= |bonus_TR=8 |nrr_TR=1.081
+|win_WF=8 |loss_WF=8 |nr_WF= |nrr_WF=-0.377
+
+|name_BP={{cr-ENG|bp}}
+|name_LS={{cr-ENG|ls}}
+|name_MSG={{cr-ENG|msg}}
+|name_MIL={{cr-ENG|mil}}
+|name_SB={{cr-ENG|sb}}
+|name_SL={{cr-ENG|sl}}
+|name_TR={{cr-ENG|tr}}
+|name_WF={{cr-ENG|wf}}
+
+|result1=C
+|col_C=gold
+}}
+{{color box|border=darkgray|gold}} '''The Hundred Helix'''
+
+==Knockout stage==
+{{3TeamBracket
+| team-width = 170px 
+| score-width = 150px
+| nowrap=y
+
+|RD1= [[#match33|Eliminator]]
+|RD1-seed1= '''2'''
+|RD1-team1= '''{{cr-ENG|msg}}'''
+|RD1-score1= '''186/4 (100 balls)'''
+|RD1-seed2= 3
+|RD1-team2= {{cr-ENG|sl}}
+|RD1-score2= 166/7 (100 balls)
+
+|RD2= [[#match34|Final]]
+|RD2-seed1= 1
+|RD2-team1= {{cr-ENG|tr}}
+|RD2-score1= 158/8 (100 balls)
+|RD2-seed2= '''EW'''
+|RD2-team2= '''{{cr-ENG|msg}}'''
+|RD2-score2= '''162/5 (98 balls)'''
+}}
+
+=== Eliminator ===
+{{Single-innings cricket match
+| round = {{anchor|match33}} '''Eliminator'''
+|bg=#cfc
+| date = 14 August 2026
+| time = 18:00
+| daynight = y
+| team1 = {{cr-ENG|msg}}
+| team2 = {{cr-ENG|sl}}
+| score1 = 186/4 (100 balls)
+| runs1 = [[Paul Walter]] 80 (46)
+| wickets1 = [[Brydon Carse]] 1/22 (20 balls)
+| score2 = 166/7 (100 balls)
+| runs2 = [[Ryan Rickelton]] 54[[not out|*]] (34)
+| wickets2 = [[Josh Tongue]] 4/26 (20 balls)
+| result = Manchester Super Giants won by 20 runs
+| report = [https://www.cricinfo.com/ci/engine/match/1521263.html Scorecard]
+| venue = [[The Oval]], [[London]]
+| umpires = [[Ian Blackwell]] and [[Paul Pollard]]
+| motm = [[Josh Tongue]] (Manchester Super Giants)
+| toss = Sunrisers Leeds won the toss and elected to field.
+| notes = 
+}}
+
+=== Final ===
+{{Single-innings cricket match
+| round = {{anchor|match34}} '''Final'''
+|bg=#cfc
+| date = 16 August 2026
+| time = 18:00
+| daynight = y
+| team1 = {{cr-ENG|tr}}
+| team2 = {{cr-ENG|msg}}
+| score1 = 158/8 (100 balls)
+| runs1 = [[Aneurin Donald]] 38 (19)
+| wickets1 = [[Noor Ahmad]] 3/33 (20 balls)
+| score2 = 162/5 (98 balls)
+| runs2 = [[Tim Seifert]] 72 (38)
+| wickets2 = [[Mohammad Amir]] 3/29 (20 balls)
+| result = Manchester Super Giants won by 5 wickets
+| report = [https://www.cricinfo.com/ci/engine/match/1521264.html Scorecard]
+| venue = [[Lord's]], [[London]]
+| umpires = [[Graham Lloyd]] and [[Michael Gough (cricketer)|Michael Gough]]
+| motm = [[Tim Seifert]] (Manchester Super Giants)
+| toss = Manchester Super Giants won the toss and elected to field.
+| rain = 
+| notes = 
+}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+{{The Hundred 2026 team's seasons}}
+
+[[Category:The Hundred (cricket) seasons]]
+[[Category:2026 in English cricket]]

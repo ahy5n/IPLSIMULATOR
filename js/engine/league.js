@@ -15,7 +15,7 @@ const IPL_CAP = 12500;
 
 export const LEAGUES = {
   ipl: {
-    id: 'ipl', short: 'IPL', name: 'Indian Premier League', home: 'India', nationality: 'Indian',
+    id: 'ipl', short: 'IPL', name: 'Indian Premier League', home: 'India', homes: ['India'], nationality: 'Indian',
     currency: { sym: '₹', rate: 1, unit: 'crore' },
     squad: { min: 18, max: 25, overseas: 8 }, xiOverseas: 4, format: 't20', impact: true,
     minPrice: 30, overseasFeeCap: 1800, fixtures: 'ipl', playoffs: 'page', ruledOut: 6, games: 14,
@@ -26,7 +26,7 @@ export const LEAGUES = {
     prestige: 100, valueScale: 1, ratingOffset: 0,
   },
   psl: {
-    id: 'psl', short: 'PSL', name: 'Pakistan Super League', home: 'Pakistan', nationality: 'Pakistani',
+    id: 'psl', short: 'PSL', name: 'Pakistan Super League', home: 'Pakistan', homes: ['Pakistan'], nationality: 'Pakistani',
     currency: { sym: 'PKR', rate: 5050 / IPL_CAP, unit: 'crore' },
     squad: { min: 16, max: 20, overseas: 7 }, xiOverseas: 4, format: 't20', impact: false,
     minPrice: Math.round(60 / (5050 / IPL_CAP)), overseasFeeCap: null, fixtures: 'psl', playoffs: 'page', ruledOut: 5, games: 10,
@@ -37,7 +37,7 @@ export const LEAGUES = {
     prestige: 70, valueScale: 1.75, ratingOffset: 6.5,
   },
   sa20: {
-    id: 'sa20', short: 'SA20', name: 'SA20', home: 'South Africa', nationality: 'South African',
+    id: 'sa20', short: 'SA20', name: 'SA20', home: 'South Africa', homes: ['South Africa'], nationality: 'South African',
     currency: { sym: 'R', rate: 41000 / IPL_CAP, unit: 'thousand' },
     squad: { min: 17, max: 19, overseas: 7 }, xiOverseas: 4, format: 't20', impact: false,
     minPrice: Math.round(200 / (41000 / IPL_CAP)), overseasFeeCap: null, fixtures: 'double', playoffs: 'page', ruledOut: 5, games: 10,
@@ -48,7 +48,8 @@ export const LEAGUES = {
     prestige: 72, valueScale: 1.5, ratingOffset: 4,
   },
   hundred: {
-    id: 'hundred', short: 'Hundred', name: 'The Hundred', home: 'England', nationality: 'English',
+    // British and Irish players are not overseas in England's domestic competitions.
+    id: 'hundred', short: 'Hundred', name: 'The Hundred', home: 'England', homes: ['England', 'Wales', 'Scotland', 'Ireland', 'Jersey', 'Guernsey'], nationality: 'English',
     currency: { sym: '£', rate: 2050 / IPL_CAP, unit: 'thousand' },
     squad: { min: 16, max: 18, overseas: 4 }, xiOverseas: 3, format: 'hundred', impact: false,
     minPrice: Math.round(30 / (2050 / IPL_CAP)), overseasFeeCap: null, fixtures: 'hundred', playoffs: 'top3', ruledOut: 4, games: 8,

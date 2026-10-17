@@ -1,0 +1,294 @@
+{{AI-generated |reason= [[Wikipedia:AI noticeboard#Abdulrehmann92]] ([[WP:WWT]] is useful) |date=September 2026}}
+{{Short description|Overview of Karachi Kings in 2026}}
+{{Use dmy dates|date=February 2026}}
+{{Infobox cricket club season
+| club = Karachi Kings
+| season = [[2026 Pakistan Super League|2026]]
+| coach = [[Ravi Bopara]]
+| captain = [[David Warner (cricketer)|David Warner]]
+| ground = [[National Bank Cricket Arena]]
+| comp1 = [[2026 Pakistan Super League#League stage|League stage]]
+| comp1 result = 6th place
+| most runs = 
+| most wickets = 
+| prevseason = [[2025 Karachi Kings season|2025]]
+| nextseason = 2027
+}}
+{{Season sidebar
+| title = Seasons
+| list  = 
+* [[2016 Karachi Kings season|2016]]
+* [[2017 Karachi Kings season|2017]]
+* [[2018 Karachi Kings season|2018]]
+* [[2019 Karachi Kings season|2019]]
+* [[2020 Karachi Kings season|2020]]
+* [[2021 Karachi Kings season|2021]]
+* [[2022 Karachi Kings season|2022]]
+* [[2023 Karachi Kings season|2023]]
+* [[2024 Karachi Kings season|2024]]
+* [[2025 Karachi Kings season|2025]]
+* [[2026 Karachi Kings season|2026]]
+}}
+
+'''Karachi Kings''' is a [[Pakistani]] professional [[Twenty20]] franchise [[cricket]] team that will compete in [[2026 Pakistan Super League]]. The team is based in the [[Karachi]] city of [[Pakistan]]. This will be the eleventh consecutive season of the [[Karachi Kings|Kings]] in the [[Pakistan Super League]] after renewing their franchise agreement for another decade in December 2025.<ref>{{cite news |title=Karachi Kings to reign for another decade |url=https://www.pcb.com.pk/press-release-detail/karachi-kings-to-reign-for-another-decade.html |work=PCB |date=2025-11-25}}</ref>
+
+Karachi finished fourth in the [[2025 Pakistan Super League]]. They are currently coached by [[Ravi Bopara]] and [[Captain (cricket)|captained]] by [[David Warner (cricketer)|David Warner]].
+
+==Squad==
+[[Pakistan Super League]] introduced [[Player auction|an auction model]] for the first time in the [[2026 Pakistan Super League|2026]] season, allowing teams to select players by bidding in [[Pakistani rupees]].<ref name="D1">{{cite news |title=Player auction model to replace draft system for PSL XI |url=https://www.dawn.com/news/1967839 |work=Dawn |date=19 January 2026 |language=en}}</ref> Teams were also allowed to directly sign one foreign player who was not part of [[2025 Pakistan Super League|previous season]].<ref name="D1" /> Kings signed [[Moeen Ali]] as their directly signed player..<ref name="TribuneAuction">{{cite news |title=PSL 11: Karachi Kings confirm retentions ahead of auction |url=https://tribune.com.pk/story/2590592/psl-11-karachi-kings-confirm-retentions |work=The Express Tribune |date=2026-02-03}}</ref> Teams were also allowed to retain up to 4 players who were part of their squads in previous seasons, while new teams were allowed to sign 4 players before the auction to match with other franchises.<ref>{{cite web |title=PSL auction to take place on 11 February |url=https://www.espncricinfo.com/story/pakistan-news-psl-2026-auction-to-take-place-february-11-1520921 |access-date=10 February 2026}}</ref> Karachi retained [[Khushdil Shah]], [[Saad Baig]], [[Abbas Afridi (cricketer)|Abbas Afridi]] and [[Hasan Ali (cricketer)|Hasan Ali]] from their squad.<ref name="ret">{{cite news |title=PSL 2026 players list: Full squads for all teams and latest updates from Pakistan Super League auction {{!}} Cricket News |url=https://www.cricketnews.com/en/cricket/news/psl-2026-players-list-full-squads-all-teams-pakistan-super-league/3bbd393a06776bf26546351b#:~:text=Players%20who%20were%20not%20retained%20entered%20the,to%20four%20players%20from%20the%20unpicked%20pool. |work=www.cricketnews.com |date=11 February 2026 |language=en}}</ref>
+
+[[2026 Pakistan Super League personnel signings and auction|Player auction]] for the PSL 11 was held on 11 February 2026.<ref name="ret" /> Following is the full squad of [[Karachi Kings]] after the player auction and retentions.<ref name="WisdenAuction">{{cite web |title=PSL 2026 Auction: Direct overseas signings revealed |url=https://www.wisden.com/series/psl-2026/cricket-news/psl-2026-auction-full-list-of-players-with-base-price |work=Wisden |date=2026-02-10}}</ref>
+
+{| class="wikitable"
+|+Key
+|-
+|
+* Players with international caps are listed in '''bold'''.
+* {{color box|border=darkgray|#FFCCCC|<nowiki>*</nowiki>}} denotes a player who is fully unavailable
+* {{color box|border=darkgray|#EEE8AA|<nowiki>*</nowiki>}} denotes a player who will be partially unavailable
+|}
+
+{| class="wikitable"
+|-
+! No.
+! Name
+! Nationality
+! Birth date
+! Salary
+! Batting style
+! Bowling style
+! Year signed
+! Notes
+|-
+! colspan="9"|Batters
+|-
+!31
+|'''[[David Warner (cricketer)|David Warner]]'''
+|{{cr|AUS}}
+|{{Birth date and age|1986|10|27|df=y}}
+|PKR 7.90 crore
+|Left-handed
+|Right-arm [[Leg spin|leg break]]
+|2025
+|
+|-
+!47
+|'''[[Aqib Ilyas]]'''
+|{{cr|PAK}}
+|{{Birth date and age|1992|09|05|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[Off spin|off spin]]
+|2026
+|
+|-
+!10
+|'''[[Muhammad Waseem (cricketer)|Muhammad Waseem]]'''
+|{{cr|UAE}}
+|{{Birth date and age|1996|02|12|df=y}}
+|PKR 1.10 crore
+|Right-handed
+|Right-arm [[Fast bowling|medium]]
+|2026
+|
+|-
+! colspan="9"|Wicket-keepers
+|-
+!13
+|[[Saad Baig]]
+|{{cr|PAK}}
+|{{Birth date and age|2006|11|1|df=y}}
+|PKR 60 lakh
+|Left-handed
+|—
+|2025
+|
+|-
+!77
+|'''[[Azam Khan (cricketer, born 1998)|Azam Khan]]'''
+|{{cr|PAK}}
+|{{Birth date and age|1998|8|10|df=y}}
+|PKR 3.25 crore
+|Right-handed
+|—
+|2026
+|
+|-
+!25
+|'''[[Johnson Charles]]'''
+|{{cr|WIN}}
+|{{Birth date and age|1989|01|14|df=y}}
+|PKR 2.00 crore
+|Right-handed
+|—
+|2026
+|
+|-
+! colspan="9"|All-rounders
+|-
+!18
+|'''[[Moeen Ali]]'''
+|{{cr|ENG}}
+|{{Birth date and age|1987|06|18|df=y}}
+|PKR 6.44 crore
+|Left-handed
+|Right-arm [[Off spin|off break]]
+|2026
+|
+|-
+!72
+|'''[[Khushdil Shah]]'''
+|{{cr|PAK}}
+|{{Birth date and age|1995|02|07|df=y}}
+|PKR 3.36 crore
+|Left-handed
+|[[Left-arm orthodox spin|Slow left-arm orthodox]]
+|2025
+|
+|-
+!67
+|'''[[Salman Ali Agha]]'''
+|{{cr|PAK}}
+|{{Birth date and age|1993|10|23|df=y}}
+|PKR 5.85 crore
+|Right-handed
+|Right-arm [[Off spin]]
+|2026
+|
+|-
+!24
+|[[Shahid Aziz (cricketer)|Shahid Aziz]]
+|{{cr|PAK}}
+|{{Birth date and age|2003|03|23|df=y}}
+|PKR 92.5 lakh
+|Right-handed
+|Right-arm [[Fast bowling|fast-medium]]
+|2026
+|
+|-
+! colspan="9"|Bowlers
+|-
+!32
+|'''[[Hasan Ali (cricketer)|Hasan Ali]]'''
+|{{cr|PAK}}
+|{{Birth date and age|1994|2|7|df=y}}
+|PKR 4.76 crore
+|Right-handed
+|Right-arm [[Fast bowling|fast-medium]]
+|2025
+|
+|-
+!55
+|'''[[Abbas Afridi (cricketer)|Abbas Afridi]]'''
+|{{cr|PAK}}
+|{{Birth date and age|2001|4|5|df=y}}
+|PKR 3.08 crore
+|Right-handed
+|Right-arm [[Fast bowling|fast-medium]]
+|2025
+|
+|-
+!39
+|'''[[Mir Hamza]]'''
+|{{cr|PAK}}
+|{{Birth date and age|1992|09|10|df=y}}
+|PKR 2.40 crore
+|Left-handed
+|Left-arm [[Fast bowling|medium]]
+|2026
+|
+|-
+|-
+!88
+|'''[[Adam Zampa]]'''
+|{{cr|AUS}}
+|{{Birth date and age|1992|03|31|df=y}}
+|PKR 4.50 crore
+|Right-handed
+|Right-arm [[Leg spin|leg break]]
+|2026
+|
+|-
+!—
+|Mohammad Hamza Sohail
+|{{cr|PAK}}
+|{{Birth date and age|2000|10|30|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[Fast bowling|fast-medium]]
+|2026
+|
+|-
+!19
+|Khuzaima bin Tanveer
+|{{cr|UAE}}
+|{{Birth date and age|1999|12|20|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[Fast bowling|fast]]
+|2026
+|
+|-
+!52
+|'''[[Ihsanullah (Pakistani cricketer)|Ihsanullah]]'''
+|{{cr|PAK}}
+|{{Birth date and age|2002|10|11|df=y}}
+|PKR 1.05 crore
+|Right-handed
+|Right-arm [[Fast bowling|fast]]
+|2026
+|
+|-
+!—
+|Rizwanullah
+|{{cr|PAK}}
+|N/A
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[Fast bowling|fast-medium]]
+|2026
+|
+|-
+|}
+
+*Source: [https://www.espncricinfo.com/series/pakistan-super-league-2025-1434269/karachi-kings-squad-1475884/series-squads ESPNcricinfo]
+
+
+== Coaching and Management Staff ==
+* Head Coach: [[Ravi Bopara]]<ref>{{cite news |title=Ravi Bopara appointed Karachi Kings head coach |url=https://www.dawn.com/news/1900997 |work=Dawn |date=2025-03-29}}</ref>
+* Assistant Coach: Muhammad Masroor
+
+== Season standings ==
+{{2026 Pakistan Super League points table}}
+
+== Fixtures ==
+{{hatnote|All times are in [[Pakistan Standard Time]] ([[UTC+05:00]])}}
+{{#section:2026 Pakistan Super League|match2}}
+----
+{{#section:2026 Pakistan Super League|match6}}
+----
+{{#section:2026 Pakistan Super League|match10}}
+----
+{{#section:2026 Pakistan Super League|match17}}
+----
+{{#section:2026 Pakistan Super League|match20}}
+----
+{{#section:2026 Pakistan Super League|match25}}
+----
+{{#section:2026 Pakistan Super League|match28}}
+----
+{{#section:2026 Pakistan Super League|match32}}
+----
+{{#section:2026 Pakistan Super League|match35}}
+----
+{{#section:2026 Pakistan Super League|match37}}
+----
+
+== References ==
+{{Reflist}}
+
+{{Karachi Kings}} 
+
+{{DEFAULTSORT:2026 Karachi Kings season}}
+[[Category:Karachi Kings seasons]] 
+[[Category:2026 Pakistan Super League|K]]

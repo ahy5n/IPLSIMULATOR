@@ -1,0 +1,395 @@
+{{AI-generated |reason= [[Wikipedia:AI noticeboard#Abdulrehmann92]] ([[WP:WWT]] is useful) |date=September 2026}}
+{{Short description|2026 season of Peshawar Zalmi}}
+{{Use dmy dates|date=February 2026}}
+{{Infobox cricket club season
+| club = Peshawar Zalmi
+| season = [[2026 Pakistan Super League|2026]]
+| coach = [[Ottis Gibson]]
+| captain = [[Babar Azam]]
+| ground = [[Imran Khan Cricket Stadium]]
+| comp1 = [[2026 Pakistan Super League final|Final]]
+| comp1 result = Champions
+| most runs = 
+| most wickets = 
+| prevseason = [[2025 Peshawar Zalmi season|2025]]
+| nextseason = 2027
+}}
+{{Season sidebar
+| title = Seasons
+| list  = 
+* [[2016 Peshawar Zalmi season|2016]]
+* [[2017 Peshawar Zalmi season|2017]]
+* [[2018 Peshawar Zalmi season|2018]]
+* [[2019 Peshawar Zalmi season|2019]]
+* [[2020 Peshawar Zalmi season|2020]]
+* [[2021 Peshawar Zalmi season|2021]]
+* [[2022 Peshawar Zalmi season|2022]]
+* [[2023 Peshawar Zalmi season|2023]]
+* [[2024 Peshawar Zalmi season|2024]]
+* [[2025 Peshawar Zalmi season|2025]]
+* [[2026 Peshawar Zalmi season|2026]]
+}}
+'''Peshawar Zalmi''' is a [[Pakistani]] professional [[Twenty20]] franchise [[cricket]] team based in [[Peshawar]], Pakistan, that competed in the [[2026 Pakistan Super League]]. It was the team's eleventh consecutive season in the [[Pakistan Super League]] after renewing its franchise agreement for another decade in December 2025.<ref>{{cite web |title=Peshawar Zalmi renews PSL franchise rights for another decade |url=https://www.peshawarzalmi.com/news |work=Peshawar Zalmi Official}}</ref> Peshawar were coached by [[Ottis Gibson]] and captained by [[Babar Azam]].
+
+Peshawar finished the league stage at the top of the points table and qualified for the final after defeating [[Islamabad United]] in the Qualifier. They won their second Pakistan Super League title by defeating [[Hyderabad Kingsmen]] by five wickets in the [[2026 Pakistan Super League final]], played on 3 May 2026 at [[Gaddafi Stadium]], [[Lahore]].<ref>{{cite news |last=Ali |first=Akber |date=3 May 2026 |title=Peshawar Zalmi beat Hyderabad Kingsmen by 5 wickets, lift PSL trophy a second time |url=https://www.dawn.com/news/1997223 |work=[[Dawn (newspaper)|Dawn]] |access-date=4 May 2026}}</ref>
+
+==Squad==
+[[File:Babar Azam.png|200px|thumb|right|Babar Azam was the captain and top scorer for the team in 2026.]]
+[[Pakistan Super League]] introduced [[Player auction|an auction model]] for the first time in the [[2026 Pakistan Super League|2026]] season, allowing teams to select players by bidding in [[Pakistani rupees]].<ref name="D1">{{cite news |title=Player auction model to replace draft system for PSL XI |url=https://www.dawn.com/news/1967839 |work=Dawn |date=19 January 2026 |language=en}}</ref> Teams were also allowed to directly sign one foreign player who was not part of [[2025 Pakistan Super League|previous season]].<ref name="D1" /> Zalmi's signed [[Aaron Hardie]] as their directly signed player. Teams were also allowed to retain up to 4 players who were part of their squads in previous seasons, while new teams were allowed to sign 4 players before the auction to match with other franchises.<ref>{{cite web |title=PSL auction to take place on 11 February |url=https://www.espncricinfo.com/story/pakistan-news-psl-2026-auction-to-take-place-february-11-1520921 |access-date=10 February 2026}}</ref> Peshawar retained [[Babar Azam]], [[Abdul Samad (Pakistani cricketer)|Abdul Samad]], [[Sufiyan Muqeem]] and [[Ali Raza (cricketer, born 2008)|Ali Raza]] from their squad.<ref name="ret">{{cite news |title=PSL 2026 players list: Full squads for all teams and latest updates from Pakistan Super League auction {{!}} Cricket News |url=https://www.cricketnews.com/en/cricket/news/psl-2026-players-list-full-squads-all-teams-pakistan-super-league/3bbd393a06776bf26546351b#:~:text=Players%20who%20were%20not%20retained%20entered%20the,to%20four%20players%20from%20the%20unpicked%20pool. |work=www.cricketnews.com |date=11 February 2026 |language=en}}</ref><ref>{{cite news |last=Alam |first=Sher |date=2026-02-04 |title=Peshawar Zalmi Reveal Massive Retention Amounts for Star Players Ahead of PSL 11 |url=https://propakistani.pk/2026/02/04/peshawar-zalmi-reveal-massive-retention-amounts-for-star-players-ahead-of-psl-11/ |work=ProPakistani}}</ref>
+
+[[2026 Pakistan Super League personnel signings and auction|Player auction]] for the PSL 11 was held on 11 February 2026.<ref name="ret" /> Following is the full squad of [[Peshawar Zalmi]] after the player auction and retentions.<ref name="WisdenAuction">{{cite web |title=PSL 2026 Auction: Direct overseas signings revealed |url=https://www.wisden.com/series/psl-2026/cricket-news/psl-2026-auction-full-list-of-players-with-base-price |work=Wisden |date=2026-02-10}}</ref>
+
+{| class="wikitable"
+|+Key
+|-
+|
+* Players with international caps are listed in '''bold'''.
+* {{color box|border=darkgray|#FFCCCC|<nowiki>*</nowiki>}} denotes a player who is fully unavailable
+* {{color box|border=darkgray|#EEE8AA|<nowiki>*</nowiki>}} denotes a player who will be partially unavailable
+|}
+
+{| class="wikitable"
+|+ 
+!No.
+!Name
+!Nationality
+!Birth date
+!Salary
+!Batting style
+!Bowling style
+!Year signed
+!Notes
+|-
+! colspan="9"|Batsmen
+|-
+!56
+|'''[[Babar Azam]]'''
+|{{cr|PAK}}
+|{{Birth date and age|1994|10|15|df=y}}
+|PKR 7.0 crore
+|Right-handed
+|Right-arm [[off break]]
+|2022
+|[[Captain (cricket)|Captain]]
+|-
+!45
+|'''[[Abdul Samad (Pakistani cricketer)  |Abdul Samad]]'''
+|{{cr|PAK}}
+|{{Birth date and age|1998|1|25|df=y}}
+|PKR 2.8 crore
+|Right-handed
+|Right-arm [[leg break]]
+|2025
+|
+|-
+!14
+|'''[[James Vince]]'''
+|{{cr|England}}
+|{{Birth date and age|1991|03|14|df=y}}
+|PKR 3.00 crore
+|Right-handed
+|Right-arm [[medium pace]]
+|2026
+|
+|-
+!97
+|'''[[Tanzid Hasan]]'''
+|{{cr|Bangladesh}}
+|{{Birth date and age|2000|12|1|df=y}}
+|PKR 1.1 crore
+|Left-handed
+|left-arm [[medium pace]]
+|2026
+|
+|-
+!45
+|'''[[Mirza Tahir Baig]]'''
+|{{cr|Pakistan}}
+|{{Birth date and age|1998|10|15|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[medium pace]]
+|2026
+|
+|-
+! colspan="9" |Wicket-keepers
+|-
+!29
+|'''[[Mohammad Haris]]'''
+|{{cr|Pakistan}}
+|{{Birth date and age|2001|03|30|df=y}}
+|PKR 2.20 crore
+|Right-handed
+|—
+|2026
+|
+|-
+!14
+|'''[[Kusal Mendis]]'''
+|{{cr|Sri Lanka}}
+|{{Birth date and age|1995|02|02|df=y}}
+|PKR 4.20 crore
+|Right-handed
+|—
+|2026
+|
+|-
+! colspan="9" |All-rounders
+|-
+!20
+|'''[[Aaron Hardie]]'''
+|{{cr|AUS}}
+|{{Birth date and age|1999|01|7|df=y}}
+|PKR 
+|Right-handed
+|Right-arm [[Fast bowling|medium-fast]]
+|2026
+|
+|-
+!4
+|'''[[Michael Bracewell (cricketer)|Michael Bracewell]]'''
+|{{cr|New Zealand}}
+|{{Birth date and age|1991|02|14|df=y}}
+|PKR 4.20 crore
+|Left-handed
+|Right-arm [[Off spin|off break]]
+|2026
+|
+|-
+!95
+|'''[[Iftikhar Ahmed (cricketer)|Iftikhar Ahmed]]'''
+|{{cr|Pakistan}}
+|{{Birth date and age|1990|09|03|df=y}}
+|PKR 1.80 crore
+|Right-handed
+|Right-arm [[Off spin|off break]]
+|2026
+|
+|-
+!65
+|'''[[Aamir Jamal]]'''
+|{{cr|Pakistan}}
+|{{Birth date and age|1996|07|05|df=y}}
+|PKR 1.90 crore
+|Right-handed
+|Right-arm [[Fast bowling|medium-fast]]
+|2026
+|
+|-
+!7
+|[[Khalid Usman]]
+|{{cr|Pakistan}}
+|{{Birth date and age|1986|05|20|df=y}}
+|PKR 60 lakh
+|Right-handed
+|[[Left-arm orthodox spin|Slow left arm orthodox]]
+|2026
+|
+|-
+! colspan="9" |Bowlers
+|-
+!82
+|'''[[Sufiyan Muqeem]]'''
+|{{cr|PAK}}
+|{{birth date and age|1999|11|15|df=y}}
+|PKR 4.48 crore
+|Left-handed
+|Left-arm [[Left-arm unorthodox spin|unorthodox]]
+|2023
+|
+|-
+!11
+|[[Ali Raza (cricketer, born 2008)|Ali Raza]]
+|{{cr|PAK}}
+|{{birth date and age|2008|3|18|df=y}}
+|PKR 1.96 crore
+|Right-handed
+|Right-arm [[Fast bowling|medium-fast]]
+|2025
+|
+|-
+!23
+|Abdul Subhan
+|{{cr|Pakistan}}
+|{{birth date and age|2004|10|14|df=y}}
+|PKR 62.5 lakh
+|Right-handed
+|Right-arm [[Fast bowling|medium-fast]]
+|2026
+|
+|-
+!49
+|'''[[Khurram Shahzad (Pakistani cricketer, born 1999)|Khurram Shahzad]]'''
+|{{cr|Pakistan}}
+|{{Birth date and age|1999|10|01|df=y}}
+|PKR 2.70 crore
+|Right-handed
+|Right-arm [[Fast bowling|fast-medium]]
+|2026
+|
+|-
+!45
+|'''[[Nahid Rana]]'''
+|{{cr|Bangladesh}}
+|{{Birth date and age|2002|10|02|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[Fast bowling|fast]]
+|2026
+|
+|-
+!—
+|Kashif Ali
+|{{cr|Pakistan}}
+|N/A
+|PKR 60 lakh
+|N/A
+|N/A
+|2026
+|
+|-
+!26
+|'''[[Shahnawaz Dahani]]'''
+|{{cr|Pakistan}}
+|{{Birth date and age|1998|08|05|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[Fast bowling|fast-medium]]
+|2026
+|
+|-
+!47
+|'''[[Shoriful Islam]]'''
+|{{cr|Bangladesh}}
+|{{Birth date and age|2001|6|3|df=y}}
+|PKR 1.1 Crore
+|Left-handed
+|Left-arm [[Fast bowling|fast-medium]]
+|2026
+|
+|-
+
+|}
+
+== Coaching and Management Staff ==
+* Head Coach: [[Ottis Gibson]]<ref>{{cite news |title=Ottis Gibson appointed Peshawar Zalmi head coach for PSL 11 |url=https://minutemirror.com.pk/otis-gibson-appointed-peshawar-zalmi-head-coach-for-psl-11-503871/ |work=Minute Mirror |date=2026-02-11}}</ref>
+* Batting Coach: [[Misbah-ul-Haq]]<ref>{{cite news |title=Peshawar Zalmi appoint Misbah-ul-Haq as batting coach for PSL 11 |url=https://www.brecorder.com/news/40406532/ |work=Business Recorder |date=2026-02-10}}</ref>
+* Director of Cricket: [[Mohammad Akram (cricketer)|Mohammad Akram]]
+
+== Season standings ==
+=== Points table ===
+{{2026 Pakistan Super League points table}}
+=== League progression ===
+{{#invoke:PakistanSuperLeagueProgression|create
+| caption = League progression
+| teams = Peshawar Zalmi
+| knockoutType = 2
+| matchesPerTeam = 10
+| matchReportArticle = 2026 Pakistan Super League
+| W3, N7, W15, W17, W19, W22, W23, W29, W32, L38
+| W41, U, W44
+}}
+
+== Fixtures ==
+{{hatnote|All times are in [[Pakistan Standard Time]] ([[UTC+05:00]])}}
+=== League stage ===
+{{#section:2026 Pakistan Super League|match3}}
+----
+{{#section:2026 Pakistan Super League|match7}}
+----
+{{#section:2026 Pakistan Super League|match15}}
+----
+{{#section:2026 Pakistan Super League|match17}}
+----
+{{#section:2026 Pakistan Super League|match19}}
+----
+{{#section:2026 Pakistan Super League|match22}}
+----
+{{#section:2026 Pakistan Super League|match23}}
+----
+{{#section:2026 Pakistan Super League|match29}}
+----
+{{#section:2026 Pakistan Super League|match32}}
+----
+{{#section:2026 Pakistan Super League|match38}}
+----
+=== Playoffs ===
+{{#section:2026 Pakistan Super League|match41}}
+----
+{{main|2026 Pakistan Super League final}} 
+{{#section:2026 Pakistan Super League|match44}}
+----
+
+== Statistics ==
+=== Most runs ===
+{| class="wikitable sortable"
+! class=unsortable| Player
+! {{Tooltip|Inns|Innings}}
+! class=unsortable| Runs
+! {{Tooltip|Ave|Average}}
+! {{Tooltip|HS|Highest Score}}
+! 50s
+! 100s
+|-
+|[[Babar Azam]]
+|11
+!588
+|73.50
+|103
+|3
+|2
+|-
+|[[Kusal Mendis]]
+|11
+!550	
+|55.00
+|109
+|4
+|1
+|-
+|[[Mohammad Haris]]
+|9
+!206
+|22.8
+|47
+|0
+|0
+|}
+* Source: [https://www.espncricinfo.com/records/year/batting-most-runs-career/2026-2026/twenty20-matches-6?team=5791 ESPNcricinfo]
+
+=== Most wickets ===
+{| class="wikitable sortable"
+! class=unsortable| Player
+! {{Tooltip|Inns|Innings}}
+! class=unsortable| {{Tooltip|Wkts|Wickets}}
+! {{Tooltip|Ave|Average}}
+! {{Tooltip|BBI|Best Bowling Innings}}
+|-
+|[[Sufiyan Muqeem]]
+|11
+!22
+|14.40
+|{{ntsh|3}}4/32
+|-
+|[[Iftikhar Ahmed (cricketer)|Iftikhar Ahmed]]
+|10
+!12
+|19.75
+|{{ntsh|1}}4/21
+|-
+|[[Aaron Hardie]]
+|6
+!11
+|12.81
+|{{ntsh|2}}4/27
+|}
+*Source: [https://www.espncricinfo.com/records/year/bowling-most-wickets-career/2026-2026/twenty20-matches-6?team=5791 ESPNcricinfo]
+
+== References ==
+{{Reflist}}
+
+{{Peshawar Zalmi}}
+
+{{DEFAULTSORT:2026 Peshawar Zalmi season}}
+[[Category:2026 Pakistan Super League|Peshawar Zalmi]]
+[[Category:Peshawar Zalmi seasons]]

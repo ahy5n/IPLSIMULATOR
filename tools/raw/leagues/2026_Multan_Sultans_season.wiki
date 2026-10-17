@@ -1,0 +1,287 @@
+{{Short description|Pakistani Twenty20 cricket team season}}
+{{Use dmy dates|date=February 2026}}
+{{Infobox cricket club season
+| club = Multan Sultans
+| season = 2026
+| coach = [[Tim Paine]]
+| captain = 
+| ground =
+| comp1 = [[2026 Pakistan Super League#Playoffs|Playoffs]]
+| comp1 result = 4th place
+| comp2 = 
+| comp2 result = 
+| most runs = 
+| most wickets = 
+| prevseason = [[2024 Multan Sultans season|2024]]
+| nextseason = 2027 
+}}
+
+'''Multan Sultans''' is a [[Pakistani]] professional [[Twenty20]] franchise [[cricket]] team that will compete in [[2026 Pakistan Super League]]. Team is based in the [[Multan]] city of [[Pakistan]]. This will be the ninth season of the [[Multan Sultans|Sultans]]
+
+They currently coached by [[Tim Paine]]<ref name="Geo">{{cite news |title=Sialkot Stallionz sign Australia's Steve Smith for PSL 11 |url=https://www.geo.tv/latest/648769-sialkot-stallionz-sign-australias-steve-smith-for-psl-11 |work=www.geo.tv |date=3 February 2026}}</ref> [[Captain (cricket)|Captain]] for the 2026 season is not announced yet.
+
+==History==
+{{further|Multan Sultans#Franchise History}}
+In January 2025, [[Pakistan Cricket Board]] held the auction for two new teams. Sialkot Stallionz and [[Hyderabad Kingsmen]] were confirmed as the two new teams.<ref name="price">{{cite web |title=Hyderabad and Sialkot join PSL as two newest teams |url=https://www.espncricinfo.com/story/hyderabad-and-sialkot-join-psl-as-two-newest-teams-1518639 |website=ESPNcricinfo |date=8 January 2026}}</ref> Before the start of [[2026 Pakistan Super League]] owners faced financial difficulties,<ref name="Bcr">{{cite news |last1=khurram |first1=Tayyaba |title=Kamil Khan exits Sialkot Stallionz |url=https://tribune.com.pk/story/2594101/kamil-khan-exits-sialkot-stallionz |work=The Express Tribune |date=23 February 2026 |language=en}}</ref> and sold the team to CD Ventures.<ref name="Newowner">{{cite news |title=Explained: Why New PSL Franchise Sialkot Stallionz Has Fresh Ownership Within Two Months {{!}} Cricket News Today {{!}} Pakistan Super League 2026 |url=https://www.wisden.com/series/psl-2026/cricket-news/explained-why-new-psl-franchise-sialkot-stallionz-has-fresh-ownership-within-two-months |access-date=24 February 2026 |work=Wisden |date=23 February 2026 |language=en}}</ref>
+
+After the acquisition new owner requested PCB to rebrand the franchise from Sialkot Stallionz to Multan Sultans which was accepted.<ref>{{cite news |last1=Affan |first1=Muhammad |title=Multan Sultans return to PSL as Sialkot Stallionz rebranded |url=https://tribune.com.pk/story/2595574/multan-sultans-return-to-psl-as-sialkot-stallionz-rebranded?amp=1 |work=The Express Tribune |date=3 March 2026 |language=en}}</ref>
+
+==Squad==
+[[Pakistan Super League]] introduced [[Player auction|auction model]] for the first time in [[2026 Pakistan Super League|2026]] season, allowing teams to select players by bidding in [[Pakistani rupees]].<ref name="D1">{{cite news |title=Player auction model to replace draft system for PSL XI |url=https://www.dawn.com/news/1967839 |work=Dawn |date=19 January 2026 |language=en}}</ref> Teams were also allowed to directly sign one foreign player who was not part of [[2025 Pakistan Super League|previous season]].<ref name="D1" /> Stallionz chose [[Steve Smith (cricketer)|Steve Smith]] as their directly signed player.<ref name="Geo" /> Teams were also allowed to retain up to 4 players who were part of their squads in previous season while new teams were allowed to sign 4 players before auction to match with other franchises.<ref>{{cite web |title=PSL auction to take place on 11 February |url=https://www.espncricinfo.com/story/pakistan-news-psl-2026-auction-to-take-place-february-11-1520921 |access-date=10 February 2026}}</ref> Sialkot selected [[Mohammad Nawaz (cricketer)|Mohammed Nawaz]], [[Salman Mirza]], [[Ahmed Daniyal]] and [[Saad Masood]] as their retentions.<ref name="WisdenSialkot">{{cite web |title=PSL 2026 Auction: Sialkot Stallionz sign Steve Smith |url=https://www.wisden.com/series/psl-2026/cricket-news/psl-2026-auction-full-list-of-players-with-base-price |work=Wisden |date=10 February 2026}}</ref>
+
+[[2026 Pakistan Super League personnel signings and auction|Player auction]] for the PSL 11 was held on 11 February 2026.<ref name="D1" /> Following is the full squad of [[Sialkot Stallionz]] after player auction and Retentions.
+
+==Current squad==
+{| class="wikitable"
+|+Key
+|-
+|
+* Players with international caps are listed in '''bold'''.
+* {{color box|border=darkgray|#FFCCCC|<nowiki>*</nowiki>}} denotes a player who is fully unavailable
+* {{color box|border=darkgray|#EEE8AA|<nowiki>*</nowiki>}} denotes a player who will be partially unavailable
+|}
+
+{| class="wikitable"
+|-
+!No.
+!Name
+!Nationality
+!Birth date
+!Salary
+!Batting style
+!Bowling style
+!Year signed
+!Notes
+|-
+! colspan="9"|Batsmen
+|-
+!49
+|'''[[Steve Smith (cricketer)|Steve Smith]]'''
+|{{cr|Australia}}
+|{{Birth date and age|1989|06|09|df=y}}
+|PKR 14.0 crore 
+|Right-handed
+|Right-arm [[leg break]]
+|2026
+|
+|-
+!53
+|Jahanzaib Sultan
+|{{cr|Pakistan}}
+|{{Birth date and age|2002|05|03|df=y}}
+|PKR 60 lakh
+|Left-handed
+|Right-arm [[Off spin|off break]]
+|2026
+|
+|-
+!51
+|'''[[Sahibzada Farhan]]'''
+|{{cr|Pakistan}}
+|{{Birth date and age|1996|03|06|df=y}}
+|PKR 5.70 crore 
+|Right-handed
+|—
+|2026
+|
+|-
+!70
+|'''[[Ashton Turner]]'''
+|{{cr|Australia}}
+|{{Birth date and age|1993|01|25|df=y}}
+|PKR 4.20 crore 
+|Right-handed
+|Right-arm [[Off spin|off break]]
+|2026
+|
+|-
+!94
+|'''[[Shan Masood]]'''
+|{{cr|Pakistan}}
+|{{Birth date and age|1989|10|14|df=y}}
+|PKR 65 lakh
+|Left-handed
+|Right-arm [[Fast bowling|medium]]
+|2026
+|
+|-
+!54
+|Muhammad Awais Zafar
+|{{cr|Pakistan}}
+|{{Birth date and age|2000|05|10|df=y}}
+|PKR 60 lakh
+|Right-handed
+|—
+|2026
+|
+|-
+! colspan="9"|Wicket-keepers
+|-
+!11
+|[[Lachlan Shaw (cricketer)|Lachlan Shaw]]
+|{{cr|Australia}}
+|{{Birth date and age|2002|12|26|df=y}}
+|PKR 60 lakh
+|Right-handed
+|—
+|2026
+|
+|-
+!2
+|'''[[Josh Philippe]]'''
+|{{cr|Australia}}
+|{{Birth date and age|1997|06|01|df=y}}
+|PKR 2.30 crore 
+|Right-handed
+|—
+|2026
+|
+|-
+! colspan="9"|All-rounders
+|-
+!21
+|'''[[Mohammad Nawaz (cricketer)|Mohammad Nawaz]]'''
+|{{cr|PAK}}
+|{{Birth date and age|1994|03|21|df=y}}
+|PKR 6.16 crore
+|Left-handed
+|Left-arm [[Orthodox bowling|orthodox]]
+|2026
+|
+|-
+!29
+|[[Saad Masood]]
+|{{cr|Pakistan}}
+|{{Birth date and age|2004|7|12|df=y}}
+|PKR 84 lakh
+|Right-handed
+|Right-arm [[leg break|leg spin]]
+|2026
+|
+|-
+!66
+|[[Delano Potgieter]]
+|{{cr|South Africa}}
+|{{Birth date and age|1996|07|05|df=y}}
+|PKR 60 lakh
+|Left-handed
+|Right-arm [[Fast bowling|medium]]
+|2026
+|
+|-
+!32
+|[[Mohammad Shehzad]]
+|{{cr|Pakistan}}
+|{{Birth date and age|2004|02|05|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[Fast bowling|fast-medium]]
+|2026
+|
+|-
+! colspan="9"|Bowlers
+|-
+!82
+|'''[[Salman Mirza]]'''
+|{{cr|PAK}}
+|{{Birth date and age|1994|1|1|df=y}}
+|PKR 3.92 crore
+|Right-handed
+|Left-arm [[Fast bowling|fast-medium]]
+|2026
+|
+|-
+!33
+|'''[[Ahmed Daniyal]]'''
+|{{cr|PAK}}
+|{{birth date and age|1997|8|4|df=y}}
+|PKR 2.24 crore
+|Right-handed
+|Right-arm [[Fast bowling|fast-medium]]
+|2026
+|
+|-
+!64
+|'''[[Peter Siddle]]'''
+|{{cr|Australia}}
+|{{Birth date and age|1984|11|25|df=y}}
+|PKR 2.50 crore 
+|Right-handed
+|Right-arm [[Fast bowling|fast-medium]]
+|2026
+|
+|-
+!26
+|'''[[Tabraiz Shamsi]]'''
+|{{cr|South Africa}}
+|{{Birth date and age|1990|02|18|df=y}}
+|PKR 2.20 crore 
+|Right-handed
+|[[Left-arm unorthodox spin]]
+|2026
+|
+|-
+!13
+|Momin Qamar
+|{{cr|Pakistan}}
+|{{Birth date and age|2006|10|04|df=y}}
+|PKR 1.075 crore 
+|Left-handed
+|[[Left-arm unorthodox spin]]
+|2026
+|
+|-
+!38
+|'''[[Arshad Iqbal]]'''
+|{{cr|Pakistan}}
+|{{Birth date and age|1996|03|06|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[Fast bowling|fast-medium]]
+|2026
+|
+|-
+|}
+
+==Coaching staff==
+The franchise appointed former Australian Test captain [[Tim Paine]] as their head coach.<ref name="PaineCoach">{{cite news |title=PSL 11: Sialkot Stallionz appoint Tim Paine as head coach |url=https://dunyanews.tv/en/Cricket/932538-psl-11-sialkot-stallionz-appoint-tim-paine-as-head-coach |work=Dunya News |date=30 January 2026}}</ref>
+
+* Head Coach: [[Tim Paine]]
+* Bowling Coach: [[Sohail Tanvir]]
+
+==Sponsors==
+{{empty section|date=February 2026}}
+
+==Team standings==
+{{2026 Pakistan Super League points table}}
+
+== Fixtures ==
+{{hatnote|All times are in [[Pakistan Standard Time]] ([[UTC+05:00]])}}
+{{#section:2026 Pakistan Super League|match4}}
+----
+{{#section:2026 Pakistan Super League|match8}}
+----
+{{#section:2026 Pakistan Super League|match11}}
+----
+{{#section:2026 Pakistan Super League|match13}}
+----
+{{#section:2026 Pakistan Super League|match14}}
+----
+{{#section:2026 Pakistan Super League|match22}}
+----
+{{#section:2026 Pakistan Super League|match28}}
+----
+{{#section:2026 Pakistan Super League|match31}}
+----
+{{#section:2026 Pakistan Super League|match33}}
+----
+{{#section:2026 Pakistan Super League|match40}}
+----
+
+==Statistics==
+{{empty section|date=February 2026}}
+
+==References==
+{{reflist}}
+
+[[Category:2026 Pakistan Super League]]

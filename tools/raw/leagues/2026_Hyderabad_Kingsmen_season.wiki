@@ -1,0 +1,319 @@
+{{Short description|Overview of Hyderabad Kingsmen in 2026}}
+{{Use dmy dates|date=February 2026}}
+{{Infobox cricket club season
+| club = Hyderabad Kingsmen
+| season = 2026
+| coach = [[Jason Gillespie]] 
+| captain = [[Marnus Labuschagne]]
+| ground =
+| comp1 = [[2026 Pakistan Super League final|Final]]
+| comp1 result = Runners-up
+| most runs = 
+| most wickets = 
+| prevseason = —
+| nextseason = 2027 
+}}
+
+'''Hyderabad Kingsmen''' is a professional [[Twenty20]] franchise [[cricket]] team that competed in [[2026 Pakistan Super League]]. Team is based in the [[Hyderabad, Pakistan|Hyderabad]] city of [[Pakistan]]. This was the debut season of the [[Hyderabad Kingsmen|Kingsmen]] alongside [[Rawalpindiz]].<ref name="E1">{{cite news |last1=Baig |first1=Zulfiqar |title=PSL expands as Sialkot, Hyderabad sold for record prices |url=https://tribune.com.pk/story/2585422/psl-expands-as-sialkot-hyderabad-sold-for-record-prices |work=The Express Tribune |date=7 January 2026 |language=en}}</ref>
+
+Kingsmen came into existence after [[Pakistan Cricket Board]] successfully conducted an auction for 2 new teams to expand the league from 6 to 8 teams.<ref name="E1" /> They were coached by [[Jason Gillespie]] in 2026 season<ref>{{cite web |title=Jason Gillespie named as Hyderabad coach |url=https://www.espncricinfo.com/story/psl-2026-jason-gillespie-named-head-coach-of-hyderabad-franchise-1521361 |access-date=10 February 2026}}</ref> and  [[Marnus Labuschagne]] was the [[Captain (cricket)|captain]] of the team.
+
+==Squad==
+[[File:20251224 Marnus Labuschagne 02.jpg|200px|thumb|right|alt=Marnus Labuschagne|[[Marnus Labuschagne]] captain of Hyderabad Kingsmen in 2026.]] 
+[[Pakistan Super League]] introduced [[Player auction|auction model]] for the first time in [[2026 Pakistan Super League|2026]] season, allowing teams to select players by bidding in [[Pakistani rupees]].<ref name="D1">{{cite news |title=Player auction model to replace draft system for PSL XI |url=https://www.dawn.com/news/1967839 |work=Dawn |date=19 January 2026 |language=en}}</ref> Teams were also allowed to directly sign one foreign player who was not part of [[2025 Pakistan Super League|previous season]].<ref name="D1" /> Hyderabad chose [[Marnus Labuschagne]] as their directly signed player. Teams were also allowed to retain upto 4 players who were part of their squads in previous season while new teams were allowed to sign 4 players before auction to match with other franchises.<ref>{{cite web |title=PSL auction to take place on 11 February |url=https://www.espncricinfo.com/story/pakistan-news-psl-2026-auction-to-take-place-february-11-1520921 |access-date=10 February 2026}}</ref> Hyderabad selected [[Saim Ayub]], [[Usman Khan (cricketer)|Usman Khan]], [[Maaz Sadaqat]] and [[Akif Javed]] as their retentions.
+
+[[2026 Pakistan Super League personnel signings and auction|Player auction]] for the PSL 11 was held on 11 February 2026.<ref name="D1" /> Following is the full squad of [[Hyderabad Kingsmen]] after player auction and Retentions.
+
+{| class="wikitable"
+|+ Key
+|-
+|
+* Players with international caps are listed in '''bold'''.
+* {{color box|border=darkgray|#FFCCCC|<nowiki>*</nowiki>}} denotes a player who is fully unavailable.
+* {{color box|border=darkgray|#EEE8AA|<nowiki>*</nowiki>}} denotes a player who will be partially unavailable.
+|}
+
+{| class="wikitable"
+|-
+!No.
+!Name
+!Nationality
+!Birth date
+!Salary
+!Batting style
+!Bowling style
+!Year signed
+!Notes
+|-
+! colspan="9"|Batsmen
+|-
+!33
+|'''[[Marnus Labuschagne]]'''
+|{{cr|AUS}}
+|{{birth date and age|1994|06|22|df=y}}
+|PKR 5.88 crore
+|Right-handed
+|Right-arm [[Leg spin|leg break]]
+|2026
+|
+|-
+!80
+|'''[[Irfan Khan Niazi]]'''
+|{{cr|PAK}}
+|{{birth date and age|2002|12|28|df=y}}
+|PKR 2.90 crore
+|Right-handed
+|Right-arm [[Fast bowling|medium]]
+|2026
+|
+|-
+!11
+|'''[[Shayan Jahangir]]'''
+|{{cr|USA}}
+|{{birth date and age|1994|12|24|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[Fast bowling|medium]]
+|2026
+|
+|-
+!98
+|'''[[Sharjeel Khan]]'''
+|{{cr|PAK}}
+|{{birth date and age|1989|08|14|df=y}}
+|PKR 60 lakh
+|Left-handed
+|[[Left-arm orthodox spin|Slow left arm orthodox]]
+|2026
+|
+|-
+!—
+|'''[[Saad Ali]]'''
+|{{cr|PAK}}
+|{{birth date and age|1993|10|05|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[Fast bowling|medium]]
+|2026
+|
+|-
+!1
+|Tayyab Arif
+|{{cr|PAK}}
+|{{birth date and age|2006|10|11|df=y}}
+|PKR 60 lakh
+|Right-handed
+|—
+|2026
+|
+|-
+! colspan="9"|Wicket-keepers
+|-
+!55
+|'''[[Kusal Perera]]'''
+|{{cr|SL}}
+|{{birth date and age|1990|08|17|df=y}}
+|PKR 3.10 crore
+|Left-handed
+|—
+|2026
+|
+|-
+!78
+|'''[[Usman Khan (cricketer)|Usman Khan]]'''
+|{{cr|PAK}}
+|{{birth date and age|1995|05|10|df=y}}
+|PKR 4.62 crore
+|Right-handed
+|—
+|2026
+|
+|-
+! colspan="9"|All-rounders
+|-
+!63
+|'''[[Saim Ayub]]'''
+|{{cr|PAK}}
+|{{birth date and age|2002|05|24|df=y}}
+|PKR 12.60 crore
+|Left-handed
+|Right-arm [[Off spin|off break]]
+|2026
+|
+|-
+!32
+|[[Glenn Maxwell]]
+|{{cr|AUS}}
+|{{birth date and age|1988|10|14|df=y}}
+|PKR 4.50 crore
+|Right-handed
+|Right-arm [[Off spin|off break]]
+|2026
+|
+|-
+!16
+|[[Maaz Sadaqat]]
+|{{cr|PAK}}
+|{{birth date and age|2005|05|15|df=y}}
+|PKR 3.50 crore
+|Left-handed
+|[[Left-arm orthodox spin|Slow left arm orthodox]]
+|2026
+|
+|-
+!98
+|[[Hassan Khan (cricketer)|Hassan Khan]]
+|{{cr|USA}}
+|{{birth date and age|1998|10|16|df=y}}
+|PKR 1.85 crore
+|Right-handed
+|[[Left-arm orthodox spin|Slow left arm orthodox]]
+|2026
+|
+|-
+!73
+|'''[[Hammad Azam]]'''
+|{{cr|USA}}
+|{{birth date and age|1991|03|16|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[Fast bowling|fast-medium]]
+|2026
+|
+|-
+!—
+|Rizwan Mehmood
+|{{cr|PAK}}
+|{{birth date and age|2004|06|15|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[Leg spin|leg break]]
+|2026
+|
+|-
+!55
+|Ahmed Hussain
+|{{cr|PAK}}
+|{{birth date and age|2007|05|15|df=y}}
+|PKR 60 lakh
+|Left-handed
+|Left-arm [[Leg spin|leg break]]
+|2026
+|
+|-
+! colspan="9"|Bowlers
+|-
+!88
+|'''[[Akif Javed]]'''
+|{{cr|PAK}}
+|{{birth date and age|2000|10|10|df=y}}
+|PKR 1.96 crore
+|Right-handed
+|Left-arm [[Fast bowling|fast]]
+|2026
+|
+|-
+!11
+|'''[[Mohammad Ali (cricketer, born 1992)|Mohammad Ali]]'''
+|{{cr|PAK}}
+|{{birth date and age|1992|11|01|df=y}}
+|PKR 2.15 crore
+|Right-handed
+|Right-arm [[Fast bowling|medium-fast]]
+|2026
+|
+|-
+!34
+|'''[[Riley Meredith]]'''
+|{{cr|AUS}}
+|{{birth date and age|1996|06|21|df=y}}
+|PKR 4.20 crore
+|Right-handed
+|Right-arm [[Fast bowling|fast]]
+|2026
+|
+|-
+!41
+|'''[[Ottniel Baartman]]'''
+|{{cr|RSA}}
+|{{birth date and age|1993|03|18|df=y}}
+|PKR 1.10 crore
+|Right-handed
+|Right-arm [[Fast bowling|fast-medium]]
+|2026
+|
+|-
+!73
+|[[Hunain Shah]]
+|{{cr|PAK}}
+|{{birth date and age|2004|02|04|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[Fast bowling|medium]]
+|2026
+|
+|-
+!84
+|[[Asif Mehmood (cricketer)|Asif Mehmood]]
+|{{cr|PAK}}
+|{{birth date and age|1996|02|03|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[Fast bowling|medium]]
+|2026
+|
+|-
+|}
+Source: [https://www.espncricinfo.com/series/pakistan-super-league-2026-1515734/hyderabad-houston-kingsmen-squad-1523859/series-squads ESPNcricinfo]
+
+== Coaching and Management Staff ==
+The franchise appointed former Pakistan Test coach and former Australian pacer [[Jason Gillespie]] as their head coach.<ref name="GillespieCoach">{{cite news |title=Jason Gillespie named head coach of Hyderabad Houston Kingsmen |url=https://a-sports.tv/hyderabad-franchise-reveals-name-ahead-of-psl-11 |work=A Sports |date=7 February 2026}}</ref>
+
+* Head Coach: [[Jason Gillespie]]
+* Fielding Coach: [[Grant Bradburn]]
+* Batting Coach: Hanif Malik
+* Assistant Coach: [[Craig White]]
+
+==Sponsors==
+{{emptysection|date=February 2026}}
+
+==Team standings==
+{{2026 Pakistan Super League points table}}
+
+== Fixtures ==
+{{hatnote|All times are in [[Pakistan Standard Time]] ([[UTC+05:00]])}}
+{{#section:2026 Pakistan Super League|match1}}
+----
+{{#section:2026 Pakistan Super League|match5}}
+----
+{{#section:2026 Pakistan Super League|match8}}
+----
+{{#section:2026 Pakistan Super League|match15}}
+----
+{{#section:2026 Pakistan Super League|match20}}
+----
+{{#section:2026 Pakistan Super League|match21}}
+----
+{{#section:2026 Pakistan Super League|match24}}
+----
+{{#section:2026 Pakistan Super League|match33}}
+----
+{{#section:2026 Pakistan Super League|match36}}
+----
+{{#section:2026 Pakistan Super League|match39}}
+----
+{{#section:2026 Pakistan Super League|match42}}
+----
+{{#section:2026 Pakistan Super League|match43}}
+----
+{{main|2026 Pakistan Super League final}}
+{{#section:2026 Pakistan Super League|match44}}
+----
+
+==Statistics==
+{{emptysection|date=February 2026}}
+
+==References==
+{{reflist}}
+
+[[Category:Hyderabad Kingsmen seasons]]

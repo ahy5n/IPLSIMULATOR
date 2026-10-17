@@ -1,0 +1,287 @@
+{{AI-generated |reason= [[Wikipedia:AI noticeboard#Abdulrehmann92]] ([[WP:WWT]] is useful) |date=September 2026}}
+{{Short description|2026 season of Islamabad United}}
+{{Use dmy dates|date=February 2026}}
+{{Infobox cricket club season
+| club = Islamabad United
+| season = [[2026 Pakistan Super League|2026]]
+| coach = [[Luke Ronchi]]<ref name="RonchiCoach"/>
+| captain = [[Shadab Khan]]
+| ground = [[Rawalpindi Cricket Stadium]]
+| comp1 = [[2026 Pakistan Super League#Playoffs|Playoffs]]
+| comp1 result = 3rd place
+| most runs = 
+| most wickets = 
+| prevseason = [[2025 Islamabad United season|2025]]
+| nextseason = [[2027 Islamabad United season|2027]]
+}}
+
+The '''2026 season''' is the eleventh  season for [[Islamabad United]] in the [[Pakistan Super League]] (PSL) for men's cricket. After renewing their franchise rights for the 2026–2035 cycle, the three-time champions enter the season under new leadership and a revamped recruitment model, as the league transitioned from a draft to a player auction.<ref name="PCBRetention">{{cite press release |title=Six teams announce player retentions for HBL PSL 2026 |url=https://www.pcb.com.pk/press-release-detail/six-teams-announce-player-retentions-for-hbl-psl-2026-.html |publisher=[[Pakistan Cricket Board]] |date=4 February 2026}}</ref>
+
+== Background ==
+In late 2025, [[Islamabad United]] became the first franchise to officially renew its partnership with the [[Pakistan Cricket Board|PCB]] for another decade. The [[2026 Pakistan Super League|2026]] season marked the league’s expansion to eight teams and introduced a player auction system with a team purse of PKR 450 million.<ref>{{cite news |last=Alam |first=Sher |date=4 February 2026 |title=Islamabad United Reveals Retention Amount for PSL Star Players |url=https://propakistani.pk/2026/02/04/islamabad-united-reveals-retention-amount-for-psl-star-players/ |work=ProPakistani}}</ref>
+
+== Personnel ==
+=== Coaching and Management Staff ===
+In January 2026, the franchise announced the return of former player '''Luke Ronchi''' as the head coach, replacing Mike Hesson.<ref name="RonchiCoach">{{cite news |title=Former New Zealand cricketer Luke Ronchi named Islamabad United new head coach |url=https://a-sports.tv/luke-ronchi-appointed-islamabad-united-head-coach-psl-11 |work=A Sports |date=27 January 2026}}</ref>
+
+* '''Head Coach:''' [[Luke Ronchi]]
+* '''Assistant Coach:''' [[Jacob Oram]]
+* '''Batting Coach:''' [[Ashley Wright (cricketer)|Ashley Wright]]
+* '''Bowling Coach:''' [[Ian Butler (cricketer)|Ian Butler]]
+* '''Owner:''' Ali Naqvi and Amna Naqvi (Leonine Global Sports)
+
+=== Squad ===
+Before the auction on 11 February 2026, Islamabad United retained [[Shadab Khan]], [[Devon Conway]] and [[Andries Gous]]from their '''2025''' squad. They also secured New Zealand's [[Devon Conway]] as their direct overseas signing for a reported PKR 6.3 crore (Rs. 63 million).<ref name="ConwayDirect">{{cite news |title=Karachi Kings, Islamabad United announce direct signings ahead of PSL 11 |url=https://tribune.com.pk/story/2590773/karachi-kings-islamabad-united-announce-direct-signings-ahead-of-psl-11 |work=[[The Express Tribune]] |date=4 February 2026}}</ref>
+
+{| class="wikitable"
+|+Key
+|-
+|
+* Players with international caps are listed in '''bold'''.
+* {{color box|border=darkgray|#FFCCCC|<nowiki>*</nowiki>}} denotes a player who is fully unavailable
+* {{color box|border=darkgray|#EEE8AA|<nowiki>*</nowiki>}} denotes a player who will be partially unavailable
+|}
+
+{| class="wikitable"
+|-
+!No.
+!Name
+!Nationality
+!Birth date
+!Salary
+!Batting style
+!Bowling style
+!Year signed
+!Notes
+|-
+! colspan="9"|Batsmen
+|-
+!15
+|[[Max Bryant]]
+|{{cr|Australia}}
+|{{Birth date and age|1999|03|10|df=y}}
+|PKR 1.95 crore
+|Right-handed
+|Right-arm [[Fast bowling|medium]]
+|2026
+|
+|-
+!80
+|'''[[Mark Chapman (cricketer)|Mark Chapman]]'''
+|{{cr|New Zealand}}
+|{{Birth date and age|1994|06|27|df=y}}
+|PKR 7.0 crore
+|Left-handed
+|[[Left-arm orthodox spin|Slow left-arm orthodox]]
+|2026
+|
+|-
+!86
+|[[Sameer Minhas]]
+|{{cr|Pakistan}}
+|{{Birth date and age|2006|10|02|df=y}}
+|PKR 1.90 crore
+|Right-handed
+|Right-arm [[Leg spin|leg break]]
+|2026
+|
+|-
+!46
+|'''[[Haider Ali (cricketer, born 2000)|Haider Ali]]'''
+|{{cr|Pakistan}}
+|{{Birth date and age|2000|10|02|df=y}}
+|PKR 1.50 crore
+|Right-handed
+|—
+|2026
+|
+|-
+! colspan="9"|All-rounders
+|-
+!7
+|'''[[Shadab Khan]]'''
+|{{cr|Pakistan}}
+|{{Birth date and age|1998|10|04|df=y}}
+|PKR 7.0 crore
+|Right-handed
+|Right-arm [[leg-break]]
+|2017
+|[[Captain (cricket)|Captain]], '''Retained'''
+|-
+!97
+|'''[[Faheem Ashraf]]'''
+|{{cr|PAK}}
+|{{Birth date and age|1993|1|16|df=y}}
+|PKR 8.50 crore
+|Left-handed
+|Right-arm [[Fast bowling|medium-fast]]
+|2026
+|
+|-
+!45
+|'''[[Dipendra Singh Airee]]'''
+|{{cr|Nepal}}
+|{{Birth date and age|2000|01|24|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[Off spin|off-break]]
+|2026
+|
+|-
+! colspan="9"|Wicket-keepers
+|-
+!88
+| '''[[Devon Conway]]'''
+|{{cr|New Zealand}}
+|{{Birth date and age|1991|07|08|df=y}}
+|PKR 6.30 crore
+|Left-handed
+|Right-arm [[Fast bowling|medium]]
+|2026
+|'''Directly Signed'''
+|-
+!68
+|'''[[Andries Gous]]'''
+|{{cr|United States}}
+|{{Birth date and age|1993|11|24|df=y}}
+|PKR 1.4 crore
+|Right-handed
+|—
+|2025
+|'''Retained'''
+|-
+! colspan="9"|Bowlers
+|-
+!99
+|[[Salman Irshad]]
+|{{cr|Pakistan}}
+|{{Birth date and age|1995|12|3|df=y}}
+|PKR 1.2 crore
+|Right-handed
+|Right-arm [[Fast bowling|fast]]
+|2025
+|'''Retained'''
+|-
+!74
+|'''[[Mohammad Wasim Jr.]]'''
+|{{cr|Pakistan}}
+|{{Birth date and age|2001|08|25|df=y}}
+|PKR 4.1 crore
+|Right-handed
+|Right-arm [[Fast bowling|medium-fast]]
+|2026
+|
+|-
+!11
+|[[Mehran Mumtaz]]
+|{{cr|Pakistan}}
+|{{Birth date and age|2003|04|07|df=y}}
+|PKR 1.20 crore
+|Left-handed
+|[[Left-arm orthodox spin|Slow left-arm orthodox]]
+|2026
+|
+|-
+!—
+|Mir Hamza Sajjad
+|{{cr|Pakistan}}
+|{{Birth date and age|1996|06|24|df=y}}
+|PKR 70 lakh
+|Right-handed
+|Right-arm [[Fast bowling|fast]]
+|2026
+|
+|-
+!14
+|[[Sameen Gul]]
+|{{cr|Pakistan}}
+|{{Birth date and age|1999|02|04|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[Fast bowling|medium-fast]]
+|2026
+|
+|-
+!71
+|'''[[Richard Gleeson]]'''
+|{{cr|England}}
+|{{Birth date and age|1987|12|02|df=y}}
+|PKR 1.10 crore
+|Right-handed
+|Right-arm [[Fast bowling|medium-fast]]
+|2026
+|
+|-
+!87
+|'''[[Mohammad Hasnain]]'''
+|{{cr|Pakistan}}
+|{{Birth date and age|2000|04|05|df=y}}
+|PKR 77.5 lakh
+|Right-handed
+|Right-arm [[Fast bowling|fast]]
+|2026
+|
+|-
+!40
+|'''[[Blessing Muzarabani]]'''
+|{{cr|Zimbabwe}}
+|{{Birth date and age|1996|10|02|df=y}}
+|PKR 1.10 crore
+|Right-handed
+|Right-arm [[Fast bowling|medium-fast]]
+|2026
+|
+|-
+|}
+
+*Source: [https://www.espncricinfo.com/series/pakistan-super-league-2023-24-1412744/islamabad-united-squad-1412798/series-squads ESPNcricinfo]
+
+== Season standings ==
+{{2026 Pakistan Super League points table}}
+
+== Fixtures ==
+{{hatnote|All times are in [[Pakistan Standard Time]] ([[UTC+05:00]])}}
+{{#section:2026 Pakistan Super League|match4}}
+----
+{{#section:2026 Pakistan Super League|match7}}
+----
+{{#section:2026 Pakistan Super League|match9}}
+----
+{{#section:2026 Pakistan Super League|match12}}
+----
+{{#section:2026 Pakistan Super League|match16}}
+----
+{{#section:2026 Pakistan Super League|match21}}
+----
+{{#section:2026 Pakistan Super League|match25}}
+----
+{{#section:2026 Pakistan Super League|match34}}
+----
+{{#section:2026 Pakistan Super League|match36}}
+----
+{{#section:2026 Pakistan Super League|match40}}
+
+== Playoffs ==
+===Bracket===
+{{#section:2026 Pakistan Super League|bracket}}
+
+===Qualifier===
+{{#section:2026 Pakistan Super League|match41}}
+----
+
+===Eliminator 2===
+{{#section:2026 Pakistan Super League|match43}}
+----
+
+== References ==
+{{Reflist}}
+{{Authority control}}
+
+== External links ==
+* [https://www.islamabadunited.com/ Official website]
+* [https://stats.espncricinfo.com/ci/engine/records/index.html?id=2026;team=5795;type=year Team records 2026]
+
+{{Islamabad United}}
+
+[[Category:2026 Pakistan Super League|Islamabad United]]
+[[Category:Islamabad United seasons]]

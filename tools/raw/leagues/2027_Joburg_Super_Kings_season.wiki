@@ -1,0 +1,203 @@
+{{Short description|Joburg Super Kings in 2027 SA20}}
+{{Infobox Twenty20 club season
+| club                 = [[Joburg Super Kings]]
+| season               = [[2027 SA20|2027]]
+| image                =
+| caption              =
+| president            =
+| coach                = [[Albie Morkel]]
+| captain              = [[Faf du Plessis]]
+| home ground          = [[Wanderers Stadium]]
+| preseason comp       = League
+| preseason result     = [[SA20]]
+| regularseason comp   = [[2027 SA20#League stage|League Stage]]
+| regularseason result = –
+| finals series        = [[2027 SA20 season#Playoffs|Playoffs]]
+| finals result        = –
+| leading runscorer    =
+| leading wicket taker =
+| player of the season =
+| highest attendance   =
+| lowest attendance    =
+| average attendance   =
+| club membership      =
+| prevseason           = [[2026 Joburg Super Kings season|2026]]
+| nextseason           = [[2028 Joburg Super Kings season|2028]]
+}}
+The '''2027 Joburg Super Kings season''' is the fifth season of the franchise in the [[SA20]].<ref>{{cite web |title=BETWAY SA20 SEASON 5 FIXTURES ANNOUNCED |url=https://www.sa20.co.za/news/betway-sa20-season-5-fixtures-announced |date=23 July 2026 |access-date=24 July 2026 |website=SA20.co.za |language=en}}</ref> The team is captained by [[Faf du Plessis]] and coached by [[Albie Morkel]].<ref>{{cite web|url=https://www.espncricinfo.com/story/sa20-albie-morkel-named-head-coach-of-joburg-super-kings-1548113|title=Albie Morkel named head coach of Joburg Super Kings|work=Cricinfo|access-date=30 July 2026}}</ref><ref>{{cite web|url=https://www.joburgsuperkings.com/news-detail/516|title=Joburg Super Kings Appoint Albie Morkel as Head Coach|work=Cricinfo|access-date=30 July 2026}}</ref>
+==Background==
+{{Empty section|date=October 2026}}
+Source:<ref>{{Cite web|url=https://www.cricbuzz.com/cricket-news/140427/sa20-auction-pollard-rowles-headline-super-kings-buys|title=SA20 Auction: Pollard, Rowles headline Super Kings buys|access-date=7 October 2026|work=Cricbuzz}}</ref><ref>{{Cite web|url=https://www.clubcricket.co.za/latestnews/sa20-player-auction-updates/|title=SA20 player auction recap > who joined, where, for how much?|access-date=7 October 2026|work=Cricinfo}}</ref>
+
+== Current squad ==
+* Players with international caps are listed in '''bold'''.
+* {{color box|border=darkgray|#FFCCCC|<nowiki>*</nowiki>}} denotes a player who was unavailable for the season.
+
+{|class="wikitable" style="font-size:85%"
+|-
+! style="background:yellow; color:#00733C; text-align:center;"| No.
+! style="background:yellow; color:#00733C; text-align:center;"| Name
+! style="background:yellow; color:#00733C; text-align:center;"| Nat.
+! style="background:yellow; color:#00733C; text-align:center;"| Birth date
+! style="background:yellow; color:#00733C; text-align:center;"| Batting style
+! style="background:yellow; color:#00733C; text-align:center;"| Bowling style
+! style="background:yellow; color:#00733C; text-align:center;"| Notes
+|-
+! colspan="7" style="background:#dcdcdc; text-align:center;"| Batters
+|-
+| 13 || '''[[Faf du Plessis]]''' || style="text-align:center;" |{{flagicon|SA}} || {{Birth date and age|1984|07|13|df=y}} || Right-handed || Right-arm [[leg break]]  ||
+|-
+|  || '''[[Rilee Rossouw]]''' || style="text-align:center;" |{{flagicon|SA}} || {{Birth date and age|1989|10|09|df=y}} || Left-handed || Right-arm [[off break]] ||
+|-
+| 9 || '''[[James Vince]]''' || style="text-align:center;" |{{flagicon|ENG}} || {{Birth date and age|1991|03|14|df=y}} || Right-handed || Right-arm [[medium pace|medium]] || Overseas
+|-
+| 76 || [[Leus Du Plooy]] || style="text-align:center;" |{{flagicon|SA}} || {{Birth date and age|1995|01|12|df=y}} || Left-handed || Left-arm [[orthodox spin|orthodox]] ||
+|-
+! colspan="7" style="background:#dcdcdc; text-align:center" | Wicket-keepers
+|-
+|  || '''[[Andries Gous]]''' || style="text-align:center;" |{{flagicon|USA}} || {{Birth date and age|1993|11|24|df=y}} || Right-handed || Right-arm [[medium pace|medium]] || Overseas
+|-
+|  || '''[[Donovan Ferreira]]''' || style="text-align:center;" |{{flagicon|SA}} || {{Birth date and age|1998|07|21|df=y}} || Right-handed || Right-arm [[off break]] ||
+|-
+|  || [[Matthew de Villiers]] || style="text-align:center;" |{{flagicon|SA}} || {{Birth date and age|2000|11|21|df=y}} || Right-handed || Right-arm [[medium pace|medium]] || 
+|-
+! colspan="7" style="background:#dcdcdc; text-align:center" | All-rounders
+|-
+| 17 || '''[[Kieron Pollard]]''' || style="text-align:center;" |{{flagicon|WIN}} || {{Birth date and age|1987|05|12|df=y}} || Right-handed || Right-arm [[medium pace|medium]] || Overseas
+|-
+|  || '''[[Jason Holder]]''' || style="text-align:center;" |{{flagicon|WIN}} || {{Birth date and age|1991|11|05|df=y}} || Right-handed || Right-arm [[Fast bowling|medium-fast]] || Overseas
+|-
+|  || '''[[Jamie Overton]]''' || style="text-align:center;" |{{flagicon|ENG}} || {{Birth date and age|1994|04|10|df=y}} || Right-handed || Right-arm [[Fast bowling|fast]] || Overseas{{efn|Jamie Overton was signed as Wildcard player and his salary is outside JSK's auction purse.}}
+|-
+|  || '''[[Dayyaan Galiem]]''' || style="text-align:center;" |{{flagicon|SA}} || {{Birth date and age|1997|01|02|df=y}} || Right-handed || Right-arm [[medium pace|medium-fast]] ||
+|-
+| 14 || '''[[Dian Forrester]]''' || style="text-align:center;" |{{flagicon|SA}} || {{Birth date and age|2000|06|07|df=y}} || Left-handed || Right-arm [[medium pace|medium]] ||
+|-
+| 22 || [[Jarren Bacher]] || style="text-align:center;" |{{flagicon|SA}} || {{Birth date and age|2003|11|22|df=y}} || Right-handed || Right-arm [[off break]] ||
+|-
+|  || [[Jason Rowles]] || style="text-align:center;" |{{flagicon|SA}} || {{Birth date and age|2008|04|14|df=y}} || Left-handed || Left-arm [[orthodox spin|orthodox]] ||
+|-
+! colspan="7" style="background:#dcdcdc; text-align:center;"| Pace bowlers
+|-
+|  || '''[[Blessing Muzarabani]]''' || style="text-align:center;" |{{flagicon|ZIM}} || {{Birth date and age|1996|10|02|df=y}} || Right-handed || Right-arm [[Fast bowling|fast-medium]] || Overseas
+|-
+|  || '''[[Duan Jansen]]''' || style="text-align:center;" |{{flagicon|SA}} || {{Birth date and age|2000|05|01|df=y}} || Right-handed || Left-arm [[Fast bowling|fast]] ||
+|-
+| 38 || [[Janco Smit]] || style="text-align:center;" |{{flagicon|SA}} || {{Birth date and age|2001|02|02|df=y}} || Right-handed || Right-arm [[Fast bowling|fast]] ||
+|-
+! colspan="7" style="background:#dcdcdc; text-align:center;"| Spin bowlers
+|-
+|  || '''[[Akeal Hosein]]''' || style="text-align:center;" |{{flagicon|WIN}} || {{Birth date and age|1993|04|25|df=y}} || Left-handed || Left-arm [[orthodox spin|orthodox]] || Overseas
+|-
+| 23 || '''[[Prenelan Subrayen]]''' || style="text-align:center;" |{{flagicon|SA}} || {{Birth date and age|1993|12|23|df=y}} || Right-handed || Right-arm [[off break]] ||
+|-
+! colspan="7" style="text-align:center;"| Source:{{Citation needed|date=October 2026}}
+|}
+
+==League stage==
+{{hatnote|All times listed below are [[South African Standard Time]] ([[UTC+2]]).}}
+The full fixture list was released on 23 July 2026.<ref>{{cite web
+|url=https://www.espncricinfo.com/series/sa20-2026-27-1547229/match-schedule-fixtures-and-results
+|title=SA20 2027 Fixtures and Results
+|website=ESPNcricinfo
+|publisher=ESPNcricinfo
+|access-date=3 August 2026
+}}</ref><ref>{{cite web
+|url=https://supersport.com/cricket/news/578a7b1a-0b98-43dd-a1f4-02bf3cbac5ff/repeat-of-2026-final-opens-the-2027-sa20-season
+|title=Repeat of 2026 final opens the 2027 SA20 season
+|website=SuperSport
+|date=24 July 2026
+|access-date=3 August 2026
+}}</ref><ref>{{cite web
+|url=https://www.clubcricket.co.za/latestnews/sa20-fixtures-schedule/
+|title=SA20 Fixtures & Schedule
+|website=Club Cricket SA
+|publisher=Club Cricket South Africa
+|date=23 July 2026
+|access-date=3 August 2026
+}}</ref>
+
+{{#section:2027 SA20|match2}}
+----
+{{#section:2027 SA20|match4}}
+----
+{{#section:2027 SA20|match8}}
+----
+{{#section:2027 SA20|match12}}
+----
+{{#section:2027 SA20|match15}}
+----
+{{#section:2027 SA20|match18}}
+----
+{{#section:2027 SA20|match20}}
+----
+{{#section:2027 SA20|match23}}
+----
+{{#section:2027 SA20|match25}}
+----
+{{#section:2027 SA20|match28}}
+----
+
+==Standing==
+===Points table===
+{{#section:2027 SA20|table}}
+===Match summary===
+{| class="wikitable"
+|+
+! rowspan="2" style="border-right:3px solid #454545;" | Team
+! colspan="10" | League matches
+! colspan="3" | Finals
+|-
+!1 !!2 !!3 !!4 !!5 !!6 !!7 !!8 !!9 !!10
+!QF/KO
+!Ch
+!F
+|-
+| style="border-right:3px solid #454545;" align="left" | [[Joburg Super Kings]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|}
+
+{| class="wikitable" style="text-align:center; font-size:90%;"
+| style="background-color:#99FF99;" | Win
+| style="background-color:#FFDDDD;" | Loss
+| style="background-color:#FFFDD0;" | Tie
+| style="background-color:#DFDFFF;" | No result
+|}
+
+== Administration and support staff ==
+{| class="wikitable"
+|+JSK Staff
+|-
+! style="background:yellow; color:#00733C; text-align:center;"|Position
+!style="background:yellow; color:#00733C; text-align:center;"| Name
+|-
+| Head coach ||[[Albie Morkel]]
+|-
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:SA20, 2027}}
+{{SA20 2027 team's seasons}}
+
+[[Category:SA20]]
+[[Category:Domestic cricket competitions in 2026–27|SA20]]
+[[Category:2027 in South African cricket|SA20]]
+[[Category:January 2027 sports events in South Africa|SA20]]
+[[Category: February 2027 sports events in South Africa|SA20]]

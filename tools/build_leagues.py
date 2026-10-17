@@ -91,7 +91,8 @@ COACH_COUNTRY = {
 FLAG = {'AUS': 'Australia', 'ENG': 'England', 'NZ': 'New Zealand', 'SA': 'South Africa', 'RSA': 'South Africa', 'WI': 'West Indies',
         'WIN': 'West Indies', 'SL': 'Sri Lanka', 'AFG': 'Afghanistan', 'BAN': 'Bangladesh', 'IND': 'India', 'PAK': 'Pakistan',
         'ZIM': 'Zimbabwe', 'IRE': 'Ireland', 'SCO': 'Scotland', 'NED': 'Netherlands', 'NEP': 'Nepal', 'USA': 'United States',
-        'UAE': 'United Arab Emirates', 'NAM': 'Namibia', 'CAN': 'Canada', 'OMA': 'Oman', 'HK': 'Hong Kong'}
+        'UAE': 'United Arab Emirates', 'NAM': 'Namibia', 'CAN': 'Canada', 'OMA': 'Oman', 'HK': 'Hong Kong',
+        'JER': 'Jersey', 'GUE': 'Guernsey', 'WAL': 'Wales', 'ITA': 'Italy', 'GER': 'Germany'}
 # Money per league, in each league's own unit: IPL ₹ lakh, PSL PKR lakh, SA20 rand thousands, Hundred £ thousands.
 # cap = the purse / salary cap for the latest season; min = the lowest fee a squad player is paid.
 MONEY = {'psl': dict(cap=5050, min=60), 'sa20': dict(cap=41000, min=200), 'hundred': dict(cap=2050, min=30)}
@@ -185,6 +186,7 @@ def team_lookup(league):
 
 
 PSL_AUCTION = set()
+PSL_AUCTION_TEAM = {}
 
 
 def parse_psl():
@@ -197,8 +199,11 @@ def parse_psl():
     auction = sig[sig.index('==Auction=='):sig.index('==Transfer')]
     PSL_AUCTION.clear()
     for row in re.split(r'\n\|-', auction):
-        m = LINK.search(row)
-        if m: PSL_AUCTION.add(norm(m.group(2) or m.group(1)))
+        links = [x for x in LINK.finditer(row)]
+        if links:
+            PSL_AUCTION.add(norm(links[0].group(2) or links[0].group(1)))
+            tid = team_lookup('psl').get((links[-1].group(2) or links[-1].group(1)).strip())
+            if tid: PSL_AUCTION_TEAM[norm(links[0].group(2) or links[0].group(1))] = tid
     for row in re.split(r'\n\|-', sig):
         cells = [c.strip() for c in re.split(r'\n\||\|\|', row) if c.strip()]
         pk = re.findall(r'\{\{PKR\|([\d.]+) (crore|lakh)\}\}', row)
@@ -221,6 +226,58 @@ def parse_sa20():
         if m and num:
             fees[norm(m.group(2) or m.group(1))] = int(num.group(1).replace(',', '')) // 1000   # rand thousands
     return squads, fees
+
+
+HUNDRED_TEAMS = ['Birmingham Phoenix', 'London Spirit', 'Manchester Super Giants', 'MI London', 'Southern Brave',
+                 'Sunrisers Leeds', 'Trent Rockets', 'Welsh Fire']
+SECTION_ROLE = {'batters': 'BAT', 'all-rounders': 'AR', 'wicket-keepers': 'WK', 'pace bowlers': 'BOWL', 'spin bowlers': 'BOWL'}
+
+
+HUNDRED_OVERSEAS = set()
+
+
+def parse_hundred_pages():
+    """Each Hundred team's 2026 season page: the men's squad with role (by section), nationality, birth
+    date, bowling style, international caps (bold) and notes ("Overseas player", "UK passport")."""
+    out = {}
+    for team in HUNDRED_TEAMS:
+        f = os.path.join(RAW, '2026_' + team.replace(' ', '_') + '_season.wiki')
+        if not os.path.exists(f):
+            continue
+        text = open(f).read()
+        # The infobox's overseas list (men's part, after "(women)") includes replacement signings.
+        ob = re.search(r'\|\s*overseas\s*=\s*\{\{ubl\|(.*?)\(men\)', text, re.S)
+        if ob:
+            men = ob.group(1).split('(women)')[-1]
+            for m in LINK.finditer(men):
+                HUNDRED_OVERSEAS.add(norm((m.group(2) or m.group(1)).strip()))
+        mh = re.search(r"=== ?Men's (team|side) ?===", text)
+        if not mh:
+            continue
+        i = mh.start()
+        j = text.find('\n==', i + 5)
+        section = None
+        for line in text[i:j if j > 0 else None].split('\n'):
+            h = re.search(r'align=right\|\s*([A-Za-z -]+)', line)
+            if line.startswith('!') and h:
+                section = SECTION_ROLE.get(h.group(1).strip().lower())
+                continue
+            if not line.startswith('|style="text-align:center"|'):
+                continue
+            cells = [c.strip() for c in line.split('||')]
+            if len(cells) < 6:
+                continue
+            m = LINK.search(cells[1])
+            name = (m.group(2) or m.group(1)).strip() if m else re.sub(r"'''|\[|\]", '', cells[1]).strip()
+            nat = re.search(r'\{\{cr\|([A-Z]+)', cells[2])
+            dob = re.search(r'(\d{4})\|(\d{1,2})\|(\d{1,2})', cells[3])
+            notes = cells[6] if len(cells) > 6 else ''
+            out[norm(name)] = dict(name=name, team=team, role=section, capped="'''" in cells[1],
+                                   country=FLAG.get(nat.group(1)) if nat else None,
+                                   dob=tuple(int(x) for x in dob.groups()) if dob else None,
+                                   bowling=re.sub(r'\[\[[^|\]]*\|([^\]]*)\]\]', r'\1', cells[5]),
+                                   overseas='overseas player' in notes.lower())
+    return out
 
 
 def parse_hundred():
@@ -462,6 +519,14 @@ def main():
                                               ('Fazalhaq Farooqi', 'Fazalhaq Farooqi'), ('Will Jacks', 'Will Jacks')]}
 
     leagues = {'psl': parse_psl(), 'sa20': parse_sa20(), 'hundred': parse_hundred()}
+    hpages = parse_hundred_pages()
+    # Birth dates already known for IPL players (Wikidata, retained players), for current ages.
+    ipl_dob = {}
+    try:
+        for name, d in json.load(open(os.path.join(ROOT, 'tools', 'raw', 'ipl-2026', 'retained_dob_wikidata.json'))).items():
+            ipl_dob[norm(name)] = tuple(int(x) for x in d.rstrip('~').split('-'))
+    except (OSError, ValueError):
+        pass
     known_ids = {k['id'] for k in known.values()}
     titles = sorted({e['title'] for sq, _ in leagues.values() for es in sq.values() for e in es if e['title']})
     ib = fetch_infoboxes(titles) if '--fetch' in sys.argv or not os.path.exists(os.path.join(RAW, 'infoboxes.json')) else json.load(open(os.path.join(RAW, 'infoboxes.json')))
@@ -494,18 +559,29 @@ def main():
             for e in entries:
                 key = aliases.get(norm(e['name']), norm(e['name']))
                 k = known.get(key)
-                # Same name, different player (e.g. India's and Pakistan's Abdul Samad): trust the country.
-                c_here = e['flag'] or ib_country(ib.get(e['title'] or '', ''))
-                if k and c_here and c_here != k['country']:
-                    k = None
+                hp = hpages.get(norm(e['name'])) if lg == 'hundred' else None
+                info = ib.get(e['title'] or '', '')
+                dob = (hp and hp['dob']) or ib_dob(info)
+                # Same name, different player (e.g. India's and Pakistan's Abdul Samad): different country
+                # or a birth date that doesn't fit his age.
+                c_here = e['flag'] or (hp and hp['country']) or ib_country(info)
+                if k:
+                    if dob and k.get('age'):
+                        same = abs(age_on(dob) - (k['age'] + 1)) <= 1   # IPL list ages are from Dec 2025
+                    else:
+                        same = not c_here or c_here == k['country']
+                    if not same:
+                        k = None
                 if k:
                     p = players.get(k['id']) or add_known(k)
+                    # Ages now, from a birth date where we have one (the IPL list gives ages at Dec 2025).
+                    d = dob or ipl_dob.get(norm(k['name']))
+                    p['age'] = age_on(d) if d else (k.get('age') or 26) + 1
                 else:
-                    info = ib.get(e['title'] or '', '')
                     st = ib_stats(info)
-                    country = e['flag'] or ib_country(info) or HOME[lg]
-                    bt = type_from_style(ib_field(info, 'bowling'))
-                    role = role_from(info, bt, st)
+                    country = e['flag'] or (hp and hp['country']) or ib_country(info) or HOME[lg]
+                    bt = type_from_style((hp and hp['bowling']) or ib_field(info, 'bowling'))
+                    role = (hp and hp['role']) or role_from(info, bt, st)
                     x = features(st)
                     fee = fees.get(norm(e['name']))
                     # League fee is a second signal: a big buy is a good player even with thin numbers.
@@ -523,24 +599,40 @@ def main():
                         new = 0.55 * cur + 0.45 * implied if st and st.get('m') else implied
                         if main == 'bat': bat = new
                         else: bowl = new
+                    if role == 'AR' and min(bat, bowl) < 35:
+                        role = 'BAT' if bat > bowl else 'BOWL'
                     if role in ('BAT', 'WK'):
                         bowl = 8 + jitter(e['name'] + 'b', 6) if not bt else min(bowl, 30)
                     elif role == 'BOWL':
                         bat = min(bat, 22 + jitter(e['name'] + 'b', 6))
                     bat, bowl = max(5, min(88, round(bat + jitter(e['name'] + 'x', 2)))), max(5, min(88, round(bowl + jitter(e['name'] + 'y', 2))))
-                    dob = ib_dob(info)
                     pid = slug(e['name'])
-                    if any(slug(x['name']) == pid and x['country'] != country for x in known.values()):
-                        pid += '-' + slug(country)
-                    while pid in players and players[pid]['name'] != e['name']:
+                    if any(slug(x['name']) == pid for x in known.values()):
+                        pid += '-' + slug(country)   # a different player with an IPL namesake
+                    while pid in players and norm(players[pid]['name']) != norm(e['name']):
                         pid += '-2'
                     p = players.get(pid) or dict(id=pid, name=e['name'], country=country, role=role,
                                                  bowlType=('spin' if bt in ('OB', 'LB', 'SLA', 'LWS') else 'pace') if bt else None,
                                                  bat=bat, bowl=bowl, ovr=overall(role, bat, bowl), pos=default_bands(role, bat, bowl),
                                                  bt=bt if bowl >= 40 else None, bs=None, br=[], age=age_on(dob) if dob else 26 + round(jitter(e['name'] + 'a', 4)),
-                                                 capped=bool(st and st['col'] == 'T20I') or bool(re.search(r'odi|test|t20i', info, re.I)))
+                                                 capped=bool(hp['capped']) if hp else (bool(st and st['col'] == 'T20I') or bool(re.search(r'odi|test|t20i', info, re.I))))
+                # Overseas status as the league registers him: a flag in the PSL and SA20 squad tables,
+                # the "Overseas player" note on the Hundred team pages (UK passport holders, Scots and
+                # Jersey players are local there).
+                if lg == 'hundred':
+                    local = norm(e['name']) not in HUNDRED_OVERSEAS and not (hp and hp['overseas'])
+                else:
+                    local = not e['flag']
+                p.setdefault('status', {})[lg] = 'local' if local else 'overseas'
                 players[p['id']] = p
                 price = fees.get(norm(e['name']))
+                # Listed in two squads (a Wikipedia slip or a mid-season move): the auction's buyer, else the first.
+                other = next((t for t, cs in contracts[lg].items() if any(c['id'] == p['id'] for c in cs)), None)
+                if other:
+                    if lg == 'psl' and PSL_AUCTION_TEAM.get(norm(e['name'])) == tid:
+                        contracts[lg][other] = [c for c in contracts[lg][other] if c['id'] != p['id']]
+                    else:
+                        continue
                 contracts[lg].setdefault(tid, []).append({'id': p['id'], 'price': price})
 
     # Fees we don't have: a curve on the rating, scaled team by team so each squad spends ~92% of the
@@ -571,14 +663,19 @@ def main():
     teams26 = json.load(open(os.path.join(ROOT, 'data', 'scenarios', 'ipl-2026', 'teams.json')))
     actual = json.load(open(os.path.join(ROOT, 'data', 'scenarios', 'ipl-2026', 'actual.json')))
     contracts['ipl'] = {t['id']: [] for t in teams26}
+    def known_now(k):
+        p = add_known(k)
+        d = ipl_dob.get(norm(k['name']))
+        p['age'] = age_on(d) if d else (k.get('age') or 26) + 1   # list ages are from Dec 2025
+        return p
     for t in teams26:
         for pid in t['retained']:
             p = ipl_players[pid]
-            players.setdefault(pid, add_known(p))
+            players.setdefault(pid, known_now(p))
             contracts['ipl'][t['id']].append({'id': pid, 'price': p.get('price')})
     for pid, sale in (actual.items() if isinstance(actual, dict) else ((a['id'], a) for a in actual)):
         if sale.get('team'):
-            players.setdefault(pid, add_known(ipl_players[pid]))
+            players.setdefault(pid, known_now(ipl_players[pid]))
             contracts['ipl'][sale['team']].append({'id': pid, 'price': sale.get('price')})
 
     # Coaches
@@ -603,9 +700,16 @@ def main():
                    coaches=sorted(coaches.values(), key=lambda c: c['id']), teams=teams,
                    champions={lg: dict(year=2026, champion=c, runnerUp=r) for lg, (c, r) in champions.items()}),
               open(os.path.join(OUT, 'world.json'), 'w'), separators=(',', ':'))
+    # Checks: Hundred squads against the team pages, and overseas counts per squad.
+    for t in HUNDRED_TEAMS:
+        tid = team_lookup('hundred')[t]
+        mine = {norm(players[c['id']]['name']) for c in contracts['hundred'].get(tid, [])}
+        page = {k for k, v in hpages.items() if v['team'] == t}
+        if mine != page:
+            print('Hundred', tid, 'only in season table:', sorted(mine - page), '| only on team page:', sorted(page - mine))
     for lg in contracts:
         sizes = {t: len(v) for t, v in contracts[lg].items()}
-        os_ = {t: sum(1 for c in v if players[c['id']]['country'] != HOME[lg]) for t, v in contracts[lg].items()}
+        os_ = {t: sum(1 for c in v if players[c['id']].get('status', {}).get(lg, 'local' if players[c['id']]['country'] == HOME[lg] else 'overseas') == 'overseas') for t, v in contracts[lg].items()}
         print(lg, sizes, 'overseas', os_)
     print(len(players), 'players,', len(coaches), 'coaches')
 

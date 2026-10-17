@@ -175,3 +175,31 @@ test('calendar: the IPL\'s retentions, auction and season come before the PSL\'s
   const hundredEnd = [2027, ...LEAGUES.hundred.calendar.seasonEnd];
   for (const kind of ['trade', 'retain', 'auction']) assert.ok(key(eventDate('sa20', kind, 2028)) > key(hundredEnd), `SA20 ${kind} after The Hundred`);
 });
+
+test('overseas: as each league registers players (Scots and UK passport holders are local in The Hundred)', () => {
+  const c = fresh();
+  activateLeague('hundred');
+  const P = leaguePlayers(c, 'hundred');
+  for (const id of ['scott-currie', 'sean-dickson', 'daniel-worrall', 'asa-tribe']) assert.ok(P[id] && !P[id].overseas, `${id} should be local`);
+  for (const id of ['rashid-khan', 'heinrich-klaasen']) assert.ok(P[id].overseas, `${id} should be overseas`);
+  for (const t of c.teams.hundred) {
+    const os = teamSquad(c, 'hundred', t.id).filter((id) => P[id].overseas).length;
+    assert.ok(os <= 4, `${t.id} has ${os} overseas`);
+  }
+  activateLeague('sa20');
+  const S = leaguePlayers(c, 'sa20');
+  assert.ok(S['jos-buttler'].overseas && !S['aiden-markram'].overseas);
+  activateLeague('ipl');
+});
+
+test('data: nobody is listed twice in a league, and one player is one person across leagues', () => {
+  const c = fresh();
+  for (const lg of LGS) {
+    const ids = Object.keys(c.contracts[lg]);
+    assert.equal(new Set(ids).size, ids.length);
+  }
+  const names = {};
+  for (const p of Object.values(c.players)) (names[p.name.toLowerCase()] ||= []).push(p.id);
+  const dupes = Object.entries(names).filter(([, v]) => v.length > 1).map(([k]) => k);
+  assert.deepEqual(dupes, ['abdul samad'], `same-name players: ${dupes.join(', ')}`);   // two real people
+});

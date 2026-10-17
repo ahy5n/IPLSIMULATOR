@@ -1,0 +1,300 @@
+{{Short description|Season of the 100-ball cricket tournament}}
+{{Use dmy dates|date=April 2026}}
+{{Infobox cricket club season
+| club         = Birmingham Phoenix 
+| season       = [[2026 The Hundred season|2026]]
+|image=Birmingham Phoenix logo.svg
+| coach              = {{ubl|[[Alistair Maiden]] (women)|[[Shane Bond]] (men)}}
+| captain            = {{ubl|[[Ellyse Perry]] (women)|[[Donovan Ferreira]] (men)}}
+| overseas           = {{ubl|[[Annerie Dercksen]]|[[Fatima Sana]]|[[Lucy Hamilton (cricketer)|Lucy Hamilton]]|[[Alana King]]|[[Ellyse Perry]]|[[Kayla Reyneke]]|(women)|[[Ben Dwarshuis]]|[[Donovan Ferreira]]|[[Mustafizur Rahman]]|[[Mitchell Owen]]|[[Usman Tariq]]|(men)}}
+| comp1        = [[The Hundred (cricket)|The Hundred]] (Men's)
+| comp1 result = 
+| comp2        = [[The Hundred (cricket)|The Hundred]] (Women's)
+| comp2 result = 
+| most runs    = 
+| most wickets = 
+}}
+
+The '''2026 season''' was the [[Birmingham Phoenix]]'s sixth season of the 100 ball franchise cricket, [[The Hundred (cricket)|The Hundred]].<ref>{{cite web |url=https://www.skysports.com/cricket/news/12123/13493919/the-hundred-mens-and-womens-squads-for-2026-season-which-runs-from-july-21-august-16-live-on-sky-sports |title=The Hundred: Men's and women's squads for 2026 season which runs from July 21-August 16 live on Sky Sports |work=[[Sky Sports]] |access-date=15 January 2026}}</ref><ref>{{cite web |url=https://www.bbc.com/sport/cricket/articles/c3r4rdq8523o |title=What will The Hundred look like in 2026? |work=[[BBC Sport]] |access-date=15 January 2026}}</ref>
+
+== Current squads ==
+* '''Bold''' denotes players with international caps.
+* {{Color box|#FFCCCC|<nowiki>*</nowiki>|border=darkgray}} denotes a player who is unavailable for rest of the season.
+
+=== Women's team ===
+{| class="wikitable"
+|-
+!No.
+!Name
+!Nationality
+!Date of birth (age)
+!Batting style
+!Bowling style
+!Notes
+|-
+! colspan="7" style="background: #DCDCDC" align=right| Batters
+|-
+|style="text-align:center"|6|| '''[[Emma Lamb]]''' || {{crw|ENG}} || {{birth date and age|1997|12|16|df=y}} || Right-handed || Right-arm [[Off spin|off break]] ||
+|-
+|style="text-align:center"|12|| '''[[Tammy Beaumont]]''' || {{crw|ENG}} || {{birth date and age|1991|3|11|df=y}} || Right-handed || Right-arm [[Off spin|off break]] || England central contract
+|-
+|style="text-align:center"|22|| [[Davina Perrin]] || {{crw|ENG}} || {{birth date and age|2006|9|8|df=y}} || Right-handed || Right-arm [[Fast bowling|medium]] || 
+|-
+|style="text-align:center"|—|| [[Meg Austin]] || {{crw|ENG}} || {{birth date and age|2004|9|7|df=y}} || Right-handed || Right-arm [[Leg spin|leg break]] || Replacement player
+|- style="background:#FFCCCC"
+|style="text-align:center"|—|| [[Cordelia Griffith]] || {{crw|ENG}} || {{birth date and age|1995|9|19|df=y}} || Right-handed || Right-arm [[Fast bowling|medium]] || Ruled out through injury
+|-
+! colspan="7" style="background: #DCDCDC" align=right| All-rounders
+|-
+|style="text-align:center"|8|| '''[[Ellyse Perry]]''' || {{crw|AUS}} || {{birth date and age|1990|11|3|df=y}} || Right-handed || Right-arm [[Fast bowling|medium]] || [[Captain (cricket)|Captain]]; <br/>Overseas player
+|-
+|style="text-align:center"|14|| '''[[Fatima Sana]]''' || {{crw|PAK}} || {{Birth date and age|2001|11|8|df=y}} || Right-handed || Right-arm [[Fast bowling|medium]] || Overseas player; <br/>Wildcard player
+|-
+|style="text-align:center"|53|| '''[[Kayla Reyneke]]''' || {{crw|RSA}} || {{birth date and age|2005|10|21|df=y}} || Right-handed || Right-arm [[Off spin|off break]] || Overseas player; <br/>Replacement player
+|-
+|style="text-align:center"|64|| '''[[Alice Capsey]]''' || {{crw|ENG}} || {{birth date and age|2004|8|11|df=y}} || Right-handed || Right-arm [[Off spin|off break]] || England central contract
+|-
+|style="text-align:center"|77|| '''[[Annerie Dercksen]]''' || {{crw|RSA}} || {{birth date and age|2001|4|26|df=y}} || Right-handed || Right-arm [[Fast bowling|medium]] || Overseas player
+|-
+! colspan="7" style="background: #DCDCDC" align=right| Wicket-keepers
+|-
+|style="text-align:center"|67|| [[Jemima Spence]] || {{crw|ENG}} || {{birth date and age|2006|7|6|df=y}} || Right-handed || — || 
+|-
+! colspan="7" style="background: #DCDCDC" align=right| Pace bowlers 
+|-
+|style="text-align:center"|9|| [[Mary Taylor (cricketer)|Mary Taylor]] || {{crw|ENG}} || {{Birth date and age|2004|10|7|df=y}} || Right-handed || Right-arm [[Fast bowling|medium]] || Wildcard player
+|-
+|style="text-align:center"|18|| [[Eva Gray (cricketer)|Eva Gray]] || {{crw|ENG}} || {{birth date and age|2000|5|24|df=y}} || Right-handed || Right-arm [[Fast bowling|medium]] || 
+|-
+|style="text-align:center"|24|| '''[[Lauren Filer]]''' || {{crw|ENG}} || {{birth date and age|2000|12|22|df=y}} || Right-handed || Right-arm [[Fast bowling|fast-medium]] || England central contract
+|- style="background:#FFCCCC"
+|style="text-align:center"|—|| '''[[Lucy Hamilton (cricketer)|Lucy Hamilton]]''' || {{crw|AUS}} || {{birth date and age|2006|5|8|df=y}} || Left-handed || Left-arm [[Fast bowling|fast-medium]] || Ruled out
+|-
+|style="text-align:center"|—|| [[Esmae MacGregor]] || {{crw|ENG}} || {{birth date and age|2004|7|31|df=y}} || Right-handed || Right-arm [[Fast bowling|medium]] || 
+|-
+! colspan="7" style="background: #DCDCDC" align=right| Spin bowlers
+|-
+|style="text-align:center"|15|| [[Phoebe Brett]] || {{crw|ENG}} || {{birth date and age|2008|6|5|df=y}} || Right-handed || [[Left-arm orthodox spin|Slow left-arm orthodox]] || 
+|-
+|style="text-align:center"|27|| '''[[Alana King]]''' || {{crw|AUS}} || {{birth date and age|1995|11|22|df=y}} || Right-handed || Right-arm [[Leg spin|leg break]] || Overseas player
+|-
+|style="text-align:center"|50|| '''[[Linsey Smith]]''' || {{crw|ENG}} || {{birth date and age|1995|3|10|df=y}} || Left-handed || [[Left-arm orthodox spin|Slow left-arm orthodox]] || England central contract
+|-
+|style="text-align:center"|—|| Eve O'Neill || {{crw|ENG}} || {{birth date and age|2008|5|11|df=y}} || Right-handed || Right-arm [[Off spin|off break]] ||
+|}
+
+=== Men's team ===
+{| class="wikitable"
+|-
+!No.
+!Name
+!Nationality
+!Date of birth (age)
+!Batting style
+!Bowling style
+!Notes
+|-
+! colspan="7" style="background: #DCDCDC" align=right| Batters
+|-
+|style="text-align:center"|22|| '''[[Donovan Ferreira]]''' || {{cr|RSA}} || {{birth date and age|1998|7|21|df=y}} || Right-handed || Right-arm [[Off spin|off break]] || [[Captain (cricket)|Captain]]; <br/>Overseas player
+|-
+|style="text-align:center"|26|| [[Will Smeed]] || {{cr|ENG}} || {{birth date and age|2001|10|26|df=y}} || Right-handed || Right-arm [[Off spin|off break]] || 
+|-
+|style="text-align:center"|32|| [[Laurie Evans]] || {{cr|ENG}} || {{birth date and age|1987|10|12|df=y}} || Right-handed || Right-arm [[Fast bowling|medium]] || 
+|-
+|style="text-align:center"|58|| [[Sean Dickson]] || {{cr|RSA}} || {{Birth date and age|1991|9|2|df=y}} || Right-handed || Right-arm [[Fast bowling|medium]] || UK passport; <br/>Wildcard player
+|-
+|style="text-align:center"|—|| [[Joe Weatherley]] || {{cr|ENG}} || {{birth date and age|1997|1|19|df=y}} || Right-handed || Right-arm [[Off spin|off break]] || Replacement player
+|-
+! colspan="7" style="background: #DCDCDC" align=right| All-rounders
+|- style="background:#FFCCCC"
+|style="text-align:center"|2|| '''[[Jacob Bethell]]''' || {{cr|ENG}} || {{birth date and age|2003|10|23|df=y}} || Left-handed || [[Left-arm orthodox spin|Slow left-arm orthodox]] || England central contract; <br/>Ruled out through injury
+|-
+|style="text-align:center"|16|| '''[[Mitchell Owen]]''' || {{cr|AUS}} || {{birth date and age|2001|9|16|df=y}} || Right-handed || Right-arm [[Fast bowling|medium]] || Overseas player
+|-
+|style="text-align:center"|53|| '''[[Rehan Ahmed]]''' || {{cr|ENG}} || {{birth date and age|2004|8|13|df=y}} || Right-handed || Right-arm [[Leg spin|leg break]] || England central contract
+|- style="background:#FFCCCC"
+|style="text-align:center"|—|| [[Ethan Brookes]] || {{cr|ENG}} || {{birth date and age|2001|5|23|df=y}} || Right-handed || Right-arm [[Fast bowling|medium]] || Ruled out through injury
+|-
+|style="text-align:center"|—|| '''[[Matt Montgomery (cricketer)|Matt Montgomery]]''' || {{cr|GER}} || {{birth date and age|2000|5|10|df=y}} || Right-handed || Right-arm [[Off spin|off break]] || Replacement player
+|-
+|style="text-align:center"|—|| [[Jordan Thompson (cricketer)|Jordan Thompson]] || {{cr|ENG}} || {{birth date and age|1996|10|9|df=y}} || Left-handed || Right-arm [[Fast bowling|fast-medium]] || 
+|-
+! colspan="8" style="background: #DCDCDC" align=right| Wicket-keepers
+|-
+|style="text-align:center"|33|| [[Joe Clarke (cricketer)|Joe Clarke]] || {{cr|ENG}} || {{birth date and age|1996|5|26|df=y}} || Right-handed || — || 
+|-
+! colspan="8" style="background: #DCDCDC" align=right| Pace bowlers
+|-
+|style="text-align:center"|7|| '''[[Saqib Mahmood]]''' || {{cr|ENG}} || {{birth date and age|1997|2|25|df=y}} || Right-handed || Right-arm [[Fast bowling|fast]] || 
+|-
+|style="text-align:center"|25|| [[Chris Wood (cricketer)|Chris Wood]] || {{cr|ENG}} || {{birth date and age|1990|6|27|df=y}} || Right-handed || Left-arm [[Fast bowling|fast-medium]] || 
+|-
+|style="text-align:center"|27|| '''[[Ben Dwarshuis]]''' || {{cr|AUS}} || {{birth date and age|1994|6|23|df=y}} || Left-handed || Left-arm [[Fast bowling|fast-medium]] || Overseas player; <br/>Replacement player
+|-
+|style="text-align:center"|44|| '''[[Scott Currie]]''' || {{cr|SCO}} || {{birth date and age|2001|5|2|df=y}} || Right-handed || Right-arm [[Fast bowling|fast-medium]] || 
+|-
+|style="text-align:center"|—|| [[Tom Helm (cricketer)|Tom Helm]] || {{cr|ENG}} || {{birth date and age|1994|5|7|df=y}} || Right-handed || Right-arm [[Fast bowling|fast-medium]] || Wildcard player
+|- style="background:#FFCCCC"
+|style="text-align:center"|—|| '''[[Mustafizur Rahman]]''' || {{cr|BAN}} || {{birth date and age|1995|9|6|df=y}} || Left-handed || Left-arm [[Fast bowling|fast-medium]] || Overseas player; <br/>Ruled out through injury
+|-
+! colspan="8" style="background: #DCDCDC" align=right| Spin bowlers
+|-
+|style="text-align:center"|76|| '''[[Usman Tariq]]''' || {{cr|PAK}} || {{birth date and age|1995|6|7|df=y}} || Right-handed || Right-arm [[Off spin|off break]] || Overseas player
+|}
+{{notelist}}
+==Fixtures (Women)==
+{{hatnote|All times are in [[British Summer Time]] ([[UTC+01:00]])}}
+
+==Fixtures (Men)==
+{{hatnote|All times are in [[British Summer Time]] ([[UTC+01:00]])}}
+==Standings==
+=== Women ===
+{{#invoke:Sports table|main|style=CricketTH
+|source=[https://www.cricinfo.com/series/the-hundred-women-s-competition-2026-1521193/points-table-standings Cricinfo]
+|update=complete
+|show_tie=yes
+
+|team_order=TR, SL, SB, MSG, WF, LS, BP, MIL
+
+|win_BP=2 |loss_BP=5 |nr_BP=1 |nrr_BP=-1.602
+|win_LS=2 |loss_LS=5 |tie_LS=1 |nr_LS= |nrr_LS=-0.363
+|win_MSG=4 |loss_MSG=3 |nr_MSG=1 |nrr_MSG=0.344
+|win_MIL=1 |loss_MIL=6 |tie_MIL=1 |nr_MIL= |nrr_MIL=-1.165
+|win_SB=5 |loss_SB=3 |nr_SB= |nrr_SB=0.107
+|win_SL=5 |loss_SL=3 |nr_SL= |nrr_SL=1.031
+|win_TR=7 |loss_TR=1 |nr_TR= |nrr_TR=1.391
+|win_WF=4 |loss_WF=4 |nr_WF= |nrr_WF=0.133
+
+
+|result1=Q|result2=A|result3=A|result4=E|result5=E|result6=E|result7=E|result8=E
+
+|name_BP={{cr-ENG|bp}}
+|name_LS={{cr-ENG|ls}}
+|name_MSG={{cr-ENG|msg}}
+|name_MIL={{cr-ENG|mil}}
+|name_SB={{cr-ENG|sb}}
+|name_SL={{cr-ENG|sl}}
+|status_SL=R
+|name_TR={{cr-ENG|tr}} |status_TR=C
+|name_WF={{cr-ENG|wf}}
+
+|col_Q=#cfc
+|col_A=#ffc
+|res_col_header=Q
+|text_Q=Advanced to the [[#match34w|Final]]
+|text_A={{nobr|Advanced to the [[#match33w|Eliminator]]}}
+|text_E=Eliminated
+}}
+
+===Point summary Women===
+{{#{{Twenty20 League results summary|mode=progression}}|create
+<!--SINCE THERE ARE MEN'S AND WOMEN'S FIXTURES HERE WHILE UPDATING WOMEN'S POINTS SUMMARY, USE (w1w or l1w or t1w or n1w) TO GET THE RESULT.--> 
+<!-- BP -->|l4w, n7w, l13w, w15w, l22w, l24w, l28w, w30w|E,E
+<!-- LS -->|l3w, w8w, t12w, l16w, l20w, l23w, w28w, l31w|E,E
+<!-- MSG -->|w3w, n7w, w10w, l14w, w18w, l21w, w26w, l30w|E,E
+<!-- MIL -->|l1w, l6w, l9w, t12w, l18w, w23w, l25w, l30w|E,E
+<!-- SB -->|w2w, w5w, w9w, w13w, w16w, l19w, l26w, l29w|L33w,E
+<!-- SL -->|w1w, l5w, l10w, l17w, w20w, w24w, w27w, w30w|W33w,L34w
+<!-- TR -->|w4w, l8w, w11w, w14w, w17w, w22w, w25w, w29w|,W34w
+<!-- WF -->|l2w, w6w, l11w, l15w, w19w, w21w, l27w, w31w|E,E
+
+|teams= [[2026 Birmingham Phoenix season|Birmingham Phoenix]], [[2026 London Spirit season|London Spirit]], {{nowrap|[[2026 Manchester Originals season|Manchester Super Giants]]}}, [[2026 MI London season|MI London]], [[2026 Southern Brave season|Southern Brave]], [[2026 Sunrisers Leeds season|Sunrisers Leeds]], [[2026 Trent Rockets season|Trent Rockets]], [[2026 Welsh Fire season|Welsh Fire]]
+|matchesPerTeam= 8
+|playoffLabels= {{Abbr|E|Eliminator}}, {{Abbr|F|Final}}
+}}
+
+===Men===
+{{#invoke:Sports table|main|style=CricketTH
+|source=[https://www.cricinfo.com/series/the-hundred-men-s-competition-2026-1521176/points-table-standings Cricinfo]
+|update=complete
+|show_tie=yes
+
+|team_order=TR, MSG, SL, MIL, WF, SB, LS, BP
+
+|win_BP=1 |loss_BP=7 |nr_BP= |nrr_BP=-1.318
+|win_LS=3 |loss_LS=5 |nr_LS= |nrr_LS=-0.098
+|win_MSG=5 |loss_MSG=3 |nr_MSG= |nrr_MSG=0.791
+|win_MIL=5 |loss_MIL=3 |nr_MIL= |nrr_MIL=0.241
+|win_SB=3 |loss_SB=5 |nr_SB= |nrr_SB=-0.015
+|win_SL=5 |loss_SL=3 |nr_SL= |nrr_SL=0.603
+|win_TR=6 |loss_TR=2 |nr_TR= |nrr_TR=0.740
+|win_WF=4 |loss_WF=4 |nr_WF= |nrr_WF=-0.900
+
+
+|result1=Q|result2=A|result3=A|result4=E|result5=E|result6=E|result7=E|result8=E
+
+|name_BP={{cr-ENG|bp}}
+|name_LS={{cr-ENG|ls}}
+|name_MSG={{cr-ENG|msg}}
+|name_MIL={{cr-ENG|mil}}
+|name_SB={{cr-ENG|sb}}
+|name_SL={{cr-ENG|sl}}
+|name_TR={{cr-ENG|tr}}
+|name_WF={{cr-ENG|wf}}
+|status_MSG=C
+|status_TR=R
+
+|col_Q=#cfc
+|col_A=#ffc
+|res_col_header=Q
+|text_Q=Advanced to the [[#match34|Final]]
+|text_A={{nobr|Advanced to the [[#match33|Eliminator]]}}
+|text_E=Eliminated
+}}
+
+===Point summary Men===
+{{#{{Twenty20 League results summary|mode=progression}}|create
+
+<!-- BP -->|W4, L7, L13, L15, L22, L24, L28, L32|E,E
+<!-- LS -->|L3, L8, W12, L16, L20, L23, W28, W31|E,E
+<!-- MSG -->|W3, W7, L10, L14, L18, W21, W26, W30|W33, W34
+<!-- MIL -->|W1, L6, W9, L12, W18, W23, L25, W32|E,E
+<!-- SB -->|L2, L5, L9, W13, W16, L19, L26, W29|E,E
+<!-- SL -->|L1, W5, W10, L17, W20, W24, W27, L30|L33,E
+<!-- TR -->|L4, W8, W11, W14, W17, W22, W25, L29|, L34
+<!-- WF -->|W2, W6, L11, W15, W19, L21, L27, L31|E, E
+
+|teams= [[2026 Birmingham Phoenix season|Birmingham Phoenix]], [[2026 London Spirit season|London Spirit]], {{nowrap|[[2026 Manchester Originals season|Manchester Super Giants]]}}, [[2026 MI London season|MI London]], [[2026 Southern Brave season|Southern Brave]], [[2026 Sunrisers Leeds season|Sunrisers Leeds]], [[2026 Trent Rockets season|Trent Rockets]], [[2026 Welsh Fire season|Welsh Fire]]
+|matchesPerTeam= 8
+| playoffLabels = {{Abbr|E|Eliminator}}, {{Abbr|F|Final}}
+}}
+
+=== Combined ===
+{{#invoke:Sports table|main|style=CricketTH
+|show_tie=yes
+|source=[https://www.thehundred.com/standings The Hundred]
+|update=16 August 2026
+
+|team_order=TR, SL, MSG, SB, WF, MIL, LS, BP
+
+|win_BP=3 |loss_BP=12 |nr_BP=1 |nrr_BP=-1.482
+|win_LS=5 |loss_LS=10 |tie_LS=1 |nr_LS= |nrr_LS=-0.261
+|win_MSG=10 |loss_MSG=6 |nr_MSG=1 |nrr_MSG=0.636
+|win_MIL=6 |loss_MIL=9 |tie_MIL=1 |nr_MIL= |nrr_MIL=-0.488
+|win_SB=8 |loss_SB=9 |nr_SB= |nrr_SB=-0.003
+|win_SL=11 |loss_SL=8 |nr_SL= |nrr_SL=0.778
+|win_TR=14 |loss_TR=3 |nr_TR= |bonus_TR=8 |nrr_TR=1.081
+|win_WF=8 |loss_WF=8 |nr_WF= |nrr_WF=-0.377
+
+|name_BP={{cr-ENG|bp}}
+|name_LS={{cr-ENG|ls}}
+|name_MSG={{cr-ENG|msg}}
+|name_MIL={{cr-ENG|mil}}
+|name_SB={{cr-ENG|sb}}
+|name_SL={{cr-ENG|sl}}
+|name_TR={{cr-ENG|tr}}
+|name_WF={{cr-ENG|wf}}
+
+|result1=C
+|col_C=gold
+}}
+{{color box|border=darkgray|gold}} '''The Hundred Helix'''
+
+==References==
+{{Reflist|colwidth=30em}}
+
+{{The Hundred 2026 team's seasons}}
+
+[[Category:The Hundred (cricket) seasons]]
+[[Category:2026 in English cricket]]

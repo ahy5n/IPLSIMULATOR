@@ -1,0 +1,355 @@
+{{AI-generated |reason= [[Wikipedia:AI noticeboard#Abdulrehmann92]] ([[WP:WWT]] is useful) |date=September 2026}}
+{{Short description|Overview of Lahore Qalandars in 2026}}
+{{Use dmy dates|date=February 2026}}
+{{Infobox cricket club season
+| club = Lahore Qalandars
+| season = [[2026 Pakistan Super League|2026]]
+| coach = [[Russell Domingo]]
+| captain = [[Shaheen Afridi]]
+| ground = [[Gaddafi Stadium]] Lahore
+| comp1 = [[2026 Pakistan Super League#League stage|League stage]]
+| comp1 result = 5th place
+| most runs = [[Fakhar Zaman (cricketer)|Fakhar Zaman]] (401)
+| most wickets = [[Shaheen Afridi]] (16)
+| prevseason = [[2025 Lahore Qalandars season|2025]]
+| nextseason = 2027
+}}
+
+'''Lahore Qalandars''' is a [[Pakistani]] professional [[Twenty20]] franchise [[cricket]] team. Qalandars were one of the eight teams that competed in the [[2026 Pakistan Super League]]. The team is based in the [[Lahore]] city of [[Pakistan]]. This was the eleventh consecutive season of the [[Lahore Qalandars|Qalandars]] in the [[Pakistan Super League]] after renewing their franchise agreement for another decade in December 2025.<ref>{{cite news |title=Lahore Qalandars Announce Retentions for PSL 11 |url=https://propakistani.pk/2026/02/03/lahore-qalandars-announce-retentions-for-psl-11/ |work=ProPakistani |date=2026-02-03}}</ref>
+
+Lahore entered the tournament as defending champions, having won the [[2025 Pakistan Super League]] as their third title. They were coached by [[Russell Domingo]]<ref name="co">{{cite news |title=Russell Domingo Appointed as Lahore Qalandars' Head Coach |url=https://lahoreqalandars.com/2025/03/29/russell-domingo-appointed-as-lahore-qalandars-head-coach-for-hbl-psl-10/ |work=Lahore Qalandars Official |date=2025-03-29}}</ref> and [[Captain (cricket)|captained]] by [[Shaheen Shah Afridi]] during their 2026 season. Qalandars won 5 out of their 10 league matches and ended the tournament at 5th place on the points table.<ref>{{cite news |title=Defending champions Lahore Qalandars knocked out of PSL 11 |url=https://www.geosuper.tv/latest/55534-defending-champions-lahore-qalandars-knocked-out-of-psl-11 |work=www.geosuper.tv}}</ref>
+
+==Squad==
+[[Pakistan Super League]] introduced [[Player auction|auction model]] for the first time in [[2026 Pakistan Super League|2026]] season, allowing teams to select players by bidding in [[Pakistani rupees]].<ref name="D1">{{cite news |title=Player auction model to replace draft system for PSL XI |url=https://www.dawn.com/news/1967839 |work=Dawn |date=19 January 2026 |language=en}}</ref> Teams were also allowed to directly sign one foreign player who was not part of [[2025 Pakistan Super League|previous season]].<ref name="D1" /> Qalandars signed [[Mustafizur Rahman]] as their directly signed player.<ref name="DawnDirect">{{cite news |title=Lahore Qalandars directly sign Bangladesh pacer Mustafizur Rehman for over Rs60m |url=https://www.dawn.com/news/1971235 |work=Dawn |date=2026-02-05}}</ref> Teams were also allowed to retain upto 4 players who were part of their squads in previous seasons, while new teams were allowed to sign 4 players before the auction to match with other franchises.<ref>{{cite web |title=PSL auction to take place on 11 February |url=https://www.espncricinfo.com/story/pakistan-news-psl-2026-auction-to-take-place-february-11-1520921 |access-date=10 February 2026}}</ref> Lahore retained their captain [[Shaheen Shah Afridi]], [[Abdullah Shafique]], [[Sikandar Raza]] and [[Mohammad Naeem (cricketer, born 1999)|Mohammad Naeem]] from their squad.<ref name="ret">{{cite news |title=PSL 2026 players list: Full squads for all teams and latest updates from Pakistan Super League auction {{!}} Cricket News |url=https://www.cricketnews.com/en/cricket/news/psl-2026-players-list-full-squads-all-teams-pakistan-super-league/3bbd393a06776bf26546351b#:~:text=Players%20who%20were%20not%20retained%20entered%20the,to%20four%20players%20from%20the%20unpicked%20pool. |work=www.cricketnews.com |date=11 February 2026 |language=en}}</ref>
+
+[[2026 Pakistan Super League personnel signings and auction|Player auction]] for the PSL 11 was held on 11 February 2026.<ref name="ret" /> Following is the full squad of [[Lahore Qalandars]] after player auction and Retentions.
+
+{| class="wikitable"
+|+Key
+|-
+|
+* Players with international caps are listed in '''bold'''.
+* {{color box|border=darkgray|#FFCCCC|<nowiki>*</nowiki>}} denotes a player who is fully unavailable.
+* {{color box|border=darkgray|#EEE8AA|<nowiki>*</nowiki>}} denotes a player who will be partially unavailable.
+|}
+
+{| class="wikitable"
+|-
+!No.
+!Name
+!Nationality
+!Birth date
+!Salary<br>([[Pakistani rupee|PKR]])
+!Batting style
+!Bowling style
+!Year signed
+!Notes
+|-
+! colspan="10"|Batsmen
+|-
+!57
+|'''[[Abdullah Shafique]]'''
+|{{cr|PAK}}
+|{{Birth date and age|1999|11|20|df=y}}
+|2.2 crore
+|Right-handed
+|Right-arm [[Off spin|offbreak]]
+|2022
+|
+|-
+!20
+|[[Mohammad Naeem (cricketer, born 1999)|Muhammad Naeem]]
+|{{cr|PAK}}
+|{{Birth date and age|1999|04|10|df=y}}
+|70 Lakh
+|Right-handed
+|Right-arm [[Off spin|offbreak]]
+|2025
+|
+|-
+!39
+|'''[[Fakhar Zaman (cricketer)|Fakhar Zaman]]'''
+|{{cr|Pakistan}}
+|{{Birth date and age|1990|04|10|df=y}}
+|PKR 7.95 crore
+|Left-handed
+|[[Slow left-arm orthodox]]
+|2026
+|
+|-
+!45
+|'''[[Asif Ali (cricketer, born 1991)|Asif Ali]]'''
+|{{cr|Pakistan}}
+|{{Birth date and age|1991|10|01|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[Fast bowling|medium]]
+|2026
+|
+|-
+!66
+|'''[[Tayyab Tahir]]'''
+|{{cr|Pakistan}}
+|{{Birth date and age|1993|07|26|df=y}}
+|PKR 60 lakh
+|Right-handed
+|Right-arm [[Off spin|off break]]
+|2026
+|
+|-
+!12
+|'''[[Parvez Hossain Emon]]'''
+|{{cr|Bangladesh}}
+|{{Birth date and age|2002|06|12|df=y}}
+|PKR 60 lakh
+|Left-handed
+|—
+|2026
+|
+|-
+!—
+|Mohammad Farooq
+|{{cr|Pakistan}}
+|{{Birth date and age|2004|03|04|df=y}}
+|PKR 60 lakh
+|Right-handed
+|—
+|2026
+|
+|-
+! colspan="10" |Wicket-Keepers
+|-
+!53
+|'''[[Haseebullah Khan]]'''
+|{{cr|Pakistan}}
+|{{Birth date and age|2003|03|20|df=y}}
+|PKR 1.1 crore
+|Left-handed
+|—
+|2026
+|
+|-
+!83
+|'''[[Rubin Hermann]]'''
+|{{cr|South Africa}}
+|{{Birth date and age|1997|01|26|df=y}}
+|PKR
+|Left-handed
+|—
+|2026
+|
+|-
+! colspan="10" |All-rounders
+|-
+!24
+|'''[[Sikandar Raza]]'''
+|{{cr|ZIM}}
+|{{Birth date and age|1986|4|24|df=y}}
+|2.8 crore
+|Right-handed
+|Right-arm [[Off spin|offbreak]]
+|2023
+|
+|-
+!7
+|'''[[Dasun Shanaka]]'''
+|{{cr|Sri Lanka}}
+|{{Birth date and age|1991|09|09|df=y}}
+|PKR 75 lakh
+|Right-handed
+|Right-arm [[Fast bowling|medium]]
+|2026
+|
+|-
+!20
+|'''[[Hussain Talat]]'''
+|{{cr|Pakistan}}
+|{{Birth date and age|1996|02|12|df=y}}
+|PKR 77.5 lakh
+|Left-handed
+|Right-arm [[Fast bowling|medium-fast]]
+|2026
+|
+|-
+!64
+|'''[[Gudakesh Motie]]'''
+|{{cr|West Indies}}
+|{{Birth date and age|1995|03|29|df=y}}
+|PKR 1.1 crore
+|Left-handed
+|[[Left-arm orthodox spin|Slow left arm orthodox]]
+|2026
+|
+|-
+! colspan="10" |Bowlers
+|-
+!10
+|'''[[Shaheen Afridi]]'''
+|{{cr|PAK}}
+|{{Birth date and age|2000|4|6|df=y}}
+|7.0 crore
+|Left-handed
+|Left-arm [[Fast bowling|fast]]
+|2018
+|Captain
+|-
+!90
+|'''[[Mustafizur Rahman]]'''
+|{{cr|BAN}}
+|{{Birth date and age|1995|09|06|df=y}}
+|6.44 crore
+|Left-handed
+|Left-arm [[Fast bowling|fast-medium]]
+|2026
+|
+|-
+!97
+|'''[[Haris Rauf]]'''
+|{{cr|Pakistan}}
+|{{Birth date and age|1993|11|07|df=y}}
+|PKR 7.60 crore
+|Right-handed
+|Right-arm [[Fast bowling|fast]]
+|2026
+|
+|-
+!24
+|'''[[Usama Mir]]'''
+|{{cr|Pakistan}}
+|{{Birth date and age|1995|12|23|df=y}}
+|PKR 3.5 crore
+|Right-handed
+|Right-arm [[leg break]]
+|2026
+|
+|-
+!12
+|[[Ubaid Shah]]
+|{{cr|Pakistan}}
+|{{Birth date and age|2006|02|04|df=y}}
+|PKR 2.70 crore
+|Right-handed
+|Right-arm [[Fast bowling|fast]]
+|2026
+|
+|-
+|}
+*Source: [https://www.espncricinfo.com/series/pakistan-super-league-2026-1515734/lahore-qalandars-squad-1523805/series-squads ESPNcricinfo]
+
+=== Coaching and Management Staff ===
+* Head Coach:[[Russell Domingo]]<ref name="co"/>
+
+== Season standings ==
+=== Points table ===
+{{2026 Pakistan Super League points table}}
+=== League progression ===
+{{#invoke:PakistanSuperLeagueProgression|create
+| caption = League progression
+| teams = Lahore Qalandars
+| knockoutType = 2
+| matchesPerTeam = 10
+| matchReportArticle = 2026 Pakistan Super League
+| W1, L6, W11, L16, L19, L26, W27, W30, L35, W38
+| U, U, U
+}}
+
+== Fixtures ==
+{{hatnote|All times are in [[Pakistan Standard Time]] ([[UTC+05:00]])}}
+{{#section:2026 Pakistan Super League|match1}}
+----
+{{#section:2026 Pakistan Super League|match6}}
+----
+{{#section:2026 Pakistan Super League|match11}}
+----
+{{#section:2026 Pakistan Super League|match16}}
+----
+{{#section:2026 Pakistan Super League|match19}}
+----
+{{#section:2026 Pakistan Super League|match26}}
+----
+{{#section:2026 Pakistan Super League|match27}}
+----
+{{#section:2026 Pakistan Super League|match30}}
+----
+{{#section:2026 Pakistan Super League|match35}}
+----
+{{#section:2026 Pakistan Super League|match38}}
+
+==Controversies==
+===Security protocol breach===
+On March 28, 2026, [[Lahore Qalandars]] captain [[Shaheen Afridi]] and teammate [[Sikandar Raza]] were involved in a controversy regarding a breach of security protocols at the team hotel. [[Punjab Police (Pakistan)|Punjab Police]] wrote a formal letter to the PSL CEO, in which they said that the players bypassed security personnel to escort four unauthorized visitors to a hotel room.<ref>{{cite news |title=In letter to PSL CEO, police detail alleged security protocol breach |url=https://www.dawn.com/news/1986590 |work=Dawn}}</ref> Qalandars team owner Sameen Rana requested permission for the visitors to enter, which was denied by PSL officials due to safety regulations. Despite the refusal, the visitors remained in the room until 1:25 AM, for approximately three hours.<ref>{{cite news |title=PSL 2026: Shaheen Afridi, Sikandar Raza blamed for forcefully escorting four visitors to hotel room |url=https://www.espncricinfo.com/story/psl-2026-shaheen-afridi-sikandar-raza-blamed-for-forcefully-escorting-four-visitors-to-hotel-room-1529652 |work=ESPNcricinfo}}</ref> Raza later stated he was unaware of the updated protocols, noting that meeting family members at the hotel had been allowed in previous seasons.<ref name="SR">{{cite news |title=آخری اوور کی حقیقت امپائرز بتائیں گے، میں نے کچھ نہیں کیا، سکندر رضا |url=https://urdu.arynews.tv/sikandar-raza-truth-last-over-umpires-will-tell/ |work=ARYNews.tv |date=29 March 2026 |language=ur}}</ref> Police requested a review of the incident, and demanded necessary action to prevent future violations.<ref>{{cite web |last1=Alam |first1=Sher |title=Lahore Qalandars Accused of Security Breach During PSL 11 |url=https://propakistani.pk/2026/03/29/lahore-qalandars-accused-of-security-breach-during-psl-11/amp/ |website=ProPakistani |date=29 March 2026}}</ref>
+
+===Ball tampering controversy===
+During [[#Match 6|match 6]] between the [[Lahore Qalandars]] and [[Karachi Kings]], the Qalandars were involved in a controversy regarding the alteration of the ball's condition. The on-field umpires found that the team had violated [[Laws of Cricket|Law 41.3.2 ]], which deals with [[ball tampering]]. As a result, the Qalandars were penalized five runs, which were awarded to the Karachi Kings.<ref name="espnnewslq">{{cite news |title=PSL 2026: Lahore Qalandars penalised for ball-tampering |url=https://www.espncricinfo.com/story/psl-2026-lahore-qalandars-penalised-for-ball-tampering-1529686 |work=[[Cricinfo|ESPNcricinfo]] |date=30 March 2026 |access-date=30 March 2026 }}</ref><ref>{{cite news |title=PSL 2026: Team penalised five runs for altering condition of cricket ball |url=https://www.wisden.com/series/psl-2026/cricket-news/psl-2026-team-penalised-five-runs-for-altering-condition-of-cricket-ball |work=Wisden}}</ref><ref name=tamp>{{cite news |title=Lahore punished for ball tampering in PSL defeat |url=https://www.bbc.com/sport/cricket/articles/cx2475glyjwo |publisher=[[BBC Sport]] |author=Matthew Henry |date=30 March 2026 |accessdate=30 March 2026}}</ref>
+The match referee conducted an investigation immediately after the match. During the hearing, Lahore Qalandars player [[Fakhar Zaman (cricketer)|Fakhar Zaman]] denied the allegations of tampering.<ref>{{cite news |title=Shaheen Afridi on five-run penalty over altering ball condition |url=https://a-sports.tv/shaheen-afridi-on-five-run-penalty-over-altering-ball-condition |work=A-Sports}}</ref> The hearing was adjourned till Monday, 30 March.<ref name="tamp"/><ref name="SR"/>
+
+== Statistics ==
+=== Most runs ===
+{| class="wikitable sortable"
+! class=unsortable| Player
+! {{Tooltip|Inns|Innings}}
+! class=unsortable| Runs
+! {{Tooltip|Ave|Average}}
+! {{Tooltip|HS|Highest Score}}
+! 50s
+! 100s
+|-
+|[[Fakhar Zaman (cricketer)|Fakhar Zaman]]
+|8
+!401
+|57.28
+|103
+|4
+|1
+|-
+|[[Abdullah Shafique]]
+|10
+!245
+|24.50
+|62
+|1
+|0
+|-
+|[[Sikandar Raza]]
+|10
+!162
+|20.25
+|40[[Not out|*]]
+|0
+|0
+|}
+* Source: [https://www.espncricinfo.com/records/year/batting-most-runs-career/2026-2026/twenty20-matches-6?team=5799 ESPNcricinfo]
+
+=== Most wickets ===
+{| class="wikitable sortable"
+! class=unsortable| Player
+! {{Tooltip|Inns|Innings}}
+! class=unsortable| {{Tooltip|Wkts|Wickets}}
+! {{Tooltip|Ave|Average}}
+! {{Tooltip|BBI|Best Bowling Innings}}
+|-
+|[[Shaheen Shah Afridi]]
+|10
+!16
+|18.18
+|{{ntsh|1}}4/18
+|-
+|[[Haris Rauf]]
+|9
+!12
+|24.08	
+|{{ntsh|3}}3/43
+|-
+|[[Ubaid Shah]]
+|8
+!8
+|28.50
+|{{ntsh|2}}3/41
+|}
+*Source: [https://www.espncricinfo.com/records/year/bowling-most-wickets-career/2026-2026/twenty20-matches-6?team=5799 ESPNcricinfo]
+
+== References ==
+{{Reflist}}
+
+[[Category:Lahore Qalandars seasons]]
+[[Category:2026 Pakistan Super League|L]]
