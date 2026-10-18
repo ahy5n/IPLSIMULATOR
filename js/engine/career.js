@@ -15,7 +15,7 @@
 // sacked, and vacancies go to the best available coach, which can be you (job offers), or you can pick
 // any job yourself ("free choice").
 import { createRng, hash32 } from './rng.js';
-import { LEAGUES, LEAGUE_IDS, GROUPS, RIVALS, activateLeague, leagueCap } from './league.js';
+import { LEAGUES, LEAGUE_IDS, GROUPS, RIVALS, activateLeague, leagueCap, isFullAuction, lastFullBefore } from './league.js';
 import { createAuction, simulateRest } from './auction.js';
 import { createSeason, playFixture, nextFixture, standings, finalOf } from './season.js';
 import { teamStrength } from './squad.js';
@@ -82,7 +82,7 @@ export function createCareer(data, { league, team, mode = 'offers', difficulty =
   const leagues = {};
   for (const lg of LEAGUE_IDS) {
     const ch = data.champions[lg];
-    leagues[lg] = { lastFull: LEAGUES[lg].cycle.last, history: [{ year: ch.year, champion: ch.champion, runnerUp: ch.runnerUp, real: true }] };
+    leagues[lg] = { lastFull: LEAGUES[lg].cycle.last ?? null, history: [{ year: ch.year, champion: ch.champion, runnerUp: ch.runnerUp, real: true }] };
   }
   const career = {
     v: 1, seed, rngState: seed >>> 0, date, mode, difficulty, auctionMode,
@@ -210,7 +210,9 @@ export function leagueWorld(career, lg, year) {
   const hist = st.history;
   return {
     league: lg, year, players: leaguePlayers(career, lg), history: hist, current: null, nextProspect: 1,
-    lastMega: st.lastFull, cycle: L.cycle.every, megaMax: L.cycle.megaMax, forceKind: null,
+    // The IPL tracks its own mega years; the others run on the fixed, staggered cycle (league.js).
+    lastMega: lg === 'ipl' ? st.lastFull : lastFullBefore(lg, year), cycle: L.cycle.every,
+    megaMax: L.cycle.megaMax, miniMax: L.cycle.miniMax ?? null, forceKind: null,
     cap: lg === 'ipl' ? D.purseCap(year) : leagueCap(lg, year),
   };
 }
@@ -280,8 +282,9 @@ export function finishRetain(career, ev, w, userIds = null) {
 export function beginAuction(career, ev, { userTeam = null } = {}) {
   activateLeague(ev.lg);
   const w = leagueWorld(career, ev.lg, ev.year);
-  if (career.leagues[ev.lg].lastFull === ev.year) w.forceKind = 'mega';   // retentions this year were the capped kind
-  else w.forceKind = 'mini';
+  // The capped-retention kind of auction in a reset year (the IPL records its mega years at retentions).
+  const full = ev.lg === 'ipl' ? career.leagues[ev.lg].lastFull === ev.year : isFullAuction(ev.lg, ev.year);
+  w.forceKind = full ? 'mega' : 'mini';
   w.rtm = career.leagues[ev.lg].rtm || {};
   const cur = D.buildAuction(w, career.teams[ev.lg]);
   // Keep the pool to a sensible size for the open slots.

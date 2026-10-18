@@ -28,6 +28,7 @@ export function render(root, ctx) {
   const LG = L.short;
   const ipl = L.id === 'ipl';
   const maxKeep = ipl ? MEGA_MAX.total : L.cycle.megaMax;
+  const keepNormal = w.miniMax ?? SQUAD_MAX;   // most players kept in a normal year
 
   function intro() {
     if (g.career) {
@@ -35,7 +36,7 @@ export function render(root, ctx) {
       const recap = last?.champion ? `${LG} ${last.year}: ${esc(ctx.base().teamById[last.champion]?.name || last.champion)} won the title. ` : '';
       if (mega && ipl) return `${recap}It is a mega-auction year. Retain up to six (at most five capped, two uncapped) at the slabs: capped ₹18, 14, 11, 18 and 14 Cr in order, uncapped ₹4 Cr. Unused retentions become right-to-match cards. The salary cap is ${money(cap)}.`;
       if (mega) return `${recap}A full ${LG} auction this year: keep up to ${maxKeep} players at their current fee; everyone else goes back into the auction. The salary cap is ${money(cap)}.`;
-      return `${recap}Keep anyone at his current fee; everyone you release goes into the ${LG} ${w.year} auction. The salary cap is ${money(cap)}.`;
+      return `${recap}Keep up to ${keepNormal} at their current fee; everyone you release goes into the ${LG} ${w.year} auction.${ipl ? '' : ` Every third year the ${LG} resets and clubs keep only ${maxKeep}.`} The salary cap is ${money(cap)}.`;
     }
     if (off.intro === 'projected') return `The real IPL 2026 squads, one year on. Retentions for 2027 are due in November 2026; until they are published, you decide yours and AI teams decide theirs. Keep anyone at his current salary; everyone released goes into the IPL 2027 auction.`;
     if (off.intro === 'custom') return `A mega auction from the real 2026 squads. Every team has ${money(cap)}. Retain up to six (at most five capped, two uncapped) at the fixed slabs; each retention you do not use becomes a right-to-match card for the players you release.`;
@@ -62,7 +63,7 @@ export function render(root, ctx) {
         <h1>Retentions</h1>
         <p class="muted">${intro()}</p>
         <div class="stats">
-          ${statBlock('Retained', mega ? `${ids.length}/${maxKeep}` : `${ids.length}/${SQUAD_MAX}`)}
+          ${statBlock('Retained', mega ? `${ids.length}/${maxKeep}` : `${ids.length}/${keepNormal}`)}
           ${mega && ipl ? statBlock('Capped / uncapped', `${capped} / ${ids.length - capped}`) : ''}
           ${statBlock('Cost', money(cost))}
           ${statBlock('Auction purse', money(cap - cost), 'accent')}

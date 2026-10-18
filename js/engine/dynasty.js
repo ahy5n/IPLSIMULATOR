@@ -241,7 +241,7 @@ export function suggestRetentions(world, teamId) {
   for (const id of keepers) {
     if (out.includes(id)) continue;
     const p = P[id], sal = p.price || 30;
-    if (out.length >= SQUAD_MAX || (p.overseas && os >= OVERSEAS_MAX) || cost + sal > cap * 0.85) continue;
+    if (out.length >= keepMax(world) || (p.overseas && os >= OVERSEAS_MAX) || cost + sal > cap * 0.85) continue;
     out.push(id); cost += sal; if (p.overseas) os++;
   }
   return out;
@@ -249,9 +249,12 @@ export function suggestRetentions(world, teamId) {
 
 export function retentionCost(world, ids) { return ids.reduce((n, id) => n + (world.players[id].price || 30), 0); }
 
+// Most players a team may keep in a normal (non-reset) year: the squad limit, or the league's own cap.
+const keepMax = (w) => w.miniMax ?? SQUAD_MAX;
+
 export function retentionProblem(world, ids) {
   const os = ids.filter((id) => world.players[id].overseas).length;
-  if (ids.length > SQUAD_MAX) return `You can retain at most ${SQUAD_MAX} players`;
+  if (ids.length > keepMax(world)) return `You can retain at most ${keepMax(world)} players`;
   if (os > OVERSEAS_MAX) return `At most ${OVERSEAS_MAX} overseas players (you have ${os})`;
   if (retentionCost(world, ids) > capOf(world)) return 'Retentions cost more than the salary cap';
   return null;

@@ -253,3 +253,22 @@ test('saved careers pick up corrected player facts (positions, archetypes) witho
   assert.deepEqual(c.players['saim-ayub'].pos, ['top']);
   assert.equal(c.players['saim-ayub'].bat, 90);
 });
+
+test('retentions: PSL, SA20 and Hundred reset in turn (keep 4), keep up to 8 otherwise', async () => {
+  const { isFullAuction } = await import('../js/engine/league.js');
+  const { retentionProblemFor, nextKind } = await import('../js/engine/dynasty.js');
+  const { leagueWorld } = await import('../js/engine/career.js');
+  for (let y = 2027; y <= 2036; y++) {
+    const full = ['psl', 'sa20', 'hundred'].filter((lg) => isFullAuction(lg, y));
+    assert.equal(full.length, 1, `${y}: ${full.join(', ') || 'none'} reset`);
+  }
+  assert.ok(isFullAuction('psl', 2027) && isFullAuction('sa20', 2028) && isFullAuction('hundred', 2029));
+  const c = fresh();
+  activateLeague('hundred');
+  const w27 = leagueWorld(c, 'hundred', 2027), w29 = leagueWorld(c, 'hundred', 2029);
+  assert.equal(nextKind(w27), 'mini'); assert.equal(nextKind(w29), 'mega');
+  const nine = teamSquad(c, 'hundred', 'TR').slice(0, 9), five = nine.slice(0, 5);
+  assert.ok(/at most 8/.test(retentionProblemFor(w27, nine) || ''), 'normal year: 8 at most');
+  assert.ok(/at most 4/.test(retentionProblemFor(w29, five) || ''), 'reset year: 4 at most');
+  activateLeague('ipl');
+});

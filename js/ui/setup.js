@@ -12,9 +12,9 @@ const choice = { game: 'career', scenario: 'ipl-2026', team: null, mode: 'full',
 
 const LEAGUE_TEXT = {
   ipl: '10 teams · 25-man squads, 8 overseas · two impact players · auction every December, mega every third year.',
-  psl: '8 teams · 16 to 20 players, up to 7 overseas · first auction in 2026, two-year contracts.',
-  sa20: '6 teams · 17 to 19 players, 7 overseas · January season, auction in October.',
-  hundred: '8 teams · 100-ball matches, 3 overseas in the XI · auction in March, season in July and August.',
+  psl: '8 teams · 16 to 20 players, up to 7 overseas · keep up to 8 a year, only 4 in a reset year (2027, 2030, ...).',
+  sa20: '6 teams · 17 to 19 players, 7 overseas · January season · keep up to 8, only 4 in a reset year (2028, 2031, ...).',
+  hundred: '8 teams · 100-ball matches, 3 overseas in the XI · keep up to 8, only 4 in a reset year (2029, 2032, ...).',
 };
 
 const MODE_TEXT = {

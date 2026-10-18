@@ -32,8 +32,9 @@ export const LEAGUES = {
     minPrice: 60 / (5050 / IPL_CAP), overseasFeeCap: null, fixtures: 'psl', playoffs: 'page', ruledOut: 5, games: 10,
     // Local money (PKR lakh): the four real 2026 reserve tiers, and bid steps.
     reserves: [[700, 420], [350, 220], [150, 110], [0, 60]], steps: [[200, 10], [500, 20], [Infinity, 25]],
-    // Two-year contracts since the first PSL auction (2026): retain up to four in an auction year.
-    cycle: { every: 2, last: 2026, megaMax: 4 },
+    // Full reset every third year (keep at most 4), keep up to 8 otherwise. The PSL, SA20 and Hundred take
+    // turns, so only one of them has a reset in any year: PSL 2027, SA20 2028, Hundred 2029, ...
+    cycle: { every: 3, anchor: 2027, megaMax: 4, miniMax: 8 },
     // After the IPL's: retentions and auction follow the IPL auction, and the season follows the IPL's start.
     calendar: { retain: [1, 20], auction: [2, 11], season: [3, 29], seasonEnd: [5, 6], trade: [3, 12] },
     prestige: 70, valueScale: 1.75, ratingOffset: 6.5,
@@ -45,7 +46,7 @@ export const LEAGUES = {
     minPrice: 200 / (41000 / IPL_CAP), overseasFeeCap: null, fixtures: 'double', playoffs: 'page', ruledOut: 5, games: 10,
     // Local money (rand thousands).
     reserves: [[6000, 1500], [3000, 750], [1200, 400], [0, 200]], steps: [[1000, 50], [3000, 100], [Infinity, 250]],
-    cycle: { every: 3, last: 2025, megaMax: 6 },
+    cycle: { every: 3, anchor: 2028, megaMax: 4, miniMax: 8 },
     // The season starts in January: its trade window, retentions and auction fall in the previous calendar
     // year, all after The Hundred has finished (mid-August).
     calendar: { retain: [9, 1], auction: [10, 7], season: [1, 17], seasonEnd: [2, 21], trade: [8, 25] },
@@ -59,8 +60,7 @@ export const LEAGUES = {
     minPrice: 30 / (2050 / IPL_CAP), overseasFeeCap: null, fixtures: 'hundred', playoffs: 'top3', ruledOut: 4, games: 8,
     // Local money (£ thousands): reserves from £30k to £75k, bids in £5k steps to £100k, then £10k, then £25k.
     reserves: [[300, 75], [160, 50], [90, 40], [0, 30]], steps: [[100, 5], [250, 10], [Infinity, 25]],
-    // Up to four pre-auction signings or retentions; a full auction every year since 2026.
-    cycle: { every: 1, last: 2026, megaMax: 4 },
+    cycle: { every: 3, anchor: 2029, megaMax: 4, miniMax: 8 },
     calendar: { retain: [1, 31], auction: [3, 11], season: [7, 21], seasonEnd: [8, 16], trade: [11, 20] },
     prestige: 68, valueScale: 1.25, ratingOffset: 4.5,
   },
@@ -100,10 +100,19 @@ export function activateLeague(id) {
 // ₹120 Cr to ₹125 Cr between 2025 and 2026).
 export function leagueCap(id, year) { return Math.round(IPL_CAP * Math.pow(1.04, Math.max(0, year - 2026)) / 5) * 5; }
 
-// Is this an auction year with a capped number of retentions (the IPL's "mega", the PSL's two-year reset)?
+// Is this a full-reset year (the IPL's mega auction; the others' four-retention years)? The IPL follows
+// its own record (last mega 2025); the others run on fixed, staggered years.
 export function isFullAuction(id, year) {
   const c = LEAGUES[id].cycle;
-  return (year - c.last) % c.every === 0;
+  return ((year - (c.anchor ?? c.last)) % c.every + c.every) % c.every === 0;
+}
+
+// The last full-reset season before `year` for the staggered leagues (so year - result is 3 in a reset
+// year, 1 or 2 otherwise).
+export function lastFullBefore(id, year) {
+  const c = LEAGUES[id].cycle;
+  const since = ((year - c.anchor) % c.every + c.every) % c.every;
+  return year - (since || c.every);
 }
 
 // Reserve price tiers by market value, in each league's own tiers converted to IPL-scale lakh.
