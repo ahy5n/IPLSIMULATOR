@@ -172,6 +172,7 @@ test('ratings: each league reads on its own scale, and Babar Azam is the PSL\'s 
 test('calendar: the IPL\'s retentions, auction and season come before the PSL\'s; the SA20 off-season follows The Hundred', () => {
   const key = (d) => d[0] * 10000 + d[1] * 100 + d[2];
   for (const kind of ['retain', 'auction', 'season']) assert.ok(key(eventDate('ipl', kind, 2028)) < key(eventDate('psl', kind, 2028)), `IPL ${kind} first`);
+  assert.ok(key(eventDate('ipl', 'auction', 2028)) < key(eventDate('psl', 'retain', 2028)), 'PSL retentions come after the IPL auction');
   const hundredEnd = [2027, ...LEAGUES.hundred.calendar.seasonEnd];
   for (const kind of ['trade', 'retain', 'auction']) assert.ok(key(eventDate('sa20', kind, 2028)) > key(hundredEnd), `SA20 ${kind} after The Hundred`);
 });
@@ -262,7 +263,9 @@ test('retentions: PSL, SA20 and Hundred reset in turn (keep 4), keep up to 8 oth
     const full = ['psl', 'sa20', 'hundred'].filter((lg) => isFullAuction(lg, y));
     assert.equal(full.length, 1, `${y}: ${full.join(', ') || 'none'} reset`);
   }
-  assert.ok(isFullAuction('psl', 2027) && isFullAuction('sa20', 2028) && isFullAuction('hundred', 2029));
+  assert.ok(isFullAuction('psl', 2028) && isFullAuction('hundred', 2029) && isFullAuction('sa20', 2030));
+  // The PSL resets in the IPL's mega-auction years.
+  for (const y of [2028, 2031, 2034]) assert.ok(isFullAuction('ipl', y) && isFullAuction('psl', y), `${y}`);
   const c = fresh();
   activateLeague('hundred');
   const w27 = leagueWorld(c, 'hundred', 2027), w29 = leagueWorld(c, 'hundred', 2029);

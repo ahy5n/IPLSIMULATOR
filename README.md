@@ -38,8 +38,8 @@ Tests run in the browser: open http://localhost:8765/tests/ (add `?only=systems`
 | League | Teams | Squad | Overseas (squad / XI) | Format | Playoffs | Signing cycle |
 |---|---|---|---|---|---|---|
 | IPL | 10 | 18–25 | 8 / 4, two impact players | T20, 14 games each | Q1, Eliminator, Q2, Final | Auction every December, mega every third year (last 2025) |
-| PSL | 8 | 16–20 | 7 / 4 | T20, two groups, 10 games each | Q1, Eliminator, Q2, Final | Keep up to 8 a year; reset every third year, keep only 4 (2027, 2030, ...) |
-| SA20 | 6 | 17–19 | 7 / 4 | T20, double round robin | Q1, Eliminator, Q2, Final | Keep up to 8 a year; reset every third year, keep only 4 (2028, 2031, ...) |
+| PSL | 8 | 16–20 | 7 / 4 | T20, two groups, 10 games each | Q1, Eliminator, Q2, Final | Keep up to 8 a year; reset every third year with the IPL's mega auction, keep only 4 (2028, 2031, ...) |
+| SA20 | 6 | 17–19 | 7 / 4 | T20, double round robin | Q1, Eliminator, Q2, Final | Keep up to 8 a year; reset every third year, keep only 4 (2030, 2033, ...) |
 | The Hundred | 8 | 16–18 | 4 / 3 | 100 balls (sets of five, 20 a bowler), 8 games each incl. a regional rival | 2nd v 3rd, winner meets 1st | Keep up to 8 a year; reset every third year, keep only 4 (2029, 2032, ...) |
 
 Ratings: each league reads on its own scale. Players carry one underlying rating (the IPL's scale); a league whose average XI player is rated lower adds the gap to everyone (PSL +6.5, Hundred +4.5, SA20 +4; measured Oct 2026), so its stars look like stars: Babar Azam is 82 underlying and 88 in the PSL. Match results don't change, because every player in a league moves by the same amount.
@@ -52,7 +52,7 @@ Money: every engine works in lakh of the IPL scale. Each league converts with a 
 
 **Archetypes** in every league: batting (anchor, powerplay hitter, slogger, finisher, spin hitter) and bowling (new-ball, death). IPL players keep theirs from `tools/batting_styles.txt` and `tools/bowling_roles.txt`; well-known PSL, SA20 and Hundred players are hand-checked in `tools/league_archetypes.txt`; everyone else, and every new prospect, gets one that fits where he bats and what he bowls.
 
-**Reset years take turns.** The PSL, SA20 and The Hundred each have a full reset every third year (clubs keep at most 4; up to 8 in other years), staggered so only one of them resets in any year: PSL 2027, SA20 2028, Hundred 2029, PSL 2030, ... The IPL keeps its own mega-auction cycle (2025, 2028, ...).
+**Reset years take turns.** The PSL, SA20 and The Hundred each have a full reset every third year (clubs keep at most 4; up to 8 in other years), staggered so only one of them resets in any year: PSL 2028, Hundred 2029, SA20 2030, PSL 2031, ... The PSL's resets line up with the IPL's mega auctions (2025, 2028, 2031, ...), and its retentions (20 Jan) always follow the IPL auction (16 Dec).
 
 **One world.** One player database. Indian players are not released for overseas leagues and Pakistani players are not picked in the IPL; the IPL and PSL seasons overlap, so nobody holds both contracts. Fitness carries between leagues (it recovers with rest, and a third league in twelve months starts players a little short); form carries over in part; ratings develop once a year (1 October) from age and the year's numbers in every league. New prospects register each year for each league's home country.
 

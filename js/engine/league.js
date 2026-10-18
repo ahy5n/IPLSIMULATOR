@@ -32,9 +32,10 @@ export const LEAGUES = {
     minPrice: 60 / (5050 / IPL_CAP), overseasFeeCap: null, fixtures: 'psl', playoffs: 'page', ruledOut: 5, games: 10,
     // Local money (PKR lakh): the four real 2026 reserve tiers, and bid steps.
     reserves: [[700, 420], [350, 220], [150, 110], [0, 60]], steps: [[200, 10], [500, 20], [Infinity, 25]],
-    // Full reset every third year (keep at most 4), keep up to 8 otherwise. The PSL, SA20 and Hundred take
-    // turns, so only one of them has a reset in any year: PSL 2027, SA20 2028, Hundred 2029, ...
-    cycle: { every: 3, anchor: 2027, megaMax: 4, miniMax: 8 },
+    // Full reset every third year (keep at most 4), keep up to 8 otherwise. The PSL resets in the IPL's
+    // mega-auction years (2028, 2031, ...); the SA20 and Hundred take the other years, so only one of
+    // the three resets in any year: PSL 2028, Hundred 2029, SA20 2030, ...
+    cycle: { every: 3, anchor: 2028, megaMax: 4, miniMax: 8 },
     // After the IPL's: retentions and auction follow the IPL auction, and the season follows the IPL's start.
     calendar: { retain: [1, 20], auction: [2, 11], season: [3, 29], seasonEnd: [5, 6], trade: [3, 12] },
     prestige: 70, valueScale: 1.75, ratingOffset: 6.5,
@@ -46,7 +47,7 @@ export const LEAGUES = {
     minPrice: 200 / (41000 / IPL_CAP), overseasFeeCap: null, fixtures: 'double', playoffs: 'page', ruledOut: 5, games: 10,
     // Local money (rand thousands).
     reserves: [[6000, 1500], [3000, 750], [1200, 400], [0, 200]], steps: [[1000, 50], [3000, 100], [Infinity, 250]],
-    cycle: { every: 3, anchor: 2028, megaMax: 4, miniMax: 8 },
+    cycle: { every: 3, anchor: 2030, megaMax: 4, miniMax: 8 },
     // The season starts in January: its trade window, retentions and auction fall in the previous calendar
     // year, all after The Hundred has finished (mid-August).
     calendar: { retain: [9, 1], auction: [10, 7], season: [1, 17], seasonEnd: [2, 21], trade: [8, 25] },
