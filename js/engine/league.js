@@ -29,7 +29,9 @@ export const LEAGUES = {
     id: 'psl', short: 'PSL', name: 'Pakistan Super League', home: 'Pakistan', homes: ['Pakistan'], nationality: 'Pakistani',
     currency: { sym: 'PKR', rate: 5050 / IPL_CAP, unit: 'crore' },
     squad: { min: 16, max: 20, overseas: 7 }, xiOverseas: 4, format: 't20', impact: false,
-    minPrice: Math.round(60 / (5050 / IPL_CAP)), overseasFeeCap: null, fixtures: 'psl', playoffs: 'page', ruledOut: 5, games: 10,
+    minPrice: 60 / (5050 / IPL_CAP), overseasFeeCap: null, fixtures: 'psl', playoffs: 'page', ruledOut: 5, games: 10,
+    // Local money (PKR lakh): the four real 2026 reserve tiers, and bid steps.
+    reserves: [[700, 420], [350, 220], [150, 110], [0, 60]], steps: [[200, 10], [500, 20], [Infinity, 25]],
     // Two-year contracts since the first PSL auction (2026): retain up to four in an auction year.
     cycle: { every: 2, last: 2026, megaMax: 4 },
     // After the IPL's: retentions and auction follow the IPL auction, and the season follows the IPL's start.
@@ -40,7 +42,9 @@ export const LEAGUES = {
     id: 'sa20', short: 'SA20', name: 'SA20', home: 'South Africa', homes: ['South Africa'], nationality: 'South African',
     currency: { sym: 'R', rate: 41000 / IPL_CAP, unit: 'thousand' },
     squad: { min: 17, max: 19, overseas: 7 }, xiOverseas: 4, format: 't20', impact: false,
-    minPrice: Math.round(200 / (41000 / IPL_CAP)), overseasFeeCap: null, fixtures: 'double', playoffs: 'page', ruledOut: 5, games: 10,
+    minPrice: 200 / (41000 / IPL_CAP), overseasFeeCap: null, fixtures: 'double', playoffs: 'page', ruledOut: 5, games: 10,
+    // Local money (rand thousands).
+    reserves: [[6000, 1500], [3000, 750], [1200, 400], [0, 200]], steps: [[1000, 50], [3000, 100], [Infinity, 250]],
     cycle: { every: 3, last: 2025, megaMax: 6 },
     // The season starts in January: its trade window, retentions and auction fall in the previous calendar
     // year, all after The Hundred has finished (mid-August).
@@ -52,7 +56,9 @@ export const LEAGUES = {
     id: 'hundred', short: 'Hundred', name: 'The Hundred', home: 'England', homes: ['England', 'Wales', 'Scotland', 'Ireland', 'Jersey', 'Guernsey'], nationality: 'English',
     currency: { sym: '£', rate: 2050 / IPL_CAP, unit: 'thousand' },
     squad: { min: 16, max: 18, overseas: 4 }, xiOverseas: 3, format: 'hundred', impact: false,
-    minPrice: Math.round(30 / (2050 / IPL_CAP)), overseasFeeCap: null, fixtures: 'hundred', playoffs: 'top3', ruledOut: 4, games: 8,
+    minPrice: 30 / (2050 / IPL_CAP), overseasFeeCap: null, fixtures: 'hundred', playoffs: 'top3', ruledOut: 4, games: 8,
+    // Local money (£ thousands): reserves from £30k to £75k, bids in £5k steps to £100k, then £10k, then £25k.
+    reserves: [[300, 75], [160, 50], [90, 40], [0, 30]], steps: [[100, 5], [250, 10], [Infinity, 25]],
     // Up to four pre-auction signings or retentions; a full auction every year since 2026.
     cycle: { every: 1, last: 2026, megaMax: 4 },
     calendar: { retain: [1, 31], auction: [3, 11], season: [7, 21], seasonEnd: [8, 16], trade: [11, 20] },
@@ -81,7 +87,7 @@ export function activeLeague() { return LEAGUES[active]; }
 export function activateLeague(id) {
   const L = LEAGUES[id];
   active = id;
-  configureRules({ squadMin: L.squad.min, squadMax: L.squad.max, overseasMax: L.squad.overseas, minPrice: L.minPrice, overseasFeeCap: L.overseasFeeCap });
+  configureRules({ squadMin: L.squad.min, squadMax: L.squad.max, overseasMax: L.squad.overseas, minPrice: L.minPrice, overseasFeeCap: L.overseasFeeCap, steps: L.steps || null, rate: L.currency.rate });
   configureSquad({ xiOverseas: L.xiOverseas, impact: L.impact });
   configureFormat(FORMATS[L.format]);
   configureStatus({ ruledOut: L.ruledOut });
@@ -107,9 +113,10 @@ export function reserveFor(id, value, capped) {
     if (capped) return value >= 900 ? 200 : value >= 500 ? 150 : value >= 300 ? 125 : value >= 180 ? 100 : 75;
     return value >= 200 ? 50 : value >= 120 ? 40 : 30;
   }
-  // Four tiers: about 7x, 3.7x, 1.8x and 1x the minimum fee (the PSL's 4.2 Cr / 2.2 Cr / 1.1 Cr / 60 L).
-  const m = L.minPrice;
-  return value >= m * 9 ? m * 7 : value >= m * 5 ? Math.round(m * 3.7) : value >= m * 2.4 ? Math.round(m * 1.8) : m;
+  // The league's own tiers in local money: the first whose value threshold the player clears.
+  const local = value * L.currency.rate;
+  const tier = L.reserves.find(([atLeast]) => local >= atLeast) || L.reserves[L.reserves.length - 1];
+  return tier[1] / L.currency.rate;
 }
 
 export const leagueOf = (id) => LEAGUES[id];

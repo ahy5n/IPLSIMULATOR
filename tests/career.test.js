@@ -203,3 +203,17 @@ test('data: nobody is listed twice in a league, and one player is one person acr
   const dupes = Object.entries(names).filter(([, v]) => v.length > 1).map(([k]) => k);
   assert.deepEqual(dupes, ['abdul samad'], `same-name players: ${dupes.join(', ')}`);   // two real people
 });
+
+test('The Hundred auction: reserves £30k–£75k, bids in £5k steps', async () => {
+  const { reserveFor } = await import('../js/engine/league.js');
+  const { increment } = await import('../js/engine/rules.js');
+  activateLeague('hundred');
+  const rate = LEAGUES.hundred.currency.rate;
+  const local = (x) => Math.round(x * rate);
+  assert.equal(local(reserveFor('hundred', 5000, true)), 75);
+  assert.equal(local(reserveFor('hundred', 10, false)), 30);
+  assert.equal(local(increment(50 / rate)), 5);
+  assert.equal(local(increment(300 / rate)), 25);
+  activateLeague('ipl');
+  assert.equal(increment(150), 10, 'IPL steps unchanged');
+});

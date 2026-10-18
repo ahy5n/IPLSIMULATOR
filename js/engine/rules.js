@@ -11,13 +11,22 @@ export let MIN_PRICE = 30;            // lowest reserve price, used to keep enou
 // The franchise pays the full bid from its purse; anything above the cap goes to the BCCI's player welfare fund.
 export let OVERSEAS_FEE_CAP = 1800;
 
-export function configureRules({ squadMin, squadMax, overseasMax, minPrice, overseasFeeCap }) {
+// Other leagues bid in their own currency: steps = [[up to this local amount, step], ...], rate = local
+// units per lakh (see js/engine/league.js).
+let STEPS = null, RATE = 1;
+export function configureRules({ squadMin, squadMax, overseasMax, minPrice, overseasFeeCap, steps = null, rate = 1 }) {
   SQUAD_MIN = squadMin; SQUAD_MAX = squadMax; OVERSEAS_MAX = overseasMax; MIN_PRICE = minPrice;
   OVERSEAS_FEE_CAP = overseasFeeCap ?? Infinity;
+  STEPS = steps; RATE = rate;
 }
 
 // Bid increments by current price band.
 export function increment(price) {
+  if (STEPS) {
+    const local = price * RATE;
+    const band = STEPS.find(([upTo]) => local < upTo) || STEPS[STEPS.length - 1];
+    return band[1] / RATE;
+  }
   if (price < 100) return 5;
   if (price < 200) return 10;
   if (price < 500) return 20;

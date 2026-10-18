@@ -364,6 +364,6 @@ export function awards(season) {
     mvp: top(all, (a, b) => mvp(b) - mvp(a)),
     sixes: top(all, (a, b) => b.f6 - a.f6 || b.r - a.r),
     strikeRate: top(all.filter((x) => x.b >= 100), (a, b) => b.r / b.b - a.r / a.b),
-    economy: top(all.filter((x) => x.bb >= 120), (a, b) => a.rc / a.bb - b.rc / b.bb),
+    economy: top(all.filter((x) => x.bb >= (FORMAT.balls === 100 ? 100 : 120)), (a, b) => a.rc / a.bb - b.rc / b.bb),
   };
 }

@@ -11,7 +11,8 @@ import { CONDITIONS, adjustPlayers } from './conditions.js';
 // Both have 20 bowling units, so the captaincy logic below works in units ("overs") for either.
 export const FORMATS = {
   t20: { id: 't20', balls: 120, setBalls: 6, maxSets: 4, ppSets: 6, deathFrom: 15, impact: true, unit: 'over' },
-  hundred: { id: 'hundred', balls: 100, setBalls: 5, maxSets: 4, ppSets: 5, deathFrom: 15, impact: false, unit: 'ball' },
+  // A Hundred bowler may bowl one set of five or two in a row (ten balls from one end), never three.
+  hundred: { id: 'hundred', balls: 100, setBalls: 5, maxSets: 4, ppSets: 5, deathFrom: 15, impact: false, unit: 'ball', backToBack: 2 },
 };
 export let FORMAT = FORMATS.t20;
 let OVERS = 20, BALLS = 120, SET = 6, MAX_OVERS_PER_BOWLER = 4;
@@ -59,10 +60,12 @@ function pickAttack(ids, players) {
   return attack;
 }
 
-function chooseBowler(over, attack, overs, last, players) {
+function chooseBowler(over, attack, overs, last, players, spell = 1) {
   const remaining = OVERS - over;
   const left = (id) => MAX_OVERS_PER_BOWLER - (overs[id] || 0);
-  const pool = attack.filter((id) => left(id) > 0 && id !== last);
+  // T20: nobody bowls consecutive overs. The Hundred: the bowler may carry on for a second set of five.
+  const mayContinue = (FORMAT.backToBack || 1) > spell;
+  const pool = attack.filter((id) => left(id) > 0 && (id !== last || mayContinue));
   if (!pool.length) return attack.find((id) => left(id) > 0) || attack[0];
   // If quotas are tight, the bowler with the most overs left must bowl now.
   const total = attack.reduce((n, id) => n + left(id), 0);
@@ -82,6 +85,7 @@ function chooseBowler(over, attack, overs, last, players) {
     if (roles.includes('death') && over < 15 && left(id) <= 2 && remaining > 5) s -= 15;
     if (roles.includes('newball') && !roles.includes('death') && ph === 'death') s -= 4;
     if (over < 15 && top2.includes(id) && left(id) <= 1 && remaining > 5) s -= 20;  // keep an over of the best for the death
+    if (id === last) s -= 3;   // a second set in a row only when he's clearly the best option
     return s;
   };
   return pool.reduce((b, id) => (score(id) > score(b) ? id : b), pool[0]);
@@ -111,10 +115,11 @@ export function simulateInnings(rng, { battingOrder, bowlers, fielders, players,
   let striker = 0, non = 1, next = 2;
   card[0].batted = true; if (card[1]) card[1].batted = true;
   const fow = [];
-  let lastBowler = null;
+  let lastBowler = null, spell = 0;
   const totalOvers = Math.ceil(balls / SET);
   for (let over = 0; over < totalOvers && wkts < maxWickets; over++) {
-    const bowlerId = balls < BALLS ? bowlers[0] : chooseBowler(over, bowlers, overs, lastBowler, players);
+    const bowlerId = balls < BALLS ? bowlers[0] : chooseBowler(over, bowlers, overs, lastBowler, players, spell);
+    spell = bowlerId === lastBowler ? spell + 1 : 1;
     const bw = bowl[bowlerId] || (bowl[bowlerId] = { id: bowlerId, balls: 0, r: 0, w: 0, dots: 0 });
     let inOver = 0;
     while (inOver < SET && legal < balls && wkts < maxWickets) {
@@ -151,7 +156,8 @@ export function simulateInnings(rng, { battingOrder, bowlers, fielders, players,
     }
     overs[bowlerId] = (overs[bowlerId] || 0) + 1;
     lastBowler = bowlerId;
-    [striker, non] = [non, striker];
+    // Batters change ends after every over in T20; in The Hundred the ends change every ten balls.
+    if (!FORMAT.backToBack || over % 2 === 1) [striker, non] = [non, striker];
     if (target != null && runs >= target) break;
   }
   return { runs, wkts, balls: legal, extras, batting: card, bowling: Object.values(bowl), fow, allOut: wkts >= maxWickets };

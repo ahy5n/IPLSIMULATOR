@@ -29,6 +29,11 @@ export function render(root, ctx) {
   const NG = s.fixtures.length;
   // Innings length: overs in T20, balls in The Hundred.
   const ovs = (balls) => (FORMAT.unit === 'ball' ? `${balls} balls` : `${oversText(balls)} ov`);
+  // Economy: runs an over in T20; in The Hundred, runs per set of five balls.
+  const hundred = FORMAT.unit === 'ball';
+  const econ = (r, b) => (b ? ((r / b) * (hundred ? 5 : 6)).toFixed(2) : '–');
+  const econLabel = hundred ? 'Runs per 5' : 'Econ';
+  const ORANGE = LG === 'IPL' ? 'Orange Cap' : 'Most runs', PURPLE = LG === 'IPL' ? 'Purple Cap' : 'Most wickets';
 
   function draw() {
     root.innerHTML = `${masthead(`<span class="tag">${s.stage === 'league' ? `League · ${s.fixtures.filter((f) => f.result).length}/${NG}` : s.stage === 'playoffs' ? 'Playoffs' : 'Season over'}</span>`)}
@@ -171,8 +176,8 @@ export function render(root, ctx) {
     const runs = all.slice().sort((a, b) => b.r - a.r).slice(0, 5);
     const wk = all.slice().sort((a, b) => b.w - a.w || a.rc / Math.max(1, a.bb) - b.rc / Math.max(1, b.bb)).slice(0, 5);
     return `<div class="grid-2">
-      <div><h3 style="color:var(--accent)">Orange Cap</h3><table><tbody>${runs.map((x) => `<tr class="${teamOfPlayer(s, x.id) === me ? 'me' : ''}"><td>${nameT(x.id)}</td><td class="r"><strong>${x.r}</strong></td><td class="r muted">SR ${x.b ? ((x.r / x.b) * 100).toFixed(0) : 0}</td></tr>`).join('')}</tbody></table></div>
-      <div><h3 style="color:var(--purple)">Purple Cap</h3><table><tbody>${wk.map((x) => `<tr class="${teamOfPlayer(s, x.id) === me ? 'me' : ''}"><td>${nameT(x.id)}</td><td class="r"><strong>${x.w}</strong></td><td class="r muted">Econ ${x.bb ? ((x.rc / x.bb) * 6).toFixed(2) : '-'}</td></tr>`).join('')}</tbody></table></div>
+      <div><h3 style="color:var(--accent)">${ORANGE}</h3><table><tbody>${runs.map((x) => `<tr class="${teamOfPlayer(s, x.id) === me ? 'me' : ''}"><td>${nameT(x.id)}</td><td class="r"><strong>${x.r}</strong></td><td class="r muted">SR ${x.b ? ((x.r / x.b) * 100).toFixed(0) : 0}</td></tr>`).join('')}</tbody></table></div>
+      <div><h3 style="color:var(--purple)">${PURPLE}</h3><table><tbody>${wk.map((x) => `<tr class="${teamOfPlayer(s, x.id) === me ? 'me' : ''}"><td>${nameT(x.id)}</td><td class="r"><strong>${x.w}</strong></td><td class="r muted">${econLabel} ${econ(x.rc, x.bb)}</td></tr>`).join('')}</tbody></table></div>
     </div>`;
   }
 
@@ -318,8 +323,8 @@ export function render(root, ctx) {
         <tr><td class="muted">Extras</td><td class="r">${inn.extras}</td><td colspan="4"></td></tr>
       </tbody></table></div>
       ${dnb.length ? `<p class="muted" style="font-size:.85rem">Did not bat: ${dnb.map(esc).join(', ')}</p>` : ''}
-      <div class="scroll-x"><table><thead><tr><th>Bowler</th><th class="r">${FORMAT.unit === 'ball' ? 'B' : 'O'}</th><th class="r">R</th><th class="r">W</th><th class="r">Econ</th></tr></thead><tbody>
-        ${inn.bowling.map((b) => `<tr><td>${esc(P[b.id].name)}</td><td class="r">${FORMAT.unit === 'ball' ? b.balls : oversText(b.balls)}</td><td class="r">${b.r}</td><td class="r"><strong>${b.w}</strong></td><td class="r muted">${b.balls ? ((b.r / b.balls) * 6).toFixed(2) : '–'}</td></tr>`).join('')}
+      <div class="scroll-x"><table><thead><tr><th>Bowler</th><th class="r">${FORMAT.unit === 'ball' ? 'B' : 'O'}</th><th class="r">R</th><th class="r">W</th><th class="r">${hundred ? 'Per 5' : 'Econ'}</th></tr></thead><tbody>
+        ${inn.bowling.map((b) => `<tr><td>${esc(P[b.id].name)}</td><td class="r">${FORMAT.unit === 'ball' ? b.balls : oversText(b.balls)}</td><td class="r">${b.r}</td><td class="r"><strong>${b.w}</strong></td><td class="r muted">${econ(b.r, b.balls)}</td></tr>`).join('')}
       </tbody></table></div>
     </section>`;
   }
@@ -347,12 +352,12 @@ export function render(root, ctx) {
       ${fin ? `<button class="btn btn-sm" data-open="${fin.no}">Final scorecard</button>` : ''}
     </section>
     <section class="grid-2">
-      ${award(LG === 'IPL' ? 'Orange Cap' : 'Most runs', aw.orange, (x) => `${x.r} runs, SR ${((x.r / Math.max(1, x.b)) * 100).toFixed(0)}`, 'var(--accent)')}
-      ${award(LG === 'IPL' ? 'Purple Cap' : 'Most wickets', aw.purple, (x) => `${x.w} wickets, econ ${((x.rc / Math.max(1, x.bb)) * 6).toFixed(2)}`, 'var(--purple)')}
+      ${award(ORANGE, aw.orange, (x) => `${x.r} runs, SR ${((x.r / Math.max(1, x.b)) * 100).toFixed(0)}`, 'var(--accent)')}
+      ${award(PURPLE, aw.purple, (x) => `${x.w} wickets, ${hundred ? 'runs per 5' : 'econ'} ${econ(x.rc, Math.max(1, x.bb))}`, 'var(--purple)')}
       ${award('Most valuable player', aw.mvp, (x) => `${x.r} runs, ${x.w} wickets`)}
       ${award('Most sixes', aw.sixes, (x) => `${x.f6} sixes`)}
       ${award('Best strike rate', aw.strikeRate, (x) => `${((x.r / x.b) * 100).toFixed(1)} (min 100 balls)`)}
-      ${award('Best economy', aw.economy, (x) => `${((x.rc / x.bb) * 6).toFixed(2)} (min 20 overs)`)}
+      ${award('Best economy', aw.economy, (x) => `${econ(x.rc, x.bb)} ${hundred ? 'runs per 5 balls (min 100 balls)' : '(min 20 overs)'}`)}
     </section>
     <section class="stack">
       <div class="section-head"><h3>Playoffs</h3></div>
