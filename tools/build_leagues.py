@@ -482,6 +482,26 @@ def fee_rating(lg, fee):
     return max(48, min(90, r - offset))   # back to the underlying (IPL-scale) rating
 
 
+def fill_archetype(p):
+    """A batting archetype by batting position and a bowling specialism by bowling type, for players
+    with no known one. Deterministic per player, so rebuilds don't reshuffle them."""
+    r = (int(hashlib.md5(('arch:' + p['id']).encode()).hexdigest()[:8], 16) % 1000) / 1000
+    if not p.get('bs') and p['role'] in ('BAT', 'WK', 'AR') and p['bat'] >= 45:
+        band = (p.get('pos') or ['middle'])[0]
+        if band == 'top':
+            p['bs'] = 'aggressor' if r < 0.45 else 'anchor' if r < 0.7 else None
+        elif band == 'middle':
+            p['bs'] = 'spin' if r < 0.2 else 'slogger' if r < 0.38 else 'finisher' if r < 0.52 else 'anchor' if r < 0.64 else None
+        elif band == 'lower':
+            p['bs'] = 'finisher' if r < 0.45 else 'slogger' if r < 0.75 else None
+    if not p.get('br') and p.get('bt') and p['bowl'] >= 66:
+        r2 = (r * 7.31) % 1
+        if p['bt'] in ('RF', 'RFM', 'RM', 'LF', 'LFM'):
+            p['br'] = ['newball'] if r2 < 0.3 else ['death'] if r2 < 0.55 else ['newball', 'death'] if r2 < 0.62 and p['bowl'] >= 74 else []
+        elif p['bowl'] >= 72 and r2 < 0.12:
+            p['br'] = ['newball']   # the odd spinner who opens the bowling
+
+
 def overall(role, bat, bowl):
     if role in ('BAT', 'WK'):
         return bat + (2 if role == 'WK' else 0)
@@ -657,6 +677,33 @@ def main():
         for p in players.values():
             if norm(p['name']) == norm(name) and p['id'] not in known_ids:
                 p.update(role=role, bat=int(bat), bowl=int(bowl), ovr=overall(role, int(bat), int(bowl)), pos=default_bands(role, int(bat), int(bowl)))
+
+    # Archetypes: hand-checked for well-known players (tools/league_archetypes.txt), then the rest of the
+    # players outside the IPL data get one that fits where they bat and what they bowl.
+    curated_bs, curated_br, section = {}, {}, None
+    for line in open(os.path.join(ROOT, 'tools', 'league_archetypes.txt')):
+        line = line.strip()
+        if line in ('[batting]', '[bowling]'):
+            section = line
+            continue
+        if not line or line.startswith('#'):
+            continue
+        name, v = line.split('|')
+        (curated_bs if section == '[batting]' else curated_br)[norm(name)] = v if section == '[batting]' else v.split(',')
+    found = set()
+    for p in players.values():
+        n = norm(p['name'])
+        if n in curated_bs or n in curated_br:
+            found.add(n)   # (IPL players keep the archetypes in the IPL files)
+        if n in curated_bs and not p.get('bs'):
+            p['bs'] = curated_bs[n]; found.add(n)
+        if n in curated_br and not p.get('br'):
+            p['br'] = curated_br[n]; found.add(n)
+        if p['id'] not in known_ids:
+            fill_archetype(p)
+    missing = sorted((set(curated_bs) | set(curated_br)) - found)
+    if missing:
+        print('archetypes for players not in any squad:', ', '.join(missing))
 
     # IPL: the real 2026 squads (retained + bought at the 2026 auction).
     ipl_players = {p['id']: p for p in json.load(open(os.path.join(ROOT, 'data', 'scenarios', 'ipl-2026', 'players.json')))}

@@ -825,6 +825,7 @@ function makePlayer(career, rng, country, { level = clamp(rng.normal(54, 6), 42,
   const id = `prospect-${career.date[0]}-${career.nextProspect++}`;
   const p = { id, name: `${rng.pick(first)} ${rng.pick(last)}`, country, role, bowlType, bt, bs: null, br: [], bat, bowl, ovr: D.overall(role, bat, bowl), pos, age, capped: false, prospect: true, tenure: {}, bonds: {} };
   p.loyal = personality(p);
+  D.fillArchetype(p, () => rng.next());
   career.players[id] = p;
   return id;
 }

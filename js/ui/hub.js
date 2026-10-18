@@ -7,7 +7,7 @@ import {
   jobMarket, takeJob, quitJob, teamPrestige, requiredRep, tradeWindowOpen, leaguePlayers,
 } from '../engine/career.js';
 import { teamStrength } from '../engine/squad.js';
-import { badge, meter, teamChip } from './components.js';
+import { badge, meter, teamChip, roleTag } from './components.js';
 import { masthead, footer } from './shell.js';
 
 export function unmount() {}
@@ -139,7 +139,7 @@ export function render(root, ctx) {
       <div class="spread"><strong>${esc(r.t.name)}</strong><span class="muted" style="font-size:.85rem">${r.coach ? `Coach ${esc(r.coach.user ? 'you' : r.coach.name)} · board ${Math.round(r.coach.security[lg] ?? 60)}` : 'No coach'} · needs reputation ${Math.round(requiredRep(c, lg, r.t.id))}</span></div>
       <div class="scroll-x"><table><thead><tr><th>Player</th><th class="r">Age</th><th class="r">Rating</th><th class="r">Fee</th><th class="r hide-sm">Seasons</th><th class="hide-sm"></th></tr></thead>
       <tbody>${ids.map((id) => { const p = P[id], cp = c.players[id]; const ten = cp.tenure[lg]?.team === r.t.id ? cp.tenure[lg].seasons : 0; const bond = r.coach ? cp.bonds[r.coach.id] || 0 : 0; return `<tr>
-        <td><strong>${esc(p.name)}</strong>${p.overseas ? ' <span class="os">OS</span>' : ''} <span class="tag">${p.role}</span></td><td class="r">${p.age}</td><td class="r">${p.ovr}</td><td class="r">${money(lg, p.price)}</td>
+        <td><strong>${esc(p.name)}</strong>${p.overseas ? ' <span class="os">OS</span>' : ''} ${roleTag(p)}</td><td class="r">${p.age}</td><td class="r">${p.ovr}</td><td class="r">${money(lg, p.price)}</td>
         <td class="r hide-sm">${ten}</td><td class="hide-sm"><span class="tag">${[loyalWord(cp), bond >= 3 ? 'Close to coach' : ''].filter(Boolean).join(' · ')}</span></td></tr>`; }).join('')}</tbody></table></div>
     </div>`;
   }

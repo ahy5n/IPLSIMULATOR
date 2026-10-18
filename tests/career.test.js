@@ -217,3 +217,14 @@ test('The Hundred auction: reserves £30k–£75k, bids in £5k steps', async ()
   activateLeague('ipl');
   assert.equal(increment(150), 10, 'IPL steps unchanged');
 });
+
+test('archetypes: every league has anchors, hitters, finishers and new-ball and death bowlers', () => {
+  const c = fresh();
+  for (const lg of LGS) {
+    const ps = Object.keys(c.contracts[lg]).map((id) => c.players[id]);
+    for (const style of ['anchor', 'aggressor', 'slogger', 'finisher', 'spin']) assert.ok(ps.some((p) => p.bs === style), `${lg} has no ${style}`);
+    for (const role of ['newball', 'death']) assert.ok(ps.some((p) => (p.br || []).includes(role)), `${lg} has no ${role} bowler`);
+  }
+  assert.equal(c.players['babar-azam'].bs, 'anchor');
+  assert.ok(c.players['shaheen-shah-afridi'].br.includes('newball'));
+});

@@ -16,7 +16,7 @@ Naseem Shah|BOWL|22|76
 Abrar Ahmed|BOWL|12|77
 Usman Tariq|BOWL|10|74
 Abbas Afridi|BOWL|25|74
-Hasan Ali|BOWL|28|72
+Hassan Ali|BOWL|28|72
 Usman Khan|WK|72|5
 Hassan Nawaz|BAT|71|8
 Khushdil Shah|AR|68|50

@@ -1,0 +1,131 @@
+# Archetypes for players outside the IPL data (the IPL's are in batting_styles.txt and bowling_roles.txt).
+# Batting: Name|style   (anchor, aggressor, slogger, finisher, spin)
+# Bowling: Name|role[,role]   (newball, death)
+# Players not listed get an archetype from where they bat and what they bowl (tools/build_leagues.py).
+
+[batting]
+## Anchors: build the innings, hard to dismiss
+Babar Azam|anchor
+Mohammad Rizwan|anchor
+Joe Root|anchor
+Kane Williamson|anchor
+Devon Conway|anchor
+Steve Smith|anchor
+Usman Khawaja|anchor
+Marnus Labuschagne|anchor
+Shan Masood|anchor
+Imam-ul-Haq|anchor
+Abdullah Shafique|anchor
+Saud Shakeel|anchor
+Tony de Zorzi|anchor
+Temba Bavuma|anchor
+Rassie van der Dussen|anchor
+Dawid Malan|anchor
+Kusal Perera|aggressor
+Charith Asalanka|spin
+## Powerplay hitters
+Fakhar Zaman|aggressor
+Saim Ayub|aggressor
+Sahibzada Farhan|aggressor
+Usman Khan|aggressor
+Jason Roy|aggressor
+David Warner|aggressor
+Finn Allen|aggressor
+Ryan Rickelton|aggressor
+Will Smeed|aggressor
+Jonny Bairstow|aggressor
+Ben Duckett|aggressor
+Rilee Rossouw|aggressor
+Reeza Hendricks|aggressor
+Matthew Short|aggressor
+Mitchell Owen|aggressor
+Josh Philippe|aggressor
+Tanzid Hasan|aggressor
+James Vince|aggressor
+Tom Kohler-Cadmore|aggressor
+Lhuan-dre Pretorius|aggressor
+Jamie Smith|aggressor
+Tom Banton|aggressor
+Jordan Cox|aggressor
+Kusal Mendis|aggressor
+Mark Chapman|aggressor
+Ben McDermott|aggressor
+Andries Gous|aggressor
+Parvez Hossain Emon|aggressor
+Brian Bennett|aggressor
+Omair Yousuf|aggressor
+## Sloggers: all-out hitters
+Azam Khan|slogger
+Asif Ali|slogger
+Khushdil Shah|slogger
+Iftikhar Ahmed|slogger
+Hassan Nawaz|slogger
+Glenn Maxwell|slogger
+Tim David|slogger
+Sherfane Rutherford|slogger
+Donovan Ferreira|slogger
+Kieron Pollard|slogger
+Romario Shepherd|slogger
+Sam Billings|finisher
+Haider Ali|aggressor
+## Finishers: best at the death
+David Miller|finisher
+Faheem Ashraf|finisher
+Mohammad Nawaz|finisher
+Shadab Khan|finisher
+Ashton Turner|finisher
+Daniel Sams|finisher
+Laurie Evans|finisher
+Jimmy Neesham|finisher
+Jason Holder|finisher
+Imad Wasim|finisher
+Daryl Mitchell|spin
+## Spin hitters
+Sikandar Raza|spin
+Shimron Hetmyer|spin
+Aiden Markram|spin
+Dhruv Shorey|spin
+
+[bowling]
+## Pakistan
+Shaheen Shah Afridi|newball
+Naseem Shah|newball
+Mohammad Amir|newball,death
+Haris Rauf|death
+Zaman Khan|death
+Abbas Afridi|death
+Hassan Ali|death
+Mohammad Hasnain|newball
+Ihsanullah|newball
+Salman Mirza|newball
+## Elsewhere
+Mustafizur Rahman|death
+Shoriful Islam|newball
+Nahid Rana|newball
+Lockie Ferguson|death
+Matt Henry|newball
+Adam Milne|newball
+Tymal Mills|death
+Reece Topley|newball
+David Willey|newball
+Chris Jordan|death
+Saqib Mahmood|newball
+Tom Curran|death
+Richard Gleeson|newball
+Luke Wood|newball
+Ben Dwarshuis|newball,death
+Riley Meredith|death
+Marco Jansen|newball
+Lungi Ngidi|newball
+Anrich Nortje|death
+Kwena Maphaka|newball
+Ottneil Baartman|newball
+Alzarri Joseph|death
+Akeal Hosein|newball
+Mujeeb Ur Rahman|newball
+Maheesh Theekshana|newball
+Dillon Pennington|newball
+Tom Helm|death
+Josh Little|newball
+Gerald Coetzee|death
+Blessing Muzarabani|newball

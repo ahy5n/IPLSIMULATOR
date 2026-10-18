@@ -22,7 +22,7 @@ Tests run in the browser: open http://localhost:8765/tests/ (add `?only=systems`
 | Milestone | Status |
 |---|---|
 | 1. Data | Done. IPL 2026 (369 players, 173 retentions, 77 real sales) and IPL 2025 (575 players, 46 retentions, RTM cards, 180 real sales). |
-| 2. Auction engine | Done. Pure logic in `js/engine/`, 93 browser tests. |
+| 2. Auction engine | Done. Pure logic in `js/engine/`, 95 browser tests. |
 | 3. Auction room | Done. Full and quick rules, three speeds, pause, "Skip to last two" fast forward, sim shortcuts, nominations, right-to-match prompts. Squads listed by batting position. |
 | 4. After the auction | Done. Grades, value analysis against real prices, share card, season prediction, trade window. |
 | 5. Season | Done. Fixtures, XI with two impact players, XI carry-over, batting bands, pitch conditions, form, fitness, chemistry, injuries and replacements, table, playoffs, awards. |
@@ -49,6 +49,8 @@ Calendar: the IPL's retentions (15 Nov) and auction (16 Dec) come before the PSL
 Money: every engine works in lakh of the IPL scale. Each league converts with a fixed rate chosen so its real cap equals the IPL's ₹125 Cr (PSL 50.5 crore PKR, SA20 R41m, The Hundred £2.05m); caps grow 4% a year. Player values are scaled per league to its real fees (PSL 1.75×, SA20 1.5×, Hundred 1.25× the curve on each league's rating scale), because smaller squads share the same cap.
 
 **Overseas status** is how each league registers a player, taken from the source squad lists: a flag in the PSL and SA20 tables, the "overseas" list on each Hundred team page. So Scots, Jersey players and UK passport holders (Sean Dickson, Daniel Worrall) are local in The Hundred, and some Pakistani-origin players are local in the PSL. Players not yet registered in a league count by country (British and Irish players are local in The Hundred).
+
+**Archetypes** in every league: batting (anchor, powerplay hitter, slogger, finisher, spin hitter) and bowling (new-ball, death). IPL players keep theirs from `tools/batting_styles.txt` and `tools/bowling_roles.txt`; well-known PSL, SA20 and Hundred players are hand-checked in `tools/league_archetypes.txt`; everyone else, and every new prospect, gets one that fits where he bats and what he bowls.
 
 **One world.** One player database. Indian players are not released for overseas leagues and Pakistani players are not picked in the IPL; the IPL and PSL seasons overlap, so nobody holds both contracts. Fitness carries between leagues (it recovers with rest, and a third league in twelve months starts players a little short); form carries over in part; ratings develop once a year (1 October) from age and the year's numbers in every league. New prospects register each year for each league's home country.
 

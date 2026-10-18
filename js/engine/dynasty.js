@@ -129,6 +129,24 @@ const OS_NAMES = [['Australia', ['Jake', 'Riley', 'Cooper', 'Mitch', 'Sam'], ['W
   ['South Africa', ['Kwena', 'Dewan', 'Lhuan', 'Nqaba', 'Jason'], ['Botha', 'van Wyk', 'Mokoena', 'Fortuin', 'Steyn']],
   ['Afghanistan', ['Bashir', 'Noor', 'Hasan', 'Ijaz', 'Sharif'], ['Safi', 'Zadran', 'Ahmadzai', 'Omari', 'Stanikzai']]];
 
+// A batting archetype that fits where a new player bats, and a bowling specialism for good seamers
+// (the same mix tools/build_leagues.py gives players with no known archetype).
+export function fillArchetype(p, rnd) {
+  const r = rnd();
+  if (!p.bs && (p.role === 'BAT' || p.role === 'WK' || p.role === 'AR') && p.bat >= 45) {
+    const band = (p.pos || ['middle'])[0];
+    if (band === 'top') p.bs = r < 0.45 ? 'aggressor' : r < 0.7 ? 'anchor' : null;
+    else if (band === 'middle') p.bs = r < 0.2 ? 'spin' : r < 0.38 ? 'slogger' : r < 0.52 ? 'finisher' : r < 0.64 ? 'anchor' : null;
+    else if (band === 'lower') p.bs = r < 0.45 ? 'finisher' : r < 0.75 ? 'slogger' : null;
+  }
+  if ((!p.br || !p.br.length) && p.bt && p.bowl >= 60) {
+    const r2 = rnd();
+    if (['RF', 'RFM', 'RM', 'LF', 'LFM'].includes(p.bt)) p.br = r2 < 0.3 ? ['newball'] : r2 < 0.55 ? ['death'] : [];
+    else p.br = r2 < 0.1 ? ['newball'] : [];
+  }
+  return p;
+}
+
 // Fictional uncapped players who register for each new auction, so the pool keeps renewing.
 export function generateProspects(world, n, rng) {
   const out = [];
@@ -149,6 +167,7 @@ export function generateProspects(world, n, rng) {
     const pos = role === 'BOWL' ? ['tail'] : role === 'AR' ? (bat >= bowl ? ['middle', 'lower'] : ['lower']) : rng.pick([['top'], ['top', 'middle'], ['middle']]);
     const id = `prospect-${world.year}-${world.nextProspect++}`;
     const p = { id, name, country, overseas, role, bowlType, bt, bat, bowl, ovr: overall(role, bat, bowl), pos, age: rng.int(18, 21), capped: false, prospect: true, team: null, price: null };
+    fillArchetype(p, () => rng.next());
     world.players[id] = p;
     out.push(id);
   }
