@@ -511,6 +511,18 @@ def overall(role, bat, bowl):
     return round(max(hi * 0.75 + lo * 0.3, hi + max(0, lo - 30) * 0.1))
 
 
+def pos_from_role(text):
+    """Batting band from Wikipedia's playing role ("Opening batter", "Middle-order batter", ...)."""
+    t = (text or '').lower()
+    if 'open' in t or 'top' in t:
+        return ['top']
+    if 'middle' in t:
+        return ['middle']
+    if 'lower' in t:
+        return ['lower']
+    return None
+
+
 def default_bands(role, bat, bowl):
     if role == 'BOWL' or bat < 35:
         return ['tail']
@@ -633,7 +645,7 @@ def main():
                         pid += '-2'
                     p = players.get(pid) or dict(id=pid, name=e['name'], country=country, role=role,
                                                  bowlType=('spin' if bt in ('OB', 'LB', 'SLA', 'LWS') else 'pace') if bt else None,
-                                                 bat=bat, bowl=bowl, ovr=overall(role, bat, bowl), pos=default_bands(role, bat, bowl),
+                                                 bat=bat, bowl=bowl, ovr=overall(role, bat, bowl), pos=pos_from_role(ib_field(info, 'role')) or default_bands(role, bat, bowl),
                                                  bt=bt if bowl >= 40 else None, bs=None, br=[], age=age_on(dob) if dob else 26 + round(jitter(e['name'] + 'a', 4)),
                                                  capped=bool(hp['capped']) if hp else (bool(st and st['col'] == 'T20I') or bool(re.search(r'odi|test|t20i', info, re.I))))
                 # Overseas status as the league registers him: a flag in the PSL and SA20 squad tables,
@@ -676,7 +688,24 @@ def main():
         name, role, bat, bowl = line.split('|')
         for p in players.values():
             if norm(p['name']) == norm(name) and p['id'] not in known_ids:
-                p.update(role=role, bat=int(bat), bowl=int(bowl), ovr=overall(role, int(bat), int(bowl)), pos=default_bands(role, int(bat), int(bowl)))
+                p.update(role=role, bat=int(bat), bowl=int(bowl), ovr=overall(role, int(bat), int(bowl)))
+
+    # Where players like to bat: tools/league_positions.txt overrides everything except the IPL's own
+    # curated list (tools/batting_positions.txt).
+    ipl_curated = {norm(l.split('|')[0]) for l in open(os.path.join(ROOT, 'tools', 'batting_positions.txt')) if '|' in l and not l.startswith('#')}
+    positions = {}
+    for line in open(os.path.join(ROOT, 'tools', 'league_positions.txt')):
+        line = line.strip()
+        if line and not line.startswith('#'):
+            name, bands = line.split('|')
+            positions[norm(name)] = bands.split(',')
+    for p in players.values():
+        n = norm(p['name'])
+        if n in positions and n not in ipl_curated:
+            p['pos'] = positions[n]
+    unmatched = [n for n in positions if not any(norm(p['name']) == n for p in players.values())]
+    if unmatched:
+        print('positions for players not in any squad:', ', '.join(unmatched))
 
     # Archetypes: hand-checked for well-known players (tools/league_archetypes.txt), then the rest of the
     # players outside the IPL data get one that fits where they bat and what they bowl.
@@ -747,6 +776,12 @@ def main():
                    coaches=sorted(coaches.values(), key=lambda c: c['id']), teams=teams,
                    champions={lg: dict(year=2026, champion=c, runnerUp=r) for lg, (c, r) in champions.items()}),
               open(os.path.join(OUT, 'world.json'), 'w'), separators=(',', ':'))
+    # Checks: archetypes that don't fit where a player bats.
+    odd = [f"{p['name']} ({p['bs']}, {'/'.join(p['pos'])})" for p in players.values()
+           if (p.get('bs') in ('anchor', 'aggressor') and 'top' not in p['pos'] and 'middle' not in p['pos'])
+           or (p.get('bs') == 'finisher' and p['pos'] == ['top'])]
+    if odd:
+        print('archetype/position mismatches:', '; '.join(odd))
     # Checks: Hundred squads against the team pages, and overseas counts per squad.
     for t in HUNDRED_TEAMS:
         tid = team_lookup('hundred')[t]

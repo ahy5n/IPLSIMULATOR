@@ -21,7 +21,7 @@ test('positions: every player has one or more batting bands', () => {
   assert.deepEqual(P['rinku-singh'].pos, ['middle', 'lower']);
 });
 
-test('positions: bands are top 1-3, middle 4-7, lower 5-9; outside them batting scales down', () => {
+test('positions: bands are top 1-3, middle 3-7, lower 5-9; outside them batting scales down', () => {
   const narine = P['sunil-narine'];
   assert.equal(slotDistance(narine, 0), 0, 'Narine opens');
   assert.equal(slotDistance(narine, 7), 0, 'and bats at 8');
@@ -29,6 +29,8 @@ test('positions: bands are top 1-3, middle 4-7, lower 5-9; outside them batting 
   assert.equal(positionFit(P['virat-kohli'], 2), 1);
   assert.ok(positionFit(P['virat-kohli'], 6) < 0.85);
   assert.equal(slotDistance(P['rinku-singh'], 8), 0, 'lower order runs to No. 9');
+  assert.equal(slotDistance({ pos: ['middle'] }, 2), 0, 'a middle-order batter is at home at No. 3');
+  assert.equal(slotDistance({ pos: ['middle'] }, 1), 1, 'but not opening');
   assert.ok(effectiveBat(P['virat-kohli'], 6) < P['virat-kohli'].bat);
 });
 

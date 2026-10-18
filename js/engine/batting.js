@@ -1,7 +1,7 @@
 // Batting positions. Each player lists one or more bands he is good in (Sunil Narine: top and lower).
 // Bands overlap on purpose. Batting outside every band he has scales his batting down by distance.
 
-export const BANDS = { top: [1, 3], middle: [4, 7], lower: [5, 9], tail: [8, 11] };
+export const BANDS = { top: [1, 3], middle: [3, 7], lower: [5, 9], tail: [8, 11] };   // No. 3 counts as top and middle order
 export const BAND_LABEL = { top: 'Top order', middle: 'Middle order', lower: 'Lower order', tail: 'Tail' };
 export const BAND_SHORT = { top: 'Top', middle: 'Mid', lower: 'Lower', tail: 'Tail' };
 // Multiplier by how many slots outside his nearest band a player bats.

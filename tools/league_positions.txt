@@ -1,0 +1,85 @@
+# Where players outside the IPL's curated list like to bat. Format: Name|band[,band]
+# Bands: top (1-3), middle (3-7), lower (5-9), tail (8-11). Overrides Wikipedia's role and the defaults.
+# IPL players' positions are in tools/batting_positions.txt.
+
+## Pakistan
+Babar Azam|top
+Mohammad Rizwan|top,middle
+Fakhar Zaman|top
+Saim Ayub|top
+Mohammad Haris|top
+Sahibzada Farhan|top
+Usman Khan|top,middle
+Shan Masood|top
+Imam-ul-Haq|top
+Abdullah Shafique|top
+Omair Yousuf|top,middle
+Haider Ali|middle
+Tayyab Tahir|middle
+Salman Ali Agha|middle
+Saud Shakeel|middle
+Hassan Nawaz|middle
+Iftikhar Ahmed|middle,lower
+Azam Khan|middle,lower
+Khushdil Shah|lower
+Asif Ali|lower
+Abdul Samad|middle,lower
+Shadab Khan|lower
+Faheem Ashraf|lower
+Mohammad Nawaz|middle,lower
+Imad Wasim|lower
+Shayan Jahangir|top
+Kamran Ghulam|middle
+## Elsewhere
+Jason Roy|top
+David Warner|top
+Finn Allen|top
+Kusal Mendis|top
+Kusal Perera|top
+Tanzid Hasan|top
+Parvez Hossain Emon|top
+Reeza Hendricks|top
+Rilee Rossouw|top,middle
+Josh Philippe|top
+Matthew Short|top
+Mitchell Owen|top
+Ben McDermott|top
+James Vince|top
+Will Smeed|top
+Jonny Bairstow|top
+Tom Banton|top
+Tom Kohler-Cadmore|top
+Lhuan-dre Pretorius|top
+Brian Bennett|top
+Andries Gous|top
+Sam Harper|top
+Usman Khawaja|top
+Steve Smith|top,middle
+Marnus Labuschagne|middle
+Kane Williamson|middle
+Joe Root|middle
+Mark Chapman|middle
+Charith Asalanka|middle
+Sikandar Raza|middle
+Shimron Hetmyer|middle,lower
+Tristan Stubbs|middle
+Rassie van der Dussen|middle
+Laurie Evans|middle
+Sam Billings|middle,lower
+Ashton Turner|middle,lower
+Moeen Ali|top,middle
+Glenn Maxwell|middle
+Daryl Mitchell|middle
+David Miller|middle,lower
+Tim David|middle,lower
+Sherfane Rutherford|lower
+Donovan Ferreira|middle,lower
+Kieron Pollard|lower
+Jordan Cox|middle
+Daniel Sams|lower
+Jason Holder|lower
+Leus du Plooy|middle
+Sean Dickson|middle
+Tony de Zorzi|top
+Temba Bavuma|top
+Dawid Malan|top
