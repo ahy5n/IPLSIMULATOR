@@ -275,3 +275,25 @@ test('retentions: PSL, SA20 and Hundred reset in turn (keep 4), keep up to 8 oth
   assert.ok(/at most 4/.test(retentionProblemFor(w29, five) || ''), 'reset year: 4 at most');
   activateLeague('ipl');
 });
+
+test('sackings: finish bottom and you are out, unless you banked goodwill by doing well', async () => {
+  const { boardReview } = await import('../js/engine/career.js');
+  const season = (order) => ({ year: 2027, playoffFormat: 'page', expected: Object.fromEntries(order.map((t, i) => [t, i + 1])) });
+  // Bottom with no goodwill: sacked, even with a happy board beforehand.
+  let c = fresh({ league: 'ipl', team: 'SRH' });
+  c.coaches.you.security.ipl = 90;
+  let order = c.teams.ipl.map((t) => t.id).filter((t) => t !== 'SRH').concat('SRH');
+  boardReview(c, 'ipl', season(order), order);
+  assert.ok(!c.coaches.you.jobs.ipl, 'sacked after finishing bottom');
+  assert.ok(c.inbox.some((m) => m.kind === 'fired' && !m.warning));
+  // Bottom after a title (3 goodwill): kept, goodwill spent down to 1.
+  c = fresh({ league: 'ipl', team: 'SRH' });
+  c.coaches.you.goodwill = { ipl: 3 };
+  boardReview(c, 'ipl', season(order), order);
+  assert.equal(c.coaches.you.jobs.ipl, 'SRH', 'goodwill saves the job');
+  assert.equal(c.coaches.you.goodwill.ipl, 1);
+  // Winning banks goodwill.
+  order = ['SRH'].concat(c.teams.ipl.map((t) => t.id).filter((t) => t !== 'SRH'));
+  boardReview(c, 'ipl', season(order), order);
+  assert.equal(c.coaches.you.goodwill.ipl, 4);
+});

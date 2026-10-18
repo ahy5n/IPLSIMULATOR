@@ -39,7 +39,7 @@ export function render(root, ctx) {
         const word = sec >= 70 ? 'Secure' : sec >= 50 ? 'Settled' : sec >= 35 ? 'Under pressure' : 'On thin ice';
         return `<div class="feed-item" style="grid-template-columns:auto 1fr auto">
           ${badge(t)}<span><strong>${esc(t.name)}</strong> <span class="tag">${LEAGUES[lg].short}</span>
-            <span class="sub-line">Board: <span style="color:${tone}">${word}</span> ${meter(sec, tone, { label: 'Board confidence' })}</span></span>
+            <span class="sub-line">Board: <span style="color:${tone}">${word}</span> ${meter(sec, tone, { label: 'Board confidence' })} · Goodwill ${you.goodwill?.[lg] || 0}${(you.goodwill?.[lg] || 0) < 2 ? ' <span class="bad">(finish bottom and you\'re out)</span>' : ''}</span></span>
           <span class="row" style="gap:6px">${tradeWindowOpen(c, lg) ? `<button class="btn btn-sm" data-trade="${lg}">Trades</button>` : ''}<button class="btn btn-sm btn-ghost" data-quit="${lg}">Leave</button></span>
         </div>`;
       }).join('')}</div>` : `<div class="notice warn">You have no job. Keep the calendar moving: boards with vacancies will call${c.mode === 'free' ? ', or take any job from the market below' : ''}.</div>`}

@@ -98,6 +98,14 @@ export function createCareer(data, { league, team, mode = 'offers', difficulty =
       if (coach) p.bonds[coach.id] = (p.bonds[coach.id] || 0) + 1;
     }
   }
+  // Last season's finalists' coaches start with goodwill banked.
+  for (const lg of LEAGUE_IDS) {
+    const ch = data.champions[lg];
+    for (const [tid, pts] of [[ch.champion, 3], [ch.runnerUp, 2]]) {
+      const c = Object.values(coaches).find((x) => x.jobs[lg] === tid);
+      if (c) (c.goodwill || (c.goodwill = {}))[lg] = pts;
+    }
+  }
   takeJob(career, league, team, { reason: 'start' });
   for (let y = date[0]; y <= date[0] + 2; y++) schedule(career, y);
   return career;
@@ -453,7 +461,7 @@ function eventDateEnd(lg, year) {
 }
 
 // ---------- coaches: board reviews, sackings and the job market ----------
-function boardReview(career, lg, season, order) {
+export function boardReview(career, lg, season, order) {
   const n = order.length;
   withRng(career, (rng) => {
     for (const t of career.teams[lg]) {
@@ -462,16 +470,30 @@ function boardReview(career, lg, season, order) {
       const actual = order.indexOf(t.id) + 1;
       const expected = season.expected?.[t.id] ?? Math.ceil(n / 2);
       const delta = expected - actual;   // positive = did better than the squad suggested
-      const won = actual === 1, final = actual === 2;
-      const sec = (coach.security[lg] ?? 60) + delta * 5 + (won ? 25 : 0) + (final ? 10 : 0) + (actual === n ? -8 : 0);
+      const won = actual === 1, final = actual === 2, bottom = actual === n;
+      const playoffs = actual <= (season.playoffFormat === 'top3' ? 3 : 4);
+      // Falling short costs more than doing well earns.
+      const sec = (coach.security[lg] ?? 60) + (delta >= 0 ? delta * 5 : delta * 7) + (won ? 25 : 0) + (final ? 10 : 0) + (bottom ? -15 : 0);
       coach.security[lg] = clamp(Math.round(sec), 0, 100);
       coach.rep = clamp(Math.round((coach.rep + delta * 0.8 + (won ? 4 : 0) + (final ? 2 : 0)) * 10) / 10, 30, 97);
       coach.history.push({ lg, team: t.id, year: season.year, finish: actual });
-      const sacked = coach.security[lg] < 20 || (coach.security[lg] < 32 && !coach.user && rng.next() < 0.25);
+      // Goodwill: banked by good seasons at this club (a title 3, a final 2, the playoffs or beating
+      // expectations well 1, at most 6). Finishing bottom costs your job unless you have 2 to spend.
+      const gw = coach.goodwill || (coach.goodwill = {});
+      gw[lg] = Math.min(6, (gw[lg] || 0) + (won ? 3 : final ? 2 : playoffs ? 1 : 0) + (delta >= 3 ? 1 : 0));
+      let sacked;
+      if (bottom) {
+        sacked = (gw[lg] || 0) < 2;
+        if (!sacked) { gw[lg] -= 2; coach.security[lg] = Math.max(coach.security[lg], 25); }
+      } else {
+        sacked = coach.security[lg] < 28 || (coach.security[lg] < 40 && !coach.user && rng.next() < 0.3);
+      }
       if (sacked) {
         leaveJob(career, coach, lg, { fired: true });
         news(career, { lg, text: `${t.name} have sacked ${coach.user ? 'you' : coach.name} after finishing ${ordinalText(actual)}.` });
-        if (coach.user) inbox(career, { kind: 'fired', lg, team: t.id, text: `${t.name} have let you go after finishing ${ordinalText(actual)}. Your reputation takes a knock, but other boards will still call.` });
+        if (coach.user) inbox(career, { kind: 'fired', lg, team: t.id, text: `${t.name} have let you go after finishing ${ordinalText(actual)}${bottom ? ': bottom of the table, and not enough goodwill banked to survive it' : ''}. Your reputation takes a knock, but other boards will still call.` });
+      } else if (bottom && coach.user) {
+        inbox(career, { kind: 'fired', lg, team: t.id, warning: true, text: `${t.name} finished bottom. The board is standing by you because of what you've won here, but that goodwill is now spent (${gw[lg]} left).` });
         if (coach.user) coach.rep = clamp(coach.rep - 3, 30, 97);
       } else if (!coach.user && rng.next() < 0.06) {
         leaveJob(career, coach, lg, { fired: false });
@@ -557,6 +579,7 @@ function appoint(career, coach, lg, teamId) {
   if (coach.jobs[lg] && coach.jobs[lg] !== teamId) leaveJob(career, coach, lg, { fired: false });
   coach.jobs[lg] = teamId;
   coach.security[lg] = coach.user ? 65 : 60;
+  (coach.goodwill || (coach.goodwill = {}))[lg] = 0;   // goodwill is earned at each club afresh
   const team = career.teams[lg].find((t) => t.id === teamId);
   if (!coach.user) news(career, { lg, text: `${team.name} have appointed ${coach.name} as head coach.` });
 }
