@@ -14,6 +14,12 @@ export const CONDITIONS = {
 export const VENUE_DEFAULT = {
   CSK: 'turning', KKR: 'balanced', RR: 'balanced', RCB: 'flat', PBKS: 'green',
   MI: 'flat', SRH: 'flat', GT: 'balanced', DC: 'flat', LSG: 'turning',
+  // PSL
+  LQ: 'flat', KRK: 'balanced', IU: 'flat', RWP: 'flat', MS: 'turning', PZ: 'balanced', QG: 'balanced', HK: 'turning',
+  // SA20
+  JSK: 'flat', MICT: 'green', DSG: 'balanced', PR: 'turning', PC: 'flat', SEC: 'balanced',
+  // The Hundred
+  BPH: 'balanced', LS: 'green', MSG: 'balanced', MIL: 'flat', SB: 'green', SRL: 'flat', TR: 'flat', WF: 'turning',
 };
 
 // Copies of the given players with bowling adjusted for the conditions. Batting is unchanged.

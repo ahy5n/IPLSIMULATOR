@@ -196,6 +196,7 @@ export function render(root, ctx) {
     ui.cond = fixtureConditions(s, scn, fx);
     const c = carriedLineup(s, scn, ui.cond);
     ui.lineup = { xi: c.lineup.xi.slice(), impact: { ...c.lineup.impact } };
+    ui.swapIn = null;
     ui.carried = c;
     ui.view = 'select';
     draw();
@@ -209,7 +210,7 @@ export function render(root, ctx) {
     const os = L.xi.filter((id) => P[id].overseas).length;
     const problem = lineupProblem(L, sq, P, s);
     const home = fx.home === me && !fx.neutral;
-    const C = CONDITIONS[ui.cond];
+    const C = CONDITIONS[ui.cond] || CONDITIONS.balanced;
     const mods = matchMods(s, me, sq);
     const adj = adjustPlayers(P, sq, ui.cond);
     const bowlers = L.xi.filter((id) => adj[id].bowl >= 55).length;
@@ -233,7 +234,7 @@ export function render(root, ctx) {
       <span class="eyebrow">${fx.stage === 'league' ? `Match ${fx.no}` : esc(fx.stage)} · vs ${esc(T[opp].name)} · ${fx.neutral ? 'Neutral venue' : esc(T[fx.home].home)}</span>
       <h2>Pick your XI</h2>
       <div class="panel stack" style="gap:10px">
-        <div class="spread"><h3>Conditions</h3><span class="muted" style="font-size:.85rem">${home ? `Your home game: you choose. Usual here: ${CONDITIONS[VENUE_DEFAULT[me]].label}` : fx.neutral ? 'Playoffs are played at a neutral venue' : `Set by ${esc(T[fx.home].name)}`}</span></div>
+        <div class="spread"><h3>Conditions</h3><span class="muted" style="font-size:.85rem">${home ? `Your home game: you choose. Usual here: ${CONDITIONS[VENUE_DEFAULT[me] || 'balanced'].label}` : fx.neutral ? 'Playoffs are played at a neutral venue' : `Set by ${esc(T[fx.home].name)}`}</span></div>
         ${home ? `<div class="seg" role="group" aria-label="Conditions">${Object.entries(CONDITIONS).map(([k, c]) => `<button data-cond="${k}" aria-pressed="${ui.cond === k}">${c.label}</button>`).join('')}</div>` : `<strong>${C.label}</strong>`}
         <p class="muted" style="font-size:.87rem">${esc(C.blurb)} Pace ${C.pace >= 0 ? '+' : ''}${C.pace}, spin ${C.spin >= 0 ? '+' : ''}${C.spin} to bowling ratings.</p>
       </div>
@@ -248,13 +249,14 @@ export function render(root, ctx) {
       <div class="notice ${problem ? 'bad' : ''}">${problem ? esc(problem) : `${carriedNote} ${cc.changes ? `${cc.changes} change${cc.changes === 1 ? '' : 's'} from last match costs chemistry.` : 'A settled side builds chemistry.'}`}</div>
     </section>
     <section class="stack">
+      ${ui.swapIn ? `<div class="notice warn spread" id="swapNote"><span>Who makes way for <strong>${esc(P[ui.swapIn].name)}</strong>? Tap <strong>Swap out</strong> on a player below.</span><button class="btn btn-sm" data-act="cancelswap">Cancel</button></div>` : ''}
       <div class="section-head"><h3>Playing XI · batting order</h3><div class="row"><button class="btn btn-sm" data-act="arrange" title="Order by each player's batting bands">Sort order</button><button class="btn btn-sm" data-act="auto">Auto-pick for ${esc(C.label.toLowerCase())}</button></div></div>
       <div class="panel" id="xiList">${L.xi.map((id, i) => { const p = P[id]; const fit = positionFit(p, i); const hurt = !isAvailable(s, id); return `<div class="pick-row xi-row ${hurt ? 'out' : ''}" data-idx="${i}">
         <span class="drag-handle" data-drag="${i}" title="Drag to reorder" aria-hidden="true"><span class="mono muted">${i + 1}</span></span>
         <span style="min-width:0"><strong>${esc(p.name)}</strong> ${osTag(p)} <span class="tag" title="Bats well at ${bandsRange(p)}">${bandsLabel(p)}</span>${fit < 1 && p.bat >= 40 ? ` <span class="tag tag-bad">−${Math.round((1 - fit) * 100)}% bat</span>` : ''}${hurt ? ' <span class="tag tag-bad">Injured</span>' : ''}
           <span class="sub-line">${[ROLE_LABEL[p.role], styleLabel(p), typeLabel(p), rolesLabel(p)].filter(Boolean).join(' · ')} · ${skill(p)}</span><span class="sub-line">${statusBits(p)}</span></span>
         <span class="order-btns"><button data-up="${i}" aria-label="Move ${esc(p.name)} up" ${i === 0 ? 'disabled' : ''}>↑</button><button data-down="${i}" aria-label="Move ${esc(p.name)} down" ${i === L.xi.length - 1 ? 'disabled' : ''}>↓</button></span>
-        <button class="btn btn-sm btn-ghost" data-drop="${id}">Bench</button></div>`; }).join('')}</div>
+        ${ui.swapIn ? `<button class="btn btn-sm btn-primary" data-swapout="${id}">Swap out</button>` : `<button class="btn btn-sm btn-ghost" data-drop="${id}">Bench</button>`}</div>`; }).join('')}</div>
     </section>
     <section class="stack">
       <div class="section-head"><h3>${IMPACT ? 'Bench and impact players' : 'Bench'}</h3></div>
@@ -266,7 +268,7 @@ export function render(root, ctx) {
         <input type="radio" name="impbowl" data-impbowl="${p.id}" ${L.impact.bowl === p.id ? 'checked' : ''} ${ok ? '' : 'disabled'} aria-label="Bowling impact player: ${esc(p.name)}">` : ''}
         <span style="min-width:0"><strong>${esc(p.name)}</strong> ${osTag(p)} <span class="tag">${bandsLabel(p)}</span> <span class="tag">${p.ovr}</span>${ok ? '' : ` <span class="tag tag-bad">${esc(st.injury || 'Injured')} · ${st.inj}</span>`}
           <span class="sub-line">${[ROLE_LABEL[p.role], styleLabel(p), typeLabel(p), rolesLabel(p)].filter(Boolean).join(' · ')} · ${skill(p)}</span><span class="sub-line">${statusBits(p)}</span></span>
-        <button class="btn btn-sm" data-add="${p.id}" ${L.xi.length >= 11 || !ok ? 'disabled' : ''}>Add</button></div>`; }).join('')}</div>
+        <button class="btn btn-sm ${ui.swapIn === p.id ? 'btn-primary' : ''}" data-add="${p.id}" ${!ok ? 'disabled' : ''}>${L.xi.length >= 11 ? 'Swap in' : 'Add'}</button></div>`; }).join('')}</div>
     </section>
     <div class="grid-2">
       <button class="btn bid-btn" data-act="back">Back</button>
@@ -406,6 +408,21 @@ export function render(root, ctx) {
     if (b.dataset.up != null) { const i = +b.dataset.up; [L.xi[i - 1], L.xi[i]] = [L.xi[i], L.xi[i - 1]]; keep(); return; }
     if (b.dataset.down != null) { const i = +b.dataset.down; [L.xi[i + 1], L.xi[i]] = [L.xi[i], L.xi[i + 1]]; keep(); return; }
     if (b.dataset.drop) { L.xi = L.xi.filter((id) => id !== b.dataset.drop); keep(); return; }
+    if (b.dataset.swapout) {
+      // The new man takes the batting position of the player he replaces.
+      const i = L.xi.indexOf(b.dataset.swapout);
+      L.xi[i] = ui.swapIn;
+      for (const k of ['bat', 'bowl']) if (L.impact[k] === ui.swapIn) L.impact[k] = null;
+      ui.swapIn = null;
+      keep(); return;
+    }
+    if (b.dataset.act === 'cancelswap') { ui.swapIn = null; keep(); return; }
+    if (b.dataset.add && L.xi.length >= 11) {
+      // XI full: pick who makes way (scroll up to the XI).
+      ui.swapIn = ui.swapIn === b.dataset.add ? null : b.dataset.add;
+      ui.keepScroll = null; draw(); document.getElementById(ui.swapIn ? 'swapNote' : 'xiList')?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      return;
+    }
     if (b.dataset.add) {
       L.xi.push(b.dataset.add);
       for (const k of ['bat', 'bowl']) if (L.impact[k] === b.dataset.add) L.impact[k] = null;
