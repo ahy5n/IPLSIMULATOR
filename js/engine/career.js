@@ -103,6 +103,21 @@ export function createCareer(data, { league, team, mode = 'offers', difficulty =
   return career;
 }
 
+// A saved career keeps its own copy of every player. When the data is corrected (where players bat,
+// archetypes, overseas registration, role, country), copy those facts in. Ratings, ages, contracts and
+// everything that has happened in the career are left alone.
+export function refreshPlayerFacts(career, data) {
+  let n = 0;
+  for (const d of data.players) {
+    const p = career.players[d.id];
+    if (!p) continue;
+    for (const f of ['pos', 'bs', 'br', 'status', 'country', 'role', 'bt', 'bowlType', 'name']) {
+      if (d[f] !== undefined && JSON.stringify(p[f]) !== JSON.stringify(d[f])) { p[f] = d[f]; n++; }
+    }
+  }
+  return n;
+}
+
 // ---------- calendar ----------
 function addEvent(career, ev) {
   const id = `${ev.kind}:${ev.lg || 'all'}:${ev.year}`;
@@ -712,6 +727,69 @@ export function suggestTrades(career, lg, { limit = 3 } = {}) {
     }
   }
   return out.sort((a, b) => b.ev.myStrengthGain - a.ev.myStrengthGain).slice(0, limit);
+}
+
+// Trade finder: you put players on the block and every AI club answers with the best package it would
+// actually agree to (one or two of its players, or cash). Offers land in your inbox like any other.
+export function tradeFinder(career, lg, give, { perTeam = 1 } = {}) {
+  const me = career.coaches[USER].jobs[lg];
+  if (!me || !give.length) return [];
+  const { state, players } = tradeState(career, lg, me);
+  const scn = { players };
+  const value = (id) => marketValue({ ...players[id], base: 30 });
+  const giveValue = give.reduce((n, id) => n + value(id), 0);
+  const out = [];
+  for (const t of Object.values(state.teams)) {
+    if (t.id === me) continue;
+    // Their players who would come to you, best value first.
+    const theirs = t.squad.filter((id) => !state.icon(id) && willingness(career, lg, id, me) > -0.3)
+      .sort((a, b) => value(b) - value(a)).slice(0, 10);
+    const packages = theirs.map((id) => [id]);
+    for (let i = 0; i < Math.min(5, theirs.length); i++) for (let j = i + 1; j < Math.min(6, theirs.length); j++) packages.push([theirs[i], theirs[j]]);
+    const deals = [];
+    for (const get of packages) {
+      // Only packages in the same range of value as what you're offering: no taking their best for a fringe player.
+      const gv = get.reduce((n, id) => n + value(id), 0);
+      if (gv > giveValue * 1.6 + 50) continue;
+      const offer = { partner: t.id, give: give.slice(), get, cash: 0 };
+      if (tradeProblem(state, scn, offer)) continue;
+      const ev = evaluateTrade(state, scn, offer);
+      if (ev.accept) deals.push({ offer, ev, score: ev.myStrengthGain * 3 + gv / 100 });
+    }
+    // Or straight cash, if they can afford it and want the player.
+    const cash = Math.round(giveValue * 0.8);
+    if (cash > 0 && t.purse >= cash) {
+      const offer = { partner: t.id, give: give.slice(), get: [], cash: -cash };
+      if (!tradeProblem(state, scn, offer)) {
+        const ev = evaluateTrade(state, scn, offer);
+        if (ev.accept) deals.push({ offer, ev, score: ev.myStrengthGain * 3 + cash / 100 });
+      }
+    }
+    deals.sort((a, b) => b.score - a.score);
+    out.push(...deals.slice(0, perTeam));
+  }
+  return out.sort((a, b) => b.score - a.score);
+}
+
+// Ask the market about players on the block: the offers go to your inbox, open until the league's next event.
+export function askForOffers(career, lg, give) {
+  const deals = tradeFinder(career, lg, give);
+  const P = career.players;
+  const T = Object.fromEntries(career.teams[lg].map((t) => [t.id, t]));
+  const C = LEAGUES[lg].currency;
+  const expires = nextLeagueEvent(career, lg)?.date || null;
+  // Earlier unanswered finder offers for these players are replaced.
+  career.inbox = career.inbox.filter((m) => !(m.finder && !m.answered && m.lg === lg));
+  for (const d of deals) {
+    const got = d.offer.get.length ? d.offer.get.map((id) => P[id].name).join(' and ') : null;
+    const cash = d.offer.cash < 0 ? -d.offer.cash : 0;
+    inbox(career, {
+      kind: 'trade', finder: true, lg, partner: d.offer.partner, give: d.offer.give, get: d.offer.get, cash: d.offer.cash, expires,
+      text: `${T[d.offer.partner].name} offer ${got || ''}${got && cash ? ' plus ' : ''}${cash ? `${C.sym}${C.unit === 'crore' ? ` ${(cash * C.rate / 100).toFixed(2)} Cr` : `${Math.round(cash * C.rate)}k`}` : ''} for ${d.offer.give.map((id) => P[id].name).join(' and ')}.`,
+      gain: Math.round(d.ev.myStrengthGain * 10) / 10,
+    });
+  }
+  return deals.length;
 }
 
 // The trade window: AI teams trade with each other, and some make you offers.

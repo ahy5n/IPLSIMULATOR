@@ -22,7 +22,7 @@ Tests run in the browser: open http://localhost:8765/tests/ (add `?only=systems`
 | Milestone | Status |
 |---|---|
 | 1. Data | Done. IPL 2026 (369 players, 173 retentions, 77 real sales) and IPL 2025 (575 players, 46 retentions, RTM cards, 180 real sales). |
-| 2. Auction engine | Done. Pure logic in `js/engine/`, 95 browser tests. |
+| 2. Auction engine | Done. Pure logic in `js/engine/`, 97 browser tests. |
 | 3. Auction room | Done. Full and quick rules, three speeds, pause, "Skip to last two" fast forward, sim shortcuts, nominations, right-to-match prompts. Squads listed by batting position. |
 | 4. After the auction | Done. Grades, value analysis against real prices, share card, season prediction, trade window. |
 | 5. Season | Done. Fixtures, XI with two impact players, XI carry-over, batting bands, pitch conditions, form, fitness, chemistry, injuries and replacements, table, playoffs, awards. |
@@ -60,7 +60,9 @@ Money: every engine works in lakh of the IPL scale. Each league converts with a 
 
 **Loyalty.** Every player has a loyalty leaning, years at his club, and a bond with each coach he has played under. A settled player is reluctant to move (the selling side asks more) or refuses outright; a player who knows the buying side's coach is keener. In auctions, coaches bid harder for players they've worked with.
 
-**Trades.** Each league has a trade window before its retentions. AI teams trade among themselves, send you offers (accept or decline from the inbox), and your analysts suggest deals other teams would accept that make your XI stronger.
+**Trades.** Each league has a trade window before its retentions. AI teams trade among themselves, send you offers (accept or decline from the inbox), and your analysts suggest deals other teams would accept that make your XI stronger. The **trade finder** on the hub lets you put up to three players on the block: every club answers with the best package it would agree to (one or two of its players, or cash), and the offers arrive in your inbox.
+
+Saved careers refresh players' fixed facts (where they bat, archetypes, overseas registration, role) from the latest data on load, keeping in-career ratings, ages and contracts.
 
 ## Scenarios
 

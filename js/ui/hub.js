@@ -4,10 +4,11 @@ import { esc, moneyIn, ordinal } from '../format.js';
 import { LEAGUES, LEAGUE_IDS, activateLeague } from '../engine/league.js';
 import {
   USER, nextEvent, upcoming, isUserEvent, eventTitle, fmtDate, runEvent, answer, coachOf, teamSquad,
-  jobMarket, takeJob, quitJob, teamPrestige, requiredRep, tradeWindowOpen, leaguePlayers,
+  jobMarket, takeJob, quitJob, teamPrestige, requiredRep, tradeWindowOpen, leaguePlayers, askForOffers,
 } from '../engine/career.js';
 import { teamStrength } from '../engine/squad.js';
 import { badge, meter, teamChip, roleTag } from './components.js';
+import { ICONS } from '../engine/dynasty.js';
 import { masthead, footer } from './shell.js';
 
 export function unmount() {}
@@ -17,7 +18,7 @@ const KIND_WORD = { trade: 'Trade window', retain: 'Retentions', auction: 'Aucti
 export function render(root, ctx) {
   const g = ctx.game;
   const c = g.career;
-  const ui = { tab: g.hubTab || c.coaches[USER].jobs[g.league] ? g.league : 'ipl', busy: null, msg: null, team: null };
+  const ui = { tab: g.hubTab || c.coaches[USER].jobs[g.league] ? g.league : 'ipl', busy: null, msg: null, team: null, block: new Set(), blockLg: null, blockMsg: null };
   if (!ui.tab || !LEAGUES[ui.tab]) ui.tab = 'ipl';
 
   const teamOf = (lg, id) => c.teams[lg].find((t) => t.id === id);
@@ -75,10 +76,34 @@ export function render(root, ctx) {
     return `<section class="stack">
       <div class="section-head"><h3>Inbox</h3><span class="muted" style="font-size:.85rem">${open.length} waiting</span></div>
       <div class="panel feed">${open.map((m) => `<div class="feed-item" style="grid-template-columns:1fr auto">
-        <span>${m.kind === 'offer' ? '<span class="tag tag-accent">Job offer</span>' : m.kind === 'trade' ? '<span class="tag tag-data">Trade offer</span>' : '<span class="tag tag-bad">Board</span>'} ${esc(m.text)}
+        <span>${m.kind === 'offer' ? '<span class="tag tag-accent">Job offer</span>' : m.kind === 'trade' ? `<span class="tag tag-data">${m.finder ? 'Trade finder' : 'Trade offer'}</span>` : '<span class="tag tag-bad">Board</span>'} ${esc(m.text)}${m.gain != null ? ` <span class="tag ${m.gain >= 0 ? 'tag-good' : 'tag-bad'}">Your rating ${m.gain >= 0 ? '+' : ''}${m.gain}</span>` : ''}
           <span class="sub-line">${m.kind === 'offer' ? `Club standing ${teamPrestige(c, m.lg, m.team)} · ${c.coaches[USER].jobs[m.lg] ? `you'd leave ${esc(teamOf(m.lg, c.coaches[USER].jobs[m.lg]).name)}` : `a new ${LEAGUES[m.lg].short} job alongside your others`}` : ''}${m.expires ? ` · answer by ${fmtDate(m.expires)}` : ''}</span></span>
         <span class="row" style="gap:6px">${m.kind === 'fired' ? `<button class="btn btn-sm" data-ok="${m.id}">OK</button>` : `<button class="btn btn-sm btn-primary" data-accept="${m.id}">Accept</button><button class="btn btn-sm" data-decline="${m.id}">Decline</button>`}</span>
       </div>`).join('')}</div>
+    </section>`;
+  }
+
+  // Trade finder: put players on the block, AI clubs reply with offers in the inbox.
+  function finderView() {
+    const leagues = Object.keys(c.coaches[USER].jobs).filter((lg) => tradeWindowOpen(c, lg));
+    if (!leagues.length) return '';
+    const lg = leagues.includes(ui.blockLg) ? ui.blockLg : leagues[0];
+    ui.blockLg = lg;
+    activateLeague(lg);
+    const P = leaguePlayers(c, lg);
+    const mine = teamSquad(c, lg, c.coaches[USER].jobs[lg]).sort((a, b) => P[b].ovr - P[a].ovr);
+    activateLeague('ipl');
+    return `<section class="stack">
+      <div class="section-head"><h3>Trade finder</h3><span class="muted" style="font-size:.85rem">Put up to 3 players on the block</span></div>
+      ${leagues.length > 1 ? `<div class="seg" role="group" aria-label="League">${leagues.map((x) => `<button data-blocklg="${x}" aria-pressed="${x === lg}">${LEAGUES[x].short}</button>`).join('')}</div>` : ''}
+      <div class="panel stack" style="gap:6px">
+        ${mine.map((id) => { const p = P[id]; const on = ui.block.has(id); const icon = lg === 'ipl' && ICONS[id] === c.coaches[USER].jobs.ipl; return `<label class="pick-row" style="grid-template-columns:auto 1fr auto">
+          <input type="checkbox" data-block="${id}" ${on ? 'checked' : ''} ${icon || (!on && ui.block.size >= 3) ? 'disabled' : ''} aria-label="Offer ${esc(p.name)}">
+          <span style="min-width:0"><strong>${esc(p.name)}</strong>${p.overseas ? ' <span class="os">OS</span>' : ''} ${roleTag(p)}${icon ? ' <span class="tag tag-data">Franchise icon</span>' : ''}<span class="sub-line">Rating ${p.ovr} · age ${p.age} · fee ${money(lg, p.price)}</span></span>
+          <span></span></label>`; }).join('')}
+        ${ui.blockMsg ? `<div class="notice">${esc(ui.blockMsg)}</div>` : ''}
+        <button class="btn btn-primary" data-act="askoffers" ${ui.block.size ? '' : 'disabled'}>Ask for offers${ui.block.size ? ` for ${ui.block.size} player${ui.block.size === 1 ? '' : 's'}` : ''}</button>
+      </div>
     </section>`;
   }
 
@@ -157,6 +182,7 @@ export function render(root, ctx) {
       ${jobsView()}
       ${nextView()}
       ${inboxView()}
+      ${finderView()}
       ${calendarView()}
       ${marketView()}
       ${leagueView()}
@@ -187,6 +213,11 @@ export function render(root, ctx) {
     draw();
   }
 
+  root.onchange = (e) => {
+    const id = e.target.dataset.block;
+    if (!id) return;
+    keep(() => { if (e.target.checked) ui.block.add(id); else ui.block.delete(id); ui.blockMsg = null; });
+  };
   root.onclick = (e) => {
     const row = e.target.closest('tr[data-team]');
     if (row && !e.target.closest('button')) return keep(() => { ui.team = ui.team === row.dataset.team ? null : row.dataset.team; });
@@ -200,6 +231,15 @@ export function render(root, ctx) {
       if (b.dataset.quit) { quitJob(c, b.dataset.quit); ctx.save(); return keep(() => {}); }
       if (b.dataset.take) { const [lg, team] = b.dataset.take.split(':'); takeJob(c, lg, team); ctx.save(); return keep(() => {}); }
       if (b.dataset.trade) { g.tradeContext = 'career'; g.tradeLeague = b.dataset.trade; ctx.go('trade'); return; }
+      if (b.dataset.blocklg) return keep(() => { ui.blockLg = b.dataset.blocklg; ui.block.clear(); ui.blockMsg = null; });
+      if (b.dataset.act === 'askoffers') {
+        const n = askForOffers(c, ui.blockLg, [...ui.block]);
+        ctx.save();
+        return keep(() => {
+          ui.blockMsg = n ? `${n} club${n === 1 ? '' : 's'} made an offer. They're in your inbox above.` : 'No club wants to deal for that right now. Try other players, or fewer at once.';
+          ui.block.clear();
+        });
+      }
     } catch (err) { return keep(() => { ui.msg = err.message; }); }
     const act = b.dataset.act;
     if (act === 'advance') advanceCalendar();

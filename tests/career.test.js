@@ -228,3 +228,28 @@ test('archetypes: every league has anchors, hitters, finishers and new-ball and 
   assert.equal(c.players['babar-azam'].bs, 'anchor');
   assert.ok(c.players['shaheen-shah-afridi'].br.includes('newball'));
 });
+
+test('trade finder: offers for players on the block are deals the other club accepts, and land in the inbox', async () => {
+  const { tradeFinder, askForOffers } = await import('../js/engine/career.js');
+  const c = fresh({ league: 'ipl', team: 'SRH' });
+  const give = [teamSquad(c, 'ipl', 'SRH').find((id) => c.players[id].name === 'Kamindu Mendis')];
+  const deals = tradeFinder(c, 'ipl', give);
+  assert.ok(deals.length > 0, 'somebody makes an offer');
+  for (const d of deals) { assert.ok(d.ev.accept); assert.deepEqual(d.offer.give, give); }
+  const n = askForOffers(c, 'ipl', give);
+  assert.equal(c.inbox.filter((m) => m.finder && !m.answered).length, n);
+  const m = c.inbox.find((x) => x.finder);
+  answer(c, m.id, true);
+  assert.equal(c.contracts.ipl[give[0]].team, m.partner, 'player moved');
+  activateLeague('ipl');
+});
+
+test('saved careers pick up corrected player facts (positions, archetypes) without losing progress', async () => {
+  const { refreshPlayerFacts } = await import('../js/engine/career.js');
+  const c = fresh();
+  c.players['saim-ayub'].pos = ['middle', 'lower'];
+  c.players['saim-ayub'].bat = 90;   // in-career development is kept
+  refreshPlayerFacts(c, data);
+  assert.deepEqual(c.players['saim-ayub'].pos, ['top']);
+  assert.equal(c.players['saim-ayub'].bat, 90);
+});

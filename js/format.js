@@ -9,8 +9,9 @@ export function moneyIn(c, lakh, { short = false } = {}) {
   if (!c) return money(lakh, { short, raw: true });
   const local = lakh * c.rate;
   const trim = (x, d) => x.toFixed(d).replace(/\.?0+$/, '');
-  if (c.unit === 'crore') {   // PKR crore and lakh, like the IPL
-    return local >= 100 ? `${c.sym}${short ? '' : ' '}${trim(local / 100, 2)}${short ? 'Cr' : ' Cr'}` : `${c.sym}${short ? '' : ' '}${Math.round(local)}${short ? 'L' : ' L'}`;
+  if (c.unit === 'crore') {   // ₹ and PKR crore and lakh ("₹14 Cr", "PKR 7 Cr")
+    const sp = !short && c.sym.length > 1 ? ' ' : '';
+    return local >= 100 ? `${c.sym}${sp}${trim(local / 100, 2)}${short ? 'Cr' : ' Cr'}` : `${c.sym}${sp}${Math.round(local)}${short ? 'L' : ' L'}`;
   }
   // thousands of rand or pounds
   return local >= 1000 ? `${c.sym}${trim(local / 1000, 2)}m` : `${c.sym}${Math.round(local / 5) * 5}k`;

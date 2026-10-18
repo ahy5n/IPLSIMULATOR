@@ -12,7 +12,7 @@ import * as seasonScreen from './season.js';
 import * as retainScreen from './retain.js';
 import * as tradeScreen from './trade.js';
 import * as hubScreen from './hub.js';
-import { createCareer, beginRetain, finishRetain, beginAuction, auctionScenario, finishAuction, beginSeason, seasonScenario, finishSeason, leagueBase, USER } from '../engine/career.js';
+import { refreshPlayerFacts, createCareer, beginRetain, finishRetain, beginAuction, auctionScenario, finishAuction, beginSeason, seasonScenario, finishSeason, leagueBase, USER } from '../engine/career.js';
 import { activateLeague } from '../engine/league.js';
 
 const SAVE_KEY = 'ipl-auction-sim:save:v1';
@@ -36,7 +36,8 @@ const ctx = {
   },
   async worldData() {
     if (!cache.world) {
-      const r = await fetch('data/career/world.json');
+      // Always check for a newer copy (the data is updated between releases).
+      const r = await fetch('data/career/world.json', { cache: 'no-cache' });
       if (!r.ok) throw new Error(`Could not load the career data (${r.status})`);
       cache.world = await r.json();
     }
@@ -143,6 +144,8 @@ const ctx = {
 
   async resume(saved) {
     if (saved.career) {
+      // Saved careers keep their own players; bring in corrected facts from the latest data.
+      try { refreshPlayerFacts(saved.career, await ctx.worldData()); } catch { /* play on with the saved copy */ }
       ctx.game = saved;
       activateLeague(saved.league || 'ipl');
       const pd = saved.career.pending;
